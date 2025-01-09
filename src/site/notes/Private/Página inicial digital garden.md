@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private/pagina-inicial-digital-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/private/pagina-inicial-digital-garden/"}
 ---
 
 
