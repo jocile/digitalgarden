@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bem-vindo-1/","tags":["excalidraw","gardenEntry"]}
+{"dg-publish":true,"permalink":"/bem-vindo-1/","contentClasses":"ex-pageheight","tags":["excalidraw"]}
 ---
 
 
