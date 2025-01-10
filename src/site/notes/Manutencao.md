@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/manutencao/","contentClasses":"ex-pageheight","tags":["excalidraw","gardenEntry"]}
+{"dg-publish":true,"permalink":"/manutencao/","contentClasses":"ex-pageheight","tags":["excalidraw","gardenEntry","gardenEntry"]}
 ---
 
 
