@@ -3,12 +3,11 @@
 ---
 
 
-
-️️️️## Cursos no Senac de Sobral - CE
+## ️️️️Cursos no Senac de Sobral - CE
 
 ![Curso de Assistente de TI.png](/img/user/Curso%20de%20Assistente%20de%20TI.png)
 
-![](/img/user/Curso de Assistente de TI.png)
+![Curso de Assistente de TI](/img/user/Curso de Assistente de TI.png)
 
 > [!tip] Programação em Python
 > Competências: desenvolver algoritmos em Python; desenvolver aplicações com interface gráfica em Python; e desenvolver aplicações web com Python
@@ -23,7 +22,6 @@
 > - Período: 21/10/2024 até 25/10/2024
 > - Mais informações: ☎ 88 3677 8700 📱 88 99468 928
 > - [Inscrições](https://cloud.plataforma.senac.br/senacmatricula/#/?regionalid=18&planodecursoid=67302&turmaid=126541&unidadeoperativaid=149&origemdorecurso=1&recursofinanceiroid=1
-)
 
 > [!tip]- Lógica de programação
 > - Horário: Seg. a Sex. de 18:00 às 21:30
@@ -70,10 +68,3 @@
 > > - Preço: Até 12x de R$31,17 Total: R$374,00
 > > - [Matrícula](https://cursos.ce.senac.br/produto/informatica-basica-sobral-noite/)  
 
-%%
-
-> [!question]+ Referências
-> - [Senac PSG](https://psg.ce.senac.br/oportunidades/)
-> - [Cursos Senac Sobral-Ceará](https://cursos.ce.senac.br/unidade/senac-sobral/)
-> - [Senac EAD - Cursos On-line livres, Técnicos, Graduação e Pós-graduação](https://www.ead.senac.br/)
-> - [SENAC - PORTAL DO ALUNO](https://cloud.plataforma.senac.br/senacportalaluno/#/login)
