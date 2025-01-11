@@ -7,7 +7,7 @@
 | Data  | ✨ Atualizações                                             | 📁 Categoria |
 | ----- | ---------------------------------------------------------- | ------------ |
 | 11.01 | [[Teologia/Traducoes da Biblia\|Traducoes da Biblia]]   | Teologia     |
-| 11.01 | [[Teologia/Tipos de parabolas\|Tipos de parabolas]]     | Teologia     |
+| 11.01 | [[Teologia/Tipos-de-parabolas\|Tipos de parabolas]]     | Teologia     |
 | 11.01 | [[Teologia/Tipologia\|Tipologia]]                       | Teologia     |
 | 11.01 | [[Teologia/Pregacao\|Pregacao]]                         | Teologia     |
 | 11.01 | [[Teologia/manuscritos biblicos\|manuscritos biblicos]] | Teologia     |

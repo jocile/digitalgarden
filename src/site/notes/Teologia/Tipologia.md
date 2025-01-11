@@ -51,7 +51,7 @@ Se tiver mais perguntas ou precisar de mais detalhes, estou aqui para ajudar!
 - [tipos e antítipos na profecia bíblica - Pesquisar][tipos-profecia]
 - [Tipologia (teologia) – Wikipédia, a enciclopédia livre][tipologia]
 - [Antítese: o que é, exemplos, diferenças do paradoxo][antitese]
-- [Diagrama de Tipos de parábolas](Tipos%20de%20parabolas.md)
+- [Diagrama de Tipos de parábolas](Tipos-de-parabolas.md)
 
 [tipos-antitipos]: <https://www.jw.org/pt/biblioteca/revistas/w20150315/tipos-antitipos/>
 [tipos-profecia]: <https://bing.com/search?q=tipos+e+ant%C3%ADtipos+na+profecia+b%C3%ADblica>
