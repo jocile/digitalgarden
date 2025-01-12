@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/biblia-app/","title":"Biblia-app","metatags":{"description":"Aplicativo para ler a Bíblia"}}
+{"dg-publish":true,"permalink":"/teologia/biblia-app/","title":"Biblia-app","metatags":{"description":"Aplicativo para ler a Bíblia"},"updated":"2025-01-12T15:22:59.604-03:00"}
 ---
 
-
-## Biblia-app
 
 ### Aplicativos de Bíblia
 

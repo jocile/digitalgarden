@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/manutencao/","contentClasses":"ex-pageheight","tags":["excalidraw","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/manutencao/","contentClasses":"ex-pageheight","tags":["excalidraw","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"updated":"2025-01-11T11:13:40.775-03:00"}
 ---
 
 
@@ -22,18 +22,22 @@
 
 
 
-# Atualizacoes
 
-| Data  | ✨ Atualizações                                             | 📁 Categoria |
-| ----- | ---------------------------------------------------------- | ------------ |
-| 11.01 | [[Teologia/Traducoes da Biblia\|Traducoes da Biblia]]   | Teologia     |
-| 11.01 | [[Teologia/Tipos de parabolas\|Tipos de parabolas]]     | Teologia     |
-| 11.01 | [[Teologia/Tipologia\|Tipologia]]                       | Teologia     |
-| 11.01 | [[Teologia/Pregacao\|Pregacao]]                         | Teologia     |
-| 11.01 | [[Teologia/manuscritos biblicos\|manuscritos biblicos]] | Teologia     |
-| 11.01 | [[Teologia/Dispensacoes\|Dispensacoes]]                 | Teologia     |
-| 11.01 | [[Teologia/Biblia-app\|Biblia-app]]                     | Teologia     |
-| 11.01 | [[Teologia/Amor em palavras\|Amor em palavras]]         | Teologia     |
+| Data  | ✨ Atualizações                                                                        | 📁 Categoria            |
+| ----- | ------------------------------------------------------------------------------------- | ----------------------- |
+| 12.01 | [[Inteligencia Artificial/langchain API\|langchain API]]                           | Inteligencia Artificial |
+| 12.01 | [[Inteligencia Artificial/Langchain\|Langchain]]                                   | Inteligencia Artificial |
+| 12.01 | [[Inteligencia Artificial/Chatbot com Llama\|Chatbot com Llama]]                   | Inteligencia Artificial |
+| 12.01 | [[Inteligencia Artificial/Chatbot com IA local\|Chatbot com IA local]]             | Inteligencia Artificial |
+| 12.01 | [[Inteligencia Artificial/Agente sobre minha empresa\|Agente sobre minha empresa]] | Inteligencia Artificial |
+| 11.01 | [[Teologia/Tipos-de-parabolas\|Tipos-de-parabolas]]                                | Teologia                |
+| 11.01 | [[Teologia/Tipologia\|Tipologia]]                                                  | Teologia                |
+| 11.01 | [[Teologia/manuscritos biblicos\|manuscritos biblicos]]                            | Teologia                |
+| 11.01 | [[Teologia/Traducoes da Biblia\|Traducoes da Biblia]]                              | Teologia                |
+| 11.01 | [[Teologia/Pregacao\|Pregacao]]                                                    | Teologia                |
+| 11.01 | [[Teologia/Dispensacoes\|Dispensacoes]]                                            | Teologia                |
+| 11.01 | [[Teologia/Biblia-app\|Biblia-app]]                                                | Teologia                |
+| 11.01 | [[Teologia/Amor em palavras\|Amor em palavras]]                                    | Teologia                |
 
 
 </div></div>

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/dispensacoes/","title":"Dispensacoes","metatags":{"description":"Comparação da teoria das eras ou dispensações em tabela"}}
+{"dg-publish":true,"permalink":"/teologia/dispensacoes/","title":"Dispensações","metatags":{"description":"Comparação da teoria das eras ou dispensações em tabela"},"updated":"2025-01-12T15:22:10.788-03:00"}
 ---
 
-# Dispensacoes
+
 ## Tabela comparativa sobre as sete dispensações
 
 | Dispensação        | Período                             | Condição Humana     | Responsabilidade do Homem                              | Julgamento/Resultado                                                    |                 Referências                  |
