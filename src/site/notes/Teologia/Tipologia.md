@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/tipologia/","title":"Tipologia","metatags":{"description":"Na profecia bíblica, tipos e antítipos são usados para mostrar coisas prefiguram e apontam para realidades maiores e mais completas"}}
+{"dg-publish":true,"permalink":"/teologia/tipologia/","title":"Tipologia","metatags":{"description":"Na profecia bíblica, tipos e antítipos são usados para mostrar coisas prefiguram e apontam para realidades maiores e mais completas"},"updated":"2025-01-11T12:34:41.657-03:00"}
 ---
 
 # Tipologia

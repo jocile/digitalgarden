@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/pregacao/","title":"Pregacao","metatags":{"description":""}}
+{"dg-publish":true,"permalink":"/teologia/pregacao/","title":"Pregacao","metatags":{"description":""},"updated":"2025-01-11T11:37:35.783-03:00"}
 ---
 
 

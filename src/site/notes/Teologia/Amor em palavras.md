@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/amor-em-palavras/","title":"Amor em palavras","metatags":{"description":"Como a palavra bíblica amor foi traduzida a partir do grego, hebraico e latim"}}
+{"dg-publish":true,"permalink":"/teologia/amor-em-palavras/","title":"Amor em palavras","metatags":{"description":"Como a palavra bíblica amor foi traduzida a partir do grego, hebraico e latim"},"updated":"2025-01-11T11:33:00.950-03:00"}
 ---
 
 
