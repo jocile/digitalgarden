@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/manutencao/","contentClasses":"ex-pageheight","tags":["excalidraw","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"updated":"2025-01-11T11:13:40.775-03:00"}
+{"dg-publish":true,"permalink":"/manutencao/","contentClasses":"ex-pageheight","tags":["excalidraw","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"updated":"2025-01-11T11:13:40.775-03:00"}
 ---
 
 
@@ -25,9 +25,17 @@
 
 | Data  | ✨ Atualizações                                                                                | 📁 Categoria            |
 | ----- | --------------------------------------------------------------------------------------------- | ----------------------- |
-| 15.01 | [[Inteligencia Artificial/plataformas de agentes de ia\|plataformas de agentes de ia]]     | Inteligencia Artificial |
+| 17.01 | [[Teologia/Escatologia/Alegoria x literal\|Alegoria x literal]]                            | Teologia/Escatologia    |
+| 17.01 | [[Teologia/Escatologia/A-volta-de-Cristo\|A-volta-de-Cristo]]                              | Teologia/Escatologia    |
+| 17.01 | [[Teologia/Escatologia/A segunda vinda de Cristo\|A segunda vinda de Cristo]]              | Teologia/Escatologia    |
+| 17.01 | [[Teologia/Escatologia/A-Tribulacao\|A-Tribulacao]]                                        | Teologia/Escatologia    |
+| 17.01 | [[Teologia/Escatologia/A-segunda-morte\|A-segunda-morte]]                                  | Teologia/Escatologia    |
+| 17.01 | [[Teologia/Escatologia/A estrela do amanha\|A estrela do amanha]]                          | Teologia/Escatologia    |
+| 17.01 | [[Teologia/Escatologia/Escatologia\|Escatologia]]                                          | Teologia/Escatologia    |
+| 15.01 | [[Inteligencia Artificial/Agente sobre minha empresa\|Agente sobre minha empresa]]         | Inteligencia Artificial |
 | 15.01 | [[Inteligencia Artificial/O mundo da IA\|O mundo da IA]]                                   | Inteligencia Artificial |
 | 15.01 | [[Inteligencia Artificial/Niveis de processamento da PLN\|Niveis de processamento da PLN]] | Inteligencia Artificial |
+| 15.01 | [[Inteligencia Artificial/plataformas de agentes de ia\|plataformas de agentes de ia]]     | Inteligencia Artificial |
 | 15.01 | [[Inteligencia Artificial/Modelos locais de IAs\|Modelos locais de IAs]]                   | Inteligencia Artificial |
 | 12.01 | [[Teologia/Traducoes da Biblia\|Traducoes da Biblia]]                                      | Teologia                |
 | 12.01 | [[Teologia/Tipos-de-parabolas\|Tipos-de-parabolas]]                                        | Teologia                |
@@ -38,7 +46,6 @@
 | 12.01 | [[Inteligencia Artificial/Langchain\|Langchain]]                                           | Inteligencia Artificial |
 | 12.01 | [[Inteligencia Artificial/Chatbot com Llama\|Chatbot com Llama]]                           | Inteligencia Artificial |
 | 12.01 | [[Inteligencia Artificial/Chatbot com IA local\|Chatbot com IA local]]                     | Inteligencia Artificial |
-| 12.01 | [[Inteligencia Artificial/Agente sobre minha empresa\|Agente sobre minha empresa]]         | Inteligencia Artificial |
 | 11.01 | [[Teologia/Tipologia\|Tipologia]]                                                          | Teologia                |
 | 11.01 | [[Teologia/Pregacao\|Pregacao]]                                                            | Teologia                |
 | 11.01 | [[Teologia/Amor em palavras\|Amor em palavras]]                                            | Teologia                |

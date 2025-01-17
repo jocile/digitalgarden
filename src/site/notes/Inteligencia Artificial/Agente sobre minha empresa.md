@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/agente-sobre-minha-empresa/","title":"Agente sobre minha empresa","metatags":{"description":"Como construir um modelo de linguagem que possa responder perguntas e fornecer informações baseadas em um conjunto de dados."},"updated":"2025-01-12T15:09:21.544-03:00"}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/agente-sobre-minha-empresa/","title":"Agente sobre minha empresa","metatags":{"description":"Como construir um modelo de linguagem que possa responder perguntas e fornecer informações baseadas em um conjunto de dados."},"updated":"2025-01-15T19:58:42.807-03:00"}
 ---
 
 ## Agente sobre minha empresa
 
-## Criando um Assistente Virtual com Python e L Chain
+## Criando um Assistente Virtual com Python e LangChain
 
 Neste artigo, vamos criar um assistente virtual utilizando [Python](Python.md) e a biblioteca [Langchain](Langchain.md). O objetivo é construir um modelo de linguagem que possa responder perguntas e fornecer informações baseadas em um conjunto de dados.
 
