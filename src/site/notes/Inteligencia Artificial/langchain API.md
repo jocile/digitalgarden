@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/langchain-api/","title":"langchain API","metatags":{"description":"As APIs permitem que seu agente se conecte ao mundo exterior, acesse informações em tempo real, e execute ações"},"updated":"2025-01-12T15:15:51.455-03:00"}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/langchain-api/","title":"langchain API","metatags":{"description":"As APIs permitem que seu agente se conecte ao mundo exterior, acesse informações em tempo real, e execute ações"},"tags":["Inteligencia-artificial/Langchain"],"updated":"2025-01-18T18:55:21.990-03:00"}
 ---
 
 ## LangChain API
@@ -32,4 +32,3 @@ Em resumo, o LangChain oferece as ferramentas necessárias para criar aplicaçõ
 - [GitHub - langchain-ai/langchain-academy](https://github.com/langchain-ai/langchain-academy)
 - [LangChain Python API Reference — 🦜🔗 LangChain documentation](https://python.langchain.com/api_reference/)
 - [Complete Langchain Course For Generative AI In 3 Hours - YouTube](https://www.youtube.com/watch?v=swCPic00c30)
-- #Inteligencia-artificial

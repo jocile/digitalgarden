@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/plataformas-de-agentes-de-ia/","title":"plataformas de agentes de ia","metatags":{"description":"plataformas para a criação de agentes de IA, cada uma com suas particularidades e níveis de complexidade. Segue uma lista categorizada para melhor compreensão"},"updated":"2025-01-15T19:37:52.488-03:00"}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/plataformas-de-agentes-de-ia/","title":"plataformas de agentes de ia","metatags":{"description":"plataformas para a criação de agentes de IA, cada uma com suas particularidades e níveis de complexidade. Segue uma lista categorizada para melhor compreensão"},"tags":["Inteligencia-artificial/Agentes"],"updated":"2025-01-18T18:57:40.276-03:00"}
 ---
 
-# plataformas de agentes de ia
+
 ## Plataformas de agentes de ia
 
 Existem diversas ferramentas e plataformas para a criação de agentes de IA, cada uma com suas particularidades e níveis de complexidade. Segue uma lista categorizada para melhor compreensão:
@@ -36,5 +36,3 @@ Existem diversas ferramentas e plataformas para a criação de agentes de IA, ca
 - **System Prompt:** Instruções que definem como o agente deve se comportar.
 
 Embora existam diversas ferramentas, os conceitos básicos para a criação de agentes de IA são similares entre elas. É recomendado experimentar várias plataformas para entender os conceitos e escolher aquela que melhor se adapta às suas necessidades. Além disso, algumas ferramentas open source como Defy e n8n são recomendadas para quem busca maior personalização e controle. O **AutoGen** é uma ferramenta para quem busca flexibilidade na criação de aplicações com múltiplos agentes.
-
-#Inteligencia-artificial

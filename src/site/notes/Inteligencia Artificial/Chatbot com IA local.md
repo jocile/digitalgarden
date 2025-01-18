@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/chatbot-com-ia-local/","title":"Chatbot com IA local","metatags":{"description":"Como usar um processo para que o código interaja com o modelo de forma programática para realizar tarefas de geração de texto."},"updated":"2025-01-12T15:10:37.630-03:00"}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/chatbot-com-ia-local/","title":"Chatbot com IA local","metatags":{"description":"Como usar um processo para que o código interaja com o modelo de forma programática para realizar tarefas de geração de texto."},"tags":["Inteligencia-artificial/Agentes"],"updated":"2025-01-18T18:54:18.135-03:00"}
 ---
 
-# Chatbot com IA local
 
 ## Criando um Chatbot com IA local
 
@@ -166,4 +165,3 @@ Em resumo, o código Python utiliza a biblioteca [Langchain](Langchain.md) para 
 - [Ollama](Ollama.md)
 - [Langchain](Langchain.md)
 - [engenharia de prompt](engenharia%20de%20prompt.md)
-- #Inteligencia-artificial

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/modelos-locais-de-i-as/","title":"Modelos locais de IAs","metatags":{"description":"A principal vantagem em usar modelos locais é que além de não necessitar de internet, não ter os tradicionais limites pagos de uso, e ainda poder treinar e testar diferentes modelos de IAs."},"updated":"2025-01-15T19:27:55.667-03:00"}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/modelos-locais-de-i-as/","title":"Modelos locais de IAs","metatags":{"description":"A principal vantagem em usar modelos locais é que além de não necessitar de internet, não ter os tradicionais limites pagos de uso, e ainda poder treinar e testar diferentes modelos de IAs."},"tags":["Inteligencia-artificial/Modelos"],"updated":"2025-01-18T18:56:06.148-03:00"}
 ---
 
 
@@ -116,4 +116,3 @@ Gerado por [Perplexity IA](https://www.perplexity.ai/)
 - [Philipp Schmid no LinkedIn: Large-scale Near-deduplication Behind BigCode](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_large-scale-near-deduplication-behind-bigcode-activity-7064989685030215681-cjbo)
 - [GitHub - continuedev/what-llm-to-use: 👀 What LLM to use?](https://github.com/continuedev/what-llm-to-use)
 - [EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)
-- #Inteligencia-artificial

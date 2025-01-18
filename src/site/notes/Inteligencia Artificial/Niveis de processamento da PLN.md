@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/niveis-de-processamento-da-pln/","contentClasses":"ex-pageheight","tags":["excalidraw"],"updated":"2025-01-15T19:52:41.969-03:00"}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/niveis-de-processamento-da-pln/","contentClasses":"ex-pageheight","tags":["excalidraw","Inteligencia-artificial"],"updated":"2025-01-18T18:56:30.901-03:00"}
 ---
 
 ## Níveis de processamento da PLN
