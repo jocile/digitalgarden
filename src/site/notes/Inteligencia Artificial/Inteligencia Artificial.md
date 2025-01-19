@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/inteligencia-artificial/","title":"Inteligência Artificial","metatags":{"description":"Estudos em Inteligência Artificial"},"pinned":true,"updated":"2025-01-19T17:58:50.477-03:00"}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/inteligencia-artificial/","title":"Inteligência Artificial","metatags":{"description":"Estudos em Inteligência Artificial"},"pinned":true,"updated":"2025-01-19T19:00:11.924-03:00"}
 ---
 
 
-
-| data     | 🤖 Páginas em Inteligência Artificial                                                                     | dg-metatags.description                                                                                                                                                                       |
+| data     | 🤖 Páginas em Inteligência Artificial                                                                     | 📄 Descrição                                                                                                                                                                                  |
 | -------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 07/01/25 | [[Inteligencia Artificial/Agente sobre minha empresa\|Agente sobre minha empresa]]                     | Como construir um modelo de linguagem que possa responder perguntas e fornecer informações baseadas em um conjunto de dados.                                                                  |
 | 21/12/24 | [[Inteligencia Artificial/Chatbot com IA local\|Chatbot com IA local]]                                 | Como usar um processo para que o código interaja com o modelo de forma programática para realizar tarefas de geração de texto.                                                                |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/tipos-de-parabolas/","metatags":{"description":"Gráfico comparativo sobre os tipos de parábolas bíblicas"},"contentClasses":"ex-pageheight","tags":["excalidraw","Teologia/diagramas","Teologia/parábolas","Teologia/tipologia"],"updated":"2025-01-12T15:25:50.404-03:00"}
+{"dg-publish":true,"permalink":"/teologia/tipos-de-parabolas/","title":"Tipos de parábolas","metatags":{"description":"Gráfico comparativo sobre os tipos de parábolas bíblicas"},"contentClasses":"ex-pageheight","tags":["excalidraw","Teologia","diagramas","parabolas"],"updated":"2025-01-19T19:17:14.483-03:00"}
 ---
 
 # Tipos de parábolas

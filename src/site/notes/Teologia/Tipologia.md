@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/tipologia/","title":"Tipologia","metatags":{"description":"Na profecia bíblica, tipos e antítipos são usados para mostrar coisas prefiguram e apontam para realidades maiores e mais completas"},"updated":"2025-01-11T12:34:41.657-03:00"}
+{"dg-publish":true,"permalink":"/teologia/tipologia/","title":"Tipologia","metatags":{"description":"Na profecia bíblica, tipos e antítipos são usados para mostrar coisas prefiguram e apontam para realidades maiores e mais completas"},"tags":["Teologia","Hermeneutica","parabolas"],"updated":"2025-01-19T19:13:43.807-03:00"}
 ---
 
-# Tipologia
+
 # Tipologia bíblica
 
 - Tipos e Antítipos: Explica como figuras e eventos do Antigo Testamento (AT) prefiguram pessoas e acontecimentos do Novo Testamento (NT), como Cristo e a Igreja.
@@ -58,5 +58,3 @@ Se tiver mais perguntas ou precisar de mais detalhes, estou aqui para ajudar!
 [tipologia]: <https://pt.wikipedia.org/wiki/Tipologia_%28teologia%29>
 [figuras-de-linguagem]: <https://brasilescola.uol.com.br/gramatica/figuras-linguagem.htm>
 [antitese]: <https://brasilescola.uol.com.br/gramatica/antitese.htm>
-
-#Teologia/tipologia

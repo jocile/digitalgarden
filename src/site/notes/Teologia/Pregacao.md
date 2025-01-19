@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/pregacao/","title":"Pregacao","metatags":{"description":""},"updated":"2025-01-11T11:37:35.783-03:00"}
+{"dg-publish":true,"permalink":"/teologia/pregacao/","title":"Pregação","metatags":{"description":"O texto explica quatro formas de pregação utilizadas na Igreja primitiva, cada uma com uma função específica dentro da transmissão da mensagem cristã."},"tags":["Teologia","Hermeneutica"],"updated":"2025-01-19T19:10:30.447-03:00"}
 ---
 
 
@@ -133,4 +133,3 @@ A passagem de **2 Timóteo 3:16-17** diz:
 
 - BARCLAY, William. Atos dos Apóstolos - O Novo Testamento Comentado. A primeira pregação cristã (pg.24, Atos 2:14-42). Disponível em: <https://pastorpatrick.comunidades.net/comentario-biblico-barclay-n-t>.
 - [Formas de Pregação cristã - GPT Doutor em Teologia](https://chatgpt.com/share/66eecf86-de00-8008-bae7-f295a415539a)
-- #Teologia

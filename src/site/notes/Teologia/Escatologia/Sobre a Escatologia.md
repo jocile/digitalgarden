@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/escatologia/sobre-a-escatologia/","title":"Escatologia","metatags":{"description":"aborda temas como A segunda vinda de Cristo, o arrebatamento da igreja, a grande tribulação, o milênio, o juízo final, e o destino eterno dos indivíduos."},"pinned":true,"tags":["Teologia/Escatologia"],"updated":"2025-01-17T09:17:06.221-03:00"}
+{"dg-publish":true,"permalink":"/teologia/escatologia/sobre-a-escatologia/","title":"Sobre a Escatologia","metatags":{"description":"aborda temas como A segunda vinda de Cristo, o arrebatamento da igreja, a grande tribulação, o milênio, o juízo final, e o destino eterno dos indivíduos."},"pinned":true,"tags":["Escatologia"],"updated":"2025-01-19T18:44:25.372-03:00"}
 ---
 
 
