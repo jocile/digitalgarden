@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atualizacoes/","title":"Atualizações","metatags":{"description":"Atualizações recentes"},"updated":"2025-01-19T18:02:39.062-03:00"}
+{"dg-publish":true,"permalink":"/atualizacoes/","title":"Atualizações","metatags":{"description":"Atualizações recentes"},"updated":"2025-01-19T18:28:45.044-03:00"}
 ---
 
 
@@ -22,7 +22,7 @@
 | 17.01 | [[Teologia/Escatologia/A-Tribulacao\|A-Tribulacao]]                                                    | Teologia/Escatologia    |
 | 17.01 | [[Teologia/Escatologia/A-segunda-morte\|A-segunda-morte]]                                              | Teologia/Escatologia    |
 | 17.01 | [[Teologia/Escatologia/A estrela do amanha\|A estrela do amanha]]                                      | Teologia/Escatologia    |
-| 17.01 | [[Teologia/Escatologia/Escatologia\|Escatologia]]                                                      | Teologia/Escatologia    |
+| 17.01 | [[Teologia/Escatologia/Sobre a Escatologia\|Escatologia]]                                                      | Teologia/Escatologia    |
 | 12.01 | [[Teologia/Traducoes da Biblia\|Traducoes da Biblia]]                                                  | Teologia                |
 | 12.01 | [[Teologia/Tipos-de-parabolas\|Tipos-de-parabolas]]                                                    | Teologia                |
 | 12.01 | [[Teologia/manuscritos biblicos\|manuscritos biblicos]]                                                | Teologia                |

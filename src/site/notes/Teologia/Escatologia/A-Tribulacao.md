@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/escatologia/a-tribulacao/","title":"A Tribulação","metatags":{"description":"seus propósitos e diferentes perspectivas sobre o momento em que ela ocorrerá em relação ao arrebatamento da igreja."},"tags":["Teologia/Escatologia","arrebatamento"],"updated":"2025-01-17T09:30:19.586-03:00"}
+{"dg-publish":true,"permalink":"/teologia/escatologia/a-tribulacao/","title":"A grande Tribulação","metatags":{"description":"seus propósitos e diferentes perspectivas sobre o momento em que ela ocorrerá em relação ao arrebatamento da igreja."},"tags":["Escatologia","arrebatamento","tribulacao"],"updated":"2025-01-19T18:26:42.316-03:00"}
 ---
 
-## Discussão sobre Tribulação
+## Discussão sobre a grande Tribulação
 
 O conceito de Tribulação é central na escatologia cristã, e sua interpretação gera diferentes visões dentro do cristianismo. Este resumo aborda a Tribulação, seus propósitos e diferentes perspectivas sobre o momento em que ela ocorrerá em relação ao arrebatamento da igreja.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jocile/","title":"Professor Jocile","metatags":{"description":"Sobre o autor deste site"},"updated":"2025-01-18T17:15:41.854-03:00"}
+{"dg-publish":true,"permalink":"/jocile/","title":"Professor Jocilé","metatags":{"description":"Sobre o autor deste site"},"updated":"2025-01-19T18:09:42.319-03:00"}
 ---
 
 

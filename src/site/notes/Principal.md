@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight","tags":["excalidraw","gardenEntry","gardenEntry","gardenEntry"],"updated":"2025-01-19T17:55:54.682-03:00"}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight","tags":["excalidraw","gardenEntry"],"updated":"2025-01-19T18:36:03.595-03:00"}
 ---
 
 
@@ -18,7 +18,9 @@
 ## Olá 👋
 
 - 🔭 Sou o professor 🎓 [[Jocile\|Jocilé]] e atualmente estou trabalhando como instrutor de informática e desenvolvimento de Sistemas no 🏫 [SENAC CE](https://www.ce.senac.br/);
-- Pretendo reunir aqui 📑notas de aulas e 📚estudos diversos sobre 📖 [[Teologia/Teologia\|Teologia]] e 🤖 [[Inteligencia Artificial/Inteligencia Artificial\|Inteligência Artificial]] .
+- Pretendo reunir aqui 📑notas de aulas e 📚estudos diversos sobre:
+	- 📖 [[Teologia/Teologia\|Teologia]] e [[Teologia/Escatologia/Escatologia\|Escatologia]]
+	- 🤖 [[Inteligencia Artificial/Inteligencia Artificial\|Inteligência Artificial]] .
 - [[Atualizacoes\|Atualizações]]: Estou revisando e atualizando os estudos sobre as aulas de programação do servidor antigo para o novo, e logo estarão aqui.
-- Para dúvidas e sugestões entre em [contato](mailto:jocilecam@gmail.com).
+- Para dúvidas e sugestões entre em [[Jocile#Contatos\|contato]].
 

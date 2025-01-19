@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/teologia/","title":"Teologia","metatags":{"description":"Estudos teológicos da Bíblia"},"pinned":true,"updated":"2025-01-19T17:59:34.812-03:00"}
+{"dg-publish":true,"permalink":"/teologia/teologia/","title":"Teologia","metatags":{"description":"Estudos teológicos da Bíblia"},"pinned":true,"updated":"2025-01-19T18:28:45.061-03:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 | 30/12/24 | [[Teologia/Amor em palavras\|Amor em palavras]]                               | Como a palavra bíblica amor foi traduzida a partir do grego, hebraico e latim                                                                             |
 | 19/10/24 | [[Teologia/Biblia-app\|Biblia-app]]                                           | Aplicativo para ler a Bíblia                                                                                                                              |
 | 31/12/24 | [[Teologia/Dispensacoes\|Dispensacoes]]                                       | Comparação da teoria das eras ou dispensações em tabela                                                                                                   |
-| 27/12/24 | [[Teologia/Escatologia/Escatologia\|Escatologia]]                             | aborda temas como A segunda vinda de Cristo, o arrebatamento da igreja, a grande tribulação, o milênio, o juízo final, e o destino eterno dos indivíduos. |
+| 27/12/24 | [[Teologia/Escatologia/Sobre a Escatologia\|Escatologia]]                             | aborda temas como A segunda vinda de Cristo, o arrebatamento da igreja, a grande tribulação, o milênio, o juízo final, e o destino eterno dos indivíduos. |
 | 02/01/25 | [[Teologia/manuscritos biblicos\|manuscritos biblicos]]                       | \-                                                                                                                                                        |
 | 21/09/24 | [[Teologia/Pregacao\|Pregacao]]                                               |                                                                                                                                                           |
 | 06/07/24 | [[Teologia/Tipologia\|Tipologia]]                                             | Na profecia bíblica, tipos e antítipos são usados para mostrar coisas prefiguram e apontam para realidades maiores e mais completas                       |

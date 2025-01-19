@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/escatologia/a-estrela-do-amanha/","title":"A estrela do amanhã","metatags":{"description":"Nesta visão, Jesus está prometendo à igreja que ela será uma luz para o mundo e guiará os outros em seu caminho."},"tags":["Teologia/Escatologia","Apocalipse"],"updated":"2025-01-17T09:20:04.766-03:00"}
+{"dg-publish":true,"permalink":"/teologia/escatologia/a-estrela-do-amanha/","title":"A estrela do amanhã","metatags":{"description":"Nesta visão, Jesus está prometendo à igreja que ela será uma luz para o mundo e guiará os outros em seu caminho."},"tags":["Escatologia","Apocalipse"],"updated":"2025-01-19T18:20:00.761-03:00"}
 ---
 
 ## A estrela do amanhã
