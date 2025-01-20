@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/chatbot-com-llama/","title":"Chatbot com Llama","metatags":{"description":"criar modelos de linguagem avançados que podem ser utilizados para realizar tarefas como responder perguntas, gerar texto e mais."},"tags":["Inteligencia-artificial/Agentes"],"updated":"2025-01-18T18:54:04.605-03:00"}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/chatbot-com-llama/","title":"Chatbot com Llama","metatags":{"description":"criar modelos de linguagem avançados que podem ser utilizados para realizar tarefas como responder perguntas, gerar texto e mais."},"tags":["Inteligencia-artificial","Agentes","Ollama","Python"],"updated":"2025-01-20T20:34:01.119-03:00"}
 ---
 
 

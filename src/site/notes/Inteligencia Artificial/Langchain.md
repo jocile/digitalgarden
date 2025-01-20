@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/langchain/","title":"Langchain","metatags":{"description":"Langchain é um framework completo para o desenvolvimento de aplicações de IA, aproveitando o poder dos Grandes Modelos de Linguagem"},"tags":["Inteligencia-artificial/Langchain"],"updated":"2025-01-18T18:53:50.417-03:00"}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/langchain/","title":"Langchain","metatags":{"description":"é um framework completo para o desenvolvimento de aplicações de IA, aproveitando o poder dos Grandes Modelos de Linguagem"},"tags":["Inteligencia-artificial","Langchain","LLM"],"updated":"2025-01-20T20:39:12.930-03:00"}
 ---
 
 ## Construindo Aplicações Inteligentes com LangChain: Um Guia Passo a Passo

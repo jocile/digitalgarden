@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/modelos-locais-de-i-as/","title":"Modelos locais de IAs","metatags":{"description":"A principal vantagem em usar modelos locais é que além de não necessitar de internet, não ter os tradicionais limites pagos de uso, e ainda poder treinar e testar diferentes modelos de IAs."},"tags":["Inteligencia-artificial/Modelos"],"updated":"2025-01-18T18:56:06.148-03:00"}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/modelos-locais-de-i-as/","title":"Modelos locais de IAs","metatags":{"description":"A principal vantagem em usar modelos locais é que além de não necessitar de internet, não ter os tradicionais limites pagos de uso, e ainda poder treinar e testar diferentes modelos de IAs."},"tags":["Inteligencia-artificial","Modelos","LLM","Ollama"],"updated":"2025-01-20T20:42:31.677-03:00"}
 ---
 
 
