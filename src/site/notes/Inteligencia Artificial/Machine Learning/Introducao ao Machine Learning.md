@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/machine-learning/introducao-ao-machine-learning/","title":"Introdução ao Machine Learning","metatags":{"description":"permite que os sistemas computacionais aprendam sem ser explicitamente programados para realizar uma tarefa específica."},"tags":["Inteligencia-artificial","Machine-Learning"],"updated":"2025-01-20T16:43:45.474-03:00"}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/machine-learning/introducao-ao-machine-learning/","title":"Introdução ao Machine Learning","metatags":{"description":"permite que os sistemas computacionais aprendam sem ser explicitamente programados para realizar uma tarefa específica."},"tags":["Inteligencia-artificial","Machine-Learning"],"updated":"2025-01-20T19:52:10.139-03:00"}
 ---
 
-# Introducao ao Machine Learning
+# Introdução ao Machine Learning
 
 
 >[!summary] Machine Learning (ML) é uma subárea da Inteligência Artificial (IA) que se concentra em desenvolver algoritmos capazes de aprender a partir de dados e melhorar suas previsões ou classificações com o tempo. Em outras palavras, ML permite que os sistemas computacionais aprendam sem ser explicitamente programados para realizar uma tarefa específica.
