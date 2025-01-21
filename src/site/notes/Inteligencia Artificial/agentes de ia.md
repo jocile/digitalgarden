@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/agentes-de-ia/","title":"Agentes de IA","metatags":{"description":"podem interagir com o ambiente, coletar dados, tomar decisões e realizar ações para atingir um objetivo específico."},"tags":["Inteligencia-artificial","Agentes","Prompt"],"updated":"2025-01-20T20:28:23.621-03:00"}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/agentes-de-ia/","title":"Agentes de IA","metatags":{"description":"podem interagir com o ambiente, coletar dados, tomar decisões e realizar ações para atingir um objetivo específico."},"tags":["Inteligencia-artificial","Agentes","Prompt"],"updated":"2025-01-20T21:09:46.973-03:00"}
 ---
 
 
@@ -43,11 +43,11 @@ Os agentes de IA podem ser classificados em diferentes níveis de complexidade:
 
 A arquitetura de um agente de IA pode incluir diversos componentes, como:
 
-- **LLM:** O "cérebro" do agente, responsável pelo processamento da linguagem e tomada de decisões.
-- **Prompt Base:** Instruções que definem o comportamento e as restrições do agente.
+- **[[Inteligencia Artificial/parametros de LLM/parametros de LLM\|LLM]]:** O "cérebro" do agente, responsável pelo processamento da linguagem e tomada de decisões.
+- **[[Inteligencia Artificial/engenharia de prompt\|Prompt Base]]:** Instruções que definem o comportamento e as restrições do agente.
 - **Memória:** Permite que o agente se lembre de interações anteriores e mantenha o contexto da conversa.
-- **Base de Conhecimento Extra:** PDFs, textos, planilhas ou outras fontes de dados que complementam o conhecimento do LLM.
-- **Ferramentas e Funções:** APIs, bancos de dados e outros recursos que permitem ao agente interagir com o mundo externo.
+- **Base de Conhecimento Extra - [[Inteligencia Artificial/RAG - Retrieval Augmented Generation\|RAG]]:** PDFs, textos, planilhas ou outras fontes de dados que complementam o conhecimento do LLM.
+- **[[Programador/Ferramentas/Ferramentas de automacao\|Ferramentas e Funções]]:** APIs, bancos de dados e outros recursos que permitem ao agente interagir com o mundo externo.
 
 ### **A Era dos Agentes de IA**
 
@@ -59,14 +59,15 @@ Os agentes de IA prometem revolucionar a forma como trabalhamos e vivemos, autom
 
 Diversas plataformas e ferramentas facilitam a criação de agentes de IA, com diferentes níveis de complexidade e recursos:
   
-- **OpenAI API:** A base de tudo, a API da OpenAI permite o acesso direto aos modelos de linguagem, como o ChatGPT, para criar assistentes e agentes.
-- **Poe:** Uma plataforma completa que oferece recursos avançados para criar agentes de IA, incluindo acesso a documentos, ferramentas externas e personalização de instruções ([[Inteligencia Artificial/parametros de LLM/System Prompt\|System Prompt]]).
-- **Character.AI:** Uma plataforma popular focada na criação de personagens de IA para conversação, ideal para interações divertidas e personalizadas.
-- **Voiceflow:** Uma ferramenta profissional para criar agentes de voz e texto, com fluxos de trabalho visuais e recursos avançados de gerenciamento de dados.
-- **Botpress:** Similar ao Voiceflow, o Botpress é uma plataforma robusta para construir chatbots e agentes de IA, com interface em português e recursos avançados de gerenciamento de fluxo.
-- **Taskade:** Uma plataforma que vai além dos chatbots, permitindo a criação de documentos interativos e agentes de IA para colaboração em equipe.
-- **Relevant.ai:** Uma plataforma que oferece um plano gratuito com créditos diários para criar agentes de IA, com recursos como integrações e APIs.
-- **Superagentes:** Uma plataforma brasileira com foco em agentes de IA para diversas aplicações, com recursos como integração com WhatsApp, banco de conhecimento e personalização de prompts.
+- **[OpenAI AP](https://openai.com/index/openai-api/)I:** A base de tudo, a API da OpenAI permite o acesso direto aos modelos de linguagem, como o ChatGPT, para criar assistentes e agentes.
+- **[Poe.com](https://poe.com/login):** Uma plataforma completa que oferece recursos avançados para criar agentes de IA, incluindo acesso a documentos, ferramentas externas e personalização de instruções ([[Inteligencia Artificial/parametros de LLM/System Prompt\|System Prompt]]).
+- **[character.ai](https://character.ai/):** Uma plataforma popular focada na criação de personagens de IA para conversação, ideal para interações divertidas e personalizadas.
+- **[Voiceflow](https://www.voiceflow.com/):** Uma ferramenta profissional para criar agentes de voz e texto, com fluxos de trabalho visuais e recursos avançados de gerenciamento de dados.
+- [Umbler](https://www.umbler.com/br): Plataforma de atendimento, CRM e chatbot para WhatsApp, etc.
+- **[Botpress](https://botpress.com/pt):** Similar ao Voiceflow, o Botpress é uma plataforma robusta para construir chatbots e agentes de IA, com interface em português e recursos avançados de gerenciamento de fluxo.
+- **[Taskade](https://www.taskade.com/):** Uma plataforma que vai além dos chatbots, permitindo a criação de documentos interativos e agentes de IA para colaboração em equipe.
+- **[Relevance AI](https://relevanceai.com/):** Uma plataforma que oferece um plano gratuito com créditos diários para criar agentes de IA, com recursos como integrações e APIs.
+- **[Super Agentes](https://superagentes.ai/):** Uma plataforma brasileira com foco em agentes de IA para diversas aplicações, com recursos como integração com WhatsApp, banco de conhecimento e personalização de prompts.
 
 ### **Construindo um Agente de IA** 
 
@@ -79,8 +80,8 @@ Os passos básicos para criar um agente de IA, que se resumem a:
 
 ### **Conceitos Avançados**
 
-- **Retrieval Augmented Generation (RAG):** A técnica RAG permite integrar informações externas ao conhecimento do LLM, ampliando suas capacidades e personalizando as respostas.
-- **Fine-tuning:** O ajuste fino de LLMs pode melhorar seu desempenho para tarefas específicas, personalizando o modelo com base em um conjunto de dados específico.
+- **[[Inteligencia Artificial/RAG - Retrieval Augmented Generation\|RAG - Retrieval Augmented Generation]]:** A técnica RAG permite integrar informações externas ao conhecimento do LLM, ampliando suas capacidades e personalizando as respostas.
+- **[[Inteligencia Artificial/parametros de LLM/parametros de LLM\|Fine-tuning]]:** O ajuste fino de LLMs pode melhorar seu desempenho para tarefas específicas, personalizando o modelo com base em um conjunto de dados específico.
 - **[[Inteligencia Artificial/engenharia de prompt\|engenharia de prompt]]:** As fontes exploram técnicas avançadas de [[Inteligencia Artificial/engenharia de prompt\|engenharia de prompt]], como:
     - **Consistência Própria:** Gerar múltiplas cadeias de pensamento e compará-las para obter resultados mais confiáveis.
     - **Combinação de Modelos:** Usar diferentes modelos de linguagem em conjunto para realizar tarefas complexas.
