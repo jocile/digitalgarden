@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/ferramentas-de-ia/plataformas-de-agentes-de-ia/","title":"Plataformas de agentes de ia","metatags":{"description":"plataformas para a criação de agentes de IA, cada uma com suas particularidades e níveis de complexidade. Segue uma lista categorizada para melhor compreensão"},"tags":["Inteligencia-artificial","Agentes","Ferramentas","LLM"],"updated":"2025-01-20T20:25:49.003-03:00"}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/ferramentas-de-ia/plataformas-de-agentes-de-ia/","title":"Plataformas de agentes de ia","metatags":{"description":"plataformas para a criação de agentes de IA, cada uma com suas particularidades e níveis de complexidade. Segue uma lista categorizada para melhor compreensão"},"tags":["Inteligencia-artificial","Agentes","Ferramentas","LLM"],"updated":"2025-01-20T21:31:25.843-03:00"}
 ---
 
 
@@ -9,7 +9,7 @@ Existem diversas ferramentas e plataformas para a criação de [[Inteligencia Ar
 
 ### **Plataformas e Ferramentas com Interface Gráfica (No-Code/Low-Code)**
 
-- **Assistentes da OpenAI (API):** A plataforma da OpenAI, acessível via API, permite criar assistentes com instruções personalizadas (**[[Inteligencia Artificial/parametros de LLM/System Prompt\|System Prompt]]**), acesso opcional a documentos e ferramentas externas através de **[[Inteligencia Artificial/parametros de LLM/Function Calling\|Function Calling]]**. Embora seja considerada "quase de graça" devido a um bônus inicial, requer o cadastro de um cartão de crédito.
+- **[Assistentes da OpenAI (API)](https://openai.com/index/openai-api/):** A plataforma da OpenAI, acessível via API, permite criar assistentes com instruções personalizadas (**[[Inteligencia Artificial/parametros de LLM/System Prompt\|System Prompt]]**), acesso opcional a documentos e ferramentas externas através de **[[Inteligencia Artificial/parametros de LLM/Function Calling\|Function Calling]]**. Embora seja considerada "quase de graça" devido a um bônus inicial, requer o cadastro de um cartão de crédito.
 -  [Poe.com](https://poe.com/login)Esta plataforma permite interagir com diversos modelos de linguagem e criar bots personalizados. Utiliza modelos como Cloud, ChatGPT, Llama e Flux.
 - [**Taskade:**](https://www.taskade.com) Apresentada como uma plataforma que combina funcionalidades de organização de projetos com agentes de IA, permitindo criar documentos e interagir com eles, além de formar equipes de agentes. Apesar de ser considerada um pouco confusa por um dos autores, oferece a possibilidade de criar times de agentes que interagem entre si.
 - [relevanceai.com](https://relevanceai.com/): Oferece agentes, times de agentes, ferramentas, integrações e APIs. Possui templates para começar, e permite adicionar ferramentas, incluindo análise de áudio, e subagentes. Inclui um flow builder similar ao Zapier. Tem um plano gratuito com 100 créditos diários.

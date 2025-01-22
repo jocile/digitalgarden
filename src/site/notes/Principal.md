@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight","tags":["gardenEntry"],"updated":"2025-01-19T18:53:47.656-03:00"}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight","tags":["gardenEntry"],"updated":"2025-01-22T20:11:50.311-03:00"}
 ---
 
 
@@ -21,6 +21,7 @@
 - Pretendo reunir aqui 📑notas de aulas e 📚estudos diversos sobre:
 	- 📖 [[Teologia/Teologia\|Teologia]] e [[Teologia/Escatologia/Escatologia\|Escatologia]]
 	- 🤖 [[Inteligencia Artificial/Inteligencia Artificial\|Inteligência Artificial]] .
+	- 🎨 [[Webdesign/Webdesign\|Webdesign]]
 - [[Atualizacoes\|Atualizações]]: Estou revisando e atualizando os estudos sobre as aulas de programação do servidor antigo para o novo, e logo estarão aqui.
 - Para dúvidas e sugestões entre em [[Jocile#Contatos\|contato]].
 

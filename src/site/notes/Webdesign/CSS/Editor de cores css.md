@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/webdesign/css/editor-de-cores-css/","title":"Editor de cores CSS","metatags":{"description":"editor interativo de cores com CSS"},"tags":["Webdesign","CSS","cores","editor"],"updated":"2025-01-22T19:39:39.546-03:00"}
+---
+
+
+# Editor de cores CSS
+
+<iframe src="https://jocile.github.io/webdesigner/formacao-css/1-Primeiros-passos-com-css/cores.html" style="height: 870px; width: 90%;"></iframe>
+
+## Referências
+
+- [HTML Color Names](https://www.w3schools.com/colors/colors_names.asp)
+- [A Roda De Cores Nomeia Os Graus Rgb Ilustração](https://pt.dreamstime.com/ilustra%C3%A7%C3%A3o-stock-roda-de-cores-da-cor-nomeia-os-graus-rgb-image78027630)
+- [Cores no designe](Cores%20no%20designe.md)
+- [CSS3 Patterns Gallery](https://projects.verou.me/css3patterns/)
+- [HTML Color Names](https://www.w3schools.com/colors/colors_names.asp)
+- [webdesigner/formacao-css/1-Primeiros-passos-com-css/cores.html at main · jocile/webdesigner · GitHub](https://github.com/jocile/webdesigner/blob/main/formacao-css/1-Primeiros-passos-com-css/cores.html)
