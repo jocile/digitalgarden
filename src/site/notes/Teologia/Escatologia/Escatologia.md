@@ -1,46 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/escatologia/escatologia/","title":"Escatologia","metatags":{"description":"aborda temas como A segunda vinda de Cristo, o arrebatamento da igreja, a grande tribulação, o milênio, o juízo final, e o destino eterno dos indivíduos."},"pinned":true,"tags":["Teologia/Escatologia"],"updated":"2025-01-17T09:17:06.221-03:00"}
+{"dg-publish":true,"permalink":"/teologia/escatologia/escatologia/","title":"Escatologia","metatags":{"description":"Aborda temas como A segunda vinda de Cristo, o arrebatamento da igreja, a grande tribulação, o milênio, o juízo final, e o destino eterno dos indivíduos."},"pinned":true,"updated":"2025-01-19T19:20:40.491-03:00"}
 ---
 
 
-## A Escatologia
-
-A Escatologia Bíblica é o estudo das "últimas coisas", dos eventos finais da história humana e do plano de Deus, abrangendo tanto profecias cumpridas quanto as que ainda estão por vir. Este estudo é essencial para a fé cristã, pois aborda temas como [A segunda vinda de Cristo](A%20segunda%20vinda%20de%20Cristo.md), o arrebatamento da igreja, a grande tribulação, o milênio, o juízo final, e o destino eterno dos indivíduos.
-
-### **Definição e Importância:**
-
-- O termo "escatologia" deriva das palavras gregas "eschatos" (último) e "logos" (estudo), significando o estudo das últimas coisas.
-- A escatologia bíblica é fundamental para a fé cristã, pois ela revela o plano de Deus para a humanidade e o propósito final da criação.
-- A Bíblia é rica em escatologia, com muitas profecias que já se cumpriram e outras que ainda estão por se cumprir. O livro do Apocalipse, embora importante, é apenas uma parte da escatologia, que também está presente em outros livros como Daniel, Ezequiel e Zacarias.
-- A escatologia não é apenas sobre eventos futuros, mas também sobre a necessidade de estar preparado, com aspectos que se refletem no cotidiano.
-
-### **Principais Temas da Escatologia Bíblica:**
-
-- **[A segunda vinda de Cristo](A%20segunda%20vinda%20de%20Cristo.md):** A volta de Jesus é um tema central na escatologia, e ocorrerá em duas fases para os dispensacionalistas: um arrebatamento secreto da igreja e uma vinda visível em glória com os santos.
-- **[O Arrebatamento](Arrebatamento%20e%20a%20Grande%20Tribulação.md):** Este evento é a retirada da igreja da terra para se encontrar com Cristo nos ares, um evento que antecede a grande tribulação para alguns. A palavra "arrebatamento" significa "arrancar com força" ou "ser retirado com violência". Há diferentes visões sobre o momento do arrebatamento (pré, midi e pós-tribulacionista).
-- **[A Grande Tribulação](A-Tribulacao.md):** É um período de sofrimento sem precedentes na história humana, marcado pelo juízo e ira de Deus sobre a terra, e que se segue ao arrebatamento para alguns. Este período tem o objetivo de julgar o mundo e preparar Israel para o seu papel no plano de Deus. O livro de Apocalipse trata especialmente desse período.
-- **O Milênio:** É um período de mil anos em que Cristo reinará sobre a terra, trazendo paz, prosperidade, segurança e conhecimento da palavra de Deus. Há diferentes interpretações sobre o milênio, com visões pré, pós e amilenistas.
-- **O Juízo Final:** Após o milênio, ocorrerá o julgamento final, onde todos os seres humanos serão julgados com base em suas ações e crenças. Os que crêem em Jesus receberão a vida eterna, enquanto os incrédulos serão destinados à segunda morte.
-- **A Ressurreição:** A Bíblia fala de duas ressurreições: a primeira para a vida (dos justos) e a segunda para o juízo (dos ímpios). Jesus é a primícia da ressurreição, tendo ressuscitado para nunca mais morrer.
-
-### **Interpretações e Métodos:**
-
-- A interpretação da escatologia bíblica é complexa e diversificada, com [várias correntes doutrinárias e posições teológicas](Tipos-na-escatologia.md).
-- O **dispensacionalismo clássico** é uma corrente que crê em duas fases para a volta de Cristo, com um arrebatamento secreto antes da tribulação.
-- Existem diferentes métodos de interpretação, como o alegórico (espiritualizar as profecias) e o literal ou futurista (interpretar as profecias de maneira direta).
-- O método de interpretação adotado influencia a compreensão do livro do Apocalipse e outros textos proféticos.
-- É importante ter cuidado ao interpretar as Escrituras, deixando Deus falar através da Bíblia, evitando interpretações pessoais.
-
-### **A Relação da Escatologia com Outras Doutrinas:**
-
-- A escatologia se relaciona com a soteriologia (doutrina da salvação), mostrando a consumação do plano de Deus para os salvos.
-- A esperança escatológica é um motivador para a santidade e o compromisso com Deus.
-- A escatologia bíblica apresenta um contraste entre [a vida em Cristo e a segunda morte](A-segunda-morte.md), destacando a importância da fé em Jesus para a salvação. A afirmação "quem tem Jesus tem a vida" contrasta com o conceito de segunda morte, que representa a separação eterna de Deus.
-
-### **Aplicações Práticas:**
-
-- O estudo da escatologia aumenta a fé nas promessas de Deus e a esperança em sua vinda.
-- A escatologia oferece palavras de alerta para a geração que enfrentará os últimos dias, mas também de esperança para aqueles que são de Cristo.
-- O conhecimento da escatologia ajuda os cristãos a se manterem firmes na fé, evitando cair em interpretações errôneas e em falsas doutrinas.
-
-> [!summary] **Em resumo, a Escatologia Bíblica é um estudo complexo e profundo, que busca entender o plano de Deus para o fim dos tempos, oferecendo esperança, direção e encorajamento para os crentes. Requer estudo, oração e uma interpretação cuidadosa das Escrituras para evitar equívocos e alcançar uma compreensão mais clara da vontade de Deus para o futuro.**
+| data     | 📖 Páginas em Escatologia                                                        | 📄 Descrição                                                                                                                                              |
+| -------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 06/01/25 | [[Teologia/Escatologia/A estrela do amanha\|A estrela do amanha]]             | Nesta visão, Jesus está prometendo à igreja que ela será uma luz para o mundo e guiará os outros em seu caminho.                                          |
+| 28/09/24 | [[Teologia/Escatologia/A segunda vinda de Cristo\|A segunda vinda de Cristo]] | A doutrina do Segundo Advento de Cristo, conhecida também como Parousia, é central na fé cristã                                                           |
+| 27/12/24 | [[Teologia/Escatologia/A-segunda-morte\|A-segunda-morte]]                     | como um evento distinto da morte física, representando uma **separação eterna de Deus** e um estado de condenação.                                        |
+| 08/11/24 | [[Teologia/Escatologia/A-Tribulacao\|A-Tribulacao]]                           | seus propósitos e diferentes perspectivas sobre o momento em que ela ocorrerá em relação ao arrebatamento da igreja.                                      |
+| 18/10/24 | [[Teologia/Escatologia/A-volta-de-Cristo\|A-volta-de-Cristo]]                 | É chegada a hora em que Cristo ocupa a Sua devida posição, sendo glorificado acima dos principados e potestades, e sobre todo o nome que se nomeia        |
+| 10/12/24 | [[Teologia/Escatologia/Alegoria x literal\|Alegoria x literal]]               | A interpretação alegórica busca um significado simbólico ou espiritual por trás do texto literal                                                          |
+| 27/12/24 | [[Teologia/Escatologia/Sobre a Escatologia\|Sobre a Escatologia]]             | aborda temas como A segunda vinda de Cristo, o arrebatamento da igreja, a grande tribulação, o milênio, o juízo final, e o destino eterno dos indivíduos. |

@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/chatbot-com-ia-local/","title":"Chatbot com IA local","metatags":{"description":"Como usar um processo para que o código interaja com o modelo de forma programática para realizar tarefas de geração de texto."},"updated":"2025-01-12T15:10:37.630-03:00"}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/chatbot-com-ia-local/","title":"Chatbot com IA local","metatags":{"description":"Como usar um processo para que o código interaja com o modelo de forma programática para realizar tarefas de geração de texto."},"tags":["Inteligencia-artificial","Agentes","Prompt","Ollama","Python"],"updated":"2025-01-20T20:32:58.152-03:00"}
 ---
 
-# Chatbot com IA local
 
 ## Criando um Chatbot com IA local
 
@@ -22,7 +21,7 @@ Inicialmente certifique-se que a LLm local como o [Ollama](Ollama.md) está devi
 
 - **Importar as bibliotecas necessárias:** Inicialmente, é preciso importar as classes e funções necessárias da biblioteca [Langchain](Langchain.md). No caso do modelo Llama 3, importa-se a classe [Ollama](Ollama.md) do módulo `langchain_community.llms`.
 
-Para começar a trabalhar com o modelo Llama 3 utilizando a biblioteca [Langchain](Langchain.md), é necessário importar as classes e funções necessárias utilizando o pip. Isso inclui a classe `Ollama` do módulo `langchain_community.llms`. Lembre-se de criar um ambiente virtual antes:
+Para começar a trabalhar com o modelo Llama 3 utilizando a biblioteca [Langchain](Langchain.md), é necessário importar as classes e funções necessárias utilizando o pip. Isso inclui a classe [[Inteligencia Artificial/ferramentas de IA/Ollama\|Ollama]] do módulo `langchain_community.llms`. Lembre-se de criar um ambiente virtual antes:
 
 #### **Criando Ambiente Virtual e Instalando Bibliotecas**
 
@@ -66,7 +65,7 @@ Para utilizar o modelo Llama 3, você precisará criar uma instância da classe 
 model = Ollama()
 ```
 
-Agora que você tem a instância do modelo configurada, você estará pronto para utilizar o modelo Llama 3 com a biblioteca langchain.
+Agora que você tem a instância do modelo configurada, você estará pronto para utilizar o modelo Llama 3 com a biblioteca [[Inteligencia Artificial/Langchain\|Langchain]].
 
 - **Instanciar o modelo:** Cria-se um objeto do tipo [Ollama](Ollama.md), especificando qual modelo será utilizado. Nesse caso, o modelo a ser usado é "Llama 3". Este objeto é que permitirá interagir com o modelo Llama 3. Por exemplo, a linha `model = Ollama(model="llama3")` instancia o modelo.
     
@@ -166,4 +165,3 @@ Em resumo, o código Python utiliza a biblioteca [Langchain](Langchain.md) para 
 - [Ollama](Ollama.md)
 - [Langchain](Langchain.md)
 - [engenharia de prompt](engenharia%20de%20prompt.md)
-- #Inteligencia-artificial

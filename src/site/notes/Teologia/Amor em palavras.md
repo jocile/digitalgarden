@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/amor-em-palavras/","title":"Amor em palavras","metatags":{"description":"Como a palavra bíblica amor foi traduzida a partir do grego, hebraico e latim"},"updated":"2025-01-11T11:33:00.950-03:00"}
+{"dg-publish":true,"permalink":"/teologia/amor-em-palavras/","title":"Amor em palavras","metatags":{"description":"Como a palavra bíblica amor foi traduzida a partir do grego, hebraico e latim"},"tags":["Teologia"],"updated":"2025-01-19T19:02:58.543-03:00"}
 ---
 
 
@@ -116,4 +116,3 @@ Em um momento ou outro, cada uma dessas palavras hebraicas para amor foi usada n
 
 - [Texto adaptado de: Hebrew Word for Love: 4 Biblical & Modern Words to Know — FIRM Israel](https://firmisrael.org/learn/hebrew-word-for-love-4-biblical-and-modern-hebrew-words-to-know/)
 - [Conhecendo o amor bíblico - YouTube](https://www.youtube.com/watch?v=pDLEZjlk6Ig&list=PLfGUiQzB80EBOgPEglXeFVuhdwbTBbJDx&index=1)
-- #Teologia

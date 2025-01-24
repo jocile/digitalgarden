@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/escatologia/a-segunda-vinda-de-cristo/","title":"A segunda vinda de Cristo","metatags":{"description":"A doutrina do Segundo Advento de Cristo, conhecida também como Parousia, é central na fé cristã"},"tags":["Teologia/Escatologia","Teologia/Cristologia"],"updated":"2025-01-17T09:35:51.753-03:00"}
+{"dg-publish":true,"permalink":"/teologia/escatologia/a-segunda-vinda-de-cristo/","title":"A segunda vinda de Cristo","metatags":{"description":"A doutrina do Segundo Advento de Cristo, conhecida também como Parousia, é central na fé cristã"},"tags":["Escatologia","Cristologia"],"updated":"2025-01-19T18:51:22.779-03:00"}
 ---
 
 ## O Segundo Advento de Cristo: Uma Reflexão Teológica e Histórica

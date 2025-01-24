@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/agente-sobre-minha-empresa/","title":"Agente sobre minha empresa","metatags":{"description":"Como construir um modelo de linguagem que possa responder perguntas e fornecer informações baseadas em um conjunto de dados."},"updated":"2025-01-15T19:58:42.807-03:00"}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/agente-sobre-minha-empresa/","title":"Agente sobre minha empresa","metatags":{"description":"Como construir um modelo de linguagem que possa responder perguntas e fornecer informações baseadas em um conjunto de dados."},"tags":["Inteligencia-artificial","Agentes"],"updated":"2025-01-18T18:49:14.593-03:00"}
 ---
 
-## Agente sobre minha empresa
 
 ## Criando um Assistente Virtual com Python e LangChain
 
@@ -101,4 +100,3 @@ E pronto! Agora você pode conversar com o assistente virtual que criamos.
 #### Referências
 
 - [Construí uma IA que sabe tudo sobre minha empresa (Usando Python e Langchain) - YouTube](https://www.youtube.com/watch?v=xNCBS_aJTgo)
-- #Inteligencia-artificial
