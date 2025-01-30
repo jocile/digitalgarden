@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/chatbot-com-ia-local/","title":"Chatbot com IA local","metatags":{"description":"Como usar um processo para que o código interaja com o modelo de forma programática para realizar tarefas de geração de texto."},"tags":["Inteligencia-artificial","Agentes","Prompt","Ollama","Python"],"updated":"2025-01-20T20:32:58.152-03:00"}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/chatbot-com-ia-local/","title":"Chatbot com IA local","metatags":{"description":"Como usar um processo para que o código interaja com o modelo de forma programática para realizar tarefas de geração de texto."},"tags":["Inteligencia-artificial","Agentes","Prompt","Ollama","Python"],"updated":"2025-01-27T17:52:20.140-03:00"}
 ---
 
 
@@ -161,6 +161,7 @@ Em resumo, o código Python utiliza a biblioteca [Langchain](Langchain.md) para 
 
 ### Referências
 
+- [IA no seu PC com Ollama, LM Studio, GPT4All - YouTube](https://www.youtube.com/watch?v=Ar1lF4yVIss)
 - [Create a LOCAL Python AI Chatbot In Minutes Using Ollama - YouTube](https://www.youtube.com/watch?v=d0o89z134CQ)
 - [Ollama](Ollama.md)
 - [Langchain](Langchain.md)
