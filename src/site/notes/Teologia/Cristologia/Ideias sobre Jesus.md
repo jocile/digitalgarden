@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/ideias-sobre-jesus/","title":"3. Ideias sobre Jesus","metatags":{"description":"Gnosticismo, Docetismo, Arianismo, Liberalismo, Triteísmo ..."},"pinned":true,"tags":["Teologia","Cristologia"],"updated":"2025-02-04T20:22:46.344-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/ideias-sobre-jesus/","title":"3. Ideias sobre Jesus","metatags":{"description":"Gnosticismo, Docetismo, Arianismo, Liberalismo, Triteísmo ..."},"pinned":true,"tags":["Teologia","Cristologia"],"updated":"2025-02-04T20:50:42.268-03:00"}
 ---
 
 # 3. Ideias sobre Jesus
 
 São conhecidas diversas ideias sobre a pessoa de Jesus, destacando a magnitude de sua influência e as diferentes percepções sobre sua existência. 
-
-[2-Fontes-historicas ⬅️](Fontes%20historicas.md) | [➡️ 3.1-nao-existencia](A%20nao%20existencia.md)
 
 Aqui estão as ideias listadas:
 

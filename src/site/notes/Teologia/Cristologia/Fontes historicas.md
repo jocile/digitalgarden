@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/fontes-historicas/","title":"2. Fontes históricas","metatags":{"description":"além dos Evangelhos outros registros históricos também contribuem para nossa compreensão de sua vida e obra."},"tags":["Teologia","Cristologia"],"updated":"2025-02-04T19:51:19.192-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/fontes-historicas/","title":"2. Fontes históricas","metatags":{"description":"além dos Evangelhos outros registros históricos também contribuem para nossa compreensão de sua vida e obra."},"tags":["Teologia","Cristologia"],"updated":"2025-02-04T20:50:27.725-03:00"}
 ---
 
 # 2. Fontes históricas
 
 Embora os Evangelhos sejam a principal fonte de informação sobre Jesus, outros registros históricos também contribuem para nossa compreensão de sua vida e obra. É importante analisar criticamente essas fontes para discernir a historicidade dos eventos e a figura de Jesus.
-
-[1. introdução ⬅️](Introducao%20da%20Cristologia.md) | [➡️  3.i As deias sobre Jesus](Ideias%20sobre%20Jesus.md)
 
 ## **1. Fontes Extra-bíblicas**
 

@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/introducao-da-cristologia/","title":"1. A introdução da Cristologia","metatags":{"description":"a magnitude da influência de Jesus Cristo, tanto em seu tempo quanto nos séculos que se seguiram."},"tags":["Teologia","Cristologia"],"updated":"2025-02-04T20:30:48.427-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/introducao-da-cristologia/","title":"1. A introdução da Cristologia","metatags":{"description":"a magnitude da influência de Jesus Cristo, tanto em seu tempo quanto nos séculos que se seguiram."},"tags":["Teologia","Cristologia"],"updated":"2025-02-04T20:50:47.046-03:00"}
 ---
 
 
 Neste texto, exploraremos a magnitude da influência de Jesus Cristo, tanto em seu tempo quanto nos séculos que se seguiram.
-
-[2 Fontes históricas➡️](Fontes%20historicas.md)
 
  Abordaremos os seguintes aspectos:
 

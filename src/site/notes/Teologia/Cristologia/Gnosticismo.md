@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/gnosticismo/","title":"3.2 O Gnosticismo","metatags":{"description":"negavam a plena humanidade de Jesus, afirmando que ele não nasceu como um ser humano comum"},"tags":["Teologia","Cristologia","heresia"],"updated":"2025-02-04T20:30:12.443-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/gnosticismo/","title":"3.2 O Gnosticismo","metatags":{"description":"negavam a plena humanidade de Jesus, afirmando que ele não nasceu como um ser humano comum"},"tags":["Teologia","Cristologia","heresia"],"updated":"2025-02-04T20:50:33.401-03:00"}
 ---
 
 # 3.2 O gnosticismo
 
 O Gnosticismo, um movimento religioso e filosófico que floresceu nos primeiros séculos do Cristianismo, apresentou uma visão de Jesus Cristo distinta daquela defendida pela Igreja primitiva. Essa visão, influenciada por elementos da filosofia grega, mitologia e religiões orientais, gerou debates e controvérsias que persistem até hoje.
-
-[3.1 A não existência ⬅️](A%20nao%20existencia.md) | [➡️ 3.3 O docetismo](Docetismo.md)
 
 ## **A Natureza de Jesus:**
 

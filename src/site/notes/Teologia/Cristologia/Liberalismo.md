@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/liberalismo/","title":"3.6 O Liberalismo","metatags":{"description":"buscam entender os textos sagrados considerando contextos linguísticos, históricos e sociais"},"tags":["Teologia","Cristologia"],"updated":"2025-02-04T20:33:05.326-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/liberalismo/","title":"3.6 O Liberalismo","metatags":{"description":"buscam entender os textos sagrados considerando contextos linguísticos, históricos e sociais"},"tags":["Teologia","Cristologia"],"updated":"2025-02-04T20:50:54.708-03:00"}
 ---
 
 # 3.6 O Liberalismo
 
 O liberalismo busca a liberdade de pensamento e ação, em contraste com visões conservadoras que podem estar mais arraigadas em tradições e interpretações rígidas.
-
-[3.5 A emanação ⬅️](emanacao.md) | [➡️ 3.7 O Triteísmo](Triteismo.md)
 
 ## **A Abordagem Liberal na Teologia**
 

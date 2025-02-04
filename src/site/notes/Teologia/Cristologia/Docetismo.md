@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/docetismo/","title":"3.3 O Docetismo","metatags":{"description":"defendia que Jesus era um homem comum possuído pelo espírito de Cristo no batismo."},"tags":["Teologia","Cristologia","heresia"],"updated":"2025-02-04T20:29:09.279-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/docetismo/","title":"3.3 O Docetismo","metatags":{"description":"defendia que Jesus era um homem comum possuído pelo espírito de Cristo no batismo."},"tags":["Teologia","Cristologia","heresia"],"updated":"2025-02-04T20:50:12.166-03:00"}
 ---
 
 # 3.3 O Docetismo
 
 O Docetismo, derivado do grego "dokeo" (parecer), foi uma heresia do segundo século que negava a verdadeira encarnação de Jesus Cristo. Para os docetistas, a natureza humana de Jesus era apenas uma ilusão, uma aparência superficial. Essa crença contrastava com a ortodoxia cristã, que afirmava a plena divindade e humanidade de Jesus.
-
-[3.2 O gnosticismo ⬅️](Gnosticismo.md) | [[➡️ 3.4 O arianismo](Arianismo.md)]
 
 ## **Figuras Chave e Conceitos Centrais:**
 

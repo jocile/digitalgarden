@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/triteismo/","title":"3.7 O Triteísmo","metatags":{"description":"sustenta que há três deuses separados e distintos: Pai, Filho e Espírito Santo."},"tags":["Teologia","Cristologia","heresia"],"updated":"2025-02-04T20:33:58.598-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/triteismo/","title":"3.7 O Triteísmo","metatags":{"description":"sustenta que há três deuses separados e distintos: Pai, Filho e Espírito Santo."},"tags":["Teologia","Cristologia","heresia"],"updated":"2025-02-04T20:51:46.728-03:00"}
 ---
 
 # 3.7 O Triteismo
 
 O Triteísmo opõe à doutrina da trindade, defendendo a existência de três deuses distintos em vez de uma única divindade composta por três pessoas.
-
-[3.6 O Liberalismo ⬅️](Liberalismo.md) | [➡️ 3.8 A afirmação trinitária](trinitaria.md)
 
 ## **1. Trindade versus Triteísmo**
 

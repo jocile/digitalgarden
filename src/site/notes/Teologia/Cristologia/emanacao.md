@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/emanacao/","title":"3.5 A emanação","metatags":{"description":"Deus Pai como o sol é a fonte suprema. Dele emana o Filho (Cristo), a emanação mais forte."},"tags":["Teologia","Cristologia","heresia"],"updated":"2025-02-04T20:29:39.419-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/emanacao/","title":"3.5 A emanação","metatags":{"description":"Deus Pai como o sol é a fonte suprema. Dele emana o Filho (Cristo), a emanação mais forte."},"tags":["Teologia","Cristologia","heresia"],"updated":"2025-02-04T20:50:18.042-03:00"}
 ---
 
 # 3.5 A emanação
 
 A doutrina da emanação propõe que tudo o que existe se origina de uma Realidade ou Ser supremo, absoluto e transcendente. Essa ideia, presente na filosofia platônica e no neoplatonismo, influenciou alguns teólogos da Igreja primitiva, que a aplicaram à figura de Cristo.
-
-[3.4 O arianismo ⬅️](Arianismo.md) | [➡️ 3.6 O Liberalismo](Liberalismo.md)
 
 ## **Conceito Central e Analogia:**
 

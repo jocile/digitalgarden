@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/trinitaria/","title":"3.8 A afirmação trinitária","metatags":{"description":"Declara que Deus é um em sua essência, mas essa essência divina existe em três formas ou modos, cada um constituindo uma pessoa."},"tags":["Teologia","Cristologia"],"updated":"2025-02-04T20:33:25.921-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/trinitaria/","title":"3.8 A afirmação trinitária","metatags":{"description":"Declara que Deus é um em sua essência, mas essa essência divina existe em três formas ou modos, cada um constituindo uma pessoa."},"tags":["Teologia","Cristologia"],"updated":"2025-02-04T20:51:41.698-03:00"}
 ---
 
 # 3.8 A afirmação trinitária
 
 A posição da N.T. (ortodoxa, trinitária) é que o conceito de Jesus, que finalmente veio a ser reputado ortodoxo e tratado de acordo com as páginas da N.T., é a explicação trinitária.
-
-[3.7 Sobre o Triteísmo ⬅️](Triteismo.md)
 
 ## Origem e Desenvolvimento da Doutrina da Trindade
 
