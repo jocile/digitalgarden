@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/teologia/","title":"Teologia","metatags":{"description":"Estudos teológicos da Bíblia"},"pinned":true,"updated":"2025-02-04T20:37:27.129-03:00"}
+{"dg-publish":true,"permalink":"/teologia/teologia/","title":"Teologia","metatags":{"description":"Estudos teológicos da Bíblia"},"pinned":true,"updated":"2025-02-05T16:01:40.780-03:00"}
 ---
 
 
-📁 [[Teologia/Escatologia/Escatologia\|Escatologia]] - 📁 [[Teologia/Cristologia/Ideias sobre Jesus\|Cristologia]]
+📁 [[Teologia/Escatologia/Escatologia\|Escatologia]] - 📁 [[Teologia/Cristologia/Ideias sobre Jesus\|Cristologia]]- 📁 [[Teologia/Doutrina de Deus/O conceito de Deus\|O conceito de Deus]]
 
 | data     | 📖 Páginas em Teologia                                                                       | 📄 Descrição                                                                                                                                           |
 | -------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 04/05/24 | [[Teologia/Cristologia/A nao existencia\|A nao existencia]]                               | propõe que Jesus Cristo não foi uma figura histórica real, mas sim uma criação mitológica ou lendária                                                  |
+| 16/05/24 | [[Teologia/Doutrina de Deus/A tri unidade de Deus\|A tri unidade de Deus]]                | doutrina que afirma a existência de Deus como três pessoas                                                                                             |
 | 30/12/24 | [[Teologia/Amor em palavras\|Amor em palavras]]                                           | Como a palavra bíblica amor foi traduzida a partir do grego, hebraico e latim                                                                          |
 | 13/05/24 | [[Teologia/Cristologia/Arianismo\|Arianismo]]                                             | Jesus seria o Logos encarnado, a primeira e mais perfeita criatura de Deus, mas não Deus em essência.                                                  |
 | 19/10/24 | [[Teologia/Biblia-app\|Biblia-app]]                                                       | Aplicativo para ler a Bíblia                                                                                                                           |
@@ -23,6 +24,8 @@
 | 16/10/24 | [[Teologia/Cristologia/Jesus e a Salvacao\|Jesus e a Salvacao]]                           |                                                                                                                                                        |
 | 06/05/24 | [[Teologia/Cristologia/Liberalismo\|Liberalismo]]                                         | buscam entender os textos sagrados considerando contextos linguísticos, históricos e sociais                                                           |
 | 02/01/25 | [[Teologia/manuscritos biblicos\|manuscritos biblicos]]                                   | Gráfico sobre a linha do tempo dos manuscritos bíblicos                                                                                                |
+| 19/01/25 | [[Teologia/Doutrina de Deus/O conceito de Deus\|O conceito de Deus]]                      | Ser supremo, causa primeira, existente por si, absoluto, infinito, eterno, perfeito, onipotente, onisciente, o bem supremo.                            |
+| 16/05/24 | [[Teologia/Doutrina de Deus/Os atributos de Deus\|Os atributos de Deus]]                  | nos mostram quem ele é, revelando-nos o que ele faz. Um ser capaz de criar, comunicar-se e amar.                                                       |
 | 21/09/24 | [[Teologia/Pregacao\|Pregacao]]                                                           | O texto explica quatro formas de pregação utilizadas na Igreja primitiva, cada uma com uma função específica dentro da transmissão da mensagem cristã. |
 | 16/05/24 | [[Teologia/Cristologia/Quadro de heresias sobre Cristo\|Quadro de heresias sobre Cristo]] | quadro de heresias Cristológicas através dos séculos                                                                                                   |
 | 06/07/24 | [[Teologia/Tipologia\|Tipologia]]                                                         | Na profecia bíblica, tipos e antítipos são usados para mostrar coisas prefiguram e apontam para realidades maiores e mais completas                    |

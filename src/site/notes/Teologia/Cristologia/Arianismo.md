@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/arianismo/","title":"3.4 O Arianismo","metatags":{"description":"Jesus seria o Logos encarnado, a primeira e mais perfeita criatura de Deus, mas não Deus em essência."},"tags":["Teologia","Cristologia","heresia"],"updated":"2025-02-04T20:50:02.776-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/arianismo/","title":"3.4 O Arianismo","metatags":{"description":"Jesus seria o Logos encarnado, a primeira e mais perfeita criatura de Deus, mas não Deus em essência."},"tags":["Teologia","Cristologia","heresia"],"updated":"2025-02-05T15:46:31.679-03:00"}
 ---
 
 # 3.4 O Arianismo
@@ -28,5 +28,3 @@ O Arianismo, uma corrente teológica do século IV d.C., deve seu nome a Ário, 
 - **Artigo da Wikipedia:** [https://pt.wikipedia.org/wiki/Arianismo](https://pt.wikipedia.org/wiki/Arianismo)
 - **Livro:** "História da Igreja Primitiva" - Eusebio de Cesareia
 - **Site Teológico:** [https://www.gotquestions.org/arianism.html](https://www.gotquestions.org/arianism.html)
-
-[3.3-docetismo ⬅️](Docetismo.md) | [➡️ 3.5-emanacao](emanacao.md)

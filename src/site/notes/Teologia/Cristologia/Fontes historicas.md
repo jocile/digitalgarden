@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/fontes-historicas/","title":"2. Fontes históricas","metatags":{"description":"além dos Evangelhos outros registros históricos também contribuem para nossa compreensão de sua vida e obra."},"tags":["Teologia","Cristologia"],"updated":"2025-02-04T20:50:27.725-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/fontes-historicas/","title":"2. Fontes históricas","metatags":{"description":"além dos Evangelhos outros registros históricos também contribuem para nossa compreensão de sua vida e obra."},"tags":["Teologia","Cristologia"],"updated":"2025-02-05T15:46:58.812-03:00"}
 ---
 
 # 2. Fontes históricas
@@ -41,4 +41,4 @@ Apesar dos desafios, a maioria dos estudiosos da Bíblia, tanto religiosos quant
 
 Ao combinarmos as fontes históricas extra-bíblicas com a análise crítica dos Evangelhos, podemos construir uma imagem mais completa e confiável de Jesus de Nazaré. É importante reconhecer as limitações de cada fonte e abordar o tema com mente aberta e espírito crítico. A pesquisa histórica rigorosa, aliada à fé e à reflexão teológica, nos permite alcançar uma compreensão mais profunda da figura de Jesus e do significado de sua mensagem para a humanidade.
 
-Texto adaptada de: CHAMPLIN, Russel Norman Phd. O Novo Testamento interpretado versículo por versículo. São Paulo: Editora Hagnos.
+Texto adaptado de: CHAMPLIN, Russel Norman Phd. O Novo Testamento interpretado versículo por versículo. São Paulo: Editora Hagnos.

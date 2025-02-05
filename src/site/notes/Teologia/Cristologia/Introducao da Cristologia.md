@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/introducao-da-cristologia/","title":"1. A introdução da Cristologia","metatags":{"description":"a magnitude da influência de Jesus Cristo, tanto em seu tempo quanto nos séculos que se seguiram."},"tags":["Teologia","Cristologia"],"updated":"2025-02-04T20:50:47.046-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/introducao-da-cristologia/","title":"1. A introdução da Cristologia","metatags":{"description":"a magnitude da influência de Jesus Cristo, tanto em seu tempo quanto nos séculos que se seguiram."},"tags":["Teologia","Cristologia"],"updated":"2025-02-05T15:46:08.059-03:00"}
 ---
 
 
@@ -51,4 +51,4 @@ Neste texto, exploraremos a magnitude da influência de Jesus Cristo, tanto em s
 
 A magnitude da influência de Jesus Cristo é inegável. Sua mensagem de amor, compaixão, justiça e paz continua a inspirar e transformar vidas em todo o mundo. As fontes de informação sobre Jesus, embora limitadas, nos permitem conhecer sua vida, obra e ensinamentos com razoável confiabilidade. Os Evangelhos, como relatos teológicos da vida de Jesus, oferecem uma base sólida para a fé cristã e para a compreensão do impacto duradouro de Jesus na história da humanidade.
 
-Texto adaptada de: CHAMPLIN, Russel Norman Phd. O Novo Testamento interpretado versículo por versículo. São Paulo: Editora Hagnos.
+Texto adaptado de: CHAMPLIN, Russel Norman Phd. O Novo Testamento interpretado versículo por versículo. São Paulo: Editora Hagnos.
