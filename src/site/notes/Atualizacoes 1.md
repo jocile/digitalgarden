@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/atualizacoes-1/","title":"Atualizações","metatags":{"description":"Atualizações recentes"},"updated":"2025-02-14T20:15:25.571-03:00"}
+{"dg-publish":true,"permalink":"/atualizacoes-1/","title":"Atualizações cards","metatags":{"description":"Atualizações recentes"},"updated":"2025-02-14T20:34:46.593-03:00"}
 ---
 
+
+# Atualizações cards
 
 [list2card|addClass(ab-col3)]
 
