@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/aliancas-biblicas/","title":"Alianças bíblicas","metatags":{"description":"A Bíblia descreve o relacionamento entre Deus e seu povo em termos de alianças"},"tags":["Teologia"],"updated":"2025-02-14T17:48:38.566-03:00"}
+{"dg-publish":true,"permalink":"/teologia/aliancas-biblicas/","title":"Alianças bíblicas","metatags":{"description":"A Bíblia descreve o relacionamento entre Deus e seu povo em termos de alianças"},"tags":["Teologia"],"updated":"2025-02-15T14:07:23.577-03:00"}
 ---
 
 
@@ -23,19 +23,17 @@ O princípio básico tratados no Velho Testamento é da Aliança (concerto) de D
 
 **Veremos agora as alianças de Deus com os homens no Velho Testamento.**
 
-### Aliança com Adão
+### Aliança com Adão ou aliança das obras
 
-[![|200](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adao_eva.PNG/220px-Adao_eva.PNG)](https://commons.wikimedia.org/wiki/File:Adao_eva.PNG)
-
+<span style="float: right; border: 1px solid #aaa; margin: 20px; padding: 6px;">[![|200](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adao_eva.PNG/220px-Adao_eva.PNG)](https://commons.wikimedia.org/wiki/File:Adao_eva.PNG)\
 _**[Adão e Eva](https://pt.wikipedia.org/wiki/Special:Search/Ad%C3%A3o "w:Special:Search/Adão")**_. Mabuse, Século XVI.
+</span>
 
-A história bíblica começa contando como Deus criou todas as coisas, cada qual com seu devido propósito. Ao criar o homem, Deus o colocou para lavrar e proteger o jardim do Éden, e fez com ele um teste moral: não comer de um fruto específico do jardim, Adão foi advertido que morreria se falhasse, isto o colocou diante de uma escolha consciente de crer e obedecer, ou de descrer e desobedecer à vontade do seu Criador. Enquanto Adão cresse na palavra de Deus e a obedecesse, viveria em comunhão com Deus. Se pecasse e desobedecesse, colheria a separação com seu criador, que é a fonte de vida, consequentemente morreria.
+  A história bíblica começa contando como Deus criou todas as coisas, cada qual com seu devido propósito. Ao criar o homem, Deus o colocou para lavrar e proteger o jardim do Éden, e fez com ele um teste moral: não comer de um fruto específico do jardim, Adão foi advertido que morreria se falhasse, isto o colocou diante de uma escolha consciente de crer e obedecer, ou de descrer e desobedecer à vontade do seu Criador. Enquanto Adão cresse na palavra de Deus e a obedecesse, viveria em comunhão com Deus. Se pecasse e desobedecesse, colheria a separação com seu criador, que é a fonte de vida, consequentemente morreria.
 
 >[!quote] Gênesis 2:16-17: "E ordenou o SENHOR Deus ao homem, dizendo: De toda a árvore do jardim comerás livremente, Mas da árvore do conhecimento do bem e do mal, dela não comerás; porque no dia em que dela comeres, certamente morrerás."
 
 Desde o início da história, a raça humana tem estado vinculada a Deus, mediante a fé na sua palavra e a obediência à mesma, como a verdade absoluta. A vida por meio da fé e obediência foi o princípio da comunhão que Adão tinha com Deus no Éden.
-
-### **Aliança das obras**
 
 Deus fez do primeiro homem o representante de toda sua posteridade, isto fez com que Adão envolvesse seus representados no resultado de sua ação pessoal, quer para o bem, quer para o mal.
 
@@ -53,9 +51,9 @@ Deus havia prometido um salvador ([Messias](https://pt.wikipedia.org/wiki/Messia
 
 ### Aliança com Noé
 
-[![|200](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Noahs_Ark.jpg/250px-Noahs_Ark.jpg)](https://commons.wikimedia.org/wiki/File:Noahs_Ark.jpg)
-
+<span style="float: right; border: 1px solid #aaa; margin: 20px; padding: 6px;">[![|200](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Noahs_Ark.jpg/250px-Noahs_Ark.jpg)](https://commons.wikimedia.org/wiki/File:Noahs_Ark.jpg)\
 A Arca de Noé segundo Edward Hicks.
+</span>
 
 Os homens se multiplicam na terra, mas também se multiplica a violência, até os filhos de Deus - gerações de Adão que invocavam a Deus, procuravam as filhas dos homens malignos, corrompendo assim o futuro das suas gerações. Então, quando Deus viu isto, se arrependeu de ter feito o homem, mas, devido à sua promessa de um salvador na descendência de Adão, resgatou uma família da descendência dos filhos de Sete e não do assassino Caim, era a família de [Noé](https://pt.wikipedia.org/wiki/No%C3%A9 "w:Noé").
 
@@ -69,9 +67,9 @@ Pela obediência de Noé foi salva sua família, e Deus promete não mais destru
 
 ### Aliança com Abraão
 
-[![|200](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Abraham_and_the_Three_Angels.png/270px-Abraham_and_the_Three_Angels.png)](https://commons.wikimedia.org/wiki/File:Abraham_and_the_Three_Angels.png)
-
-**_[Abraão](https://pt.wikipedia.org/wiki/Special:Search/Abra%C3%A3o "w:Special:Search/Abraão")_ e os três Anjos que iam destruir Sodoma e Gomorra**.
+<span style="float: right; border: 1px solid #aaa; margin: 20px; padding: 6px;">[![|200](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Abraham_and_the_Three_Angels.png/270px-Abraham_and_the_Three_Angels.png)](https://commons.wikimedia.org/wiki/File:Abraham_and_the_Three_Angels.png)\
+**_[Abraão](https://pt.wikipedia.org/wiki/Special:Search/Abra%C3%A3o "w:Special:Search/Abraão")_ e os três Anjos que iam<br>destruir Sodoma e Gomorra**.
+</span>
 
 Deus havia ordenado aos filhos de Noé que repovoassem a terra, mas gerações seguintes começaram a se unir em cidades, e intentaram em construir torres para alcançarem o céu, a chamada torre de Babel, que deu origem a cidade Babilônia. Então Deus confundiu a sua linguagem para espalhar o homem na superfície da terra.
 

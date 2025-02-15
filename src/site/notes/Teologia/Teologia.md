@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/teologia/","title":"Teologia","metatags":{"description":"Estudos teológicos da Bíblia"},"pinned":true,"updated":"2025-02-05T16:01:40.780-03:00"}
+{"dg-publish":true,"permalink":"/teologia/teologia/","title":"Teologia","metatags":{"description":"Estudos teológicos da Bíblia"},"pinned":true,"updated":"2025-02-15T14:12:54.899-03:00"}
 ---
 
 
@@ -9,8 +9,10 @@
 | -------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 04/05/24 | [[Teologia/Cristologia/A nao existencia\|A nao existencia]]                               | propõe que Jesus Cristo não foi uma figura histórica real, mas sim uma criação mitológica ou lendária                                                  |
 | 16/05/24 | [[Teologia/Doutrina de Deus/A tri unidade de Deus\|A tri unidade de Deus]]                | doutrina que afirma a existência de Deus como três pessoas                                                                                             |
+| 10/02/25 | [[Teologia/Aliancas biblicas\|Aliancas biblicas]]                                         | A Bíblia descreve o relacionamento entre Deus e seu povo em termos de alianças                                                                         |
 | 30/12/24 | [[Teologia/Amor em palavras\|Amor em palavras]]                                           | Como a palavra bíblica amor foi traduzida a partir do grego, hebraico e latim                                                                          |
 | 13/05/24 | [[Teologia/Cristologia/Arianismo\|Arianismo]]                                             | Jesus seria o Logos encarnado, a primeira e mais perfeita criatura de Deus, mas não Deus em essência.                                                  |
+| 11/01/25 | [[Atualizacoes 1\|Atualizacoes 1]]                                                        | Atualizações recentes                                                                                                                                  |
 | 19/10/24 | [[Teologia/Biblia-app\|Biblia-app]]                                                       | Aplicativo para ler a Bíblia                                                                                                                           |
 | 19/01/25 | [[Teologia/Cristologia/Cristo na Bíblia\|Cristo na Bíblia]]                               | Como Cristo é retratado na Bíblia                                                                                                                      |
 | 16/05/24 | [[Teologia/Cristologia/Cristo na historia\|Cristo na historia]]                           | Jesus produziu uma das alterações mais profundas já ocorridas na civilização                                                                           |
@@ -21,7 +23,7 @@
 | 04/05/24 | [[Teologia/Cristologia/Gnosticismo\|Gnosticismo]]                                         | negavam a plena humanidade de Jesus, afirmando que ele não nasceu como um ser humano comum                                                             |
 | 04/05/24 | [[Teologia/Cristologia/Ideias sobre Jesus\|Ideias sobre Jesus]]                           | Gnosticismo, Docetismo, Arianismo, Liberalismo, Triteísmo ...                                                                                          |
 | 04/05/24 | [[Teologia/Cristologia/Introducao da Cristologia\|Introducao da Cristologia]]             | a magnitude da influência de Jesus Cristo, tanto em seu tempo quanto nos séculos que se seguiram.                                                      |
-| 16/10/24 | [[Teologia/Cristologia/Jesus e a Salvacao\|Jesus e a Salvacao]]                           |                                                                                                                                                        |
+| 16/10/24 | [[Teologia/Cristologia/Jesus e a Salvacao\|Jesus e a Salvacao]]                           | Jesus é apresentado como aquele que possui as chaves da casa de Davi, representando a Nova Jerusalém e o acesso à salvação divina                      |
 | 06/05/24 | [[Teologia/Cristologia/Liberalismo\|Liberalismo]]                                         | buscam entender os textos sagrados considerando contextos linguísticos, históricos e sociais                                                           |
 | 02/01/25 | [[Teologia/manuscritos biblicos\|manuscritos biblicos]]                                   | Gráfico sobre a linha do tempo dos manuscritos bíblicos                                                                                                |
 | 19/01/25 | [[Teologia/Doutrina de Deus/O conceito de Deus\|O conceito de Deus]]                      | Ser supremo, causa primeira, existente por si, absoluto, infinito, eterno, perfeito, onipotente, onisciente, o bem supremo.                            |
