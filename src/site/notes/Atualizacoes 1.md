@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/atualizacoes-1/","title":"Atualizações cards","metatags":{"description":"Atualizações recentes"},"updated":"2025-02-14T20:34:46.593-03:00"}
+{"dg-publish":true,"permalink":"/atualizacoes-1/","title":"Atualizações","metatags":{"description":"Atualizações recentes"},"updated":"2025-02-15T11:59:19.060-03:00"}
 ---
 
 
-# Atualizações cards
-
 [list2card|addClass(ab-col3)]
 
+- [[Teologia/Cristologia/Jesus e a Salvacao\|Jesus e a Salvacao]]:  (15.02.25)<br>#Teologia, #Cristologia, #Soteriologia<br>Jesus é apresentado como aquele que possui as chaves da casa de Davi, representando a Nova Jerusalém e o acesso à salvação divina
 - [[Teologia/Aliancas biblicas\|Aliancas biblicas]]:  (14.02.25)<br>#Teologia<br>A Bíblia descreve o relacionamento entre Deus e seu povo em termos de alianças
 - [[Webdesign/CSS/Padroes de nomenclatura CSS\|Padroes de nomenclatura CSS]]:  (13.02.25)<br>#Webdesign, #CSS, #padrão<br>como nomear bloco, elemento e modificador no CSS
 - [[Teologia/Teologia\|Teologia]]:  (05.02.25)<br><br>Estudos teológicos da Bíblia
@@ -16,4 +15,3 @@
 - [[Teologia/Cristologia/Fontes historicas\|Fontes historicas]]:  (05.02.25)<br>#Teologia, #Cristologia<br>além dos Evangelhos outros registros históricos também contribuem para nossa compreensão de sua vida e obra.
 - [[Teologia/Cristologia/Arianismo\|Arianismo]]:  (05.02.25)<br>#Teologia, #Cristologia, #heresia<br>Jesus seria o Logos encarnado, a primeira e mais perfeita criatura de Deus, mas não Deus em essência.
 - [[Teologia/Cristologia/Introducao da Cristologia\|Introducao da Cristologia]]:  (05.02.25)<br>#Teologia, #Cristologia<br>a magnitude da influência de Jesus Cristo, tanto em seu tempo quanto nos séculos que se seguiram.
-- [[Teologia/Cristologia/Quadro de heresias sobre Cristo\|Quadro de heresias sobre Cristo]]:  (05.02.25)<br>#Teologia, #Cristologia, #heresia<br>quadro de heresias Cristológicas através dos séculos
