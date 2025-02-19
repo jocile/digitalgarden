@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/webdesign/webdesign/","title":"Webdesing","metatags":{"description":"Estudos em WebDesign"},"pinned":true,"updated":"2025-01-30T20:34:45.142-03:00"}
+{"dg-publish":true,"permalink":"/webdesign/webdesign/","title":"Webdesing","metatags":{"description":"Estudos em WebDesign"},"pinned":true,"updated":"2025-02-19T15:47:36.615-03:00"}
 ---
 
 
@@ -14,5 +14,9 @@
 | 14/09/24 | [[Webdesign/Estrutura HTML5\|Estrutura HTML5]]                                   | tags semânticas que ajudam a estruturar o conteúdo de uma página web de forma mais significativa.                                                                                                                  |
 | 24/09/24 | [[Webdesign/CSS/Flexbox\|Flexbox]]                                               | permite a criação de layouts flexíveis de forma dinâmica e responsiva                                                                                                                                              |
 | 30/01/25 | [[Webdesign/CSS/Frameworks CSS\|Frameworks CSS]]                                 | são ferramentas essenciais para desenvolvedores que permitem construir sites e aplicativos de forma rápida e eficiente. Eles oferecem templates prontos, funcionalidades integradas e estilos visuais consistentes |
+| 19/02/25 | [[Webdesign/CSS/OOCSS\|OOCSS]]                                                   | é uma abordagem que promove a encapsulação de estilos em classes específicos, permitindo maior reutilização e manutenibilidade.                                                                                    |
+| 13/02/25 | [[Webdesign/CSS/Padroes de nomenclatura CSS\|Padroes de nomenclatura CSS]]       | como nomear bloco, elemento e modificador no CSS                                                                                                                                                                   |
 | 22/09/24 | [[Webdesign/CSS/Posicionando elementos com CSS\|Posicionando elementos com CSS]] | Existem cinco valores principais para a propriedade CSS `position`                                                                                                                                                 |
+| 19/02/25 | [[Webdesign/CSS/SMACSS\|SMACSS]]                                                 | uma metodologia para organizar o CSS e facilitar a manutenção de projetos web.                                                                                                                                     |
 | 19/09/24 | [[Webdesign/CSS/Unidades de medida do css\|Unidades de medida do css]]           | são fundamentais para definir tamanhos e espaçamentos em elementos                                                                                                                                                 |
+| 19/02/25 | [[Webdesign/CSS/Variaveis CSS\|Variaveis CSS]]                                   | permitem armazenar valores específicos que podem ser reutilizados ao longo do seu código.                                                                                                                          |
