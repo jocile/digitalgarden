@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atualizacoes-table-cards-dataview/","title":"Atualizações","metatags":{"description":"Atualizações recentes"},"contentClasses":"cards","updated":"2025-03-04T17:19:44.193-03:00"}
+{"dg-publish":true,"permalink":"/atualizacoes-table-cards-dataview/","title":"Atualizações table cards","metatags":{"description":"Atualizações recentes"},"contentClasses":"cards","updated":"2025-03-04T17:38:04.850-03:00"}
 ---
 
 
