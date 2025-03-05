@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/webdesign/css/css-webdeveloper/","title":"CSS WebDeveloper","metatags":{"description":"Gráfico das disciplinas do cursos de Webdeveloper com CSS"},"tags":["excalidraw","Webdesign","CSS"],"updated":"2025-01-22T20:44:22.577-03:00"}
+{"dg-publish":true,"permalink":"/webdesign/css/css-webdeveloper/","title":"CSS WebDeveloper","metatags":{"description":"Gráfico das disciplinas do cursos de Webdeveloper com CSS"},"contentClasses":"ex-pageheight","tags":["excalidraw","Webdesign","CSS"],"updated":"2025-01-22T20:44:22.577-03:00"}
 ---
 
 

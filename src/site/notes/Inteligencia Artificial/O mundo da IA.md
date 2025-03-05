@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/o-mundo-da-ia/","metatags":{"description":"Gráfico sobre o mundo da IA"},"tags":["excalidraw","Inteligencia-artificial"],"updated":"2025-01-24T16:58:11.199-03:00"}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/o-mundo-da-ia/","metatags":{"description":"Gráfico sobre o mundo da IA"},"contentClasses":"ex-pageheight","tags":["excalidraw","Inteligencia-artificial"],"updated":"2025-01-24T16:58:11.199-03:00"}
 ---
 
 
