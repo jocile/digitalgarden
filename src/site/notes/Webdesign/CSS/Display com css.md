@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/webdesign/css/display-com-css/","title":"Display com css","metatags":{"description":"Organiza o layout e determina o comportamento visual de um elemento HTML em relação ao seu conteúdo"},"tags":["Webdesign","CSS","Display","editor"],"updated":"2025-01-22T19:40:08.460-03:00"}
+{"dg-publish":true,"permalink":"/webdesign/css/display-com-css/","title":"Display com css","metatags":{"description":"Organiza o layout e determina o comportamento visual de um elemento HTML em relação ao seu conteúdo"},"tags":["Webdesign","CSS","Display","editor"],"updated":"2025-03-11T08:23:30.846-03:00"}
 ---
 
 # Display com css
@@ -27,5 +27,6 @@ A propriedade CSS `display` é uma das mais poderosas e versáteis no desenvol
 
 ## Referências
 
+- [Learn HTML Free – Basic HTML Codes for Beginners](https://www.websiteplanet.com/blog/html-guide-beginners/)
 - [The box model - Aprendendo desenvolvimento web | MDN](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/Building_blocks/The_box_model)
 - [W3schools CSS Layout - The display Property](https://www.w3schools.com/css/css_display_visibility.asp)
