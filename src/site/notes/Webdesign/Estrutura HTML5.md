@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/webdesign/estrutura-html-5/","title":"Estrutura do HTML5","metatags":{"description":"tags semânticas que ajudam a estruturar o conteúdo de uma página web de forma mais significativa."},"tags":["Webdesign","HTML5"],"updated":"2025-01-22T19:45:24.888-03:00"}
+{"dg-publish":true,"permalink":"/webdesign/estrutura-html-5/","title":"Estrutura do HTML5","metatags":{"description":"tags semânticas que ajudam a estruturar o conteúdo de uma página web de forma mais significativa."},"tags":["Webdesign","HTML5"],"updated":"2025-03-11T08:26:17.832-03:00"}
 ---
 
 
@@ -73,6 +73,7 @@ Usar essas tags semânticas ajuda a melhorar a acessibilidade, SEO e a manutenç
 
 ### Referências
 
+- [Learn HTML Free – Basic HTML Codes for Beginners](https://www.websiteplanet.com/blog/html-guide-beginners/)
 - [🎓Curso HTML5 DIO](https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EZyg_wTP-VpGvglNScTbgKwBO861jGo0EIsOR8pAxt97-A?rtime=Phk7Od_U3Eg)
 - [📃Estrutura HTML5 - MDN](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 - [📁github.com/jocile/webdesigner](https://github.com/jocile/webdesigner)
