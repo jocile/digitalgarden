@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/webdesign/css/oocss/","title":"CSS Orientado a Objetos","metatags":{"description":"é uma abordagem que promove a encapsulação de estilos em classes específicos, permitindo maior reutilização e manutenibilidade."},"tags":["Webdesign","CSS","padrão"],"updated":"2025-02-22T17:04:19.598-03:00"}
+{"dg-publish":true,"permalink":"/webdesign/css/oocss/","title":"CSS Orientado a Objetos","metatags":{"description":"é uma abordagem que promove a encapsulação de estilos em classes específicos, permitindo maior reutilização e manutenibilidade."},"tags":["Webdesign","CSS","padrão"],"updated":"2025-03-13T15:45:27.977-03:00"}
 ---
 
 
@@ -141,7 +141,7 @@ Agora, as classes `.list` e `.list-item a` podem ser reutilizadas em qualquer lu
 
 ### Exemplo Prático no CodePen
 
-Para ilustrar, veja este exemplo no [CodePen]([OOCSS Exemple](https://codepen.io/neysimoes/pen/azXdrg)). Ele mostra botões com variações, utilizando múltiplas classes para combinar estrutura e design.
+Para ilustrar, veja este [exemplo no CodePen](https://codepen.io/neysimoes/pen/azXdrg). Ele mostra botões com variações, utilizando múltiplas classes para combinar estrutura e design.
 
 ### Conclusão
 
