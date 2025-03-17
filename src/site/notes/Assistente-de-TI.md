@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac"],"updated":"2025-03-16T21:03:55.473-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac"],"updated":"2025-03-16T21:27:33.996-03:00"}
 ---
 
 
@@ -22,6 +22,8 @@
 > | UC4: Configurar e operar rede local de computadores.                                | 36            |
 > | UC 5: Projeto Integrador - Assistente de Tecnologias da Informação                  | 20            |
 
+🎓 [Abertura do curso](https://docs.google.com/presentation/d/12myN-OpLqppVuXahxOGlCTRJcd84ftr_/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+
 ## UC1 - Operador de computadores
 
 > [!success]- 🖥️ Habilidades
@@ -31,9 +33,9 @@
 > 4. Elabora e edita dados numéricos e gráficos de acordo com os recursos do editor de planilhas eletrônicas.
 > 5. Armazena e compartilha dados de acordo com os requisitos da solução.
 
+✨ [Aula 1 - Apresentação](https://drive.google.com/file/d/1-6RPU-erktgeD7HxvyWlQguM4dIXTYuH/view?usp=sharing)
 
-
-> [!important]+ 📚Material didático
+> [!important]- 📚Material didático
 > 
 > - [📑Apostila Informática Básica - Intensivo Windows.pdf - Google Drive](https://drive.google.com/file/d/1HNT1is949xITALuJXT1dwaLCbYexrIGT/view?usp=sharing)
 > - [📶 Treinamento do Microsoft 365](https://support.microsoft.com/pt-br/training)
