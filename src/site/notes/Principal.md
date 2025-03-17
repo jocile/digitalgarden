@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"-ex-pageheight","tags":["gardenEntry"],"updated":"2025-03-16T21:11:27.922-03:00"}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight","tags":["gardenEntry"],"updated":"2025-03-17T19:08:30.918-03:00"}
 ---
 
 
