@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/novo-testamento/diagrama-do-novo-testamento/","title":"Diagrama do novo testamento","metatags":{"description":"um panorama em um diagrama dos livros do Novo Testamento"},"contentClasses":"-ex-pageheight","tags":["Teologia","diagramas","Novo-Testamento","excalidraw"],"updated":"2025-03-17T10:40:35.389-03:00"}
+{"dg-publish":true,"permalink":"/teologia/novo-testamento/diagrama-do-novo-testamento/","title":"Diagrama do novo testamento","metatags":{"description":"um panorama em um diagrama dos livros do Novo Testamento"},"contentClasses":"ex-pageheight","tags":["Teologia","diagramas","Novo-Testamento","excalidraw"],"updated":"2025-03-17T18:58:47.935-03:00"}
 ---
 
 
