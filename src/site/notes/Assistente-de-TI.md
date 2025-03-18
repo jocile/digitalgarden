@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac"],"updated":"2025-03-16T21:27:33.996-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-03-17T19:46:44.810-03:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 >  Título do Curso: Assistente de tecnologias da informação  
 > Eixo tecnológico: Informação e Comunicação Segmento: Tecnologia da Informação  
 > Carga horária: 200 horas
-> Período: 05/08/2024 à 11/10/2024
+> Período: 17/03/2025 à 30/05/2025
 
 > [!example]- Unidades Curriculares
 > 
