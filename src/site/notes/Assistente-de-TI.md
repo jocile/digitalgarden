@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-03-17T19:46:44.810-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-03-18T10:31:51.839-03:00"}
 ---
 
 
@@ -22,7 +22,7 @@
 > | UC4: Configurar e operar rede local de computadores.                                | 36            |
 > | UC 5: Projeto Integrador - Assistente de Tecnologias da Informação                  | 20            |
 
-🎓 [Abertura do curso](https://docs.google.com/presentation/d/12myN-OpLqppVuXahxOGlCTRJcd84ftr_/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+
 
 ## UC1 - Operador de computadores
 
@@ -33,7 +33,20 @@
 > 4. Elabora e edita dados numéricos e gráficos de acordo com os recursos do editor de planilhas eletrônicas.
 > 5. Armazena e compartilha dados de acordo com os requisitos da solução.
 
-✨ [Aula 1 - Apresentação](https://drive.google.com/file/d/1-6RPU-erktgeD7HxvyWlQguM4dIXTYuH/view?usp=sharing)
+>[!done]+ Cronograma da Unidade Curricular 1 - Fundamento de Python
+>
+>>[!note]+ Aula em 17/03
+>> - 🎓 [Abertura do curso](https://docs.google.com/presentation/d/12myN-OpLqppVuXahxOGlCTRJcd84ftr_/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>> - ✨ [Aula 1 - Apresentação](https://drive.google.com/file/d/1-6RPU-erktgeD7HxvyWlQguM4dIXTYuH/view?usp=sharing)
+>> - ✉️ Atividade: Identificar a versão do Sistema Operacional e do Office e usar E-mail.
+>
+>>[!note]+ Aula em 18/03
+>> - [[Assistente-de-TI/Estacao-de-trabalho\|Estação de Trabalho em Tecnologia da Informação]]
+>
+
+> [!check] Progresso das aulas
+>
+>>[!note] UC1: Início em 17/03 <progress value="2" max="18"></progress> 2 de 18 Aulas;
 
 > [!important]- 📚Material didático
 > 
