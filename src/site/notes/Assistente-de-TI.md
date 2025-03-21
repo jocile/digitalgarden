@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-03-18T10:31:51.839-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-03-21T10:51:02.327-03:00"}
 ---
 
 
@@ -33,24 +33,60 @@
 > 4. Elabora e edita dados numéricos e gráficos de acordo com os recursos do editor de planilhas eletrônicas.
 > 5. Armazena e compartilha dados de acordo com os requisitos da solução.
 
->[!done]+ Cronograma da Unidade Curricular 1 - Fundamento de Python
+>[!done] Cronograma da Unidade Curricular 1 - Fundamento de Python
 >
->>[!note]+ Aula em 17/03
+>>[!note]- Aula em 17/03
 >> - 🎓 [Abertura do curso](https://docs.google.com/presentation/d/12myN-OpLqppVuXahxOGlCTRJcd84ftr_/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> - ✨ [Aula 1 - Apresentação](https://drive.google.com/file/d/1-6RPU-erktgeD7HxvyWlQguM4dIXTYuH/view?usp=sharing)
->> - ✉️ Atividade: Identificar a versão do Sistema Operacional e do Office e usar E-mail.
+>> 
+>>>[!todo] 🖥️ Atividade: 
+>>> - Criar um relatório sobre:
+>>>   - A versão do Sistema Operacional e do Office;
+>>>   - A quantidade de memória e armazenamento do Desktop;
+>>>   - Enviar por E-mail.
 >
->>[!note]+ Aula em 18/03
+>>[!note]- Aula em 18/03
 >> - [[Assistente-de-TI/Estacao-de-trabalho\|Estação de Trabalho em Tecnologia da Informação]]
+>>
+>>>[!todo] 🖥️ Atividade: 
+>>> - Digitação com acentuação na página 53 da [📑Apostila][apostila]
 >
+>>[!attention] 19/03: FERIADO: DIA DE SÃO JOSÉ
+>
+>>[!note]- Aula em 20/03
+>> - [História e Evolução dos Computadores](https://www.todamateria.com.br/historia-e-evolucao-dos-computadores/)
+>> - Configuração do Windows:
+>>   - acesso e tela de bloqueio;
+>>   - organização de ícones no menu Iniciar e área de trabalho;
+>>   - organização de arquivos;
+>>
+>>>[!todo] 🖥️ Atividade:
+>>> - Organização de ícones e arquivos no menu Iniciar e na Área de Trabalho, na páginas 29 a 35 da [📑Apostila][apostila]
+>>> - Criar arquivos ocultos e [como deixar uma pasta invisível](https://dti.unilab.edu.br/blog/2014/08/13/como-deixar-uma-pasta-invisivel/)
+>
+>>[!note]+ Aula em 21/03
+>> - Conhecendo Formulários on-line:
+>>   - [Formulários Google: criação de formulários on-line para empresas](https://workspace.google.com/intl/pt-BR/lp/forms/?utm_source=google)
+>>   - [Microsoft Forms](https://forms.office.com/Pages/DesignPageV2.aspx)
+>> - Configuração do Windows a partir da página 36 da [📑Apostila][apostila]:
+>>   - interface e manuseio de janelas, área de trabalho,
+>>   - manipulação de arquivos e pastas,
+>>   - recurso de área de transferência,
+>>   - acessórios do SO,
+>>   - painel de controle.
+>>
+>>>[!todo] 🖥️ Atividade:
+>>> - Criar um Formulário on-line de pesquisa de satisfação;
+>>> - Mudar a imagem de sua conta de usuário do Windows;
+>>> - Identificar o espaço livre no armazenamento;
 
 > [!check] Progresso das aulas
 >
->>[!note] UC1: Início em 17/03 <progress value="2" max="18"></progress> 2 de 18 Aulas;
+>>[!note] UC1: Início em 17/03 <progress value="4" max="18"></progress> 4 de 18 Aulas;
 
 > [!important]- 📚Material didático
 > 
-> - [📑Apostila Informática Básica - Intensivo Windows.pdf - Google Drive](https://drive.google.com/file/d/1HNT1is949xITALuJXT1dwaLCbYexrIGT/view?usp=sharing)
+> - [📑Apostila Informática Básica - Intensivo Windows.pdf - Google Drive][apostila]
 > - [📶 Treinamento do Microsoft 365](https://support.microsoft.com/pt-br/training)
 > - [➕ Modelos gratuitos para mídia social, documentos e designs | Microsoft Create](https://create.microsoft.com/pt-br)
 > - [💻 Windows 10 - Biblioteca Digital](https://bibliotecadigitalsenac.com.br/#/?contentInfo=2795)
@@ -59,3 +95,5 @@
 > - [📸Power Point - Biblioteca digital](https://bibliotecadigitalsenac.com.br/?from=busca%3FcontentInfo%3D2304%26term%3Dpowerpoint&page=12&section=0#/legacy/2304) | [📄 atividades PowerPoint](https://www.editorasenacsp.com.br/informatica/powerpoint2019/atividades.zip)
 > - [🌐Conectividade de redes - Biblioteca digital](https://bibliotecadigitalsenac.com.br/?from=busca%3FcontentInfo%3D2932%26term%3Dredes#/legacy/epub/2932)
 > - [📶INFRAESTRUTURA DE REDES | Jocile](https://jocile.github.io/aulas/categories/infraestrutura-de-redes/)
+
+[apostila]: https://drive.google.com/file/d/1HNT1is949xITALuJXT1dwaLCbYexrIGT/view?usp=sharing

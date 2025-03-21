@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/estacao-de-trabalho/","title":"Estação de trabalho","metatags":{"description":"trata-se de um conjuntos de equipamentos mecânicos e eletrônicos adequados e capazes de processar dados afim de que estes se tornem informação"},"tags":["Aulas","Assistente-de-TI"],"updated":"2025-03-18T10:29:35.581-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/estacao-de-trabalho/","title":"Estação de trabalho","metatags":{"description":"trata-se de um conjuntos de equipamentos mecânicos e eletrônicos adequados e capazes de processar dados afim de que estes se tornem informação"},"tags":["Aulas","Assistente-de-TI"],"updated":"2025-03-19T21:04:57.167-03:00"}
 ---
+
 
 ## Estação de trabalho
 
@@ -26,8 +27,8 @@ Esse modelo é definido desde a arquitetura de criada por Von Neuman.\
 O Sistema Informático é formado basicamente por 2 componentes: o Hardware e Software.\
 Hardware é a parte física do computador, isto é, os componentes e equipamentos necessário para o funcionamento do sistema informático. Os programas que comandam o hardware, damos o nome de software.
 
-> [!info] A Arquitetura de Von Neumann
->  É uma arquitetura de computador que se caracteriza pela possibilidade de uma máquina digital armazenar seus programas no mesmo espaço de memória que os dados, podendo assim manipular tais programas. 
+> [!info] A Arquitetura de Von Neumann\
+> É uma arquitetura de computador que se caracteriza pela possibilidade de uma máquina digital armazenar seus programas no mesmo espaço de memória que os dados, podendo assim manipular tais programas.\
 > Esta arquitetura é um projeto modelo de um computador digital de programa armazenado que utiliza uma unidade de processamento (CPU) e uma de armazenamento ("memória") para comportar, respectivamente, instruções e dados. 
 
 ### Principais elementos
@@ -112,9 +113,7 @@ Na saída as informações são fornecidas ou realimentarão a entrada de um nov
 Um monitor é um dispositivo que exibe sinais de entrada em uma tela, como sinais analógicos ou digitais. Os monitores são usados em computadores, consoles de games e outros dispositivos eletrônicos para mostrar informações visualmente. Existem vários tipos de monitores:
 
 1. **Monitor CRT (Cathode Ray Tube):** Este é o tipo mais comum nos anos 90 e início dos 2000. Ele usa tubos catalíticos para exibir imagens, com resoluções até 2048x1536. Os CRT são conhecidos por sua largura de campo de visão e profundidade de cor, mas são menos comuns hoje em razão da menor demanda.
-
 2. **Monitor LCD (Liquid Crystal Display):** LCDs são monitores planos que usam cristais líquidos para exibir imagens. Eles são mais leves e compactos do que os CRT e geralmente têm menores dimensões. Existem LCDs em coloridos e widescreen, com resoluções variando de 1280x720 até 2560x1440.
-
 3. **Monitor LED (Light Emitting Diode):** Os monitores LED são relativamente recentes e usam LEDs para iluminar a tela. Eles são conhecidos por sua baixa consomeração de energia e longa vida útil. Geralmente, são encontrados em dispositivos portáteis e pequenos.
 
 Os monitores podem ter conectores VGA, DVI ou HDMI para receber sinais de entrada. Além disso, someiros e ajustes de brilho são comuns em modelos maisadvanced. A escolha do tipo de monitor depende do uso específico, como jogos, trabalho ou entretenimento.
@@ -125,14 +124,11 @@ Uma impressora é um dispositivo que imprime documentos em papel ou em outros ma
 
 Existem vários tipos de impressoras:
 
-1. ** Impressora de Deskjet:** São pequenas e convenientes para uso residencial. Elas são economicamente acessíveis e idealmente adequadas para uso pessoal ou simples tarefas domésticas.
-
-2. ** Impressora Laser:** Oferecem alta qualidade de impressão com baixa taxa de consumo de tinta. Geralmente usadas em escritórios e ambientes comerciais, elas são mais caras mas fornecem resultados profissionais.
-
-3. ** Impressora de Submarket:** Designadas para tarefas específicas, como imprimir fotos ou carteiras, estas impressoras geralmente têm preços acessíveis e velocidades decentes.
+1. **Impressora de Deskjet:** São pequenas e convenientes para uso residencial. Elas são economicamente acessíveis e idealmente adequadas para uso pessoal ou simples tarefas domésticas.
+2. **Impressora Laser:** Oferecem alta qualidade de impressão com baixa taxa de consumo de tinta. Geralmente usadas em escritórios e ambientes comerciais, elas são mais caras mas fornecem resultados profissionais.
+3. **Impressora de Submarket:** Designadas para tarefas específicas, como imprimir fotos ou carteiras, estas impressoras geralmente têm preços acessíveis e velocidades decentes.
 
 As impressoras podem ter conectores USB, Wi-Fi ou Ethernet para integrar com dispositivos digitais. Além disso, o nível de tinta e a capacidade do tambor são fatores importantes na escolha. A tecnologia continua evoluindo, com impressoras mais intelligentes e capazes de lidar com múltiplas funções.
-
 
 **Som**
 
@@ -140,9 +136,9 @@ O som é um componente essencial em dispositivos eletrônicos, proporcionando um
 
 Existem vários tipos de som:
 
-1. ** Som Binaural:** Utiliza dois fones para criar um efeito de som estéreo sem necessidade de fones externos.
-2. ** Som Stereo:** Usa um par de fones ou falantes para reproduzir sons em esquerda e direita, criando uma imagem sonora mais realista.
-3. ** Som Surround:** Cria um ambiente auditivo envolvente com vários falantes, imitando um espaço tridimensional.
+1. **Som Binaural:** Utiliza dois fones para criar um efeito de som estéreo sem necessidade de fones externos.
+2. **Som Stereo:** Usa um par de fones ou falantes para reproduzir sons em esquerda e direita, criando uma imagem sonora mais realista.
+3. **Som Surround:** Cria um ambiente auditivo envolvente com vários falantes, imitando um espaço tridimensional.
 
 Os sistemas de som podem incluir altavozes para fundos, centros e laterais, além de amplificadores para ajustar a intensidade do som. A qualidade do som depende da potência dos componentes e da configuração do sistema.
 
@@ -173,7 +169,6 @@ Um computador utiliza vários dispositivos para receber informações (dispositi
 3. **Dispositivos de Leitura de Cartões (Card Readers)**
    - Utilizados para inserção e extração de dados de cartões como SD, USB ou outros tipos específicos.
 
-
 **Pen-drive**
 
 Um pen-drive é um dispositivo externo de armazenamento de dados que utiliza memória flash para armazenar informações. Ele se conecta via USB ou outros portes específicos e permite transferir arquivos rapidamente. Os pen-drives são compactos, fáceis de usar e estão amplamente disponíveis em diferentes capacidades.
@@ -186,9 +181,9 @@ Uma rede é um sistema de intercomunicação que permite a transmissão de dados
 
 Existem vários tipos de redes:
 
-1. ** Rede Fixa:** Consiste em fios físicos que conectam os dispositivos. É a forma mais comum em casas e escritórios pequenos.
-2. ** Rede Wireless:** Utiliza ondas sem fio para transmitir dados, permitindo maior mobilidade.
-3. ** Rede de Computadores:** Conectores como VGA ou HDMI são utilizados para conectar computadores entre si.
+1. **Rede Fixa:** Consiste em fios físicos que conectam os dispositivos. É a forma mais comum em casas e escritórios pequenos.
+2. **Rede Wireless:** Utiliza ondas sem fio para transmitir dados, permitindo maior mobilidade.
+3. **Rede de Computadores:** Conectores como VGA ou HDMI são utilizados para conectar computadores entre si.
 
 Redes também podem incluir hubs e switches para distribuir a conexão em redes maiores. A tecnologia de rede continua evoluindo, permitindo uma melhor experiência ao usuário.
 
