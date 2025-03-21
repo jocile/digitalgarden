@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-03-21T10:51:02.327-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-03-21T10:55:05.676-03:00"}
 ---
 
 
@@ -33,12 +33,11 @@
 > 4. Elabora e edita dados numéricos e gráficos de acordo com os recursos do editor de planilhas eletrônicas.
 > 5. Armazena e compartilha dados de acordo com os requisitos da solução.
 
->[!done] Cronograma da Unidade Curricular 1 - Fundamento de Python
+>[!done] Cronograma da Unidade Curricular 1 - Operador
 >
 >>[!note]- Aula em 17/03
 >> - 🎓 [Abertura do curso](https://docs.google.com/presentation/d/12myN-OpLqppVuXahxOGlCTRJcd84ftr_/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> - ✨ [Aula 1 - Apresentação](https://drive.google.com/file/d/1-6RPU-erktgeD7HxvyWlQguM4dIXTYuH/view?usp=sharing)
->> 
 >>>[!todo] 🖥️ Atividade: 
 >>> - Criar um relatório sobre:
 >>>   - A versão do Sistema Operacional e do Office;
@@ -47,7 +46,6 @@
 >
 >>[!note]- Aula em 18/03
 >> - [[Assistente-de-TI/Estacao-de-trabalho\|Estação de Trabalho em Tecnologia da Informação]]
->>
 >>>[!todo] 🖥️ Atividade: 
 >>> - Digitação com acentuação na página 53 da [📑Apostila][apostila]
 >
@@ -59,7 +57,6 @@
 >>   - acesso e tela de bloqueio;
 >>   - organização de ícones no menu Iniciar e área de trabalho;
 >>   - organização de arquivos;
->>
 >>>[!todo] 🖥️ Atividade:
 >>> - Organização de ícones e arquivos no menu Iniciar e na Área de Trabalho, na páginas 29 a 35 da [📑Apostila][apostila]
 >>> - Criar arquivos ocultos e [como deixar uma pasta invisível](https://dti.unilab.edu.br/blog/2014/08/13/como-deixar-uma-pasta-invisivel/)
@@ -74,7 +71,6 @@
 >>   - recurso de área de transferência,
 >>   - acessórios do SO,
 >>   - painel de controle.
->>
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar um Formulário on-line de pesquisa de satisfação;
 >>> - Mudar a imagem de sua conta de usuário do Windows;
