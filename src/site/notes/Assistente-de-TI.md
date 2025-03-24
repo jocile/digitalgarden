@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-03-21T10:55:05.676-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-03-24T11:11:18.196-03:00"}
 ---
 
 
@@ -33,6 +33,10 @@
 > 4. Elabora e edita dados numéricos e gráficos de acordo com os recursos do editor de planilhas eletrônicas.
 > 5. Armazena e compartilha dados de acordo com os requisitos da solução.
 
+> [!check] Progresso das aulas
+>
+>>[!note] UC1: Início em 17/03 <progress value="5" max="18"></progress> 5 de 18 Aulas;
+
 >[!done] Cronograma da Unidade Curricular 1 - Operador
 >
 >>[!note]- Aula em 17/03
@@ -57,28 +61,31 @@
 >>   - acesso e tela de bloqueio;
 >>   - organização de ícones no menu Iniciar e área de trabalho;
 >>   - organização de arquivos;
->>>[!todo] 🖥️ Atividade:
+>>>[!todo] 🖥️ Atividades:
 >>> - Organização de ícones e arquivos no menu Iniciar e na Área de Trabalho, na páginas 29 a 35 da [📑Apostila][apostila]
 >>> - Criar arquivos ocultos e [como deixar uma pasta invisível](https://dti.unilab.edu.br/blog/2014/08/13/como-deixar-uma-pasta-invisivel/)
 >
->>[!note]+ Aula em 21/03
+>>[!note]- Aula em 21/03
 >> - Conhecendo Formulários on-line:
 >>   - [Formulários Google: criação de formulários on-line para empresas](https://workspace.google.com/intl/pt-BR/lp/forms/?utm_source=google)
 >>   - [Microsoft Forms](https://forms.office.com/Pages/DesignPageV2.aspx)
->> - Configuração do Windows a partir da página 36 da [📑Apostila][apostila]:
+>> - Configuração de interface de telas da área de trabalho do Windows, seguindo o roteiro a partir da página 36 da [📑Apostila][apostila]:
+>>>[!todo] 🖥️ Atividades:
+>>> - Criar um Formulário on-line de pesquisa de satisfação;
+>>> - Mudar a imagem das telas de bloqueio e desktop do Windows;
+>>> - Identificar como instalar e modificar temas do Windows;
+>
+>>[!note]+ Aula em 24/03
 >>   - interface e manuseio de janelas, área de trabalho,
+>>   - opções de energia;
 >>   - manipulação de arquivos e pastas,
 >>   - recurso de área de transferência,
 >>   - acessórios do SO,
 >>   - painel de controle.
 >>>[!todo] 🖥️ Atividade:
->>> - Criar um Formulário on-line de pesquisa de satisfação;
+>>> - Configurar o desligamento automático para 30 minutos;
 >>> - Mudar a imagem de sua conta de usuário do Windows;
->>> - Identificar o espaço livre no armazenamento;
-
-> [!check] Progresso das aulas
->
->>[!note] UC1: Início em 17/03 <progress value="4" max="18"></progress> 4 de 18 Aulas;
+>>> - Selecionando textos conforme pg 56 da [📑Apostila][apostila]:;
 
 > [!important]- 📚Material didático
 > 
