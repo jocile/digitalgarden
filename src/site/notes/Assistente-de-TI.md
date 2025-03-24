@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-03-24T11:11:18.196-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-03-24T11:36:08.888-03:00"}
 ---
 
 
@@ -80,7 +80,7 @@
 >>   - opções de energia;
 >>   - manipulação de arquivos e pastas,
 >>   - recurso de área de transferência,
->>   - acessórios do SO,
+>>   - acessórios do SO: bloco de notas, [[Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], WordPad;
 >>   - painel de controle.
 >>>[!todo] 🖥️ Atividade:
 >>> - Configurar o desligamento automático para 30 minutos;
