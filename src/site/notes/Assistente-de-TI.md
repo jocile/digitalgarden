@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-03-24T11:36:08.888-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-03-26T10:57:44.644-03:00"}
 ---
 
 
@@ -35,7 +35,7 @@
 
 > [!check] Progresso das aulas
 >
->>[!note] UC1: Início em 17/03 <progress value="5" max="18"></progress> 5 de 18 Aulas;
+>>[!note] UC1: Início em 17/03 <progress value="6" max="18"></progress> 6 de 18 Aulas;
 
 >[!done] Cronograma da Unidade Curricular 1 - Operador
 >
@@ -75,17 +75,25 @@
 >>> - Mudar a imagem das telas de bloqueio e desktop do Windows;
 >>> - Identificar como instalar e modificar temas do Windows;
 >
->>[!note]+ Aula em 24/03
+>>[!note]- Aula em 24/03
 >>   - interface e manuseio de janelas, área de trabalho,
 >>   - opções de energia;
 >>   - manipulação de arquivos e pastas,
 >>   - recurso de área de transferência,
->>   - acessórios do SO: bloco de notas, [[Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], WordPad;
 >>   - painel de controle.
 >>>[!todo] 🖥️ Atividade:
 >>> - Configurar o desligamento automático para 30 minutos;
 >>> - Mudar a imagem de sua conta de usuário do Windows;
->>> - Selecionando textos conforme pg 56 da [📑Apostila][apostila]:;
+>>> - Selecionando textos conforme pg. 56 da [📑Apostila][apostila];
+>
+>>[!attention] 25/03: FERIADO: Carta Magna
+>
+>>[!note]+ Aula em 26/03
+>>   - Conhecendo os acessórios do Windows: bloco de notas, calculadora Paint e Wordpad, digitação com acentos e atalhos de teclado
+>>   - acessórios do SO: bloco de notas, [[Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], WordPad;
+>>>[!todo] 🖥️ Atividade:
+>>   - Criando textos e formatando no WordPad;
+>>   - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
 
 > [!important]- 📚Material didático
 > 
@@ -98,5 +106,20 @@
 > - [📸Power Point - Biblioteca digital](https://bibliotecadigitalsenac.com.br/?from=busca%3FcontentInfo%3D2304%26term%3Dpowerpoint&page=12&section=0#/legacy/2304) | [📄 atividades PowerPoint](https://www.editorasenacsp.com.br/informatica/powerpoint2019/atividades.zip)
 > - [🌐Conectividade de redes - Biblioteca digital](https://bibliotecadigitalsenac.com.br/?from=busca%3FcontentInfo%3D2932%26term%3Dredes#/legacy/epub/2932)
 > - [📶INFRAESTRUTURA DE REDES | Jocile](https://jocile.github.io/aulas/categories/infraestrutura-de-redes/)
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vagas/#vagas-em-ti-na-cidade-de-sobral-ce" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## Vagas em TI na cidade de Sobral - CE
+
+![vaga-execute.jpeg](/img/user/vaga-execute.jpeg)
+
+![vaga-sobralnet.jpeg](/img/user/vaga-sobralnet.jpeg)
+
+
+</div></div>
+
 
 [apostila]: https://drive.google.com/file/d/1HNT1is949xITALuJXT1dwaLCbYexrIGT/view?usp=sharing
