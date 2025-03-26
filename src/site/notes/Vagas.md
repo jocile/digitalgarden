@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/vagas/","title":"Vagas","metatags":{"description":"Oportunidades em emprego"},"tags":["vagas"],"updated":"2025-03-26T11:04:54.841-03:00"}
+{"dg-publish":true,"permalink":"/vagas/","title":"Vagas","metatags":{"description":"Oportunidades em emprego"},"tags":["vagas"],"updated":"2025-03-26T15:27:34.267-03:00"}
 ---
 
 
 ## Vagas em TI na cidade de Sobral - CE
 
 ![vaga-execute.jpeg](/img/user/vaga-execute.jpeg)
+
+![vaga-pluralmed.jpeg](/img/user/vaga-pluralmed.jpeg)
 
 ![vaga-sobralnet.jpeg](/img/user/vaga-sobralnet.jpeg)
 

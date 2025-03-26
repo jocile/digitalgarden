@@ -116,6 +116,8 @@
 
 ![vaga-execute.jpeg](/img/user/vaga-execute.jpeg)
 
+![vaga-pluralmed.jpeg](/img/user/vaga-pluralmed.jpeg)
+
 ![vaga-sobralnet.jpeg](/img/user/vaga-sobralnet.jpeg)
 
 
