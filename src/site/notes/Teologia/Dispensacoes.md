@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/dispensacoes/","title":"Dispensações","metatags":{"description":"Comparação da teoria das eras ou dispensações em tabela"},"tags":["Teologia","Dispensacionalismo"],"updated":"2025-01-19T19:04:20.016-03:00"}
+{"dg-publish":true,"permalink":"/teologia/dispensacoes/","title":"Dispensações","metatags":{"description":"Comparação da teoria das eras ou dispensações em tabela"},"tags":["Teologia","Dispensacionalismo"],"updated":"2025-03-27T09:40:43.918-03:00"}
 ---
 
 
@@ -34,4 +34,4 @@
 
 - [pt.wikipedia.org/wiki/Dispensacionalismo](https://pt.wikipedia.org/wiki/Dispensacionalismo)
 - [Escatologia Bíblica - 1° Aula - Curso de Teologia FATEFOR - Núcleo Água Fria - YouTube](https://www.youtube.com/watch?v=jb00jI_SS7o)
-- [MANUAL DE ESCATOLOGIA](MANUAL%20DE%20ESCATOLOGIA.md)
+- [Manual de Escatologia por Pentecost](Manual%20de%20Escatologia%20por%20Pentecost.md)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-03-26T10:57:44.644-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-03-27T12:47:15.489-03:00"}
 ---
 
 
@@ -35,7 +35,7 @@
 
 > [!check] Progresso das aulas
 >
->>[!note] UC1: Início em 17/03 <progress value="6" max="18"></progress> 6 de 18 Aulas;
+>>[!note] UC1: Início em 17/03 <progress value="7" max="18"></progress> 7 de 18 Aulas;
 
 >[!done] Cronograma da Unidade Curricular 1 - Operador
 >
@@ -88,24 +88,32 @@
 >
 >>[!attention] 25/03: FERIADO: Carta Magna
 >
->>[!note]+ Aula em 26/03
+>>[!note]- Aula em 26/03
 >>   - Conhecendo os acessórios do Windows: bloco de notas, calculadora Paint e Wordpad, digitação com acentos e atalhos de teclado
 >>   - acessórios do SO: bloco de notas, [[Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], WordPad;
 >>>[!todo] 🖥️ Atividade:
->>   - Criando textos e formatando no WordPad;
->>   - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
+>>> - Criando textos e formatando no WordPad;
+>>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
+>
+>>[!note]+ Aula em 27/03
+>>   - Editor de texto [Word](https://support.microsoft.com/pt-br/word): área de trabalho, formatação de textos (fonte e parágrafo), ortografia e gramática, cabeçalho e rodapé, objetos e imagens, tabelas e listas, impressão.
+>>   - [📑Apostila][apostila] a partir da pg. 73: Processador de Textos Word: Elementos da tela; Manipulação com arquivo de texto; Recursos de seleção de texto; Copiar, recortar e colar texto; Ferramenta Zoom; Desfaz e refaz ações; Formatação de fonte e parágrafos; Tabulação; Bordas, plano de fundo (sombreamento) e moldura na página e no texto; Cabeçalho e rodapé; Quebra de página; Operações com figuras; Numeração de páginas; Listas numeradas e com marcadores; Inserir e formatar Tabelas; Revisor ortográfico; Configuração de página e de impressão;
+>>>[!todo] 🖥️ Atividade:
+>>> - Conhecendo a interface do Word: Criando texto sobre o Blu-Ray contendo formatação e parágrafos;
+>>> - Conhecendo estilos de texto no Word Criando o texto Iracema;
 
 > [!important]- 📚Material didático
 > 
 > - [📑Apostila Informática Básica - Intensivo Windows.pdf - Google Drive][apostila]
-> - [📶 Treinamento do Microsoft 365](https://support.microsoft.com/pt-br/training)
-> - [➕ Modelos gratuitos para mídia social, documentos e designs | Microsoft Create](https://create.microsoft.com/pt-br)
-> - [💻 Windows 10 - Biblioteca Digital](https://bibliotecadigitalsenac.com.br/#/?contentInfo=2795)
-> - [📄 Word 2019 - Biblioteca digital](https://bibliotecadigitalsenac.com.br/#/?contentInfo=2309) | [📄 atividades Word](https://www.editorasenacsp.com.br/informatica/word2019/atividades.zip)
-> - [📈 Excel 2019 - Biblioteca digital](https://bibliotecadigitalsenac.com.br/#/busca?contentInfo=3130&term=excel) | [📄 atividades Excel](https://www.editorasenacsp.com.br/informatica/excel2019/planilhas.zip)
-> - [📸Power Point - Biblioteca digital](https://bibliotecadigitalsenac.com.br/?from=busca%3FcontentInfo%3D2304%26term%3Dpowerpoint&page=12&section=0#/legacy/2304) | [📄 atividades PowerPoint](https://www.editorasenacsp.com.br/informatica/powerpoint2019/atividades.zip)
+> - [❓Central de ajuda da Microsoft](https://support.microsoft.com/pt-br/all-products) | [📶 Treinamento](https://support.microsoft.com/pt-br/training) | [🎓 Learn](https://learn.microsoft.com/pt-br/training/)
+> - [➕ Create - Modelos gratuitos para mídia social, documentos e designs](https://create.microsoft.com/pt-br)
 > - [🌐Conectividade de redes - Biblioteca digital](https://bibliotecadigitalsenac.com.br/?from=busca%3FcontentInfo%3D2932%26term%3Dredes#/legacy/epub/2932)
 > - [📶INFRAESTRUTURA DE REDES | Jocile](https://jocile.github.io/aulas/categories/infraestrutura-de-redes/)
+>>>[!todo] [Biblioteca Digital SENAC](https://bibliotecadigitalsenac.com.br): 
+>>> - [💻 Windows 10](https://bibliotecadigitalsenac.com.br/#/?contentInfo=2795) 
+>>> - [📄 Word](https://bibliotecadigitalsenac.com.br/#/?contentInfo=2309) | [📄 atividades Word](https://www.editorasenacsp.com.br/informatica/word2019/atividades.zip)
+>>> - [📈 Excel](https://bibliotecadigitalsenac.com.br/#/busca?contentInfo=3130&term=excel) | [📄 atividades Excel](https://www.editorasenacsp.com.br/informatica/excel2019/planilhas.zip)
+>>> - [📸Power Point](https://bibliotecadigitalsenac.com.br/?from=busca%3FcontentInfo%3D2304%26term%3Dpowerpoint&page=12&section=0#/legacy/2304) | [📄 atividades PowerPoint](https://www.editorasenacsp.com.br/informatica/powerpoint2019/atividades.zip)
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vagas/#vagas-em-ti-na-cidade-de-sobral-ce" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -114,11 +122,13 @@
 
 ## Vagas em TI na cidade de Sobral - CE
 
-![vaga-execute.jpeg](/img/user/vaga-execute.jpeg)
+[![vaga-execute.jpeg|400](/img/user/vaga-execute.jpeg)](vaga-execute.jpeg)
 
-![vaga-pluralmed.jpeg](/img/user/vaga-pluralmed.jpeg)
+[![vaga-pluralmed.jpeg|400](/img/user/vaga-pluralmed.jpeg)](vaga-pluralmed.jpeg)
 
-![vaga-sobralnet.jpeg](/img/user/vaga-sobralnet.jpeg)
+[Oportunidades PluralMed @grupopluralmed](https://www.instagram.com/grupopluralmed/)
+
+[![vaga-sobralnet.jpeg|400](/img/user/vaga-sobralnet.jpeg)](vaga-sobralnet.jpeg)
 
 
 </div></div>

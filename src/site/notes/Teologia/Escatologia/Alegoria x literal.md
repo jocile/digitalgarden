@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/escatologia/alegoria-x-literal/","title":"Alegoria x literal","metatags":{"description":"A interpretação alegórica busca um significado simbólico ou espiritual por trás do texto literal"},"tags":["Escatologia","Hermeneutica"],"updated":"2025-01-19T19:10:30.417-03:00"}
+{"dg-publish":true,"permalink":"/teologia/escatologia/alegoria-x-literal/","title":"Alegoria x literal","metatags":{"description":"A interpretação alegórica busca um significado simbólico ou espiritual por trás do texto literal"},"tags":["Escatologia","Hermeneutica"],"updated":"2025-03-27T09:40:43.952-03:00"}
 ---
 
 
@@ -19,7 +19,7 @@ A interpretação da escatologia, o estudo dos eventos finais, é um tópico com
 
 - **Perigos**: O principal perigo da interpretação alegórica é a **subjetividade**. A interpretação fica sujeita à mente do intérprete, que pode impor seus próprios preconceitos, crenças e contexto social ao texto. Isso pode levar a interpretações distorcidas e até mesmo contraditórias. Além disso, a falta de critérios objetivos para validar as interpretações alegóricas torna difícil comprovar sua validade.
 
->[!quote] A autoridade básica da interpretação deixa de ser a Bíblia e passa a ser a mente do intérprete. A interpretação pode então ser distorcida pelas posições doutrinárias do intérprete, pela autoridade da igreja à qual ele pertence, por seu ambiente social e por sua formação ou por uma enormidade de fatores... Um terceiro grande perigo do método alegórico é que não há meios de provar as conclusões do intérprete ([MANUAL DE ESCATOLOGIA](MANUAL%20DE%20ESCATOLOGIA.md) J. Dwight Pentecost).
+>[!quote] A autoridade básica da interpretação deixa de ser a Bíblia e passa a ser a mente do intérprete. A interpretação pode então ser distorcida pelas posições doutrinárias do intérprete, pela autoridade da igreja à qual ele pertence, por seu ambiente social e por sua formação ou por uma enormidade de fatores... Um terceiro grande perigo do método alegórico é que não há meios de provar as conclusões do intérprete ([Manual de Escatologia por Pentecost](Manual%20de%20Escatologia%20por%20Pentecost.md) J. Dwight Pentecost).
 
 - **Crítica**: Os defensores da interpretação literal criticam a alegórica por sua arbitrariedade e falta de rigor metodológico. Eles argumentam que a alegorização abre espaço para interpretações especulativas e sem fundamento, comprometendo a integridade da mensagem bíblica.
 
@@ -36,7 +36,7 @@ A interpretação da escatologia, o estudo dos eventos finais, é um tópico com
 
 >[!quote] Baseia a interpretação em fatos. Procura estabelecer-se sobre dados objetivos — gramática, lógica, etimologia, história, geografia, arqueologia, [Teologia](Teologia.md) [...] Exerce sobre a interpretação um controle semelhante ao que a experiência exerce sobre o método científico [...] a justificação é o controle das interpretações. Qualquer coisa que não se conforme aos cânones do método literal-cultural-crítico deve ser rejeitada ou vista com suspeita. Além disso, esse método oferece a única fiscalização fidedigna para a constante ameaça de aplicar uma interpretação de duplo sentido às Escrituras [...] 
 
->[!quote] Tem obtido o maior sucesso na exposição da Palavra de Deus. A exegese não começou a sério até a igreja já ter mais de um milênio e meio de idade. Com o literalismo de Lutero e de Calvino, a luz da Escritura literalmente se acendeu [...] Esse é o aclamado método da alta tradição escolástica do protestantismo conservador. É o método de Bruce, Lightfoot, Zahn, A. T. Robertson, Ellicott, Machen, Cremer, Terry, Farrar, Lange, Green, Oehler, Schaff, Sampey, Wilson, Moule, Perowne, Henderson Broadus, Stuart — para citar apenas alguns exegetas típicos. (Ramm, op. cit, p. 62-3) . ([MANUAL DE ESCATOLOGIA](MANUAL%20DE%20ESCATOLOGIA.md) J. Dwight Pentecost).
+>[!quote] Tem obtido o maior sucesso na exposição da Palavra de Deus. A exegese não começou a sério até a igreja já ter mais de um milênio e meio de idade. Com o literalismo de Lutero e de Calvino, a luz da Escritura literalmente se acendeu [...] Esse é o aclamado método da alta tradição escolástica do protestantismo conservador. É o método de Bruce, Lightfoot, Zahn, A. T. Robertson, Ellicott, Machen, Cremer, Terry, Farrar, Lange, Green, Oehler, Schaff, Sampey, Wilson, Moule, Perowne, Henderson Broadus, Stuart — para citar apenas alguns exegetas típicos. (Ramm, op. cit, p. 62-3) . ([Manual de Escatologia por Pentecost](Manual%20de%20Escatologia%20por%20Pentecost.md) J. Dwight Pentecost).
 
 - **Linguagem figurada**: Os defensores da interpretação literal reconhecem que a Bíblia utiliza linguagem figurada, como alegorias, tipos e símbolos. Eles argumentam, no entanto, que a linguagem figurada é utilizada para expressar verdades literais, e não para negar ou obscurecer o significado histórico. O intérprete deve, portanto, buscar o significado literal que a linguagem figurada pretende transmitir.
 

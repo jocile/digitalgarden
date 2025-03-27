@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/jesus-e-a-salvacao/","title":"Jesus é a Salvacao","metatags":{"description":"Jesus é apresentado como aquele que possui as chaves da casa de Davi, representando a Nova Jerusalém e o acesso à salvação divina"},"tags":["Teologia","Cristologia","Soteriologia"],"updated":"2025-02-15T10:42:09.594-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/jesus-e-a-salvacao/","title":"Jesus é a Salvacao","metatags":{"description":"Jesus é apresentado como aquele que possui as chaves da casa de Davi, representando a Nova Jerusalém e o acesso à salvação divina"},"tags":["Teologia","Cristologia","Soteriologia"],"updated":"2025-03-27T09:40:43.891-03:00"}
 ---
 
 
@@ -70,7 +70,7 @@ Toda essa discussão suscita o problema da salvação na era milenar. A opinião
 2. o perdão dos pecados (Jr 31.34) e
 3. a plenitude do Espírito (Jl 2.28,29).
 
-O Novo Testamento esclarece que a nova aliança se baseia no sangue do Senhor Jesus Cristo (Hb 8.6; 10.12-18; Mt 26.28). Logo, pode-se afirmar que a salvação no milênio estará baseada no valor da morte de Cristo e será apropriada pela fé (Hb 11.6), assim como Abraão, pela fé, se apropriou da promessa de Deus e foi justificado (Rm 4.3). A expressão da fé salvadora se diferenciará das expressões exigidas no presente, mas os sacrifícios devem ser vistos como meras expressões de fé e não como meios de salvação.^[J. Dwight Pentecost - [[Teologia/Bibliografia de Teologia/MANUAL DE ESCATOLOGIA\|MANUAL DE ESCATOLOGIA]]]
+O Novo Testamento esclarece que a nova aliança se baseia no sangue do Senhor Jesus Cristo (Hb 8.6; 10.12-18; Mt 26.28). Logo, pode-se afirmar que a salvação no milênio estará baseada no valor da morte de Cristo e será apropriada pela fé (Hb 11.6), assim como Abraão, pela fé, se apropriou da promessa de Deus e foi justificado (Rm 4.3). A expressão da fé salvadora se diferenciará das expressões exigidas no presente, mas os sacrifícios devem ser vistos como meras expressões de fé e não como meios de salvação.^[J. Dwight Pentecost - [[Teologia/Bibliografia de Teologia/Manual de Escatologia por Pentecost\|Manual de Escatologia por Pentecost]]]
 
 - **A vitória de Cristo na cruz derrota Satanás de forma irrevogável, garantindo a salvação daqueles que se unem a Ele por meio da fé.** Essa batalha cósmica ilustra o poder redentor da cruz, libertando a humanidade do domínio do mal e inaugurando um novo reino de justiça.
 

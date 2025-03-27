@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/escatologia/a-volta-de-cristo/","title":"A volta de Cristo","metatags":{"description":"É chegada a hora em que Cristo ocupa a Sua devida posição, sendo glorificado acima dos principados e potestades, e sobre todo o nome que se nomeia"},"tags":["Escatologia","Cristologia"],"updated":"2025-01-19T18:25:28.674-03:00"}
+{"dg-publish":true,"permalink":"/teologia/escatologia/a-volta-de-cristo/","title":"A volta de Cristo","metatags":{"description":"É chegada a hora em que Cristo ocupa a Sua devida posição, sendo glorificado acima dos principados e potestades, e sobre todo o nome que se nomeia"},"tags":["Escatologia","Cristologia"],"updated":"2025-03-27T09:40:43.946-03:00"}
 ---
 
 
@@ -47,7 +47,7 @@ Notemos o **arrebatamento da igreja como um evento distinto da volta de Cristo**
 > - o segundo é chamado de revelação.\
 > O posicionamento mais antigo acreditava e aceitava a questão da “iminência”; todavia a crítica maior contra essa posição concentrava-se mais no aspecto da ira de Deus e se a igreja será chamada a experimentar parte dela ou toda ela durante a tribulação.
 > 
-> O [MANUAL DE ESCATOLOGIA](MANUAL%20DE%20ESCATOLOGIA.md) de J.Dwigth Pentecoste, pg. 217, apresenta uma base essencial dessa posição “O arrebatamento Pré-tribulacionista descansa essencialmente na premissa maior – o método literal de interpretação das escrituras como complemento necessário a isso.\
+> O [Manual de Escatologia por Pentecost](Manual%20de%20Escatologia%20por%20Pentecost.md) de J.Dwigth Pentecoste, pg. 217, apresenta uma base essencial dessa posição “O arrebatamento Pré-tribulacionista descansa essencialmente na premissa maior – o método literal de interpretação das escrituras como complemento necessário a isso.\
 > Os pré-tribulacionistas acreditam na interpretação dispensacionista da palavra de Deus. A igreja e Israel são dois grupos distintos para os quais Deus tem um plano divino.\
 > A igreja é um Mistério não-revelado no Antigo Testamento. Essa era de mistério presente encerra o plano de Deus para com Israel por sua rejeição ao Messias na sua primeira vinda.\
 > Esse plano de Mistério deve ser completado antes que Deus possa retomar seu plano com Israel e completá-lo. Tais considerações surgem do método literal de interpretação”. LIVRO DE ESCATOLOGIA TEOLOGICA
