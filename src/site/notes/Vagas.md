@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/vagas/","title":"Vagas","metatags":{"description":"Oportunidades em emprego"},"tags":["vagas"],"updated":"2025-03-27T13:00:49.950-03:00"}
+{"dg-publish":true,"permalink":"/vagas/","title":"Vagas","metatags":{"description":"Oportunidades em emprego"},"tags":["vagas"],"updated":"2025-03-28T11:47:55.739-03:00"}
 ---
 
 
 ## Vagas em TI na cidade de Sobral - CE
 
-[![vaga-execute.jpeg|400](/img/user/vaga-execute.jpeg)](vaga-execute.jpeg)
+![vaga-execute.jpeg|400](/img/user/vaga-execute.jpeg)
 
-[![vaga-pluralmed.jpeg|400](/img/user/vaga-pluralmed.jpeg)](vaga-pluralmed.jpeg)
+![vaga-pluralmed.jpeg|400](/img/user/vaga-pluralmed.jpeg)
 
 [Oportunidades PluralMed @grupopluralmed](https://www.instagram.com/grupopluralmed/)
 
-[![vaga-sobralnet.jpeg|400](/img/user/vaga-sobralnet.jpeg)](vaga-sobralnet.jpeg)
+![vaga-sobralnet.jpeg|400](/img/user/vaga-sobralnet.jpeg)
 
 ## Vagas anteriores
 
