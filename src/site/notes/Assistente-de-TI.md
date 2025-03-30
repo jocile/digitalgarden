@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-03-28T12:28:03.121-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-03-30T17:51:43.110-03:00"}
 ---
 
 
@@ -22,8 +22,6 @@
 > | UC4: Configurar e operar rede local de computadores.                                | 36            |
 > | UC 5: Projeto Integrador - Assistente de Tecnologias da Informação                  | 20            |
 
-
-
 ## UC1 - Operador de computadores
 
 > [!success]- 🖥️ Habilidades
@@ -36,6 +34,19 @@
 > [!check] Progresso das aulas
 >
 >>[!note] UC1: Início em 17/03 <progress value="8" max="18"></progress> 8 de 18 Aulas;
+
+```mermaid
+gantt
+     title UC1
+     excludes Sat - Sun weekends, 19:03, 25:03
+     dateFormat DD:MM
+     axisFormat %d.%m
+     section UC1
+         Windows :a1, 17:03, 6d
+         Word :a2,after a1, 5d
+         Excel :a3, after a2, 5d
+         PowerPoint :a4, after a3, 2d
+```
 
 >[!done] Cronograma da Unidade Curricular 1 - Operador
 >
