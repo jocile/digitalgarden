@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cursos/curso-programador-de-sistemas/","title":"Curso programador de sistemas","metatags":{"description":"O curso capacita o participante em programação orientada a objetos, fundamentando-o para desenvolver aplicações de sistemas computacionais.","og:image":"curso-prog.jpeg"},"hide":true,"hideInGraph":true,"tags":["curso"],"updated":"2025-03-31T10:49:40.838-03:00"}
+{"dg-publish":true,"permalink":"/cursos/curso-programador-de-sistemas/","title":"Curso programador de sistemas","metatags":{"description":"O curso capacita o participante em programação orientada a objetos, fundamentando-o para desenvolver aplicações de sistemas computacionais.","og:image":"curso-prog.jpeg"},"hide":true,"hideInGraph":true,"tags":["curso"],"updated":"2025-03-31T11:07:16.015-03:00"}
 ---
 
 # Curso programador de sistemas
 
-![curso-prog.jpeg](/img/user/curso-prog.jpeg)
+Cover:: ![curso-prog.jpeg](/img/user/curso-prog.jpeg)
 
 Descrição:: O curso capacita o participante em programação orientada a objetos, fundamentando-o para desenvolver aplicações de sistemas computacionais.
 
