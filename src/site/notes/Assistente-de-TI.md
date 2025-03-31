@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-03-30T17:51:43.110-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-03-31T13:32:07.911-03:00"}
 ---
 
 
@@ -33,7 +33,7 @@
 
 > [!check] Progresso das aulas
 >
->>[!note] UC1: Início em 17/03 <progress value="8" max="18"></progress> 8 de 18 Aulas;
+>>[!note] UC1: Início em 17/03 <progress value="9" max="18"></progress> 9 de 18 Aulas;
 
 ```mermaid
 gantt
@@ -112,14 +112,20 @@ gantt
 >>> - Conhecendo a interface do Word: Criando texto sobre o Blu-Ray contendo formatação e parágrafos;
 >>> - Conhecendo estilos de texto no Word Criando o texto Iracema;
 >
->>[!note]+ Aula em 28/03
+>>[!note]- Aula em 28/03
 >>   - [Microsoft Forms](https://forms.office.com/Pages/DesignPageV2.aspx)
->>   - Editor de texto [Word](https://support.microsoft.com/pt-br/word): formatação de textos (fonte e parágrafo), ortografia e gramática, cabeçalho e rodapé, objetos e imagens, tabelas e listas, impressão.
->>   - [📑Apostila][apostila] a partir da pg. 83: Processador de Textos Word: Manipulação com arquivo de texto e formatação e estilos de fonte e parágrafos; Copiar, recortar e colar texto; Ferramenta Zoom; Desfaz e refaz ações; 
->>   - Vídeos: [Resumo do filme: Piratas da Informática](https://www.youtube.com/watch?v=XhKvZPwrlGI) , [reunião de Bill Gates na IBM](https://www.youtube.com/watch?v=Zj3f7vfwBoY) , [Steve Jobs descobre o mouse](https://www.youtube.com/watch?v=0Rvn71r_Oic)
+>>   - Editor de texto [Word](https://support.microsoft.com/pt-br/word): formatação de textos (fonte e parágrafo), ortografia e gramática.
+>>   - [📑Apostila][apostila] a partir da pg. 83: Processador de Textos Word: Manipulação com arquivo de texto e formatação e estilos de fonte e parágrafos; Copiar, recortar e colar texto; Ferramenta Zoom; estilos de texto. 
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar um Formulário on-line de pesquisa de satisfação;
 >>> - Conhecendo estilos de texto no Word Criando os textos Iracema e o poema Cecília;
+>
+>>[!note]+ Aula em 31/03
+>>   - Editor de texto [Word](https://support.microsoft.com/pt-br/word):  formatação de textos (fonte e parágrafo), ortografia e gramática, cabeçalho e rodapé, objetos e imagens, tabelas e listas, impressão.
+>>   - [📑Apostila][apostila] a partir da pg. 88: Processador de Textos Word: Manipulação com arquivo de texto e formatação e estilos de fonte e parágrafos; Copiar, recortar e colar texto; Ferramenta Zoom; reverter texto, histórico de desfaz e refaz ações; Correção ortográfica;
+>>   - Vídeos: [Resumo do filme: Piratas da Informática](https://www.youtube.com/watch?v=XhKvZPwrlGI) , [reunião de Bill Gates na IBM](https://www.youtube.com/watch?v=Zj3f7vfwBoY) , [Steve Jobs descobre o mouse](https://www.youtube.com/watch?v=0Rvn71r_Oic)
+>>>[!todo] 🖥️ Atividade:
+>>> - Conhecendo estilos de texto no Word Criando os textos Responsabilidade Social e Teoria da música;
 
 
 
