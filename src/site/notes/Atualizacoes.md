@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atualizacoes/","title":"Atualizações","metatags":{"description":"Atualizações recentes"},"contentClasses":"row-alt row-hover","updated":"2025-03-17T08:56:44.674-03:00"}
+{"dg-publish":true,"permalink":"/atualizacoes/","title":"Atualizações","metatags":{"description":"Atualizações recentes"},"contentClasses":"row-alt row-hover","updated":"2025-03-30T22:08:06.928-03:00"}
 ---
 
 
