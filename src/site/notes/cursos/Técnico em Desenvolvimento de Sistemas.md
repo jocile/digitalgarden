@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cursos/tecnico-em-desenvolvimento-de-sistemas/","title":"Técnico em Desenvolvimento de Sistemas","metatags":{"description":"Exerce funções técnicas, como: administração do sistema de banco de dados, desenvolver software, programar rotinas de sistema utilizando linguagens e técnicas de programação, programação de sistemas para desktop e para web, entre outras atividades.","og:image":"curso-tec-sistemas.jpeg"},"hideInGraph":true,"tags":["curso"],"updated":"2025-03-31T11:23:19.294-03:00"}
+{"dg-publish":true,"permalink":"/cursos/tecnico-em-desenvolvimento-de-sistemas/","title":"Técnico em Desenvolvimento de Sistemas","metatags":{"description":"Exerce funções técnicas, como: administração do sistema de banco de dados, desenvolver software, programar rotinas de sistema utilizando linguagens e técnicas de programação, programação de sistemas para desktop e para web, entre outras atividades.","og:image":"curso-tec-sistemas.jpeg"},"hideInGraph":true,"tags":["curso"],"updated":"2025-03-31T20:47:31.987-03:00"}
 ---
 
 # Técnico em Desenvolvimento de Sistemas
 
-![curso-tec-sistemas.jpeg](/img/user/curso-tec-sistemas.jpeg)
+Cover :: ![curso-tec-sistemas.jpeg](/img/user/curso-tec-sistemas.jpeg)
 
 Descrição:: Exerce funções técnicas, como: administração do sistema de banco de dados, desenvolver software, programar rotinas de sistema utilizando linguagens e técnicas de programação, programação de sistemas para desktop e para web, entre outras atividades.
 
