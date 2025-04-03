@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cursos-dv-markdown/","title":"Cursos dv markdown","metatags":{"description":"cursos dataview"},"hideInGraph":true,"contentClasses":"cards","tags":["teste/funciona","cards"],"updated":"2025-04-03T08:38:30.088-03:00"}
+{"dg-publish":true,"permalink":"/cursos-dv-markdown/","title":"Cursos dv markdown","metatags":{"description":"cursos dataview"},"hideInGraph":true,"contentClasses":"cards","tags":["teste/nao-funciona","cards"],"updated":"2025-04-03T08:41:26.555-03:00"}
 ---
 
 
