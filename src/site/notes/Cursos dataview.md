@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Teste/Atualizacoes table cards dv.md","permalink":"/teste/atualizacoes-table-cards-dv/","title":"<% tp.file.title %>","metatags":{"description":"cursos dataview"},"hideInGraph":true,"contentClasses":"cards","tags":["teste/funciona","cards"],"updated":"2025-04-02T21:34:45.371-03:00"}
+{"dg-publish":true,"dg-path":"Teste","permalink":"/teste/","title":"<% tp.file.title %>","metatags":{"description":"cursos dataview"},"hideInGraph":true,"contentClasses":"cards","tags":["teste/funciona","cards"],"updated":"2025-04-02T21:40:06.915-03:00"}
 ---
 
 
