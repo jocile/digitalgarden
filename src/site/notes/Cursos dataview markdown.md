@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Teste/","permalink":"/teste//","title":"Cursos dataview markdown","metatags":{"description":"cursos dataview"},"hideInGraph":true,"contentClasses":"cards","tags":["teste/funciona","cards"],"updated":"2025-04-03T08:26:05.897-03:00"}
+{"dg-publish":true,"permalink":"/cursos-dataview-markdown/","title":"Cursos dataview markdown","metatags":{"description":"cursos dataview"},"hideInGraph":true,"contentClasses":"cards","tags":["teste/funciona","cards"],"updated":"2025-04-03T08:35:56.712-03:00"}
 ---
 
 
