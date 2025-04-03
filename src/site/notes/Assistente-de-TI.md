@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-01T12:43:43.352-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-03T15:27:07.238-03:00"}
 ---
 
 
@@ -33,7 +33,7 @@
 
 > [!check] Progresso das aulas
 >
->>[!note] UC1: Início em 17/03 <progress value="10" max="18"></progress> 10 de 18 Aulas;
+>>[!note] UC1: Início em 17/03 <progress value="12" max="18"></progress> 12 de 18 Aulas;
 
 ```mermaid
 gantt
@@ -42,10 +42,10 @@ gantt
      dateFormat DD:MM
      axisFormat %d.%m
      section UC1
-         Windows :a1, 17:03, 6d
-         Word :a2,after a1, 5d
-         Excel :a3, after a2, 5d
-         PowerPoint :a4, after a3, 2d
+         Windows :a1, 17:03, 7d
+         Word :a2,after a1, 6d
+         Excel :a3, after a2, 4d
+         PowerPoint :a4, after a3, 1d
 ```
 
 >[!done] Cronograma da Unidade Curricular 1 - Operador
@@ -126,10 +126,22 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> - Conhecendo estilos de texto no Word Criando os textos Responsabilidade Social e Teoria da música;
 >
->>[!note]+ Aula em 01/04
+>>[!note]- Aula em 01/04
 >>   - [📑Apostila][apostila] a partir da pg. 92: Processador de Textos Word:  Correção ortográfica, tabulações,  cabeçalho e rodapé, objetos e imagens.
 >>>[!todo] 🖥️ Atividades:
->>> - Conhecendo estilos de texto no Word Criando os textos Teoria da música, Menu com tabulação, Sumário manual.
+>>> - No Word Criando os textos Teoria da música, Menu com tabulação, Sumário manual.
+>
+>>[!note]- Aula em 02/04
+>>   - [📑Apostila][apostila] a partir da pg. 99: Processador de Textos Word:  bordas de parágrafo e de páginas, designe de documentos.
+>>   - Compartilhamento de arquivos no Drive e [Google Sites](https://sites.google.com/view/informaticasenac/assistente-de-ti-2024)
+>>>[!todo] 🖥️ Atividades:
+>>> - No Word Criando os certificados e papel de carta estilizados.
+>>> - Criando um portifólio no [Google Sites](https://sites.google.com/new/).
+>
+>>[!note]+ Aula em 03/04
+>>   - [📑Apostila][apostila] a partir da pg. 106: Processador de Textos Word:  cabeçalho e rodapé, símbolos, objetos e imagens.
+>>>[!todo] 🖥️ Atividades:
+>>> - No Word Criando os textos com símbolos e  organizando imagens no texto "Samba de Noel Rosa".
 
 
 
