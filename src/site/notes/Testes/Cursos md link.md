@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/testes/cursos-md-link/","title":"Cursos md link","metatags":{"description":"Programação de Cursos no Senac Ceará em Sobral"},"contentClasses":"cards cards-cols-3 cards-cover","tags":["curso","Senac","teste/funciona","cards"],"updated":"2025-04-03T08:58:22.916-03:00"}
+{"dg-publish":true,"permalink":"/testes/cursos-md-link/","title":"Cursos md link","metatags":{"description":"Programação de Cursos no Senac Ceará em Sobral"},"contentClasses":"cards cards-cols-3 cards-cover","tags":["curso","Senac","teste/funciona","cards"],"updated":"2025-04-03T09:22:34.543-03:00"}
 ---
 
 
