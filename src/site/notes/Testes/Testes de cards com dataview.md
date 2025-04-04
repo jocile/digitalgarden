@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/testes/testes-de-cards-com-dataview/","metatags":{"description":"Testes de dataview"},"hide":true,"hideInGraph":true,"contentClasses":"cards","tags":["teste/funciona","cards","exemplos"],"updated":"2025-04-04T10:24:17.830-03:00"}
+{"dg-publish":true,"permalink":"/testes/testes-de-cards-com-dataview/","metatags":{"description":"Testes de dataview"},"hideInGraph":true,"contentClasses":"cards","tags":["teste/funciona","cards","exemplos"],"updated":"2025-04-04T11:05:35.914-03:00"}
 ---
 
 

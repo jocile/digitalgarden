@@ -1,11 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/testes/teste-de-dataview-com-imagens/","metatags":{"description":"testes com imagens em dataview"},"contentClasses":"cards cards-cols-3 cards-cover","tags":["teste/funciona","cards"],"updated":"2025-04-04T10:23:54.827-03:00"}
+{"dg-publish":true,"permalink":"/testes/teste-de-dataview-com-imagens/","metatags":{"description":"testes com imagens em dataview"},"contentClasses":"cards cards-cols-3 cards-cover","tags":["teste/nao-funciona","cards"],"updated":"2025-04-04T10:54:29.973-03:00"}
 ---
 
+
+#  Teste de dataview com imagens
+
+## Teste de inline não carrega no site
 
 
 
 [Inline queries don't handle embedded image links · Issue #1051 · blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview/issues/1051)
+
+## A imagens não carregam no site
 
 | Cover                                    | title                                  | Carga horária             | 📄 Descrição                                                                                                                                                                                                                                                                                                                                                                                                                           | Inscrição                                                                                                                              |
 | ---------------------------------------- | -------------------------------------- | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,6 +22,10 @@
 
 { .block-language-dataview}
 
+- Não renderiza no formato wikilink e não encontra : `![cursos/curso-prog.jpeg|300](/img/user/cursos/curso-prog.jpeg)`
+- precisa ser no formato Markdown
+
+- [Internal links - Obsidian Help](https://help.obsidian.md/links)
 - [Codeblock Reference - Dataview](https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/)
 - [Help needed with dataview JS table - Help - Obsidian Forum](https://forum.obsidian.md/t/help-needed-with-dataview-js-table/32178/2)
 - [Issue search results · GitHub](https://github.com/search?q=repo%3Ablacksmithgu%2Fobsidian-dataview+image&type=issues)
