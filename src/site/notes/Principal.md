@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight","tags":["gardenEntry"],"updated":"2025-03-17T19:08:30.918-03:00"}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight","tags":["gardenEntry"],"updated":"2025-04-04T23:26:51.736-03:00"}
 ---
-
 
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 505.42407121054623 225.00676906787882" width="505.42407121054623" height="225.00676906787882" class="excalidraw-svg ex-pageheight">
@@ -20,6 +19,7 @@
 - 🔭 Sou o professor 🎓 [[Jocile\|Jocilé]] e atualmente estou trabalhando como instrutor de informática e desenvolvimento de Sistemas no 🏫 [SENAC CE](https://www.ce.senac.br/);
 - Pretendo reunir aqui 📑notas de aulas e 📚estudos diversos sobre:
 	- 🖥️  [[Assistente-de-TI\|Curso de Assistência de TI]]
+	- 💻 [[Informatica basica\|Curso de Informática Básica]]
 	- 📖 [[Teologia\|Teologia]] e [[Teologia/Escatologia\|Escatologia]]
 	- 🤖 [[Inteligencia Artificial\|Inteligência Artificial]] .
 	- 🎨 [[Webdesign\|Webdesign]]
