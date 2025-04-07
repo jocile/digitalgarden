@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"updated":"2025-04-05T00:00:50.114-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"updated":"2025-04-05T12:43:56.306-03:00"}
 ---
 
 
@@ -54,11 +54,9 @@ gantt
 >> - [HISTORIA : A EVOLUÇÃO DOS COMPUTADORES - YouTube](https://www.youtube.com/watch?v=mFdUqqwzbVs)
 >> - [História e Evolução dos Computadores](https://www.todamateria.com.br/historia-e-evolucao-dos-computadores/)
 >> - [[Assistente-de-TI/Estacao-de-trabalho\|Estação de Trabalho em Tecnologia da Informação]]
->>>[!todo] 🖥️ Atividade: 
->>> - Criar um relatório sobre:
->>>   - A versão do Sistema Operacional e do Office;
->>>   - A quantidade de memória e armazenamento do Desktop;
->>>   - Enviar por E-mail.
+>>>[!todo] 🖥️ Atividades: 
+>>   - acesso e tela de bloqueio;
+>>> - Digitação com acentuação na página 53 da [📑Apostila][apostila]
 
 
 
