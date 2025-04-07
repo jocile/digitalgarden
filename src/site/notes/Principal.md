@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight cards","tags":["gardenEntry"],"updated":"2025-04-07T11:24:39.494-03:00"}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight cards","tags":["gardenEntry"],"updated":"2025-04-07T11:27:25.743-03:00"}
 ---
 
 ## Olá 👋
@@ -25,7 +25,7 @@
 | [[cursos/Técnico em Óptica\|Técnico em Óptica]]                                           | [![Técnico em Óptica](/img/user/cursos/curso-tec-optica.jpeg)](Técnico%20em%20Óptica.md)                                                 | Carga horária 1200H👩🏻‍⚕ | Atua em laboratórios ópticos, estabelecimentos ópticos básicos e plenos, centros de adaptação de lentes de contato e também no ramo de vendas. Nesse curso, desenvolva competências relacionadas à óptica oftálmica e contatologia, permitindo sua atuação como consultor óptico, surfaçagista e montador de lentes oftálmicas, gestor de negócios, representante comercial de equipamentos, armações, lentes oftálmicas e de contato. | Inscrições presenciais ou [link ⬇](https://cursos.ce.senac.br/produto/tecnico-em-optica-sobral-noite-2025-12-64/)                                                                     |
 | [[cursos/Técnico em Desenvolvimento de Sistemas\|Técnico em Desenvolvimento de Sistemas]] | [![Técnico em Desenvolvimento de Sistemas](/img/user/cursos/curso-tec-sistemas.jpeg)](/cursos/tecnico-em-desenvolvimento-de-sistemas/) | Carga horária1200H👨🏻‍💻 | Exerce funções técnicas, como: administração do sistema de banco de dados, desenvolver software, programar rotinas de sistema utilizando linguagens e técnicas de programação, programação de sistemas para desktop e para web, entre outras atividades.                                                                                                                                                                               | Inscrições presenciais ou [link ⬇](https://cursos.ce.senac.br/produto/tecnico-em-desenvolvimento-de-sistemas-sobral-noite-2025-12-67/)                                                |
 
-[Mais informações sobre Cursos](Cursos.md)
+[[Cursos\|Mais informações sobre Cursos]]
 
 
 
