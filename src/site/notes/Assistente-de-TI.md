@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-03T15:27:07.238-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-08T10:00:41.288-03:00"}
 ---
 
 
@@ -31,13 +31,13 @@
 > 4. Elabora e edita dados numéricos e gráficos de acordo com os recursos do editor de planilhas eletrônicas.
 > 5. Armazena e compartilha dados de acordo com os requisitos da solução.
 
-> [!check] Progresso das aulas
->
->>[!note] UC1: Início em 17/03 <progress value="12" max="18"></progress> 12 de 18 Aulas;
+
+
+## Cronograma
 
 ```mermaid
 gantt
-     title UC1
+     title Unidade Curricular 1
      excludes Sat - Sun weekends, 19:03, 25:03
      dateFormat DD:MM
      axisFormat %d.%m
@@ -138,10 +138,35 @@ gantt
 >>> - No Word Criando os certificados e papel de carta estilizados.
 >>> - Criando um portifólio no [Google Sites](https://sites.google.com/new/).
 >
->>[!note]+ Aula em 03/04
+>>[!note]- Aula em 03/04
 >>   - [📑Apostila][apostila] a partir da pg. 106: Processador de Textos Word:  cabeçalho e rodapé, símbolos, objetos e imagens.
 >>>[!todo] 🖥️ Atividades:
 >>> - No Word Criando os textos com símbolos e  organizando imagens no texto "Samba de Noel Rosa".
+>
+>>[!note]- Aula em 04/04
+>>   - [📑Apostila][apostila] a partir da pg. 118: Processador de Textos Word:  atividade avaliativa.
+>>>[!todo] 🖥️ Atividades no Word:
+>>> - Criando a tabela boletim;
+>>> - Criando Infografo;
+>>> - Criando o relatório de vendas com tabulação;
+>>> - Criando o recibo comercial.
+>
+>>[!note]- Aula em 07/04
+>>   - [📑Apostila][apostila] a partir da pg. 121, editor de planilhas Excel: 
+>>     - Conceito de Planilha eletrônica;
+>>     - Principais elementos do espaço de trabalho (Pasta, planilha, célula, barras, menus);
+>>     - Navegação; Edição de dados nas células;
+>>     - Seleção de célula, intervalo(s), coluna(s), linha(s), toda planilha;
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Criando e formatando a planilha de orçamento doméstico.
+>>> - Criando a planilha Feira do mês com cálculos de total.
+>
+>>[!note] Aula em 08/04
+>>   - [📑Apostila][apostila] a partir da pg. 137, Editor de planilhas Excel:
+>>     - Operações com colunas e linhas;
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Criando e formatando a planilha de cálculos percentuais.
+>>> - Criando a planilha de boletim escolar com formatação condicional.
 
 
 
