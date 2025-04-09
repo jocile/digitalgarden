@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-08T10:00:41.288-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-09T11:13:11.636-03:00"}
 ---
 
 
@@ -161,12 +161,20 @@ gantt
 >>> - Criando e formatando a planilha de orçamento doméstico.
 >>> - Criando a planilha Feira do mês com cálculos de total.
 >
->>[!note] Aula em 08/04
+>>[!note]- Aula em 08/04
 >>   - [📑Apostila][apostila] a partir da pg. 137, Editor de planilhas Excel:
 >>     - Operações com colunas e linhas;
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Criando e formatando a planilha de cálculos percentuais.
 >>> - Criando a planilha de boletim escolar com formatação condicional.
+>
+>>[!note] Aula em 09/04
+>>   - [📑Apostila][apostila] a partir da pg. 141, Editor de planilhas Excel:
+>>     - Operações com funções aritméticas: soma, máximo, mínimo, média;
+>>     - Configuração de página e impressão.
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Adicionando funções à planilha de cálculos percentuais.
+>>> - Adicionando funções à planilha de boletim escolar.
 
 
 
