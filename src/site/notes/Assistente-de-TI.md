@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-09T11:13:11.636-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-10T10:02:20.207-03:00"}
 ---
 
 
@@ -60,7 +60,7 @@ gantt
 >>>   - Enviar por E-mail.
 >
 >>[!note]- Aula em 18/03
->> - [[Assistente-de-TI/Estacao-de-trabalho\|Estação de Trabalho em Tecnologia da Informação]]
+>> - [[cursos/Assistente-de-TI/Estacao-de-trabalho\|Estação de Trabalho em Tecnologia da Informação]]
 >>>[!todo] 🖥️ Atividade: 
 >>> - Digitação com acentuação na página 53 da [📑Apostila][apostila]
 >
@@ -100,7 +100,7 @@ gantt
 >
 >>[!note]- Aula em 26/03
 >>   - Conhecendo os acessórios do Windows: bloco de notas, calculadora Paint e Wordpad, digitação com acentos e atalhos de teclado
->>   - acessórios do SO: bloco de notas, [[Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], WordPad;
+>>   - acessórios do SO: bloco de notas, [[cursos/Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], WordPad;
 >>>[!todo] 🖥️ Atividade:
 >>> - Criando textos e formatando no WordPad;
 >>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
@@ -168,12 +168,22 @@ gantt
 >>> - Criando e formatando a planilha de cálculos percentuais.
 >>> - Criando a planilha de boletim escolar com formatação condicional.
 >
->>[!note] Aula em 09/04
+>>[!note]- Aula em 09/04
 >>   - [📑Apostila][apostila] a partir da pg. 141, Editor de planilhas Excel:
->>     - Operações com funções aritméticas: soma, máximo, mínimo, média;
->>     - Configuração de página e impressão.
+>>     - Operações com funções aritméticas: soma, máximo, mínimo, média,`procv`, `proch`;
+>>     - Formatação condicional para destacar informações com cores.
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Adicionando funções à planilha de cálculos percentuais.
+>>> - Adicionando funções e destacando notas vermelhas à planilha de boletim escolar.
+>>> - Pesquisa dinâmica de nomes, notas e resultados no boletim.
+>
+>>[!note] Aula em 10/04
+>>   - [📑Apostila][apostila] a partir da pg. 143, Editor de planilhas Excel:
+>>     - Operações com planilhas: copiar, selecionar, mover, ocultar, múltiplas seleções;
+>>     - Configuração de proteção: proteger células específicas, planilhas e arquivos.
+>>     - Validação de dados: garantir entrada de dados a partir de uma lista determinada.
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Criando um formulário para seleção de emprego com células protegidas e validação de dados.
 >>> - Adicionando funções à planilha de boletim escolar.
 
 
@@ -198,13 +208,13 @@ gantt
 
 ## Vagas em TI na cidade de Sobral - CE
 
-![vaga-execute.jpeg|400](/img/user/vaga-execute.jpeg)
+![vaga-execute.jpeg|400](/img/user/Oportunidades/vaga-execute.jpeg)
 
-![vaga-pluralmed.jpeg|400](/img/user/vaga-pluralmed.jpeg)
+![vaga-pluralmed.jpeg|400](/img/user/Oportunidades/vaga-pluralmed.jpeg)
 
 [Oportunidades PluralMed @grupopluralmed](https://www.instagram.com/grupopluralmed/)
 
-![vaga-sobralnet.jpeg|400](/img/user/vaga-sobralnet.jpeg)
+![vaga-sobralnet.jpeg|400](/img/user/Oportunidades/vaga-sobralnet.jpeg)
 
 
 </div></div>
