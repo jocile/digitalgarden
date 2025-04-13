@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-10T10:02:20.207-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-13T09:31:04.334-03:00"}
 ---
 
 
@@ -38,13 +38,14 @@
 ```mermaid
 gantt
      title Unidade Curricular 1
-     excludes Sat - Sun weekends, 19:03, 25:03
+     tickInterval 2day
+     excludes Saturday, Sunday, 19:03, 25:03
      dateFormat DD:MM
      axisFormat %d.%m
      section UC1
          Windows :a1, 17:03, 7d
          Word :a2,after a1, 6d
-         Excel :a3, after a2, 4d
+         Excel :a3, after a2, 6d
          PowerPoint :a4, after a3, 1d
 ```
 
@@ -60,7 +61,7 @@ gantt
 >>>   - Enviar por E-mail.
 >
 >>[!note]- Aula em 18/03
->> - [[cursos/Assistente-de-TI/Estacao-de-trabalho\|Estação de Trabalho em Tecnologia da Informação]]
+>> - [[Assistente-de-TI/Estacao-de-trabalho\|Estação de Trabalho em Tecnologia da Informação]]
 >>>[!todo] 🖥️ Atividade: 
 >>> - Digitação com acentuação na página 53 da [📑Apostila][apostila]
 >
@@ -100,7 +101,7 @@ gantt
 >
 >>[!note]- Aula em 26/03
 >>   - Conhecendo os acessórios do Windows: bloco de notas, calculadora Paint e Wordpad, digitação com acentos e atalhos de teclado
->>   - acessórios do SO: bloco de notas, [[cursos/Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], WordPad;
+>>   - acessórios do SO: bloco de notas, [[Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], WordPad;
 >>>[!todo] 🖥️ Atividade:
 >>> - Criando textos e formatando no WordPad;
 >>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
@@ -177,7 +178,7 @@ gantt
 >>> - Adicionando funções e destacando notas vermelhas à planilha de boletim escolar.
 >>> - Pesquisa dinâmica de nomes, notas e resultados no boletim.
 >
->>[!note] Aula em 10/04
+>>[!note]- Aula em 10/04
 >>   - [📑Apostila][apostila] a partir da pg. 143, Editor de planilhas Excel:
 >>     - Operações com planilhas: copiar, selecionar, mover, ocultar, múltiplas seleções;
 >>     - Configuração de proteção: proteger células específicas, planilhas e arquivos.
@@ -185,6 +186,29 @@ gantt
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Criando um formulário para seleção de emprego com células protegidas e validação de dados.
 >>> - Adicionando funções à planilha de boletim escolar.
+>
+>>[!note]- Aula em 11/04
+>>   - [📑Apostila][apostila] a partir da pg. 155, Editor de planilhas Excel:
+>>     - Configuração de páginas e impressão.
+>>     - Configurando o cabeçalho e rodapé.
+>>     - Criação e formatação de Gráficos;
+>>     - Classificação personalizada de dados;
+>>     - Referência absoluta e relativa.
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Adicionando gráficos à planilha de boletim escolar (pg. 156).
+>>> - Criando planilhas com gráficos: PIB Brasil, Pesquisa Eleitoral (pg. 161).
+>>> - Classificando a planilha de funcionários por empresa, departamento e cargo (pg. 163).
+>>> - Criando uma planilha de tabuada aritmética (pg. 168).
+>
+>>[!note] Aula em 14/04
+>>   - [📑Apostila][apostila] a partir da pg. 169, Editor de planilhas Excel:
+>>     - Funções condicionais: "se"
+>>     - Funções de estatística: máximo, mínimo e média.
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Criando planilhas com funções condicionais: cálculo de salário pelo INSS (pg. 170).
+>>> - Criando planilhas com cotação de preços com cálculo de preço médio, máximo e mínimo (pg. 172).
+>>> - Criando planilha com reajuste percentual usando referência absoluta (pg. 173).
+>>> - Criando planilha com cálculo de índice de massa corpórea usando referência absoluta (pg. 174).
 
 
 
