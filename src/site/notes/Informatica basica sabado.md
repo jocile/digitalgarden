@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"updated":"2025-04-13T11:23:18.108-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"updated":"2025-04-13T14:21:47.027-03:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 > | Eixo tecnológico:| Informação e Comunicação
 > | Segmento:| Tecnologia da Informação  
 > | Carga horária:| 66 horas em 17 aulas
-> | Período:| 05/04/25 a 26/07/25
+> | Período:| 05/04/25 a 02/08/25
 > | Horário:| aos sábados  das 08:00 às 11:30
 > | Unidade Curricular:| Operar sistemas operacionais cliente, aplicativos de escritório e periféricos.
 > | Link:| [INFORMÁTICA BÁSICA - SOBRAL - MANHÃ - 2025.12.60 - Cursos Senac Ceará](https://cursos.ce.senac.br/produto/informatica-basica-sobral-manha-2025-12-60/)

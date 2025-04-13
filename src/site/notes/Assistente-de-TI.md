@@ -232,13 +232,13 @@ gantt
 
 ## Vagas em TI na cidade de Sobral - CE
 
-![vaga-execute.jpeg|400](/img/user/Oportunidades/vaga-execute.jpeg)
+![vaga-execute.jpeg|400](/img/user/vaga-execute.jpeg)
 
-![vaga-pluralmed.jpeg|400](/img/user/Oportunidades/vaga-pluralmed.jpeg)
+![vaga-pluralmed.jpeg|400](/img/user/vaga-pluralmed.jpeg)
 
 [Oportunidades PluralMed @grupopluralmed](https://www.instagram.com/grupopluralmed/)
 
-![vaga-sobralnet.jpeg|400](/img/user/Oportunidades/vaga-sobralnet.jpeg)
+![vaga-sobralnet.jpeg|400](/img/user/vaga-sobralnet.jpeg)
 
 
 </div></div>

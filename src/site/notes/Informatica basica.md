@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"updated":"2025-04-13T09:52:19.192-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"updated":"2025-04-13T14:21:03.531-03:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 > | Eixo tecnológico:| Informação e Comunicação
 > | Segmento:| Tecnologia da Informação  
 > | Carga horária:| 66 horas em 17 aulas
-> | Período:| 08/04/25 a 05/06/25
+> | Período:| 08/04/25 a 10/06/25
 > | Horário:| as terças e quintas das 18:30 às 21:30
 > | Unidade Curricular:| Operar sistemas operacionais cliente, aplicativos de escritório e periféricos.
 > | Link:| [INFORMÁTICA BÁSICA - SOBRAL - MANHÃ - 2025.12.59 - Cursos Senac Ceará](https://cursos.ce.senac.br/produto/informatica-basica-sobral-manha-2025-12-59/)
@@ -24,8 +24,6 @@
 > 3. Elabora e edita textos e apresentações eletrônicas, conforme recursos dos aplicativos de escritório.
 > 4. Elabora e edita dados numéricos e gráficos de acordo com os recursos do editor de planilhas eletrônicas.
 > 5. Armazena e compartilha dados de acordo com os requisitos da solução.
-
-
 
 ## Cronograma da Unidade Curricular
 
