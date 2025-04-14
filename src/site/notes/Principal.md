@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight cards","tags":["gardenEntry"],"updated":"2025-04-14T10:46:49.193-03:00"}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight cards","tags":["gardenEntry"],"updated":"2025-04-14T11:04:45.643-03:00"}
 ---
 
 ## Olá 👋
@@ -9,9 +9,9 @@
 ## Aulas
 
 <span>
-<a class="internal-link" href="/assistente-de-ti/#aula-atual"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Assistente de TI</button></a>
-<a class="internal-link" href="/informatica-basica/"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Informática Básica</button></a>
-<a class="internal-link" href="/informatica-basica-sabado/"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Informática Básica aos Sábados</button></a>
+<a class="internal-link" href="/assistente-de-ti/#cronograma"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Assistente de TI</button></a>
+<a class="internal-link" href="/informatica-basica/#cronograma-da-unidade-curricular"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Informática Básica</button></a>
+<a class="internal-link" href="/informatica-basica-sabado/#cronograma-da-unidade-curricular"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Informática Básica aos Sábados</button></a>
 </span>
 
 - Pretendo reunir aqui 📑notas de aulas e 📚estudos diversos sobre:

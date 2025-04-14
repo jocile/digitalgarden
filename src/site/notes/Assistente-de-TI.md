@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-14T10:57:26.448-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-14T11:08:10.988-03:00"}
 ---
 
 
@@ -49,7 +49,7 @@ gantt
          PowerPoint :a4, after a3, 1d
 ```
 
->[!done]- Cronograma da Unidade Curricular 1 (clique aqui)
+>[!done]- Cronograma da Unidade Curricular 1 (<font color="#ff0000">clique aqui</font>)
 >
 >>[!note]- Aula em 17/03
 >> - 🎓 [Abertura do curso](https://docs.google.com/presentation/d/12myN-OpLqppVuXahxOGlCTRJcd84ftr_/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
@@ -199,8 +199,6 @@ gantt
 >>> - Criando planilhas com gráficos: PIB Brasil, Pesquisa Eleitoral (pg. 161).
 >>> - Classificando a planilha de funcionários por empresa, departamento e cargo (pg. 163).
 >>> - Criando uma planilha de tabuada aritmética (pg. 168).
-
-### Aula atual
 
 >[!todo] Última atualização
 >>[!note] Aula em 14/04
