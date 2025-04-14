@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-13T09:31:04.334-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-14T10:40:57.878-03:00"}
 ---
 
 
@@ -49,7 +49,7 @@ gantt
          PowerPoint :a4, after a3, 1d
 ```
 
->[!done] Cronograma da Unidade Curricular 1 - Operador
+>[!done]- Cronograma da Unidade Curricular 1 - Operador
 >
 >>[!note]- Aula em 17/03
 >> - 🎓 [Abertura do curso](https://docs.google.com/presentation/d/12myN-OpLqppVuXahxOGlCTRJcd84ftr_/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
@@ -199,7 +199,9 @@ gantt
 >>> - Criando planilhas com gráficos: PIB Brasil, Pesquisa Eleitoral (pg. 161).
 >>> - Classificando a planilha de funcionários por empresa, departamento e cargo (pg. 163).
 >>> - Criando uma planilha de tabuada aritmética (pg. 168).
->
+
+### Aula atual
+
 >>[!note] Aula em 14/04
 >>   - [📑Apostila][apostila] a partir da pg. 169, Editor de planilhas Excel:
 >>     - Funções condicionais: "se"
@@ -224,6 +226,8 @@ gantt
 >>> - [📄 Word](https://bibliotecadigitalsenac.com.br/#/?contentInfo=2309) | [📄 atividades Word](https://www.editorasenacsp.com.br/informatica/word2019/atividades.zip)
 >>> - [📈 Excel](https://bibliotecadigitalsenac.com.br/#/busca?contentInfo=3130&term=excel) | [📄 atividades Excel](https://www.editorasenacsp.com.br/informatica/excel2019/planilhas.zip)
 >>> - [📸Power Point](https://bibliotecadigitalsenac.com.br/?from=busca%3FcontentInfo%3D2304%26term%3Dpowerpoint&page=12&section=0#/legacy/2304) | [📄 atividades PowerPoint](https://www.editorasenacsp.com.br/informatica/powerpoint2019/atividades.zip)
+
+## Oportunidades
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vagas/#vagas-em-ti-na-cidade-de-sobral-ce" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
