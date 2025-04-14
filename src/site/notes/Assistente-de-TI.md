@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-14T10:40:57.878-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-14T10:57:26.448-03:00"}
 ---
 
 
@@ -49,7 +49,7 @@ gantt
          PowerPoint :a4, after a3, 1d
 ```
 
->[!done]- Cronograma da Unidade Curricular 1 - Operador
+>[!done]- Cronograma da Unidade Curricular 1 (clique aqui)
 >
 >>[!note]- Aula em 17/03
 >> - 🎓 [Abertura do curso](https://docs.google.com/presentation/d/12myN-OpLqppVuXahxOGlCTRJcd84ftr_/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
@@ -202,6 +202,7 @@ gantt
 
 ### Aula atual
 
+>[!todo] Última atualização
 >>[!note] Aula em 14/04
 >>   - [📑Apostila][apostila] a partir da pg. 169, Editor de planilhas Excel:
 >>     - Funções condicionais: "se"
