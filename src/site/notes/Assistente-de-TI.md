@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-14T11:08:10.988-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-15T12:50:40.205-03:00"}
 ---
 
 
@@ -34,20 +34,6 @@
 
 
 ## Cronograma
-
-```mermaid
-gantt
-     title Unidade Curricular 1
-     tickInterval 2day
-     excludes Saturday, Sunday, 19:03, 25:03
-     dateFormat DD:MM
-     axisFormat %d.%m
-     section UC1
-         Windows :a1, 17:03, 7d
-         Word :a2,after a1, 6d
-         Excel :a3, after a2, 6d
-         PowerPoint :a4, after a3, 1d
-```
 
 >[!done]- Cronograma da Unidade Curricular 1 (<font color="#ff0000">clique aqui</font>)
 >
@@ -199,9 +185,8 @@ gantt
 >>> - Criando planilhas com gráficos: PIB Brasil, Pesquisa Eleitoral (pg. 161).
 >>> - Classificando a planilha de funcionários por empresa, departamento e cargo (pg. 163).
 >>> - Criando uma planilha de tabuada aritmética (pg. 168).
-
->[!todo] Última atualização
->>[!note] Aula em 14/04
+>
+>>[!note]- Aula em 14/04
 >>   - [📑Apostila][apostila] a partir da pg. 169, Editor de planilhas Excel:
 >>     - Funções condicionais: "se"
 >>     - Funções de estatística: máximo, mínimo e média.
@@ -210,6 +195,29 @@ gantt
 >>> - Criando planilhas com cotação de preços com cálculo de preço médio, máximo e mínimo (pg. 172).
 >>> - Criando planilha com reajuste percentual usando referência absoluta (pg. 173).
 >>> - Criando planilha com cálculo de índice de massa corpórea usando referência absoluta (pg. 174).
+
+>[!todo] Última atualização
+>>[!note] Aula em 15/04
+>>   - [📸Livro da Biblioteca Virtual SENAC do Power Point][powerpoint] cap. 1 e 2:
+>>     - Conhecendo a interface do Power Point;
+>>     - Criando slides, adicionando e formatando elementos, como tabelas, formas e gráficos.
+>>>[!todo] 🖥️ Atividades no PowerPoint:
+>>> - Criando slides sobre um relatório de vendas.
+>>> - Criando slides de controle de vídeos com tabelas e gráficos.
+
+```mermaid
+gantt
+     title Unidade Curricular 1
+     tickInterval 2day
+     excludes Saturday, Sunday, 19:03, 25:03
+     dateFormat DD:MM
+     axisFormat %d.%m
+     section UC1
+         Windows :a1, 17:03, 7d
+         Word :a2,after a1, 6d
+         Excel :a3, after a2, 6d
+         PowerPoint :a4, after a3, 1d
+```
 
 
 
@@ -221,10 +229,10 @@ gantt
 > - [🌐Conectividade de redes - Biblioteca digital](https://bibliotecadigitalsenac.com.br/?from=busca%3FcontentInfo%3D2932%26term%3Dredes#/legacy/epub/2932)
 > - [📶INFRAESTRUTURA DE REDES | Jocile](https://jocile.github.io/aulas/categories/infraestrutura-de-redes/)
 >>>[!todo] [Biblioteca Digital SENAC](https://bibliotecadigitalsenac.com.br): 
->>> - [💻 Windows 10](https://bibliotecadigitalsenac.com.br/#/?contentInfo=2795) 
->>> - [📄 Word](https://bibliotecadigitalsenac.com.br/#/?contentInfo=2309) | [📄 atividades Word](https://www.editorasenacsp.com.br/informatica/word2019/atividades.zip)
->>> - [📈 Excel](https://bibliotecadigitalsenac.com.br/#/busca?contentInfo=3130&term=excel) | [📄 atividades Excel](https://www.editorasenacsp.com.br/informatica/excel2019/planilhas.zip)
->>> - [📸Power Point](https://bibliotecadigitalsenac.com.br/?from=busca%3FcontentInfo%3D2304%26term%3Dpowerpoint&page=12&section=0#/legacy/2304) | [📄 atividades PowerPoint](https://www.editorasenacsp.com.br/informatica/powerpoint2019/atividades.zip)
+>>> - [💻 Windows 10](https://bibliotecadigitalsenac.com.br/#/content/uid/0d8d48a0-17d8-ee11-85fa-00224821b803/detail) 
+>>> - [📄 Word](https://bibliotecadigitalsenac.com.br/#/content/uid/168d48a0-17d8-ee11-85fa-00224821b803/detail) | [📄 atividades Word](https://www.editorasenacsp.com.br/informatica/word2019/atividades.zip)
+>>> - [📈 Excel](https://bibliotecadigitalsenac.com.br/#/content/uid/144fc6f8-16d8-ee11-85fa-00224821b803/detail) | [📄 atividades Excel](https://www.editorasenacsp.com.br/informatica/excel2019/planilhas.zip)
+>>> - [📸Power Point][powerpoint] | [📄 atividades PowerPoint](https://www.editorasenacsp.com.br/informatica/powerpoint2019/atividades.zip)
 
 ## Oportunidades
 
@@ -248,3 +256,4 @@ gantt
 
 
 [apostila]: https://drive.google.com/file/d/1HNT1is949xITALuJXT1dwaLCbYexrIGT/view?usp=sharing
+[powerpoint]: https://bibliotecadigitalsenac.com.br/#/content/uid/d37df569-17d8-ee11-85fa-00224821b803/detail

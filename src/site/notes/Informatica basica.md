@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"updated":"2025-04-13T14:21:03.531-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"updated":"2025-04-15T13:02:13.514-03:00"}
 ---
 
 
@@ -27,6 +27,34 @@
 
 ## Cronograma da Unidade Curricular
 
+>[!done]- Cronograma das aulas (<font color="#ff0000">clique aqui</font>)
+>
+>>[!note]- Aula em 08/04 (<font color="#ff0000">clique aqui</font>)
+>> - [HISTORIA : A EVOLUÇÃO DOS COMPUTADORES](https://docs.google.com/presentation/d/1MXW5D73CtuZMqP8obVX5tBnPm_1mUksb/edit?slide=id.p1#slide=id.p1)
+>> - [HISTORIA : A EVOLUÇÃO DOS COMPUTADORES - YouTube](https://www.youtube.com/watch?v=mFdUqqwzbVs)
+>> - [História e Evolução dos Computadores](https://www.todamateria.com.br/historia-e-evolucao-dos-computadores/)
+>>>[!todo] 🖥️ Atividades: 
+>>> - Acesso e tela de bloqueio;
+>>> - Digitação com acentuação na página 53 da [📑Apostila][apostila]
+>
+>>[!note]- Aula em 10/04 (<font color="#ff0000">clique aqui</font>)
+>> - [Partes do computador](https://docs.google.com/presentation/d/1Ohfb9t_ZR_qWBVGtOg3tQJ28Y4mGXufM/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>> - [[Assistente-de-TI/Estacao-de-trabalho\|Estação de Trabalho em Tecnologia da Informação]]
+>> - [📑Apostila][apostila] página 61 explorando arquivos e pastas no Windows.
+>>>[!todo] 🖥️ Atividades: 
+>>> - Criar pasta com seu nome para salvar as atividades conforme a página 64 da [📑Apostila][apostila],
+>>> - Copiar e mover arquivos para a pasta criada;
+
+>[!todo] Última atualização
+>>[!note] Aula em 15/04
+>> - Configuração de interface de telas da área de trabalho do Windows, seguindo o roteiro a partir da página 36 da [📑Apostila][apostila]:
+>> - Mudar a imagem das telas de bloqueio e desktop do Windows;
+>> - Identificar como instalar e modificar temas do Windows;
+>> - Conhecendo os acessórios do Windows: bloco de notas, [[Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], Paint e Wordpad, digitação com acentos e atalhos de teclado;
+>>>[!todo] 🖥️ Atividade:
+>>> - Criando textos e formatando no WordPad;
+>>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
+
 ```mermaid
 gantt
      title Informática Básica
@@ -41,24 +69,6 @@ gantt
          Excel :a3, after a2, 7d
          PowerPoint :a4, after a3, 2d
 ```
-
->[!done] Cronograma das aulas
->
->>[!note]- Aula em 08/04
->> - [HISTORIA : A EVOLUÇÃO DOS COMPUTADORES](https://docs.google.com/presentation/d/1MXW5D73CtuZMqP8obVX5tBnPm_1mUksb/edit?slide=id.p1#slide=id.p1)
->> - [HISTORIA : A EVOLUÇÃO DOS COMPUTADORES - YouTube](https://www.youtube.com/watch?v=mFdUqqwzbVs)
->> - [História e Evolução dos Computadores](https://www.todamateria.com.br/historia-e-evolucao-dos-computadores/)
->>>[!todo] 🖥️ Atividades: 
->>> - Acesso e tela de bloqueio;
->>> - Digitação com acentuação na página 53 da [📑Apostila][apostila]
->
->>[!note] Aula em 10/04
->> - [Partes do computador](https://docs.google.com/presentation/d/1Ohfb9t_ZR_qWBVGtOg3tQJ28Y4mGXufM/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
->> - [[Assistente-de-TI/Estacao-de-trabalho\|Estação de Trabalho em Tecnologia da Informação]]
->> - [📑Apostila][apostila] página 61 explorando arquivos e pastas no Windows.
->>>[!todo] 🖥️ Atividades: 
->>> - Criar pasta com seu nome para salvar as atividades conforme a página 64 da [📑Apostila][apostila],
->>> - Copiar e mover arquivos para a pasta criada;
 
 
 
