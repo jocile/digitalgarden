@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-21T11:37:16.997-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-21T19:18:54.431-03:00"}
 ---
 
 
@@ -27,6 +27,33 @@
 
 
 
+
+```mermaid
+gantt
+     title Assistente de TI
+     tickInterval 1week
+     excludes Saturday, Sunday, 19:03, 25:03, 17:04, 18:04, 21:04
+     dateFormat DD:MM
+     axisFormat %d.%m
+     section UC1
+         UC1 :a1, 17:03, 21d
+     section Atual
+         UC2 :a2,after a1, 7d
+     section Próximas
+         UC3 :a3, after a2, 9d
+         UC4 :a4, after a3, 9d
+         UC5 :a5, after a4, 4d
+```
+
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
 ## UC1 - Operador de computadores
 
 > [!success]- 🖥️ Habilidades
@@ -38,7 +65,7 @@
 
 
 
-## Cronograma
+### Cronograma da UC1
 
 >[!done]- Cronograma da Unidade Curricular 1 (<font color="#ff0000">clique aqui</font>)
 >
@@ -221,22 +248,41 @@
 </div></div>
 
 
->[!todo] Última atualização
 
-```mermaid
-gantt
-     title Unidade Curricular 1
-     tickInterval 2day
-     excludes Saturday, Sunday, 19:03, 25:03
-     dateFormat DD:MM
-     axisFormat %d.%m
-     section UC1
-         Windows :a1, 17:03, 7d
-         Word :a2,after a1, 6d
-         Excel :a3, after a2, 6d
-         PowerPoint :a4, after a3, 1d
-```
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
+
+
+## UC2 - Instalar e configurar componentes de hardware
+
+> [!success]- 🖥️ Habilidades
+> 1. Diferenciar componentes de hardware.
+> 2. Manusear equipamentos e ferramentas.
+> 3. Operar ferramentas de diagnóstico de hardware.
+> 4. Elaborar documentos técnicos.
+> 5. Interpretar documentos e manuais técnicos.
+> 6. Organizar materiais, ferramentas, instrumentos, documentos e local de trabalho.
+
+### Cronograma da UC2
+
+>[!done] Cronograma da Unidade Curricular 2
+>
+>>[!note] Aula em 22/04
+>> - [Apresentação sobre eletricidade básica](https://docs.google.com/presentation/d/1mqCnZ9oYKn9hDMNl2yORMvNzKlIhavVq/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>> - [Apresentação sobre equipamentos elétricos](https://docs.google.com/presentation/d/10b2STpcmCncN9G9lZqd8SSKKaO77mmrS/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>> - [Apresentação sobre a Fonte de um computador](https://docs.google.com/presentation/d/1OBvnIeLNtvrt6yH09S9eK_Pw_Crosr-w/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>> - [Apresentação sobre equipamentos de proteção elétrica](https://docs.google.com/presentation/d/1mwRvPAwIYyWwCFixJEzR7lPahQR1U_6-/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>> - Introdução ao funcionamento da rede elétrica: [Conceitos de Eletricidade](https://jocile.github.io/aulas/posts/conceitos-de-eletricidade/)
+>> - [Equipamentos de proteção elétrica](https://jocile.github.io/aulas/posts/equipamentos-de-protecao-eletrica/)
+>> - [[Assistente-de-TI/Cálculos elétricos\|Cálculos elétricos]]
+>> - Componentes do Hardware: [Fontes de alimentação ATX: principais características](https://www.infowester.com/fontesatx.php)
+>> - Componentes do Hardware de uma [[Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]: placa-mãe, processador, memória RAM, cooler, fonte de alimentação, gabinetes e placas de expansão.
+>>>[!todo] 🖥️ Atividade: 
+>>> - Criar uma planilha de orçamento de equipamentos de proteção elétrica para um laboratório de informática com 10 computadores.
+>>> - Modelo de [Quadro de carga.xlsx - Planilhas Google](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+
+
+</div></div>
 
 
 > [!important]- 📚Material didático
