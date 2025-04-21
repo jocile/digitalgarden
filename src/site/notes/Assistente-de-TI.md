@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-15T12:50:40.205-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-21T11:37:16.997-03:00"}
 ---
 
 
@@ -21,6 +21,11 @@
 > | UC3: Instalar e configurar sistemas operacionais cliente, softwares e periféricos   | 36            |
 > | UC4: Configurar e operar rede local de computadores.                                | 36            |
 > | UC 5: Projeto Integrador - Assistente de Tecnologias da Informação                  | 20            |
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
 
 ## UC1 - Operador de computadores
 
@@ -139,17 +144,18 @@
 >>> - Criando o recibo comercial.
 >
 >>[!note]- Aula em 07/04
->>   - [📑Apostila][apostila] a partir da pg. 121, editor de planilhas Excel: 
->>     - Conceito de Planilha eletrônica;
->>     - Principais elementos do espaço de trabalho (Pasta, planilha, célula, barras, menus);
->>     - Navegação; Edição de dados nas células;
->>     - Seleção de célula, intervalo(s), coluna(s), linha(s), toda planilha;
+>> - [📑Apostila][apostila] a partir da pg. 121, editor de planilhas Excel: 
+>>    - Conceito de Planilha eletrônica;
+>>    - Principais elementos do espaço de trabalho (Pasta, planilha, célula, barras, menus);
+>>    - Navegação; Edição de dados nas células;
+>>    - Seleção de célula, intervalo(s), coluna(s), linha(s), toda planilha;
+>>
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Criando e formatando a planilha de orçamento doméstico.
 >>> - Criando a planilha Feira do mês com cálculos de total.
 >
 >>[!note]- Aula em 08/04
->>   - [📑Apostila][apostila] a partir da pg. 137, Editor de planilhas Excel:
+>> - [📑Apostila][apostila] a partir da pg. 137, Editor de planilhas Excel:
 >>     - Operações com colunas e linhas;
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Criando e formatando a planilha de cálculos percentuais.
@@ -195,15 +201,27 @@
 >>> - Criando planilhas com cotação de preços com cálculo de preço médio, máximo e mínimo (pg. 172).
 >>> - Criando planilha com reajuste percentual usando referência absoluta (pg. 173).
 >>> - Criando planilha com cálculo de índice de massa corpórea usando referência absoluta (pg. 174).
-
->[!todo] Última atualização
->>[!note] Aula em 15/04
+>
+>>[!note]- Aula em 15/04
 >>   - [📸Livro da Biblioteca Virtual SENAC do Power Point][powerpoint] cap. 1 e 2:
 >>     - Conhecendo a interface do Power Point;
 >>     - Criando slides, adicionando e formatando elementos, como tabelas, formas e gráficos.
 >>>[!todo] 🖥️ Atividades no PowerPoint:
 >>> - Criando slides sobre um relatório de vendas.
 >>> - Criando slides de controle de vídeos com tabelas e gráficos.
+>
+>>[!note]- Aula em 16/04
+>>   - [📸Livro da Biblioteca Virtual SENAC do Power Point][powerpoint] cap. 3 e 4:
+>>     - Criando slides com transições e animações.
+>>>[!todo] 🖥️ Atividades no PowerPoint:
+>>> - Aplicando efeitos em vários modelos de slides.
+
+
+
+</div></div>
+
+
+>[!todo] Última atualização
 
 ```mermaid
 gantt
