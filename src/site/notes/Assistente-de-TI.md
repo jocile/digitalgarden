@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"updated":"2025-04-21T19:18:54.431-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":1,"updated":"2025-04-21T21:58:16.517-03:00"}
 ---
 
 
@@ -42,7 +42,7 @@ gantt
      section Próximas
          UC3 :a3, after a2, 9d
          UC4 :a4, after a3, 9d
-         UC5 :a5, after a4, 4d
+         UC5 :a5, after a4, 5d
 ```
 
 
@@ -243,6 +243,9 @@ gantt
 >>>[!todo] 🖥️ Atividades no PowerPoint:
 >>> - Aplicando efeitos em vários modelos de slides.
 
+[apostila]: https://drive.google.com/file/d/1HNT1is949xITALuJXT1dwaLCbYexrIGT/view?usp=sharing
+[powerpoint]: https://bibliotecadigitalsenac.com.br/#/content/uid/d37df569-17d8-ee11-85fa-00224821b803/detail
+
 
 
 </div></div>
@@ -267,15 +270,20 @@ gantt
 
 >[!done] Cronograma da Unidade Curricular 2
 >
->>[!note] Aula em 22/04
+>>[!note]- Aula em 22/04
 >> - [Apresentação sobre eletricidade básica](https://docs.google.com/presentation/d/1mqCnZ9oYKn9hDMNl2yORMvNzKlIhavVq/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> - [Apresentação sobre equipamentos elétricos](https://docs.google.com/presentation/d/10b2STpcmCncN9G9lZqd8SSKKaO77mmrS/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> - [Apresentação sobre a Fonte de um computador](https://docs.google.com/presentation/d/1OBvnIeLNtvrt6yH09S9eK_Pw_Crosr-w/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
->> - [Apresentação sobre equipamentos de proteção elétrica](https://docs.google.com/presentation/d/1mwRvPAwIYyWwCFixJEzR7lPahQR1U_6-/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
->> - Introdução ao funcionamento da rede elétrica: [Conceitos de Eletricidade](https://jocile.github.io/aulas/posts/conceitos-de-eletricidade/)
->> - [Equipamentos de proteção elétrica](https://jocile.github.io/aulas/posts/equipamentos-de-protecao-eletrica/)
 >> - [[Assistente-de-TI/Cálculos elétricos\|Cálculos elétricos]]
 >> - Componentes do Hardware: [Fontes de alimentação ATX: principais características](https://www.infowester.com/fontesatx.php)
+>>>[!todo] 🖥️ Atividade: 
+>>> - Criar uma planilha de orçamento de fontes de computadores usando [PSU Calculator da Cooler Master](https://www.coolermaster.com/pt-br/power-supply-calculator/).
+>>> - Modelo de [Quadro de carga.xlsx - Planilhas Google](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>
+>>[!note] Aula em 23/04
+>> - [Apresentação sobre equipamentos de proteção elétrica](https://docs.google.com/presentation/d/1mwRvPAwIYyWwCFixJEzR7lPahQR1U_6-/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>> - [Equipamentos de proteção elétrica](https://jocile.github.io/aulas/posts/equipamentos-de-protecao-eletrica/)
+>> - Introdução ao funcionamento da rede elétrica: [Conceitos de Eletricidade](https://jocile.github.io/aulas/posts/conceitos-de-eletricidade/)
 >> - Componentes do Hardware de uma [[Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]: placa-mãe, processador, memória RAM, cooler, fonte de alimentação, gabinetes e placas de expansão.
 >>>[!todo] 🖥️ Atividade: 
 >>> - Criar uma planilha de orçamento de equipamentos de proteção elétrica para um laboratório de informática com 10 computadores.

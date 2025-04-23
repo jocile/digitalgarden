@@ -1,7 +1,33 @@
 ---
-{"dg-publish":true,"permalink":"/cursos/","title":"Cursos","metatags":{"description":"Programação de Cursos no Senac Ceará em Sobral"},"contentClasses":"cards cards-cols-3 cards-cover","tags":["curso","Senac"],"updated":"2025-04-10T13:44:57.616-03:00"}
+{"dg-publish":true,"permalink":"/cursos/","title":"Cursos","metatags":{"description":"Programação de Cursos no Senac Ceará em Sobral"},"contentClasses":"cards cards-cols-3 cards-cover","tags":["curso","Senac"],"noteIcon":"1","updated":"2025-04-23T10:42:20.498-03:00"}
 ---
 
+
+
+```dataviewjs-
+dv.table(["Cover","Titulo", "Descrição", "Carga", "Series", "Inscrição"],
+dv.pages('"cursos"')
+    .map(p => [
+        (function() {
+      switch (dv.func.typeof(p.cover)) {
+        case "link":
+          return dv.fileLink(`${p.cover.path}`, true, 100);
+        case "string":
+          return dv.span(p.cover);
+        default:
+          return "";
+        }
+      })(),
+		p.descrição, 
+		p.carga,	   
+		p["Series"] ? p["Series"] + " #" + p["number-in-series"] : "N/A",
+	    p.inscrição
+			])
+)
+```
+
+
+## tab
 
 | File                                       | Cover                                                                                                                 | Carga horária             | 📄 Descrição                                                                                                                                                                                                                                                                                                                                                                                                                           | Inscrição                                                                                                                                                                             |
 | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -14,7 +40,7 @@
 
 ## Outros cursos
 
-![](/img/user/Cursos-atualizados.jpg)
+![./Cursos-1745415658553.jpg](/img/user/Cursos-1745415658553.jpg)
 
 ## Maiores informações
 
