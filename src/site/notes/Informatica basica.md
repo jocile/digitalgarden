@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"updated":"2025-04-15T13:02:13.514-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":"1","updated":"2025-04-23T08:39:55.181-03:00"}
 ---
 
 
@@ -25,6 +25,31 @@
 > 4. Elabora e edita dados numéricos e gráficos de acordo com os recursos do editor de planilhas eletrônicas.
 > 5. Armazena e compartilha dados de acordo com os requisitos da solução.
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+```mermaid
+gantt
+     title Informática Básica (ter e qui)
+     tickInterval 5day
+     weekday Monday
+     excludes Sunday, Monday, Wednesday, Friday, Saturday, 17.04
+     dateFormat DD.MM
+     axisFormat %d.%m
+     section UC1
+         Windows :a1, 08.04, 5d
+         Word :a2,after a1, 5d
+         Excel :a3, after a2, 5d
+         PowerPoint :a4, after a3, 2d
+```
+
+
+</div></div>
+
+
 ## Cronograma da Unidade Curricular
 
 >[!done]- Cronograma das aulas (<font color="#ff0000">clique aqui</font>)
@@ -44,8 +69,7 @@
 >>>[!todo] 🖥️ Atividades: 
 >>> - Criar pasta com seu nome para salvar as atividades conforme a página 64 da [📑Apostila][apostila],
 >>> - Copiar e mover arquivos para a pasta criada;
-
->[!todo] Última atualização
+>
 >>[!note] Aula em 15/04
 >> - Configuração de interface de telas da área de trabalho do Windows, seguindo o roteiro a partir da página 36 da [📑Apostila][apostila]:
 >> - Mudar a imagem das telas de bloqueio e desktop do Windows;
@@ -55,20 +79,13 @@
 >>> - Criando textos e formatando no WordPad;
 >>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
 
-```mermaid
-gantt
-     title Informática Básica
-     tickInterval 5day
-     weekday Monday
-     excludes Sunday, Monday, Wednesday, Friday, Saturday, 17:04
-     dateFormat DD.MM
-     axisFormat %d.%m
-     section UC1
-         Windows :a1, 08.04, 4d
-         Word :a2,after a1, 5d
-         Excel :a3, after a2, 7d
-         PowerPoint :a4, after a3, 2d
-```
+>[!todo] Última atualização
+>>[!note] Aula em 22/04
+>>   - Conhecendo os acessórios do Windows: Criando textos e formatando no WordPad;
+>>   - interface e manuseio de janelas, área de trabalho,
+>>   - recurso de área de transferência,
+>>>[!todo] 🖥️ Atividade:
+>>> - Selecionando textos, copiando e colando textos e imagens entre aplicativos, conforme pg. 56 da [📑Apostila][apostila];
 
 
 
