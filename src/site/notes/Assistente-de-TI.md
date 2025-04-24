@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":1,"updated":"2025-04-21T21:58:16.517-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":2,"updated":"2025-04-24T10:56:17.459-03:00"}
 ---
 
 
@@ -280,14 +280,21 @@ gantt
 >>> - Criar uma planilha de orçamento de fontes de computadores usando [PSU Calculator da Cooler Master](https://www.coolermaster.com/pt-br/power-supply-calculator/).
 >>> - Modelo de [Quadro de carga.xlsx - Planilhas Google](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >
->>[!note] Aula em 23/04
+>>[!note]- Aula em 23/04
 >> - [Apresentação sobre equipamentos de proteção elétrica](https://docs.google.com/presentation/d/1mwRvPAwIYyWwCFixJEzR7lPahQR1U_6-/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> - [Equipamentos de proteção elétrica](https://jocile.github.io/aulas/posts/equipamentos-de-protecao-eletrica/)
 >> - Introdução ao funcionamento da rede elétrica: [Conceitos de Eletricidade](https://jocile.github.io/aulas/posts/conceitos-de-eletricidade/)
->> - Componentes do Hardware de uma [[Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]: placa-mãe, processador, memória RAM, cooler, fonte de alimentação, gabinetes e placas de expansão.
 >>>[!todo] 🖥️ Atividade: 
 >>> - Criar uma planilha de orçamento de equipamentos de proteção elétrica para um laboratório de informática com 10 computadores.
 >>> - Modelo de [Quadro de carga.xlsx - Planilhas Google](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>
+>>[!note] Aula em 24/04
+>> - Apresentação sobre componentes do Hardware do computador](https://docs.google.com/presentation/d/1kvolMffn2jz8_A3uNeP7OchCReC_J4-5/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>> - [Apresentação sobre gabinetes e conexões](https://docs.google.com/presentation/d/169k3P0IeHqLeSnQOX2awuU7z150Bolgj/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>> - Componentes do Hardware de uma [[Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]: placa-mãe, processador, memória RAM, cooler, fonte de alimentação, gabinetes e placas de expansão.
+>>>[!todo] 🖥️ Atividade: 
+>>> - Criar uma planilha de inventário de peças de um computador.
+>>> - [Modelo de lista peças do computador](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 
 
 </div></div>

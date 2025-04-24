@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":"1","updated":"2025-04-23T08:39:55.181-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":"1","updated":"2025-04-24T10:54:22.459-03:00"}
 ---
 
 
@@ -70,7 +70,7 @@ gantt
 >>> - Criar pasta com seu nome para salvar as atividades conforme a página 64 da [📑Apostila][apostila],
 >>> - Copiar e mover arquivos para a pasta criada;
 >
->>[!note] Aula em 15/04
+>>[!note]- Aula em 15/04
 >> - Configuração de interface de telas da área de trabalho do Windows, seguindo o roteiro a partir da página 36 da [📑Apostila][apostila]:
 >> - Mudar a imagem das telas de bloqueio e desktop do Windows;
 >> - Identificar como instalar e modificar temas do Windows;
@@ -78,14 +78,21 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> - Criando textos e formatando no WordPad;
 >>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
-
->[!todo] Última atualização
->>[!note] Aula em 22/04
+>
+>>[!note]- Aula em 22/04
 >>   - Conhecendo os acessórios do Windows: Criando textos e formatando no WordPad;
 >>   - interface e manuseio de janelas, área de trabalho,
 >>   - recurso de área de transferência,
 >>>[!todo] 🖥️ Atividade:
 >>> - Selecionando textos, copiando e colando textos e imagens entre aplicativos, conforme pg. 56 da [📑Apostila][apostila];
+
+>[!todo] Última atualização
+>>[!note] Aula em 24/03
+>>   - Editor de texto [Word](https://support.microsoft.com/pt-br/word): área de trabalho;
+>>   - [📑Apostila][apostila] a partir da pg. 73: Processador de Textos Word: Elementos da tela; Manipulação com arquivo de texto; Recursos de seleção de texto; 
+>>>[!todo] 🖥️ Atividade:
+>>> - Conhecendo a interface do Word: Criando texto sobre o Blu-Ray contendo formatação e parágrafos;
+>>> - Conhecendo estilos de texto no Word Criando o texto Iracema;
 
 
 
