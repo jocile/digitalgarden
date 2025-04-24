@@ -289,7 +289,7 @@ gantt
 >>> - Modelo de [Quadro de carga.xlsx - Planilhas Google](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >
 >>[!note] Aula em 24/04
->> - Apresentação sobre componentes do Hardware do computador](https://docs.google.com/presentation/d/1kvolMffn2jz8_A3uNeP7OchCReC_J4-5/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>> - [Apresentação sobre componentes do Hardware do computador](https://docs.google.com/presentation/d/1kvolMffn2jz8_A3uNeP7OchCReC_J4-5/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> - [Apresentação sobre gabinetes e conexões](https://docs.google.com/presentation/d/169k3P0IeHqLeSnQOX2awuU7z150Bolgj/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> - Componentes do Hardware de uma [[Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]: placa-mãe, processador, memória RAM, cooler, fonte de alimentação, gabinetes e placas de expansão.
 >>>[!todo] 🖥️ Atividade: 
