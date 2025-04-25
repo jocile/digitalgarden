@@ -271,9 +271,9 @@ gantt
 >[!done] Cronograma da Unidade Curricular 2
 >
 >>[!note]- Aula em 22/04
->> - [Apresentação sobre eletricidade básica](https://docs.google.com/presentation/d/1mqCnZ9oYKn9hDMNl2yORMvNzKlIhavVq/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
->> - [Apresentação sobre equipamentos elétricos](https://docs.google.com/presentation/d/10b2STpcmCncN9G9lZqd8SSKKaO77mmrS/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
->> - [Apresentação sobre a Fonte de um computador](https://docs.google.com/presentation/d/1OBvnIeLNtvrt6yH09S9eK_Pw_Crosr-w/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>> - [Eletricidade Basica Aula.ppt - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vRQbF_HeUA62xVYROHayMUQwq81dXZdn9RbHwihait41yerHY0-FvtlPygsC28ldg/pub?start=true&loop=false&delayms=3000)
+>> - [Eletricidade e proteção.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vQFiCPOw6kBrVUnlE3EfaoBHl0ys2DxUm9yZqTRPylsZcmDqTYdmM3gBxSrr4GJeQ/pub?start=true&loop=false&delayms=3000)
+>> - [Fonte de alimentação.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTf_VeIsIGUfBaXbLHUKRx1mCv95CGcWe-739PpXIgxOHJr_KwUtLI6kXaOoVnvsw/pub?start=true&loop=false&delayms=3000)
 >> - [[Assistente-de-TI/Cálculos elétricos\|Cálculos elétricos]]
 >> - Componentes do Hardware: [Fontes de alimentação ATX: principais características](https://www.infowester.com/fontesatx.php)
 >>>[!todo] 🖥️ Atividade: 
@@ -281,20 +281,31 @@ gantt
 >>> - Modelo de [Quadro de carga.xlsx - Planilhas Google](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >
 >>[!note]- Aula em 23/04
->> - [Apresentação sobre equipamentos de proteção elétrica](https://docs.google.com/presentation/d/1mwRvPAwIYyWwCFixJEzR7lPahQR1U_6-/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>> - [Equipamentos de proteção elétrica.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vT-plmkdESOqUamkDtCt8T-DMxoIwGYqH4n1OO6MrR8r-eBzs48fB34ODm1MgFKuw/pub?start=true&loop=false&delayms=3000)
 >> - [Equipamentos de proteção elétrica](https://jocile.github.io/aulas/posts/equipamentos-de-protecao-eletrica/)
 >> - Introdução ao funcionamento da rede elétrica: [Conceitos de Eletricidade](https://jocile.github.io/aulas/posts/conceitos-de-eletricidade/)
 >>>[!todo] 🖥️ Atividade: 
 >>> - Criar uma planilha de orçamento de equipamentos de proteção elétrica para um laboratório de informática com 10 computadores.
 >>> - Modelo de [Quadro de carga.xlsx - Planilhas Google](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >
->>[!note] Aula em 24/04
->> - [Apresentação sobre componentes do Hardware do computador](https://docs.google.com/presentation/d/1kvolMffn2jz8_A3uNeP7OchCReC_J4-5/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
->> - [Apresentação sobre gabinetes e conexões](https://docs.google.com/presentation/d/169k3P0IeHqLeSnQOX2awuU7z150Bolgj/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>>[!note]- Aula em 24/04
+>> - [Partes do Computador.ppt - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vScIJZntmXRw-YLkSd6oQ45r2avd_Vp9mt44B3YDZ_58rSzgs_wJHTVerjmdEVuUg/pub?start=true&loop=false&delayms=3000)
+>> - [Apresentação sobre gabinetes e conexões](https://docs.google.com/presentation/d/e/2PACX-1vTsgRf0APpdSQcmGqju49KaVhLoVFxjhYNUWWvYUu-dI0r96NkSn2GyLEaPrzsLXA/pub?start=true&loop=false&delayms=3000)
 >> - Componentes do Hardware de uma [[Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]: placa-mãe, processador, memória RAM, cooler, fonte de alimentação, gabinetes e placas de expansão.
 >>>[!todo] 🖥️ Atividade: 
 >>> - Criar uma planilha de inventário de peças de um computador.
+>>> - [Calculadora de Autonomia Nobreaks Intelbras](https://calculadora-nobreaks.intelbras.com.br/)
 >>> - [Modelo de lista peças do computador](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>
+>>[!note] Aula em 25/04
+>> - Componentes do Hardware: [Processadores.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vRx8cvvDeinPIWpHX22yGBxuhvSEDix4lth4Ru9U9dJZVVPUI7VRIGdFLwttrzhKw/pub?start=true&loop=false&delayms=3000)
+>> - [Memória.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vSPuWVYJSM7wXvxL9d2MRZht-k3Iz2UUrBqIG2_4KBqzTfnptAs3Tky7-OggDYwfA/pub?start=true&loop=false&delayms=3000)
+>> - [Placa-mãe.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTWKEtYI6PLBfg-Ey4NJpspgUqX4SHbcLOUVeKZfFDo9-oXtsXzMN-PX0i4qOJWyw/pub?start=true&loop=false&delayms=3000)
+>> - [Instalação de Hardware.pdf](https://drive.google.com/file/d/1eHpXpqeI8s4uvExVrM9IHNdlLYtHag8z/view?usp=sharing)
+>>>[!todo] 🖥️ Atividade:
+>>> - [Modelo de lista peças do computador](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>>> - [Questionário sobre as peças do computador](https://forms.gle/nYuKC46Jr59SfELD6)
+>>> - [PRALET de Instalação de Hardware.docx](https://docs.google.com/document/d/e/2PACX-1vRsI5aKkqN3PlhJkaR9AOAS54HreKqYXWBtrIjnxjFV2NGC4-V0-lj2rengIdsIbg/pub)
 
 
 </div></div>
