@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"updated":"2025-04-13T14:21:47.027-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":"1","updated":"2025-04-25T18:40:07.112-03:00"}
 ---
 
 
@@ -25,22 +25,32 @@
 > 4. Elabora e edita dados numéricos e gráficos de acordo com os recursos do editor de planilhas eletrônicas.
 > 5. Armazena e compartilha dados de acordo com os requisitos da solução.
 
-## Cronograma da Unidade Curricular
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
 
 ```mermaid
 gantt
-     title UC1
+     title Informática Básica (sab)
      tickInterval 1week
      weekday Saturday
-     excludes Sunday, Monday, Tuesday, Wednesday, Thursday, Friday
+     excludes Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, 19.04
      dateFormat DD:MM
      axisFormat %d.%m
      section UC1
-         Windows :a1, 05:04, 4d
+         Windows :a1, 05:04, 5d
          Word :a2,after a1, 5d
-         Excel :a3, after a2, 6d
+         Excel :a3, after a2, 5d
          PowerPoint :a4, after a3, 2d
 ```
+
+
+</div></div>
+
+
+## Cronograma da Unidade Curricular
 
 >[!done] Cronograma das aulas
 >
@@ -52,7 +62,7 @@ gantt
 >>> - Acesso e tela de bloqueio;
 >>> - Digitação com acentuação na página 53 da [📑Apostila][apostila]
 >
->>[!note] Aula em 12/04
+>>[!note]- Aula em 12/04
 >> - [Partes do computador](https://docs.google.com/presentation/d/1Ohfb9t_ZR_qWBVGtOg3tQJ28Y4mGXufM/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> - [📑Apostila][apostila] página 61 explorando arquivos e pastas no Windows.
 >>   - Interface e manuseio de janelas, área de trabalho,
@@ -63,8 +73,15 @@ gantt
 >>> - Criar pasta com seu nome para salvar as atividades conforme a página 64 da [📑Apostila][apostila],
 >>> - Copiar e mover arquivos para a pasta criada;
 >>> - Organização de ícones e arquivos no menu Iniciar e na Área de Trabalho, nas páginas 29 a 35 da [📑Apostila][apostila]
-
-
+>
+>>[!note] Aula em 26/04
+>> - Configuração de interface de telas da área de trabalho do Windows, seguindo o roteiro a partir da página 36 da [📑Apostila][apostila]:
+>> - Mudar a imagem das telas de bloqueio e desktop do Windows;
+>> - Identificar como instalar e modificar temas do Windows;
+>> - Conhecendo os acessórios do Windows: bloco de notas, [[Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], Paint e Wordpad, digitação com acentos e atalhos de teclado;
+>>>[!todo] 🖥️ Atividade:
+>>> - Criando textos e formatando no WordPad;
+>>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
 
 > [!important]- 📚Material didático
 > 
