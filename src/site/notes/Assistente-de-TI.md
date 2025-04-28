@@ -297,7 +297,7 @@ gantt
 >>> - [Calculadora de Autonomia Nobreaks Intelbras](https://calculadora-nobreaks.intelbras.com.br/)
 >>> - [Modelo de lista peças do computador](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >
->>[!note] Aula em 25/04
+>>[!note]- Aula em 25/04
 >> - Componentes do Hardware: [Processadores.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vRx8cvvDeinPIWpHX22yGBxuhvSEDix4lth4Ru9U9dJZVVPUI7VRIGdFLwttrzhKw/pub?start=true&loop=false&delayms=3000)
 >> - [Memória.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vSPuWVYJSM7wXvxL9d2MRZht-k3Iz2UUrBqIG2_4KBqzTfnptAs3Tky7-OggDYwfA/pub?start=true&loop=false&delayms=3000)
 >> - [Placa-mãe.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTWKEtYI6PLBfg-Ey4NJpspgUqX4SHbcLOUVeKZfFDo9-oXtsXzMN-PX0i4qOJWyw/pub?start=true&loop=false&delayms=3000)
@@ -306,6 +306,12 @@ gantt
 >>> - [Modelo de lista peças do computador](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >>> - [Questionário sobre as peças do computador](https://forms.gle/nYuKC46Jr59SfELD6)
 >>> - [PRALET de Instalação de Hardware.docx](https://docs.google.com/document/d/e/2PACX-1vRsI5aKkqN3PlhJkaR9AOAS54HreKqYXWBtrIjnxjFV2NGC4-V0-lj2rengIdsIbg/pub)
+>
+>>[!note] Aula em 28/04
+>> - Componentes do Hardware: [[Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]]
+>>>[!todo] 🖥️ Atividade:
+>>> - Realizar a montagem de um computador usando simuladores.
+>>> - Criar um relatório no Word descrevendo a configuração das peças utilizadas.
 
 
 </div></div>
