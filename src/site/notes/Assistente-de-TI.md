@@ -315,6 +315,8 @@ gantt
 >
 >>[!note] Aula em 29/04
 >> - Problemas do Hardware: [[Assistente-de-TI/Resolucao-de-problemas\|Resolucao-de-problemas]]
+>> - [Problemas no pc.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTLFM-wvV_MYSuyQDNaZFaHAr-Nl58wzKxQSm5wv04rE_9mvCdI8eyWLr-SAN88wA/pub?start=true&loop=false&delayms=3000)
+>> - [Diagnosticando Defeitos.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vQHGR3mqvjiU3pQ95GaFxNCkKtw-FF7cQ-mxaL3UI4uuZGl-mSY7QFTpVccK5Latg/pub?start=true&loop=false&delayms=3000)
 >>>[!todo] 🖥️ Atividade:
 >>> - Realizar a solução de problemas de um computador usando: [Intel - Simulador de Defeitos](https://archive.org/details/intel_simuladordefeitos)
 >>> - Criar um relatório no Word descrevendo os problema resolvidos.

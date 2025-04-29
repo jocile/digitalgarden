@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":"1","updated":"2025-04-24T10:54:22.459-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":"1","updated":"2025-04-29T15:27:06.559-03:00"}
 ---
 
 
@@ -34,7 +34,7 @@
 ```mermaid
 gantt
      title Informática Básica (ter e qui)
-     tickInterval 5day
+     tickInterval 4day
      weekday Monday
      excludes Sunday, Monday, Wednesday, Friday, Saturday, 17.04
      dateFormat DD.MM
@@ -85,14 +85,20 @@ gantt
 >>   - recurso de área de transferência,
 >>>[!todo] 🖥️ Atividade:
 >>> - Selecionando textos, copiando e colando textos e imagens entre aplicativos, conforme pg. 56 da [📑Apostila][apostila];
-
->[!todo] Última atualização
+>
 >>[!note] Aula em 24/03
 >>   - Editor de texto [Word](https://support.microsoft.com/pt-br/word): área de trabalho;
 >>   - [📑Apostila][apostila] a partir da pg. 73: Processador de Textos Word: Elementos da tela; Manipulação com arquivo de texto; Recursos de seleção de texto; 
 >>>[!todo] 🖥️ Atividade:
 >>> - Conhecendo a interface do Word: Criando texto sobre o Blu-Ray contendo formatação e parágrafos;
 >>> - Conhecendo estilos de texto no Word Criando o texto Iracema;
+
+>[!todo] Última atualização
+>>[!note] Aula em 29/03
+>>   - [📑Apostila][apostila] a partir da pg. 83: Processador de Textos Word: Manipulação com arquivo de texto e formatação e estilos de fonte e parágrafos; Copiar, recortar e colar texto; Ferramenta Zoom; estilos de texto. 
+>>>[!todo] 🖥️ Atividade:
+>>> - Conhecendo estilos de texto no Word Criando os textos Iracema e o poema Cecília;
+>>> - Conhecendo estilos de texto no Word Criando os textos Responsabilidade Social e Teoria da música;
 
 
 
