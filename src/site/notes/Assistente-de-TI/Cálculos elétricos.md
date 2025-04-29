@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/calculos-eletricos/","title":"Cálculos elétricos","metatags":{"description":"Como dimensionar equipamentos elétricos"},"tags":["eletricidade"],"updated":"2025-04-21T18:36:14.514-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/calculos-eletricos/","title":"Cálculos elétricos","metatags":{"description":"Como dimensionar equipamentos elétricos"},"tags":["eletricidade"],"noteIcon":1,"updated":"2025-04-21T18:36:14.514-03:00"}
 ---
 
 # Cálculos elétricos

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/calculadora-do-windows/","title":"Calculadora do Windows","metatags":{"description":"saiba que tem alguns recursos incríveis que vão muito além de achar o percentual, somar ou dividir números."},"tags":["acessórios","Assistente-de-TI"],"updated":"2025-03-24T11:58:50.197-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/calculadora-do-windows/","title":"Calculadora do Windows","metatags":{"description":"saiba que tem alguns recursos incríveis que vão muito além de achar o percentual, somar ou dividir números."},"tags":["acessórios","Assistente-de-TI"],"noteIcon":"1","updated":"2025-03-24T11:58:50.197-03:00"}
 ---
 
 

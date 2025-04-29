@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":2,"updated":"2025-04-24T10:56:17.459-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":2,"updated":"2025-04-29T10:26:28.832-03:00"}
 ---
 
 
@@ -307,11 +307,17 @@ gantt
 >>> - [Questionário sobre as peças do computador](https://forms.gle/nYuKC46Jr59SfELD6)
 >>> - [PRALET de Instalação de Hardware.docx](https://docs.google.com/document/d/e/2PACX-1vRsI5aKkqN3PlhJkaR9AOAS54HreKqYXWBtrIjnxjFV2NGC4-V0-lj2rengIdsIbg/pub)
 >
->>[!note] Aula em 28/04
+>>[!note]- Aula em 28/04
 >> - Componentes do Hardware: [[Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]]
 >>>[!todo] 🖥️ Atividade:
 >>> - Realizar a montagem de um computador usando simuladores.
 >>> - Criar um relatório no Word descrevendo a configuração das peças utilizadas.
+>
+>>[!note] Aula em 29/04
+>> - Problemas do Hardware: [[Assistente-de-TI/Resolucao-de-problemas\|Resolucao-de-problemas]]
+>>>[!todo] 🖥️ Atividade:
+>>> - Realizar a solução de problemas de um computador usando: [Intel - Simulador de Defeitos](https://archive.org/details/intel_simuladordefeitos)
+>>> - Criar um relatório no Word descrevendo os problema resolvidos.
 
 
 </div></div>
@@ -339,13 +345,17 @@ gantt
 
 ## Vagas em TI na cidade de Sobral - CE
 
-![vaga-execute.jpeg|400](/img/user/vaga-execute.jpeg)
+ ![Vagas-ass-adm.png](/img/user/Vagas-ass-adm.png)
+ [Editais](https://www.stacasa.com.br/index.php/trabalheconosco/editais-e-seleoes)
 
-![vaga-pluralmed.jpeg|400](/img/user/vaga-pluralmed.jpeg)
+![vaga-execute.jpeg](/img/user/vaga-execute.jpeg)
+[Trabalhe Conosco](https://www.execute.com.br/content/5-trabalhe-conosco)
 
-[Oportunidades PluralMed @grupopluralmed](https://www.instagram.com/grupopluralmed/)
+![vaga-pluralmed.jpeg](/img/user/vaga-pluralmed.jpeg)
+[PluralMed - @grupopluralmed](https://www.instagram.com/grupopluralmed/)
 
-![vaga-sobralnet.jpeg|400](/img/user/vaga-sobralnet.jpeg)
+![vaga-sobralnet.jpeg](/img/user/vaga-sobralnet.jpeg)
+[PluralMed](https://www.pluralmed.com.br/src/pages/selecoes/selecoes.html)
 
 
 </div></div>
