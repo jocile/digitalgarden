@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/simulador-de-montagem/","title":"Simulador de montagem","metatags":{"description":"Simulando a montagem de computadores"},"tags":["Aulas","Assistente-de-TI","Senac"],"noteIcon":2,"updated":"2025-04-28T10:28:44.943-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/simulador-de-montagem/","title":"Simulador de montagem","metatags":{"description":"Simulando a montagem de computadores"},"tags":["Aulas","Assistente-de-TI","Senac"],"noteIcon":2,"updated":"2025-05-01T08:25:06.093-03:00"}
 ---
 
 
@@ -18,7 +18,7 @@ E após o download, descompacte em uma pasta, em seguida baixe o simulador (vers
 - [Cisco Virtual Desktop](https://archive.org/details/cisco-it-essentials-virtual-desktop)
 - [Cisco Virtual Laptop](https://archive.org/details/laptop_202008)
 
-[https://drive.google.com/file/d/1M-5lYur3HPOK0V18-_DrM91CeBGto7A3/view? usp=drive_link](https://drive.google.com/file/d/1M-5lYur3HPOK0V18-_DrM91CeBGto7A3/view?usp=drive_link)
+
 
 Extraia o navegador e o simulador.
 

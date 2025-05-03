@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":"1","updated":"2025-04-25T18:40:07.112-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":"1","updated":"2025-05-02T21:36:22.048-03:00"}
 ---
 
 
@@ -37,12 +37,14 @@ gantt
      tickInterval 1week
      weekday Saturday
      excludes Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, 19.04
-     dateFormat DD:MM
+     dateFormat DD.MM
      axisFormat %d.%m
-     section UC1
-         Windows :a1, 05:04, 5d
+     section Win
+         Windows :a1, 05.04, 4d
+     section Word
          Word :a2,after a1, 5d
-         Excel :a3, after a2, 5d
+     section Excel
+         Excel :a3, after a2, 6d
          PowerPoint :a4, after a3, 2d
 ```
 
@@ -74,14 +76,22 @@ gantt
 >>> - Copiar e mover arquivos para a pasta criada;
 >>> - Organização de ícones e arquivos no menu Iniciar e na Área de Trabalho, nas páginas 29 a 35 da [📑Apostila][apostila]
 >
->>[!note] Aula em 26/04
+>>[!attention] 19/04: FERIADO: Semana Santa
+>
+>>[!note]- Aula em 26/04
 >> - Configuração de interface de telas da área de trabalho do Windows, seguindo o roteiro a partir da página 36 da [📑Apostila][apostila]:
 >> - Mudar a imagem das telas de bloqueio e desktop do Windows;
 >> - Identificar como instalar e modificar temas do Windows;
->> - Conhecendo os acessórios do Windows: bloco de notas, [[Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], Paint e Wordpad, digitação com acentos e atalhos de teclado;
+>> - Conhecendo os acessórios do Windows: bloco de notas, [[Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], Paint, Paint 3D e Wordpad, digitação com acentos e atalhos de teclado;
 >>>[!todo] 🖥️ Atividade:
->>> - Criando textos e formatando no WordPad;
+>>> - Criando textos com digitação com acentos, atalhos de teclado e formatando no WordPad;
 >>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
+>
+>>[!note] Aula em 03/05
+>> - Organização de arquivos e pastas no Windows Explorer, gerenciando o armazenamento, deletando e recuperando arquivos, usando a área de transferência (pg. 60).
+>>>[!todo] 🖥️ Atividades:
+>>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
+>>> - Criando o texto do "Descobrimento do Brasil" e formatando no WordPad na pag. 69;
 
 > [!important]- 📚Material didático
 > 

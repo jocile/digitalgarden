@@ -32,7 +32,7 @@
 gantt
      title Assistente de TI
      tickInterval 1week
-     excludes Saturday, Sunday, 19:03, 25:03, 17:04, 18:04, 21:04
+     excludes Saturday, Sunday, 19:03, 25:03, 17:04, 18:04, 21:04, 01:05, 02:05
      dateFormat DD:MM
      axisFormat %d.%m
      section UC1
@@ -313,13 +313,16 @@ gantt
 >>> - Realizar a montagem de um computador usando simuladores.
 >>> - Criar um relatório no Word descrevendo a configuração das peças utilizadas.
 >
->>[!note] Aula em 29/04
+>>[!note]- Aula em 29/04
 >> - Problemas do Hardware: [[Assistente-de-TI/Resolucao-de-problemas\|Resolucao-de-problemas]]
 >> - [Problemas no pc.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTLFM-wvV_MYSuyQDNaZFaHAr-Nl58wzKxQSm5wv04rE_9mvCdI8eyWLr-SAN88wA/pub?start=true&loop=false&delayms=3000)
 >> - [Diagnosticando Defeitos.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vQHGR3mqvjiU3pQ95GaFxNCkKtw-FF7cQ-mxaL3UI4uuZGl-mSY7QFTpVccK5Latg/pub?start=true&loop=false&delayms=3000)
 >>>[!todo] 🖥️ Atividade:
 >>> - Realizar a solução de problemas de um computador usando: [Intel - Simulador de Defeitos](https://archive.org/details/intel_simuladordefeitos)
 >>> - Criar um relatório no Word descrevendo os problema resolvidos.
+>
+>>[!note] Aula em 30/04
+>> - Prática de desmontagem e montagem de computadores.
 
 
 </div></div>
