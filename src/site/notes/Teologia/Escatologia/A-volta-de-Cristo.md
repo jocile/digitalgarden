@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/escatologia/a-volta-de-cristo/","title":"A volta de Cristo","metatags":{"description":"É chegada a hora em que Cristo ocupa a Sua devida posição, sendo glorificado acima dos principados e potestades, e sobre todo o nome que se nomeia"},"tags":["Escatologia","Cristologia"],"updated":"2025-03-27T09:40:43.946-03:00"}
+{"dg-publish":true,"permalink":"/teologia/escatologia/a-volta-de-cristo/","title":"A volta de Cristo","metatags":{"description":"É chegada a hora em que Cristo ocupa a Sua devida posição, sendo glorificado acima dos principados e potestades, e sobre todo o nome que se nomeia"},"tags":["Escatologia","Cristologia"],"noteIcon":"1","updated":"2025-03-27T09:40:43.946-03:00"}
 ---
 
 

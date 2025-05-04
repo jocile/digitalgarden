@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/escatologia/alegoria-x-literal/","title":"Alegoria x literal","metatags":{"description":"A interpretação alegórica busca um significado simbólico ou espiritual por trás do texto literal"},"tags":["Escatologia","Hermeneutica"],"updated":"2025-03-27T09:40:43.952-03:00"}
+{"dg-publish":true,"permalink":"/teologia/escatologia/alegoria-x-literal/","title":"Alegoria x literal","metatags":{"description":"A interpretação alegórica busca um significado simbólico ou espiritual por trás do texto literal"},"tags":["Escatologia","Hermeneutica"],"noteIcon":"1","updated":"2025-03-27T09:40:43.952-03:00"}
 ---
 
 

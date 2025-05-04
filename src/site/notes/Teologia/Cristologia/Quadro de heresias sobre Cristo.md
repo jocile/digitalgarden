@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/quadro-de-heresias-sobre-cristo/","title":"Quadro de heresias sobre Cristo","metatags":{"description":"quadro de heresias Cristológicas através dos séculos"},"tags":["Teologia","Cristologia","heresia"],"updated":"2025-02-05T15:43:20.864-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/quadro-de-heresias-sobre-cristo/","title":"Quadro de heresias sobre Cristo","metatags":{"description":"quadro de heresias Cristológicas através dos séculos"},"tags":["Teologia","Cristologia","heresia"],"noteIcon":"1","updated":"2025-02-05T15:43:20.864-03:00"}
 ---
 
 

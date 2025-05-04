@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/escatologia/literatura-apocaliptica-judaica/","title":"Literatura Apocalíptica Judaica","metatags":{"description":"Originária do judaísmo antigo, esta literatura tem como objetivo empregar conhecimentos divinos sobre eventos futuros ou mistérios espirituais."},"tags":["Teologia","Escatologia"],"updated":"2025-02-23T12:57:43.674-03:00"}
+{"dg-publish":true,"permalink":"/teologia/escatologia/literatura-apocaliptica-judaica/","title":"Literatura Apocalíptica Judaica","metatags":{"description":"Originária do judaísmo antigo, esta literatura tem como objetivo empregar conhecimentos divinos sobre eventos futuros ou mistérios espirituais."},"tags":["Teologia","Escatologia"],"noteIcon":"1","updated":"2025-02-23T12:57:43.674-03:00"}
 ---
 
 

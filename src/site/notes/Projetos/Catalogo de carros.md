@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/catalogo-de-carros/","title":"Catalogo de carros","metatags":{"description":"projeto para desenvolver um frontend de catálogo de carros"},"tags":["CSS","Projeto"],"updated":"2025-03-09T19:57:52.371-03:00"}
+{"dg-publish":true,"permalink":"/projetos/catalogo-de-carros/","title":"Catalogo de carros","metatags":{"description":"projeto para desenvolver um frontend de catálogo de carros"},"tags":["CSS","Projeto"],"noteIcon":"1","updated":"2025-03-09T19:57:52.371-03:00"}
 ---
 
 

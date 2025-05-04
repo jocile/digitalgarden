@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/tipologia/","title":"Tipologia","metatags":{"description":"Na profecia bíblica, tipos e antítipos são usados para mostrar coisas prefiguram e apontam para realidades maiores e mais completas"},"tags":["Teologia","Hermeneutica","parabolas"],"updated":"2025-01-19T19:13:43.807-03:00"}
+{"dg-publish":true,"permalink":"/teologia/tipologia/","title":"Tipologia","metatags":{"description":"Na profecia bíblica, tipos e antítipos são usados para mostrar coisas prefiguram e apontam para realidades maiores e mais completas"},"tags":["Teologia","Hermeneutica","parabolas"],"noteIcon":"1","updated":"2025-01-19T19:13:43.807-03:00"}
 ---
 
 

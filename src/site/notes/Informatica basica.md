@@ -66,7 +66,7 @@ gantt
 >
 >>[!note]- Aula em 10/04 (<font color="#ff0000">clique aqui</font>)
 >> - [Partes do computador](https://docs.google.com/presentation/d/1Ohfb9t_ZR_qWBVGtOg3tQJ28Y4mGXufM/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
->> - [[Assistente-de-TI/Estacao-de-trabalho\|Estação de Trabalho em Tecnologia da Informação]]
+>> - [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estação de Trabalho em Tecnologia da Informação]]
 >> - [📑Apostila][apostila] página 61 explorando arquivos e pastas no Windows.
 >>>[!todo] 🖥️ Atividades: 
 >>> - Criar pasta com seu nome para salvar as atividades conforme a página 64 da [📑Apostila][apostila],
@@ -76,7 +76,7 @@ gantt
 >> - Configuração de interface de telas da área de trabalho do Windows, seguindo o roteiro a partir da página 36 da [📑Apostila][apostila]:
 >> - Mudar a imagem das telas de bloqueio e desktop do Windows;
 >> - Identificar como instalar e modificar temas do Windows;
->> - Conhecendo os acessórios do Windows: bloco de notas, [[Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], Paint e Wordpad, digitação com acentos e atalhos de teclado;
+>> - Conhecendo os acessórios do Windows: bloco de notas, [[Tecnico/Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], Paint e Wordpad, digitação com acentos e atalhos de teclado;
 >>>[!todo] 🖥️ Atividade:
 >>> - Criando textos e formatando no WordPad;
 >>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];

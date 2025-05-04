@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/fontes-historicas/","title":"2. Fontes históricas","metatags":{"description":"além dos Evangelhos outros registros históricos também contribuem para nossa compreensão de sua vida e obra."},"tags":["Teologia","Cristologia"],"updated":"2025-02-05T15:46:58.812-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/fontes-historicas/","title":"2. Fontes históricas","metatags":{"description":"além dos Evangelhos outros registros históricos também contribuem para nossa compreensão de sua vida e obra."},"tags":["Teologia","Cristologia"],"noteIcon":"1","updated":"2025-02-05T15:46:58.812-03:00"}
 ---
 
 # 2. Fontes históricas

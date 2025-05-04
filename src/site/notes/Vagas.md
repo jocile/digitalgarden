@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vagas/","title":"Vagas","metatags":{"description":"Oportunidades em emprego"},"contentClasses":"img-zoom","tags":["vagas"],"noteIcon":"1","updated":"2025-04-29T10:53:20.021-03:00"}
+{"dg-publish":true,"permalink":"/vagas/","title":"Vagas","metatags":{"description":"Oportunidades em emprego"},"contentClasses":"img-zoom","tags":["vagas"],"noteIcon":"1","updated":"2025-05-04T14:38:04.743-03:00"}
 ---
 
 

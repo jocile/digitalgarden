@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/trinitaria/","title":"3.8 A afirmação trinitária","metatags":{"description":"Declara que Deus é um em sua essência, mas essa essência divina existe em três formas ou modos, cada um constituindo uma pessoa."},"tags":["Teologia","Cristologia"],"updated":"2025-02-04T20:51:41.698-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/trinitaria/","title":"3.8 A afirmação trinitária","metatags":{"description":"Declara que Deus é um em sua essência, mas essa essência divina existe em três formas ou modos, cada um constituindo uma pessoa."},"tags":["Teologia","Cristologia"],"noteIcon":"1","updated":"2025-02-04T20:51:41.698-03:00"}
 ---
 
 # 3.8 A afirmação trinitária

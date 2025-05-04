@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/jesus-e-a-salvacao/","title":"Jesus é a Salvacao","metatags":{"description":"Jesus é apresentado como aquele que possui as chaves da casa de Davi, representando a Nova Jerusalém e o acesso à salvação divina"},"tags":["Teologia","Cristologia","Soteriologia"],"updated":"2025-03-27T09:40:43.891-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/jesus-e-a-salvacao/","title":"Jesus é a Salvacao","metatags":{"description":"Jesus é apresentado como aquele que possui as chaves da casa de Davi, representando a Nova Jerusalém e o acesso à salvação divina"},"tags":["Teologia","Cristologia","Soteriologia"],"noteIcon":"1","updated":"2025-03-27T09:40:43.891-03:00"}
 ---
 
 

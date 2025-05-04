@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/aliancas-biblicas/","title":"Alianças bíblicas","metatags":{"description":"A Bíblia descreve o relacionamento entre Deus e seu povo em termos de alianças"},"tags":["Teologia"],"updated":"2025-02-15T14:07:23.577-03:00"}
+{"dg-publish":true,"permalink":"/teologia/aliancas-biblicas/","title":"Alianças bíblicas","metatags":{"description":"A Bíblia descreve o relacionamento entre Deus e seu povo em termos de alianças"},"tags":["Teologia"],"noteIcon":"1","updated":"2025-02-15T14:07:23.577-03:00"}
 ---
 
 

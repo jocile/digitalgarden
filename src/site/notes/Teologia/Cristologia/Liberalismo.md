@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/liberalismo/","title":"3.6 O Liberalismo","metatags":{"description":"buscam entender os textos sagrados considerando contextos linguísticos, históricos e sociais"},"tags":["Teologia","Cristologia"],"updated":"2025-02-04T20:50:54.708-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/liberalismo/","title":"3.6 O Liberalismo","metatags":{"description":"buscam entender os textos sagrados considerando contextos linguísticos, históricos e sociais"},"tags":["Teologia","Cristologia"],"noteIcon":"1","updated":"2025-02-04T20:50:54.708-03:00"}
 ---
 
 # 3.6 O Liberalismo

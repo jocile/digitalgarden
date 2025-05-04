@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/novo-testamento/estudo-de-tiago/","title":"Estudo de Tiago","metatags":{"description":"foi escrita por um judeu e destinada à igreja primitiva, constituída de judeus dispersos, com o objetivo de fortalecer a féde forma prática!"},"tags":["Teologia","Evangelho","Novo-Testamento"],"updated":"2025-03-17T08:48:50.952-03:00"}
+{"dg-publish":true,"permalink":"/teologia/novo-testamento/estudo-de-tiago/","title":"Estudo de Tiago","metatags":{"description":"foi escrita por um judeu e destinada à igreja primitiva, constituída de judeus dispersos, com o objetivo de fortalecer a féde forma prática!"},"tags":["Teologia","Evangelho","Novo-Testamento"],"noteIcon":"1","updated":"2025-03-17T08:48:50.952-03:00"}
 ---
 
 # Estudo de Tiago

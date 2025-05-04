@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/doutrina-de-deus/os-atributos-de-deus/","title":"Os atributos de Deus","metatags":{"description":"nos mostram quem ele é, revelando-nos o que ele faz. Um ser capaz de criar, comunicar-se e amar."},"tags":["Teologia","Deus"],"updated":"2025-02-05T15:56:34.095-03:00"}
+{"dg-publish":true,"permalink":"/teologia/doutrina-de-deus/os-atributos-de-deus/","title":"Os atributos de Deus","metatags":{"description":"nos mostram quem ele é, revelando-nos o que ele faz. Um ser capaz de criar, comunicar-se e amar."},"tags":["Teologia","Deus"],"noteIcon":"1","updated":"2025-02-05T15:56:34.095-03:00"}
 ---
 
 # Os atributos de Deus

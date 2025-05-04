@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/arianismo/","title":"3.4 O Arianismo","metatags":{"description":"Jesus seria o Logos encarnado, a primeira e mais perfeita criatura de Deus, mas não Deus em essência."},"tags":["Teologia","Cristologia","heresia"],"updated":"2025-02-05T15:46:31.679-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/arianismo/","title":"3.4 O Arianismo","metatags":{"description":"Jesus seria o Logos encarnado, a primeira e mais perfeita criatura de Deus, mas não Deus em essência."},"tags":["Teologia","Cristologia","heresia"],"noteIcon":"1","updated":"2025-02-05T15:46:31.679-03:00"}
 ---
 
 # 3.4 O Arianismo

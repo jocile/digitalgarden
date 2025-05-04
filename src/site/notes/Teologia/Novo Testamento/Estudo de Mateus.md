@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/novo-testamento/estudo-de-mateus/","title":"Estudo de Mateus","metatags":{"description":"foi escrito originalmente para os judeus, para declarar que Jesus era o tão esperado messias prometido"},"tags":["Teologia","Evangelho","Novo-Testamento"],"updated":"2025-03-17T08:47:19.036-03:00"}
+{"dg-publish":true,"permalink":"/teologia/novo-testamento/estudo-de-mateus/","title":"Estudo de Mateus","metatags":{"description":"foi escrito originalmente para os judeus, para declarar que Jesus era o tão esperado messias prometido"},"tags":["Teologia","Evangelho","Novo-Testamento"],"noteIcon":"1","updated":"2025-03-17T08:47:19.036-03:00"}
 ---
 
 # Estudo de Mateus

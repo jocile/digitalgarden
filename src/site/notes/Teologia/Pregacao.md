@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/pregacao/","title":"Pregação","metatags":{"description":"O texto explica quatro formas de pregação utilizadas na Igreja primitiva, cada uma com uma função específica dentro da transmissão da mensagem cristã."},"tags":["Teologia","Hermeneutica"],"updated":"2025-01-19T19:10:30.447-03:00"}
+{"dg-publish":true,"permalink":"/teologia/pregacao/","title":"Pregação","metatags":{"description":"O texto explica quatro formas de pregação utilizadas na Igreja primitiva, cada uma com uma função específica dentro da transmissão da mensagem cristã."},"tags":["Teologia","Hermeneutica"],"noteIcon":"1","updated":"2025-01-19T19:10:30.447-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/emanacao/","title":"3.5 A emanação","metatags":{"description":"Deus Pai como o sol é a fonte suprema. Dele emana o Filho (Cristo), a emanação mais forte."},"tags":["Teologia","Cristologia","heresia"],"updated":"2025-02-04T20:50:18.042-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/emanacao/","title":"3.5 A emanação","metatags":{"description":"Deus Pai como o sol é a fonte suprema. Dele emana o Filho (Cristo), a emanação mais forte."},"tags":["Teologia","Cristologia","heresia"],"noteIcon":"1","updated":"2025-02-04T20:50:18.042-03:00"}
 ---
 
 # 3.5 A emanação

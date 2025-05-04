@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/novo-testamento/tipos-de-parabolas/","title":"Tipos de Parábolas","metatags":{"description":"é uma analogia, ou seja uma comparação usando algo conhecido e comum pelo ouvinte, para explicar outra coisa de forma mais simples."},"tags":["Teologia","parábolas","provérbios"],"updated":"2025-03-17T08:55:13.657-03:00"}
+{"dg-publish":true,"permalink":"/teologia/novo-testamento/tipos-de-parabolas/","title":"Tipos de Parábolas","metatags":{"description":"é uma analogia, ou seja uma comparação usando algo conhecido e comum pelo ouvinte, para explicar outra coisa de forma mais simples."},"tags":["Teologia","parábolas","provérbios"],"noteIcon":"1","updated":"2025-03-17T08:55:13.657-03:00"}
 ---
 
 # Tipos de parábolas

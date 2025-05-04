@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/escatologia/literatura-apocaliptica/","title":"Literatura Apocalíptica","metatags":{"description":"usa simbolismo extensivamente, incluindo números e imagens retiradas principalmente do Antigo Testamento como produto de uma esperança invencível e indestrutível face à opressão e escravidão."},"tags":["Teologia","Escatologia"],"updated":"2025-02-23T12:59:42.395-03:00"}
+{"dg-publish":true,"permalink":"/teologia/escatologia/literatura-apocaliptica/","title":"Literatura Apocalíptica","metatags":{"description":"usa simbolismo extensivamente, incluindo números e imagens retiradas principalmente do Antigo Testamento como produto de uma esperança invencível e indestrutível face à opressão e escravidão."},"tags":["Teologia","Escatologia"],"noteIcon":"1","updated":"2025-02-23T12:59:42.395-03:00"}
 ---
 
 # Literatura apocalíptica

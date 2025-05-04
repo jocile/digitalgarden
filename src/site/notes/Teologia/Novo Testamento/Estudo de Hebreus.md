@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/novo-testamento/estudo-de-hebreus/","title":"Estudo de Hebreus","metatags":{"description":"destinada aos hebreus de cultura grega que se converteram ao evangelho, com o objetivo de fortalecimento da fé, apresentando Jesus"},"tags":["Teologia","cartas","Novo-Testamento"],"updated":"2025-03-17T08:41:38.884-03:00"}
+{"dg-publish":true,"permalink":"/teologia/novo-testamento/estudo-de-hebreus/","title":"Estudo de Hebreus","metatags":{"description":"destinada aos hebreus de cultura grega que se converteram ao evangelho, com o objetivo de fortalecimento da fé, apresentando Jesus"},"tags":["Teologia","cartas","Novo-Testamento"],"noteIcon":"1","updated":"2025-03-17T08:41:38.884-03:00"}
 ---
 
 # Estudo de Hebreus

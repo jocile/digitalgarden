@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/biblia-app/","title":"Biblia-app","metatags":{"description":"Aplicativo para ler a Bíblia"},"tags":["Teologia","aplicativos"],"updated":"2025-01-19T19:05:00.006-03:00"}
+{"dg-publish":true,"permalink":"/teologia/biblia-app/","title":"Biblia-app","metatags":{"description":"Aplicativo para ler a Bíblia"},"tags":["Teologia","aplicativos"],"noteIcon":"1","updated":"2025-01-19T19:05:00.006-03:00"}
 ---
 
 

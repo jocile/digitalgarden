@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/dispensacoes/","title":"Dispensações","metatags":{"description":"Comparação da teoria das eras ou dispensações em tabela"},"tags":["Teologia","Dispensacionalismo"],"updated":"2025-03-27T09:40:43.918-03:00"}
+{"dg-publish":true,"permalink":"/teologia/dispensacoes/","title":"Dispensações","metatags":{"description":"Comparação da teoria das eras ou dispensações em tabela"},"tags":["Teologia","Dispensacionalismo"],"noteIcon":"1","updated":"2025-03-27T09:40:43.918-03:00"}
 ---
 
 

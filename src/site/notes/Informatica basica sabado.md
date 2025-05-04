@@ -82,7 +82,7 @@ gantt
 >> - Configuração de interface de telas da área de trabalho do Windows, seguindo o roteiro a partir da página 36 da [📑Apostila][apostila]:
 >> - Mudar a imagem das telas de bloqueio e desktop do Windows;
 >> - Identificar como instalar e modificar temas do Windows;
->> - Conhecendo os acessórios do Windows: bloco de notas, [[Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], Paint, Paint 3D e Wordpad, digitação com acentos e atalhos de teclado;
+>> - Conhecendo os acessórios do Windows: bloco de notas, [[Tecnico/Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], Paint, Paint 3D e Wordpad, digitação com acentos e atalhos de teclado;
 >>>[!todo] 🖥️ Atividade:
 >>> - Criando textos com digitação com acentos, atalhos de teclado e formatando no WordPad;
 >>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];

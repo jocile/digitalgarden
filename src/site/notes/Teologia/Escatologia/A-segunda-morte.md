@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/escatologia/a-segunda-morte/","title":"A-segunda-morte","metatags":{"description":"como um evento distinto da morte física, representando uma **separação eterna de Deus** e um estado de condenação."},"tags":["Escatologia","Apocalipse"],"updated":"2025-01-19T18:51:22.803-03:00"}
+{"dg-publish":true,"permalink":"/teologia/escatologia/a-segunda-morte/","title":"A-segunda-morte","metatags":{"description":"como um evento distinto da morte física, representando uma **separação eterna de Deus** e um estado de condenação."},"tags":["Escatologia","Apocalipse"],"noteIcon":"1","updated":"2025-01-19T18:51:22.803-03:00"}
 ---
 
 # A-segunda-morte

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/doutrina-de-deus/o-conceito-de-deus/","title":"O conceito de Deus","metatags":{"description":"Ser supremo, causa primeira, existente por si, absoluto, infinito, eterno, perfeito, onipotente, onisciente, o bem supremo."},"tags":["Teologia","Deus"],"updated":"2025-02-05T15:55:15.913-03:00"}
+{"dg-publish":true,"permalink":"/teologia/doutrina-de-deus/o-conceito-de-deus/","title":"O conceito de Deus","metatags":{"description":"Ser supremo, causa primeira, existente por si, absoluto, infinito, eterno, perfeito, onipotente, onisciente, o bem supremo."},"tags":["Teologia","Deus"],"noteIcon":"1","updated":"2025-02-05T15:55:15.913-03:00"}
 ---
 
 # O conceito de Deus

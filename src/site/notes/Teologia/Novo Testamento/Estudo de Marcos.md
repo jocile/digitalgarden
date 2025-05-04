@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/novo-testamento/estudo-de-marcos/","title":"Estudo de Marcos","metatags":{"description":"escrito para os cristãos romanos, como um registro das pregações do apóstolo Pedro, de quem era intérprete, em suas pregações em Roma."},"tags":["Teologia","Evangelho","Novo-Testamento"],"updated":"2025-03-17T08:46:18.600-03:00"}
+{"dg-publish":true,"permalink":"/teologia/novo-testamento/estudo-de-marcos/","title":"Estudo de Marcos","metatags":{"description":"escrito para os cristãos romanos, como um registro das pregações do apóstolo Pedro, de quem era intérprete, em suas pregações em Roma."},"tags":["Teologia","Evangelho","Novo-Testamento"],"noteIcon":"1","updated":"2025-03-17T08:46:18.600-03:00"}
 ---
 
 # Estudo de Marcos

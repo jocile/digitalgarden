@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/novo-testamento/estudo-de-joao/","title":"Estudo de João","metatags":{"description":"esclarece os sinais que demonstram a autoridade de Jesus como o filho de Deus"},"tags":["Teologia","Evangelho","Novo-Testamento"],"updated":"2025-03-17T08:43:13.281-03:00"}
+{"dg-publish":true,"permalink":"/teologia/novo-testamento/estudo-de-joao/","title":"Estudo de João","metatags":{"description":"esclarece os sinais que demonstram a autoridade de Jesus como o filho de Deus"},"tags":["Teologia","Evangelho","Novo-Testamento"],"noteIcon":"1","updated":"2025-03-17T08:43:13.281-03:00"}
 ---
 
 # Estudo de João

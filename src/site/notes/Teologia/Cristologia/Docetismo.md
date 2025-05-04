@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/docetismo/","title":"3.3 O Docetismo","metatags":{"description":"defendia que Jesus era um homem comum possuído pelo espírito de Cristo no batismo."},"tags":["Teologia","Cristologia","heresia"],"updated":"2025-02-04T20:50:12.166-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/docetismo/","title":"3.3 O Docetismo","metatags":{"description":"defendia que Jesus era um homem comum possuído pelo espírito de Cristo no batismo."},"tags":["Teologia","Cristologia","heresia"],"noteIcon":"1","updated":"2025-02-04T20:50:12.166-03:00"}
 ---
 
 # 3.3 O Docetismo

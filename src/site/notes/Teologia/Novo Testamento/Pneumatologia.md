@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/novo-testamento/pneumatologia/","title":"Pneumatologia","metatags":{"description":"ciência que estuda a pessoa do Espírito Santo!"},"tags":["Teologia","Pneumatologia"],"updated":"2025-03-17T08:53:34.619-03:00"}
+{"dg-publish":true,"permalink":"/teologia/novo-testamento/pneumatologia/","title":"Pneumatologia","metatags":{"description":"ciência que estuda a pessoa do Espírito Santo!"},"tags":["Teologia","Pneumatologia"],"noteIcon":"1","updated":"2025-03-17T08:53:34.619-03:00"}
 ---
 
 # Pneumatologia

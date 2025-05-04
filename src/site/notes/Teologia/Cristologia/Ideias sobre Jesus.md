@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/ideias-sobre-jesus/","title":"3. Ideias sobre Jesus","metatags":{"description":"Gnosticismo, Docetismo, Arianismo, Liberalismo, Triteísmo ..."},"pinned":true,"tags":["Teologia","Cristologia"],"updated":"2025-02-04T21:18:46.824-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/ideias-sobre-jesus/","title":"3. Ideias sobre Jesus","metatags":{"description":"Gnosticismo, Docetismo, Arianismo, Liberalismo, Triteísmo ..."},"pinned":true,"tags":["Teologia","Cristologia"],"noteIcon":"1","updated":"2025-02-04T21:18:46.824-03:00"}
 ---
 
 # 3. Ideias sobre Jesus

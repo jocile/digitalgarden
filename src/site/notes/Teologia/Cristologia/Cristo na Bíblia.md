@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/cristo-na-biblia/","title":"Cristo na Bíblia","metatags":{"description":"Como Cristo é retratado na Bíblia"},"tags":["Teologia","Cristologia"],"updated":"2025-02-04T20:24:56.142-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/cristo-na-biblia/","title":"Cristo na Bíblia","metatags":{"description":"Como Cristo é retratado na Bíblia"},"tags":["Teologia","Cristologia"],"noteIcon":"1","updated":"2025-02-04T20:24:56.142-03:00"}
 ---
 
 # Cristo na Bíblia

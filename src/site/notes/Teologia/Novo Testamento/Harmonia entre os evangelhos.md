@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/novo-testamento/harmonia-entre-os-evangelhos/","title":"Harmonia entre os evangelhos","metatags":{"description":"referências que se complementamn nos Evangelhos"},"tags":["Teologia","Evangelho","Novo-Testamento"],"updated":"2025-03-17T10:32:00.489-03:00"}
+{"dg-publish":true,"permalink":"/teologia/novo-testamento/harmonia-entre-os-evangelhos/","title":"Harmonia entre os evangelhos","metatags":{"description":"referências que se complementamn nos Evangelhos"},"tags":["Teologia","Evangelho","Novo-Testamento"],"noteIcon":"1","updated":"2025-03-17T10:32:00.489-03:00"}
 ---
 
 # Harmonia entre os evangelhos

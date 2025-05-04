@@ -79,7 +79,7 @@ gantt
 >>>   - Enviar por E-mail.
 >
 >>[!note]- Aula em 18/03
->> - [[Assistente-de-TI/Estacao-de-trabalho\|Estação de Trabalho em Tecnologia da Informação]]
+>> - [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estação de Trabalho em Tecnologia da Informação]]
 >>>[!todo] 🖥️ Atividade: 
 >>> - Digitação com acentuação na página 53 da [📑Apostila][apostila]
 >
@@ -119,7 +119,7 @@ gantt
 >
 >>[!note]- Aula em 26/03
 >>   - Conhecendo os acessórios do Windows: bloco de notas, calculadora Paint e Wordpad, digitação com acentos e atalhos de teclado
->>   - acessórios do SO: bloco de notas, [[Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], WordPad;
+>>   - acessórios do SO: bloco de notas, [[Tecnico/Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], WordPad;
 >>>[!todo] 🖥️ Atividade:
 >>> - Criando textos e formatando no WordPad;
 >>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
@@ -274,7 +274,7 @@ gantt
 >> - [Eletricidade Basica Aula.ppt - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vRQbF_HeUA62xVYROHayMUQwq81dXZdn9RbHwihait41yerHY0-FvtlPygsC28ldg/pub?start=true&loop=false&delayms=3000)
 >> - [Eletricidade e proteção.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vQFiCPOw6kBrVUnlE3EfaoBHl0ys2DxUm9yZqTRPylsZcmDqTYdmM3gBxSrr4GJeQ/pub?start=true&loop=false&delayms=3000)
 >> - [Fonte de alimentação.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTf_VeIsIGUfBaXbLHUKRx1mCv95CGcWe-739PpXIgxOHJr_KwUtLI6kXaOoVnvsw/pub?start=true&loop=false&delayms=3000)
->> - [[Assistente-de-TI/Cálculos elétricos\|Cálculos elétricos]]
+>> - [[Tecnico/Assistente-de-TI/Cálculos elétricos\|Cálculos elétricos]]
 >> - Componentes do Hardware: [Fontes de alimentação ATX: principais características](https://www.infowester.com/fontesatx.php)
 >>>[!todo] 🖥️ Atividade: 
 >>> - Criar uma planilha de orçamento de fontes de computadores usando [PSU Calculator da Cooler Master](https://www.coolermaster.com/pt-br/power-supply-calculator/).
@@ -291,7 +291,7 @@ gantt
 >>[!note]- Aula em 24/04
 >> - [Partes do Computador.ppt - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vScIJZntmXRw-YLkSd6oQ45r2avd_Vp9mt44B3YDZ_58rSzgs_wJHTVerjmdEVuUg/pub?start=true&loop=false&delayms=3000)
 >> - [Apresentação sobre gabinetes e conexões](https://docs.google.com/presentation/d/e/2PACX-1vTsgRf0APpdSQcmGqju49KaVhLoVFxjhYNUWWvYUu-dI0r96NkSn2GyLEaPrzsLXA/pub?start=true&loop=false&delayms=3000)
->> - Componentes do Hardware de uma [[Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]: placa-mãe, processador, memória RAM, cooler, fonte de alimentação, gabinetes e placas de expansão.
+>> - Componentes do Hardware de uma [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]: placa-mãe, processador, memória RAM, cooler, fonte de alimentação, gabinetes e placas de expansão.
 >>>[!todo] 🖥️ Atividade: 
 >>> - Criar uma planilha de inventário de peças de um computador.
 >>> - [Calculadora de Autonomia Nobreaks Intelbras](https://calculadora-nobreaks.intelbras.com.br/)
@@ -308,13 +308,13 @@ gantt
 >>> - [PRALET de Instalação de Hardware.docx](https://docs.google.com/document/d/e/2PACX-1vRsI5aKkqN3PlhJkaR9AOAS54HreKqYXWBtrIjnxjFV2NGC4-V0-lj2rengIdsIbg/pub)
 >
 >>[!note]- Aula em 28/04
->> - Componentes do Hardware: [[Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]]
+>> - Componentes do Hardware: [[Tecnico/Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]]
 >>>[!todo] 🖥️ Atividade:
 >>> - Realizar a montagem de um computador usando simuladores.
 >>> - Criar um relatório no Word descrevendo a configuração das peças utilizadas.
 >
 >>[!note]- Aula em 29/04
->> - Problemas do Hardware: [[Assistente-de-TI/Resolucao-de-problemas\|Resolucao-de-problemas]]
+>> - Problemas do Hardware: [[Tecnico/Assistente-de-TI/Resolucao-de-problemas\|Resolucao-de-problemas]]
 >> - [Problemas no pc.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTLFM-wvV_MYSuyQDNaZFaHAr-Nl58wzKxQSm5wv04rE_9mvCdI8eyWLr-SAN88wA/pub?start=true&loop=false&delayms=3000)
 >> - [Diagnosticando Defeitos.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vQHGR3mqvjiU3pQ95GaFxNCkKtw-FF7cQ-mxaL3UI4uuZGl-mSY7QFTpVccK5Latg/pub?start=true&loop=false&delayms=3000)
 >>>[!todo] 🖥️ Atividade:

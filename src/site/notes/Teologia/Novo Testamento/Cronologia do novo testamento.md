@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/novo-testamento/cronologia-do-novo-testamento/","title":"Cronologia do novo testamento","metatags":{"description":"estabelecer um contexto histórico no surgimento dos livros do Novo Testamento."},"tags":["Teologia","cronologia","Novo-Testamento"],"updated":"2025-03-17T08:34:58.555-03:00"}
+{"dg-publish":true,"permalink":"/teologia/novo-testamento/cronologia-do-novo-testamento/","title":"Cronologia do novo testamento","metatags":{"description":"estabelecer um contexto histórico no surgimento dos livros do Novo Testamento."},"tags":["Teologia","cronologia","Novo-Testamento"],"noteIcon":"1","updated":"2025-03-17T08:34:58.555-03:00"}
 ---
 
 # Cronologia do novo testamento

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/movie-flix/","title":"MovieFlix","metatags":{"description":"Projeto que consiste em um banco de filmes, os quais podem ser listados e avaliados pelos usuários."},"tags":["Projeto","Java","React"],"updated":"2025-03-09T19:54:59.010-03:00"}
+{"dg-publish":true,"permalink":"/projetos/movie-flix/","title":"MovieFlix","metatags":{"description":"Projeto que consiste em um banco de filmes, os quais podem ser listados e avaliados pelos usuários."},"tags":["Projeto","Java","React"],"noteIcon":"1","updated":"2025-03-09T19:54:59.010-03:00"}
 ---
 
 

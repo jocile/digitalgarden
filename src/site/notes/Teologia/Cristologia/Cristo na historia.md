@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/cristo-na-historia/","title":"Cristo na história","metatags":{"description":"Jesus produziu uma das alterações mais profundas já ocorridas na civilização"},"tags":["Teologia","Cristologia"],"updated":"2025-02-04T20:27:38.607-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/cristo-na-historia/","title":"Cristo na história","metatags":{"description":"Jesus produziu uma das alterações mais profundas já ocorridas na civilização"},"tags":["Teologia","Cristologia"],"noteIcon":"1","updated":"2025-02-04T20:27:38.607-03:00"}
 ---
 
 # Cristo na história

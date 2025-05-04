@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/carreira-internacional-checklist/","title":"Carreira Internacional checklist","metatags":{"description":"Para conquistar uma carreira internacional de sucesso, é essencial que você tenha uma compreensão clara de como se posicionar no cenário internacional."},"tags":["Carreira"],"updated":"2025-03-09T11:35:44.040-03:00"}
+{"dg-publish":true,"permalink":"/projetos/carreira-internacional-checklist/","title":"Carreira Internacional checklist","metatags":{"description":"Para conquistar uma carreira internacional de sucesso, é essencial que você tenha uma compreensão clara de como se posicionar no cenário internacional."},"tags":["Carreira"],"noteIcon":"1","updated":"2025-03-09T11:35:44.040-03:00"}
 ---
 
 

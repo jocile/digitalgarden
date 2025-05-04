@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/bibliografia-de-teologia/manual-de-escatologia-por-pentecost/","title":"Manual de Escatologia","metatags":{"description":"A obra argumenta em favor de uma interpretação literal das profecias, especialmente aquelas relacionadas à aliança abraâmica e davídica, defendendo a perspectiva pré-milenialista."},"tags":["Escatologia","Bibliografia"],"updated":"2025-03-27T09:41:02.850-03:00"}
+{"dg-publish":true,"permalink":"/teologia/bibliografia-de-teologia/manual-de-escatologia-por-pentecost/","title":"Manual de Escatologia","metatags":{"description":"A obra argumenta em favor de uma interpretação literal das profecias, especialmente aquelas relacionadas à aliança abraâmica e davídica, defendendo a perspectiva pré-milenialista."},"tags":["Escatologia","Bibliografia"],"noteIcon":"1","updated":"2025-03-27T09:41:02.850-03:00"}
 ---
 
 

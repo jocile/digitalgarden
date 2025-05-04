@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/gnosticismo/","title":"3.2 O Gnosticismo","metatags":{"description":"negavam a plena humanidade de Jesus, afirmando que ele não nasceu como um ser humano comum"},"tags":["Teologia","Cristologia","heresia"],"updated":"2025-02-04T20:50:33.401-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/gnosticismo/","title":"3.2 O Gnosticismo","metatags":{"description":"negavam a plena humanidade de Jesus, afirmando que ele não nasceu como um ser humano comum"},"tags":["Teologia","Cristologia","heresia"],"noteIcon":"1","updated":"2025-02-04T20:50:33.401-03:00"}
 ---
 
 # 3.2 O gnosticismo

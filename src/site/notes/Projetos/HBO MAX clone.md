@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/hbo-max-clone/","title":"HBO Max Clone","metatags":{"description":"Projeto que consiste em um banco de filmes, os quais podem ser listados e avaliados pelos usuários."},"tags":["Projeto","CSS","HTML"],"updated":"2025-03-14T19:35:01.877-03:00"}
+{"dg-publish":true,"permalink":"/projetos/hbo-max-clone/","title":"HBO Max Clone","metatags":{"description":"Projeto que consiste em um banco de filmes, os quais podem ser listados e avaliados pelos usuários."},"tags":["Projeto","CSS","HTML"],"noteIcon":"1","updated":"2025-03-14T19:35:01.877-03:00"}
 ---
 
 

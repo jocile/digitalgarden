@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/bibliografia-de-teologia/o-novo-testamento-por-barclay/","title":"O Novo Testamento por Barclay","metatags":{"description":"Introduz e interpreta a totalidade dos livros do NOVO TESTAMENTO."},"tags":["Novo-Testamento","Bibliografia"],"updated":"2025-03-27T09:26:46.143-03:00"}
+{"dg-publish":true,"permalink":"/teologia/bibliografia-de-teologia/o-novo-testamento-por-barclay/","title":"O Novo Testamento por Barclay","metatags":{"description":"Introduz e interpreta a totalidade dos livros do NOVO TESTAMENTO."},"tags":["Novo-Testamento","Bibliografia"],"noteIcon":"1","updated":"2025-03-27T09:26:46.143-03:00"}
 ---
 
 

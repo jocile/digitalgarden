@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/a-nao-existencia/","title":"3.1 A não existência","metatags":{"description":"propõe que Jesus Cristo não foi uma figura histórica real, mas sim uma criação mitológica ou lendária"},"tags":["Teologia","Cristologia","heresia"],"updated":"2025-02-04T20:49:54.480-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/a-nao-existencia/","title":"3.1 A não existência","metatags":{"description":"propõe que Jesus Cristo não foi uma figura histórica real, mas sim uma criação mitológica ou lendária"},"tags":["Teologia","Cristologia","heresia"],"noteIcon":2,"updated":"2025-05-01T15:38:00.006-03:00"}
 ---
 
 # 3.1 A teoria da não existência
 
-A teoria da não-existência de Jesus, também conhecida como "mito de Jesus", propõe que Jesus Cristo não foi uma figura histórica real, mas sim uma criação mitológica ou lendária. Essa teoria tem sido defendida por alguns estudiosos e autores, tanto no passado quanto no presente, e se baseia em diversos argumentos.
+>[!abstract] A teoria da não-existência de Jesus, também conhecida como "mito de Jesus", propõe que Jesus Cristo não foi uma figura histórica real, mas sim uma criação mitológica ou lendária. Essa teoria tem sido defendida por alguns estudiosos e autores, tanto no passado quanto no presente, e se baseia em diversos argumentos.
 
 ## **Argumentos da Teoria:**
 
@@ -22,12 +22,25 @@ A teoria da não-existência de Jesus enfrenta diversas críticas e contestaçõ
 - **Coerência dos Evangelhos:** Apesar de suas diferenças, os Evangelhos apresentam uma narrativa coerente sobre a vida e obra de Jesus, com elementos históricos e culturais da época.
 - **Desenvolvimento do Cristianismo:** O surgimento e a rápida expansão do Cristianismo nas primeiras décadas após a morte de Jesus são difíceis de explicar se ele não fosse uma figura histórica real.
 
+## Destaques
+
+Para tornar mais clara a discussão sobre a existência de Jesus, destacando os autores e suas argumentações:
+
+1. **Autores e Argumentos**:
+   - **David Strauss**: Em seu livro "Life of Jesus", o teólogo alemão sugere que a história de Jesus é "quase inteiramente mitológica".
+   - **Arthur Drews**: Na obra "The Christ Myth", Drews argumenta que um culto ao Salvador existiu antes dos cristãos, e os cristãos posteriormente adotaram o conceito de Messias, desenvolvendo a doutrina em torno de Jesus.
+   
+2. **Citações Históricas**:
+   - **Flávio Josefo**: Descreve Jesus como "um homem bom" associado a homens bons, apesar de sua declaração ser considerada altamente interpolada.
+   - **Tácito**, **Suetônio** e **Plínio**: Referências de fontes romanas mencionam Jesus, com datações entre 110 D.C. e 125 D.C.
+
+3. **Culto ao Salvador e "Cumprimento de Desejo"**:
+   - Antes dos cristãos, existiu um culto ao Salvador, que criou o conceito de Messias. Isso pode ser visto como uma forma de "cumprimento de desejo", uma função psíquica humana, onde Israel ansiava por um libertador.
+
+4. **Controvérsia e Conclusão**:
+   - A historicidade de Jesus é contestada, com zombeteiros argumentando que os evangelhos são narrativas criadas por zelotes maníacos.
+   - No entanto, fontes históricas como Josefo e os romanos referem-se a Jesus, apesar de algumas delas serem consideradas interpoladas.
+
 ## **Conclusão:**
 
-A teoria da não-existência de Jesus, embora apresente alguns argumentos, não é amplamente aceita pela comunidade acadêmica. As evidências históricas, tanto dentro quanto fora dos textos bíblicos, apontam para a existência de Jesus como figura central do Cristianismo. A análise crítica dos Evangelhos, combinada com outras fontes históricas, permite construir uma imagem mais completa e confiável de Jesus de Nazaré.
-
-**Observações:**
-
-- Este texto apresenta uma síntese dos principais argumentos da teoria da não-existência de Jesus e da crítica a ela.
-- Para um estudo mais aprofundado do tema, é recomendável consultar livros e artigos especializados em história do Cristianismo e estudos bíblicos.
-- É importante manter uma mente aberta e crítica ao analisar diferentes perspectivas sobre a historicidade de Jesus.
+>[!done] A teoria da não-existência de Jesus, embora apresente alguns argumentos, não é amplamente aceita pela comunidade acadêmica. As evidências históricas, tanto dentro quanto fora dos textos bíblicos, apontam para a existência de Jesus como figura central do Cristianismo. A análise crítica dos Evangelhos, combinada com outras fontes históricas, permite construir uma imagem mais completa e confiável de Jesus de Nazaré.
