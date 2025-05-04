@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/atualizacoes/","title":"Atualizações","metatags":{"description":"Atualizações recentes"},"contentClasses":"cards","noteIcon":"default","updated":"2025-05-04T16:32:04.265-03:00"}
+{"dg-publish":true,"permalink":"/atualizacoes/","title":"Atualizações","metatags":{"description":"Atualizações recentes"},"contentClasses":"cards","noteIcon":"default","updated":"2025-05-04T16:49:09.416-03:00"}
 ---
 
 
-<!-- QueryToSerialize: TABLE WITHOUT ID dateformat(file.mtime, "dd.MM") as "Data", file.link AS "✨ Atualizações", dg-metatags.description AS "📄 Descrição" FROM "Inteligencia Artificial" OR "Teologia" OR "Programador" OR "Webdesign" OR "Didatica" OR "Assistente-de-TI" OR "Projetos" WHERE dg-publish AND class!="mapa" SORT file.mtime DESC LIMIT 100 -->
+<!-- QueryToSerialize: TABLE WITHOUT ID dateformat(file.mtime, "dd.MM.yy") as "Data", file.link AS "✨ Atualizações", dg-metatags.description AS "📄 Descrição" FROM "Inteligencia Artificial" OR "Teologia" OR "Programador" OR "Webdesign" OR "Didatica" OR "Assistente-de-TI" OR "Projetos" WHERE dg-publish AND class!="mapa" SORT file.mtime DESC LIMIT 100 -->
 <!-- SerializedQuery: TABLE WITHOUT ID dateformat(file.mtime, "dd.MM") as "Data", file.link AS "✨ Atualizações", dg-metatags.description AS "📄 Descrição" FROM "Inteligencia Artificial" OR "Teologia" OR "Programador" OR "Webdesign" OR "Didatica" OR "Assistente-de-TI" OR "Projetos" WHERE dg-publish AND class!="mapa" SORT file.mtime DESC LIMIT 100 -->
 
 | Data  | ✨ Atualizações                                                                                                    | 📄 Descrição                                                                                                                                                                                    |
