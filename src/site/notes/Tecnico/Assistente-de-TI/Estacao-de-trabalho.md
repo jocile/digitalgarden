@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/estacao-de-trabalho/","title":"Estação de trabalho","metatags":{"description":"trata-se de um conjuntos de equipamentos mecânicos e eletrônicos adequados e capazes de processar dados afim de que estes se tornem informação"},"tags":["Aulas","Assistente-de-TI"],"noteIcon":"1","updated":"2025-03-19T21:04:57.167-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/estacao-de-trabalho/","title":"Estação de trabalho","metatags":{"description":"trata-se de um conjuntos de equipamentos mecânicos e eletrônicos adequados e capazes de processar dados afim de que estes se tornem informação"},"tags":["Aulas","Assistente-de-TI"],"noteIcon":"1","updated":"2025-05-05T10:01:51.562-03:00"}
 ---
 
 

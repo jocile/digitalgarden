@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":2,"updated":"2025-04-29T10:26:28.832-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":2,"updated":"2025-05-05T09:56:49.835-03:00"}
 ---
 
 
@@ -38,9 +38,9 @@ gantt
      section UC1
          UC1 :a1, 17:03, 21d
      section Atual
-         UC2 :a2,after a1, 7d
+         UC2 :a2,after a1, 8d
      section Próximas
-         UC3 :a3, after a2, 9d
+         UC3 :a3, after a2, 8d
          UC4 :a4, after a3, 9d
          UC5 :a5, after a4, 5d
 ```
@@ -321,8 +321,11 @@ gantt
 >>> - Realizar a solução de problemas de um computador usando: [Intel - Simulador de Defeitos](https://archive.org/details/intel_simuladordefeitos)
 >>> - Criar um relatório no Word descrevendo os problema resolvidos.
 >
->>[!note] Aula em 30/04
+>>[!note]- Aula em 30/04
 >> - Prática de desmontagem e montagem de computadores.
+>
+>>[!note] Aula em 05/05
+>> - [[Tecnico/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
 
 
 </div></div>
