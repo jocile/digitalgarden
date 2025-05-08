@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":2,"updated":"2025-05-05T09:56:49.835-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":"default","updated":"2025-05-08T10:19:10.448-03:00"}
 ---
 
 
@@ -32,17 +32,18 @@
 gantt
      title Assistente de TI
      tickInterval 1week
-     excludes Saturday, Sunday, 19:03, 25:03, 17:04, 18:04, 21:04, 01:05, 02:05
+     excludes Saturday, Sunday, 19:03, 25:03, 17:04, 18:04, 21:04, 01:05, 02:05, 07:05
      dateFormat DD:MM
      axisFormat %d.%m
      section UC1
          UC1 :a1, 17:03, 21d
+     section UC2
+         UC2 :a2,after a1, 9d
      section Atual
-         UC2 :a2,after a1, 8d
+         UC3 :a3, after a2, 9d
      section Próximas
-         UC3 :a3, after a2, 8d
          UC4 :a4, after a3, 9d
-         UC5 :a5, after a4, 5d
+         UC5 :a5, after a4, 3d
 ```
 
 
@@ -329,6 +330,39 @@ gantt
 >
 >>[!note]- Aula em 06/05
 >> - Avaliação de criação de planilha interativa de orçamentos de peças.
+
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+## UC3 - Instalar e configurar sistemas operacionais cliente e softwares
+
+> [!success]- 🖥️ Habilidades
+> 1. Elaborar cronograma de planejamento do processo de instalação e configuração.
+> 2. Identificar compatibilidade entre o hardware e o software.
+> 3. Identificar necessidades de atualização de softwares.
+> 4. Interpretar documentos e manuais técnicos.
+> 5. Desinstalar softwares.
+> 6. Utilizar termos técnicos nas rotinas de trabalho.
+> 7. Administrar tempo e atividades de trabalho.
+> 8. Pesquisar e organizar dados e informações.
+> 9. Realizar backup e restaurar dados.
+
+### Cronograma da UC3
+
+>[!done] Cronograma da Unidade Curricular 3
+>
+>>[!note] Aula em 08/05
+>> - [Instalando Windows - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTVB8pCdIE-NgehNyVa04vIXzceb8NG2oOTqDyfM6r0MK15l7E4UcmAECWWsWJRnw/pub?start=true&loop=false&delayms=3000)
+>> - [[Tecnico/Assistente-de-TI/Instalando-o-windows\|Instalando-o-windows]]
+>>
+>>>[!todo] 🖥️ Atividade: 
+>>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows.
 
 
 </div></div>

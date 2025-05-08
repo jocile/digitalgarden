@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight cards","tags":["gardenEntry"],"noteIcon":"default","updated":"2025-05-04T14:29:28.325-03:00"}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight cards","tags":["gardenEntry"],"noteIcon":"default","updated":"2025-05-08T10:27:18.521-03:00"}
 ---
 
 ## Olá 👋
@@ -9,7 +9,7 @@
 ## Aulas
 
 <span>
-<a class="internal-link" href="/assistente-de-ti/#cronograma-da-uc-2"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Assistente de TI</button></a>
+<a class="internal-link" href="/assistente-de-ti/#cronograma-da-uc-3"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Assistente de TI</button></a>
 <a class="internal-link" href="/informatica-basica/#cronograma-da-unidade-curricular"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Informática Básica</button></a>
 <a class="internal-link" href="/informatica-basica-sabado/#cronograma-da-unidade-curricular"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Informática Básica aos Sábados</button></a>
 </span>
@@ -40,7 +40,7 @@ Este site é um "[jardim digital](https://obsidian.rocks/maps-of-content-effortl
 - Mudas ( ![Maturity Level: 1|14](https://jocile.com/img/tree-1.svg) ) são pensamentos que mal começaram. Talvez tenham sido anotados às pressas ou simplesmente tenham mostrado apenas uma breve amostra do que pensei sobre elas.
 - Plantas ( ![Maturity Level: 2|14](https://jocile.com/img/tree-2.svg) ) têm uma quantidade substancial de conteúdo, mas ainda há muito trabalho a ser feito. Coerência e padrões estão apenas emergindo.
 - Árvores ( ![Maturity Level: 3|14](https://jocile.com/img/tree-3.svg) ) são pedaços coerentes de pensamento/ensaio/expressão que não devem mudar muito, exceto por alguns aprimoramentos editoriais.
-- Informativo ( ![Maturity Level: 3|14](https://jocile.com/img/default-note-icon.svg) ) são pontos de referência, como placas informativas ou mapas sobre o caminho, geralmente contendo links.
+- Mapas de conteúdo ( ![Maturity Level: 4|14](https://jocile.com/img/default-note-icon.svg) ) são pontos de referência informativos sobre o caminho, geralmente contendo links.
 
 
 </div></div>
