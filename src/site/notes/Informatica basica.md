@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-05-05T10:00:32.689-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-05-07T20:24:27.318-03:00"}
 ---
 
 
@@ -88,19 +88,31 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> - Selecionando textos, copiando e colando textos e imagens entre aplicativos, conforme pg. 56 da [📑Apostila][apostila];
 >
->>[!note] Aula em 24/04
+>>[!note]- Aula em 24/04
 >>   - Editor de texto [Word](https://support.microsoft.com/pt-br/word): área de trabalho;
 >>   - [📑Apostila][apostila] a partir da pg. 73: Processador de Textos Word: Elementos da tela; Manipulação com arquivo de texto; Recursos de seleção de texto; 
 >>>[!todo] 🖥️ Atividade:
 >>> - Conhecendo a interface do Word: Criando texto sobre o Blu-Ray contendo formatação e parágrafos;
 >>> - Conhecendo estilos de texto no Word Criando o texto Iracema;
-
->[!todo] Última atualização
->>[!note] Aula em 29/04
+>
+>>[!note]- Aula em 29/04
 >>   - [📑Apostila][apostila] a partir da pg. 83: Processador de Textos Word: Manipulação com arquivo de texto e formatação e estilos de fonte e parágrafos; Copiar, recortar e colar texto; Ferramenta Zoom; estilos de texto. 
 >>>[!todo] 🖥️ Atividade:
 >>> - Conhecendo estilos de texto no Word Criando os textos Iracema e o poema Cecília;
 >>> - Conhecendo estilos de texto no Word Criando os textos Responsabilidade Social e Teoria da música;
+>
+>>[!attention] 01/05: FERIADO: Dia do Trabalho
+>
+>>[!note]- Aula em 06/05
+>>   - [📑Apostila][apostila] a partir da pg. 90: Processador de Textos Word: Formatação e estilos de fonte e parágrafos; criação de bordas, inserindo formas, visualização de impressão, de tópicos e de leitura.
+>>>[!todo] 🖥️ Atividade:
+>>> - Criando os textos responsabilidade social e correção ortográfica com o texto teoria da música;
+
+>[!todo] Última atualização
+>>[!note] Aula em 08/05
+>>   - [📑Apostila][apostila] a partir da pg. 94: Processador de Textos Word: Formatação com tabulações, inserindo bordas es sombreamento, listas com marcadores e numeração.
+>>>[!todo] 🖥️ Atividade:
+>>> - Criando cardápios, papel de carta e certificados;
 
 
 

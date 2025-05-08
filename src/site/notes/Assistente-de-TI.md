@@ -268,7 +268,7 @@ gantt
 
 ### Cronograma da UC2
 
->[!done] Cronograma da Unidade Curricular 2
+>[!done]- Cronograma da Unidade Curricular 2
 >
 >>[!note]- Aula em 22/04
 >> - [Eletricidade Basica Aula.ppt - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vRQbF_HeUA62xVYROHayMUQwq81dXZdn9RbHwihait41yerHY0-FvtlPygsC28ldg/pub?start=true&loop=false&delayms=3000)
@@ -324,8 +324,11 @@ gantt
 >>[!note]- Aula em 30/04
 >> - Prática de desmontagem e montagem de computadores.
 >
->>[!note] Aula em 05/05
+>>[!note]- Aula em 05/05
 >> - [[Tecnico/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
+>
+>>[!note]- Aula em 06/05
+>> - Avaliação de criação de planilha interativa de orçamentos de peças.
 
 
 </div></div>
