@@ -357,12 +357,19 @@ gantt
 
 >[!done] Cronograma da Unidade Curricular 3
 >
->>[!note] Aula em 08/05
+>>[!note]- Aula em 08/05
 >> - [Instalando Windows - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTVB8pCdIE-NgehNyVa04vIXzceb8NG2oOTqDyfM6r0MK15l7E4UcmAECWWsWJRnw/pub?start=true&loop=false&delayms=3000)
 >> - [[Tecnico/Assistente-de-TI/Instalando-o-windows\|Instalando-o-windows]]
 >>
 >>>[!todo] 🖥️ Atividade: 
 >>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows.
+>
+>>[!note] Aula em 09/05
+>> - [[Tecnico/Assistente-de-TI/Instalando-o-windows\|Instalando-o-windows]]
+>> - [Pacote office 2024 ultima versão atualizada oficial baixar e instalar - YouTube](https://www.youtube.com/watch?v=cLrheCNZjrc)
+>>
+>>>[!todo] 🖥️ Atividade: 
+>>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows e pacote Office.
 
 
 </div></div>
