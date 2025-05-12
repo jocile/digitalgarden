@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-05-05T09:59:59.754-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-05-12T09:55:46.087-03:00"}
 ---
 
 
@@ -92,6 +92,13 @@ gantt
 >>>[!todo] 🖥️ Atividades:
 >>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
 >>> - Criando o texto do "Descobrimento do Brasil" e formatando no WordPad na pag. 69;
+>
+>>[!note] Aula em 10/05
+>>   -  Processador de Textos Word: Manipulação com arquivo de texto e formatação e estilos de fonte e parágrafos; Copiar, recortar e colar texto; Ferramenta Zoom; estilos de texto. 
+>>>[!todo] 🖥️ Atividades:
+>>> - [📑Apostila][apostila] a partir da pg. 69: Criação e cópia de arquivos e pastas,
+>>> - criação e cópia de imagens com o Paint e WordPad;
+>>> - Conhecendo estilos de texto no Word e criando os textos Iracema e o poema Cecília;
 
 > [!important]- 📚Material didático
 > 
