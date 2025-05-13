@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-05-07T20:24:27.318-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-05-13T09:44:01.814-03:00"}
 ---
 
 
@@ -107,12 +107,17 @@ gantt
 >>   - [📑Apostila][apostila] a partir da pg. 90: Processador de Textos Word: Formatação e estilos de fonte e parágrafos; criação de bordas, inserindo formas, visualização de impressão, de tópicos e de leitura.
 >>>[!todo] 🖥️ Atividade:
 >>> - Criando os textos responsabilidade social e correção ortográfica com o texto teoria da música;
-
->[!todo] Última atualização
->>[!note] Aula em 08/05
+>
+>>[!note]- Aula em 08/05
 >>   - [📑Apostila][apostila] a partir da pg. 94: Processador de Textos Word: Formatação com tabulações, inserindo bordas es sombreamento, listas com marcadores e numeração.
 >>>[!todo] 🖥️ Atividade:
 >>> - Criando cardápios, papel de carta e certificados;
+
+>[!todo] Última atualização
+>>[!note] Aula em 13/05
+>>   - [📑Apostila][apostila] a partir da pg. 99: Processador de Textos Word:  bordas de parágrafo e de páginas, designe de documentos.
+>>>[!todo] 🖥️ Atividades:
+>>> - No Word Criando os certificados e papel de carta estilizados.
 
 
 

@@ -364,7 +364,7 @@ gantt
 >>>[!todo] 🖥️ Atividade: 
 >>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows.
 >
->>[!note] Aula em 09/05
+>>[!note]- Aula em 09/05
 >> - [[Tecnico/Assistente-de-TI/Instalando-o-windows\|Instalando-o-windows]]
 >> - [Pacote office 2024 ultima versão atualizada oficial baixar e instalar - YouTube](https://www.youtube.com/watch?v=cLrheCNZjrc)
 >>
@@ -372,13 +372,18 @@ gantt
 >>> - Elaborar cronograma de planejamento do processo de instalação e configuração;
 >>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows e pacote Office.
 >
->>[!note] Aula em 12/05
+>>[!note]- Aula em 12/05
 >> - [[Tecnico/Assistente-de-TI/Instalando-o-windows\|Instalando-o-windows]]
 >> - [Pacote office 2024 ultima versão atualizada oficial baixar e instalar - YouTube](https://www.youtube.com/watch?v=cLrheCNZjrc)
 >>
 >>>[!todo] 🖥️ Atividade: 
->>> - Elaborar cronograma de planejamento do processo de instalação e configuração;
 >>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows e o pacote Office em particionamento para o sistema e outro para arquivos.
+>
+>>[!note] Aula em 13/05
+>> - [[Tecnico/Assistente-de-TI/Instalando-o-windows\|Instalando-o-windows]]
+>>
+>>>[!todo] 🖥️ Atividade: 
+>>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows e aplicativos em particionamento para o sistema e outro para arquivos.
 
 
 </div></div>
