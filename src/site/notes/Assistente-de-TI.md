@@ -368,7 +368,7 @@ gantt
 >> - [[Tecnico/Assistente-de-TI/Instalando-o-windows\|Instalando-o-windows]]
 >> - [Pacote office 2024 ultima versão atualizada oficial baixar e instalar - YouTube](https://www.youtube.com/watch?v=cLrheCNZjrc)
 >>
->>>[!todo] 🖥️ Atividade: 
+>>>[!todo]- 🖥️ Atividade: 
 >>> - Elaborar cronograma de planejamento do processo de instalação e configuração;
 >>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows e pacote Office.
 >
@@ -376,14 +376,23 @@ gantt
 >> - [[Tecnico/Assistente-de-TI/Instalando-o-windows\|Instalando-o-windows]]
 >> - [Pacote office 2024 ultima versão atualizada oficial baixar e instalar - YouTube](https://www.youtube.com/watch?v=cLrheCNZjrc)
 >>
->>>[!todo] 🖥️ Atividade: 
+>>>[!todo]- 🖥️ Atividade: 
 >>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows e o pacote Office em particionamento para o sistema e outro para arquivos.
 >
->>[!note] Aula em 13/05
+>>[!note]- Aula em 13/05
 >> - [[Tecnico/Assistente-de-TI/Instalando-o-windows\|Instalando-o-windows]]
 >>
->>>[!todo] 🖥️ Atividade: 
+>>>[!todo]- 🖥️ Atividade: 
 >>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows e aplicativos em particionamento para o sistema e outro para arquivos.
+>
+>>[!info] Aula em 14/05 - Adiada
+>
+>>[!note] Aula em 15/05
+>> - Instalando o [[Tecnico/Assistente-de-TI/Linux\|Linux]]
+>> - [Versões do Ubuntu Linux](https://ubuntu.com/desktop/flavors)
+>>
+>>>[!todo] 🖥️ Atividade: 
+>>> - Criar uma máquina virtual usando o `VirtualBox` e executar o Linux live, e  instalar o Linux em `dualboot` com Windows.
 
 
 </div></div>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-05-13T09:44:01.814-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-05-15T10:30:12.026-03:00"}
 ---
 
 
@@ -97,27 +97,31 @@ gantt
 >
 >>[!note]- Aula em 29/04
 >>   - [📑Apostila][apostila] a partir da pg. 83: Processador de Textos Word: Manipulação com arquivo de texto e formatação e estilos de fonte e parágrafos; Copiar, recortar e colar texto; Ferramenta Zoom; estilos de texto. 
->>>[!todo] 🖥️ Atividade:
->>> - Conhecendo estilos de texto no Word Criando os textos Iracema e o poema Cecília;
->>> - Conhecendo estilos de texto no Word Criando os textos Responsabilidade Social e Teoria da música;
+>>>[!todo] 🖥️ Atividades:
+>>> - Conhecendo estilos de texto no Word Criando os textos Iracema, poema Cecília, Responsabilidade Social e Teoria da música;
 >
 >>[!attention] 01/05: FERIADO: Dia do Trabalho
 >
 >>[!note]- Aula em 06/05
 >>   - [📑Apostila][apostila] a partir da pg. 90: Processador de Textos Word: Formatação e estilos de fonte e parágrafos; criação de bordas, inserindo formas, visualização de impressão, de tópicos e de leitura.
->>>[!todo] 🖥️ Atividade:
+>>>[!todo] 🖥️ Atividades:
 >>> - Criando os textos responsabilidade social e correção ortográfica com o texto teoria da música;
 >
 >>[!note]- Aula em 08/05
->>   - [📑Apostila][apostila] a partir da pg. 94: Processador de Textos Word: Formatação com tabulações, inserindo bordas es sombreamento, listas com marcadores e numeração.
->>>[!todo] 🖥️ Atividade:
->>> - Criando cardápios, papel de carta e certificados;
+>>   - [📑Apostila][apostila] a partir da pg. 94: Processador de Textos Word: Formatação com tabulações, inserindo bordas es sombreamento.
+>>>[!todo] 🖥️ Atividades:
+>>> - Criando cardápios com tabulação, papel de cartas e certificados;
+>
+>>[!note]- Aula em 13/05
+>>   - [📑Apostila][apostila] a partir da pg. 99: Processador de Textos Word: Bordas, plano de fundo, sombreamento e moldura na página e no texto; Cabeçalho e rodapé; Quebra de página; Localizar e substituir palavras; Numeração de páginas; Listas numeradas e com marcadores.
+>>>[!todo] 🖥️ Atividades:
+>>> - No Word Criando os certificados e papel de cartas estilizados.
 
 >[!todo] Última atualização
->>[!note] Aula em 13/05
->>   - [📑Apostila][apostila] a partir da pg. 99: Processador de Textos Word:  bordas de parágrafo e de páginas, designe de documentos.
+>>[!note] Aula em 15/05
+>>   - [📑Apostila][apostila] a partir da pg. 105: Processador de Textos Word: Operações com figuras, símbolos e ilustrações; Inserir e formatar Tabelas; Revisor ortográfico; Configuração de página e de impressão; tabelas e listas, impressão. formatação de textos (fonte e parágrafo), ortografia e gramática, cabeçalho e rodapé, objetos e imagens, tabelas e listas, impressão.
 >>>[!todo] 🖥️ Atividades:
->>> - No Word Criando os certificados e papel de carta estilizados.
+>>> - No Word Criando o texto Soneto de Fidelidade, boletim de notas e recibo comercial.
 
 
 
