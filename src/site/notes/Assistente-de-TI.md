@@ -390,9 +390,10 @@ gantt
 >>[!note] Aula em 15/05
 >> - Instalando o [[Tecnico/Assistente-de-TI/Linux\|Linux]]
 >> - [Versões do Ubuntu Linux](https://ubuntu.com/desktop/flavors)
+>> - [Guia do Ubuntu Desktop](https://help.ubuntu.com/stable/ubuntu-help/index.html.pt-BR)
 >>
 >>>[!todo] 🖥️ Atividade: 
->>> - Criar uma máquina virtual usando o `VirtualBox` e executar o Linux live, e  instalar o Linux em `dualboot` com Windows.
+>>> - Criar uma máquina virtual usando o `VirtualBox` baixar e executar uma versão do Linux em live, e instalar o Linux em `dualboot` com uma instalação anterior do Windows.
 
 
 </div></div>
