@@ -387,13 +387,22 @@ gantt
 >
 >>[!info] Aula em 14/05 - Adiada
 >
->>[!note] Aula em 15/05
+>>[!note]- Aula em 15/05
 >> - Instalando o [[Tecnico/Assistente-de-TI/Linux\|Linux]]
 >> - [Versões do Ubuntu Linux](https://ubuntu.com/desktop/flavors)
 >> - [Guia do Ubuntu Desktop](https://help.ubuntu.com/stable/ubuntu-help/index.html.pt-BR)
 >>
 >>>[!todo] 🖥️ Atividade: 
->>> - Criar uma máquina virtual usando o `VirtualBox` baixar e executar uma versão do Linux em live, e instalar o Linux em `dualboot` com uma instalação anterior do Windows.
+>>> - Em uma máquina virtual usando o `VirtualBox` baixar e executar uma versão do Linux em live, e instalar o Linux em `dualboot` com uma instalação anterior do Windows.
+>
+>>[!note] Aula em 15/05
+>> - [[Tecnico/Assistente-de-TI/Projeto-integrador-assistente-de-ti\| Planeamento do Projeto Integrador]]
+>> - [Sistemas de manutenção pelo pendrive DLC boot - YouTube](https://www.youtube.com/watch?v=LW5_3LvcL4I).
+>> - [Ferramenta para Técnicos de Informática](https://www.kingtecnologia.com/2024/03/download-dlc-boot-2019-v36-ferramenta-de-tecnico-de-informatica.html)
+>> - [5 Ferramentas GRÁTIS para Técnicos em Informática em 2025](https://mestresdainformatica.com.br/ferramentas-gratis-para-tecnicos/#google_vignette)
+>>
+>>>[!todo] 🖥️ Atividade: 
+>>> - Em uma máquina virtual usando o `VirtualBox` baixar e executar uma versão de ferramenta para técnico com uma instalação anterior do Windows.
 
 
 </div></div>
