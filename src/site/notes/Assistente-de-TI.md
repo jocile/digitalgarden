@@ -395,7 +395,7 @@ gantt
 >>>[!todo] 🖥️ Atividade: 
 >>> - Em uma máquina virtual usando o `VirtualBox` baixar e executar uma versão do Linux em live, e instalar o Linux em `dualboot` com uma instalação anterior do Windows.
 >
->>[!note] Aula em 15/05
+>>[!note] Aula em 16/05
 >> - [[Tecnico/Assistente-de-TI/Projeto-integrador-assistente-de-ti\| Planeamento do Projeto Integrador]]
 >> - [Sistemas de manutenção pelo pendrive DLC boot - YouTube](https://www.youtube.com/watch?v=LW5_3LvcL4I).
 >> - [Ferramenta para Técnicos de Informática](https://www.kingtecnologia.com/2024/03/download-dlc-boot-2019-v36-ferramenta-de-tecnico-de-informatica.html)

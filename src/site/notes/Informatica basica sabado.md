@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-05-12T09:55:46.087-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-05-17T02:00:16.706-03:00"}
 ---
 
 
@@ -87,18 +87,24 @@ gantt
 >>> - Criando textos com digitação com acentos, atalhos de teclado e formatando no WordPad;
 >>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
 >
->>[!note] Aula em 03/05
+>>[!note]- Aula em 03/05
 >> - Organização de arquivos e pastas no Windows Explorer, gerenciando o armazenamento, deletando e recuperando arquivos, usando a área de transferência (pg. 60).
 >>>[!todo] 🖥️ Atividades:
 >>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
 >>> - Criando o texto do "Descobrimento do Brasil" e formatando no WordPad na pag. 69;
 >
->>[!note] Aula em 10/05
+>>[!note]- Aula em 10/05
 >>   -  Processador de Textos Word: Manipulação com arquivo de texto e formatação e estilos de fonte e parágrafos; Copiar, recortar e colar texto; Ferramenta Zoom; estilos de texto. 
 >>>[!todo] 🖥️ Atividades:
 >>> - [📑Apostila][apostila] a partir da pg. 69: Criação e cópia de arquivos e pastas,
 >>> - criação e cópia de imagens com o Paint e WordPad;
 >>> - Conhecendo estilos de texto no Word e criando os textos Iracema e o poema Cecília;
+>
+>>[!note] Aula em 17/05
+>>   - Editor de texto [Word](https://support.microsoft.com/pt-br/word): área de trabalho;
+>>   - [📑Apostila][apostila] a partir da pg. 73: Processador de Textos Word: Elementos da tela; Manipulação com arquivo de texto; Recursos de seleção de texto; 
+>>>[!todo] 🖥️ Atividade:
+>>> - Conhecendo a interface do Word: Criando texto sobre o Blu-Ray contendo formatação e parágrafos;
 
 > [!important]- 📚Material didático
 > 
