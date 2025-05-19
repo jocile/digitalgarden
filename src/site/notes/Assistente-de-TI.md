@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":"default","updated":"2025-05-08T10:19:10.448-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":"default","updated":"2025-05-19T09:52:30.964-03:00"}
 ---
 
 
@@ -355,7 +355,7 @@ gantt
 
 ### Cronograma da UC3
 
->[!done] Cronograma da Unidade Curricular 3
+>[!done]- Cronograma da Unidade Curricular 3
 >
 >>[!note]- Aula em 08/05
 >> - [Instalando Windows - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTVB8pCdIE-NgehNyVa04vIXzceb8NG2oOTqDyfM6r0MK15l7E4UcmAECWWsWJRnw/pub?start=true&loop=false&delayms=3000)
@@ -395,7 +395,7 @@ gantt
 >>>[!todo] 🖥️ Atividade: 
 >>> - Em uma máquina virtual usando o `VirtualBox` baixar e executar uma versão do Linux em live, e instalar o Linux em `dualboot` com uma instalação anterior do Windows.
 >
->>[!note] Aula em 16/05
+>>[!note]- Aula em 16/05
 >> - [[Tecnico/Assistente-de-TI/Projeto-integrador-assistente-de-ti\| Planeamento do Projeto Integrador]]
 >> - [Sistemas de manutenção pelo pendrive DLC boot - YouTube](https://www.youtube.com/watch?v=LW5_3LvcL4I).
 >> - [Ferramenta para Técnicos de Informática](https://www.kingtecnologia.com/2024/03/download-dlc-boot-2019-v36-ferramenta-de-tecnico-de-informatica.html)
@@ -403,6 +403,33 @@ gantt
 >>
 >>>[!todo] 🖥️ Atividade: 
 >>> - Em uma máquina virtual usando o `VirtualBox` baixar e executar uma versão de ferramenta para técnico com uma instalação anterior do Windows.
+
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+## UC3 - Instalar e configurar sistemas operacionais cliente e softwares
+
+> [!success]- 🖥️ Habilidades
+> 1. Identificar falhas e ameaças na rede.
+> 2. Utilizar ferramentas para conexões e testes.
+> 3. Organizar o ambiente de trabalho.
+
+### Cronograma da UC4
+
+>[!done] Cronograma da Unidade Curricular 4
+>
+>>[!note]- Aula em 19/05
+>> - Conceitos básicos de redes: componentes e tipos de conexões de redes.
+>> - [Cisco Networking Academy](https://www.netacad.com/pt/catalogs/learn/networking)
+>>
+>>>[!todo] 🖥️ Atividade: 
+>>> - Instalar o [[Tecnico/Assistente-de-TI/Simulador-de-redes\|Simulador-de-redes]] e criar uma rede local entre 3 computadores.
 
 
 </div></div>
