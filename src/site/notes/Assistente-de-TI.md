@@ -434,7 +434,10 @@ gantt
 >
 >>[!note] Aula em 20/05
 >> - Configuração de equipamentos para a montagem de uma rede local.
->> - [Cisco Networking Academy](https://www.netacad.com/pt/catalogs/learn/networking)
+>> - [Topologia e arquitetura de redes](https://jocile.github.io/aulas/posts/topologia-e-arquitetura-de-redes/)
+>> - [Componentes principais de uma rede](https://jocile.github.io/aulas/posts/componentes-de-redes/)
+>> - [Características principais da rede](https://jocile.github.io/aulas/posts/caracteristicas-da-rede/)
+>> - [Curso conceitos básicos de redes Cisco](https://www.netacad.com/pt/courses/networking-basics?courseLang=pt-BR)
 >>
 >>>[!todo] 🖥️ Atividade: 
 >>> - Instalar o [[Tecnico/Assistente-de-TI/Simulador-de-redes\|Simulador-de-redes]] e criar uma rede local configurando o endereçamento IP dos computadores e um roteador.
