@@ -32,18 +32,18 @@
 gantt
      title Assistente de TI
      tickInterval 1week
-     excludes Saturday, Sunday, 19:03, 25:03, 17:04, 18:04, 21:04, 01:05, 02:05, 07:05
+     excludes Saturday, Sunday, 19:03, 25:03, 17:04, 18:04, 21:04, 01:05, 02:05, 07:05, 14:05
      dateFormat DD:MM
      axisFormat %d.%m
      section UC1
          UC1 :a1, 17:03, 21d
-     section UC2
+     section UC2,3
          UC2 :a2,after a1, 9d
+         UC3 :a3, after a2, 6d
      section Atual
-         UC3 :a3, after a2, 9d
-     section Próximas
          UC4 :a4, after a3, 9d
-         UC5 :a5, after a4, 3d
+     section Próximas
+         UC5 :a5, after a4, 4d
 ```
 
 
@@ -413,7 +413,7 @@ gantt
 
 
 
-## UC3 - Instalar e configurar sistemas operacionais cliente e softwares
+## UC4 - Instalar e configurar rede local de computadores
 
 > [!success]- 🖥️ Habilidades
 > 1. Identificar falhas e ameaças na rede.
@@ -430,6 +430,14 @@ gantt
 >>
 >>>[!todo] 🖥️ Atividade: 
 >>> - Instalar o [[Tecnico/Assistente-de-TI/Simulador-de-redes\|Simulador-de-redes]] e criar uma rede local entre 3 computadores.
+>[!done] Cronograma da Unidade Curricular 4
+>
+>>[!note] Aula em 20/05
+>> - Configuração de equipamentos para a montagem de uma rede local.
+>> - [Cisco Networking Academy](https://www.netacad.com/pt/catalogs/learn/networking)
+>>
+>>>[!todo] 🖥️ Atividade: 
+>>> - Instalar o [[Tecnico/Assistente-de-TI/Simulador-de-redes\|Simulador-de-redes]] e criar uma rede local configurando o endereçamento IP dos computadores e um roteador.
 
 
 </div></div>

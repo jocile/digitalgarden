@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-05-15T10:30:12.026-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-05-20T10:29:22.413-03:00"}
 ---
 
 
@@ -116,14 +116,23 @@ gantt
 >>   - [📑Apostila][apostila] a partir da pg. 99: Processador de Textos Word: Bordas, plano de fundo, sombreamento e moldura na página e no texto; Cabeçalho e rodapé; Quebra de página; Localizar e substituir palavras; Numeração de páginas; Listas numeradas e com marcadores.
 >>>[!todo] 🖥️ Atividades:
 >>> - No Word Criando os certificados e papel de cartas estilizados.
-
->[!todo] Última atualização
->>[!note] Aula em 15/05
+>
+>>[!note]- Aula em 15/05
 >>   - [📑Apostila][apostila] a partir da pg. 105: Processador de Textos Word: Operações com figuras, símbolos e ilustrações; Inserir e formatar Tabelas; Revisor ortográfico; Configuração de página e de impressão; tabelas e listas, impressão. formatação de textos (fonte e parágrafo), ortografia e gramática, cabeçalho e rodapé, objetos e imagens, tabelas e listas, impressão.
 >>>[!todo] 🖥️ Atividades:
 >>> - No Word Criando o texto Soneto de Fidelidade, boletim de notas e recibo comercial.
 
-
+>[!todo] Última atualização
+>>[!note] Aula em 20/05
+>> - [📑Apostila][apostila] a partir da pg. 121, editor de planilhas Excel: 
+>>    - Conceito de Planilha eletrônica;
+>>    - Principais elementos do espaço de trabalho (Pasta, planilha, célula, barras, menus);
+>>    - Navegação; Edição de dados nas células;
+>>    - Seleção de célula, intervalo(s), coluna(s), linha(s), toda planilha;
+>>
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Criando e formatando a planilha de orçamento doméstico.
+>>> - Criando a planilha Feira do mês com cálculos de total.
 
 > [!important]- 📚Material didático
 > 
