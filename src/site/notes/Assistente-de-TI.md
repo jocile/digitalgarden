@@ -438,9 +438,20 @@ gantt
 >> - [Componentes principais de uma rede](https://jocile.github.io/aulas/posts/componentes-de-redes/)
 >> - [Características principais da rede](https://jocile.github.io/aulas/posts/caracteristicas-da-rede/)
 >> - [Curso conceitos básicos de redes Cisco](https://www.netacad.com/pt/courses/networking-basics?courseLang=pt-BR)
+>> - [Panorama do tráfego da internet no Brasil](https://redeipe.rnp.br/panorama)
 >>
 >>>[!todo] 🖥️ Atividade: 
 >>> - Instalar o [[Tecnico/Assistente-de-TI/Simulador-de-redes\|Simulador-de-redes]] e criar uma rede local configurando o endereçamento IP dos computadores e um roteador.
+>
+>>[!note] Aula em 21/05
+>> - Configuração de equipamentos para a montagem de uma rede local: roteadores.
+>> - [As camadas OSI e seus protocolos \| Jocile](https://jocile.github.io/aulas/posts/camadas-osi-e-protocolos/)
+>>
+>>>[!todo] 🖥️ Atividade: 
+>>>[Prática Montando uma rede local](https://jocile.github.io/aulas/posts/pratica-montando-uma-rede-local/)
+>> - Parte 1: Conectar os Dispositivos
+>> - Parte 2: Configurar o roteador sem fio
+>> - Parte 3: Configurar o endereçamento IP e testar a conectividade
 
 
 </div></div>
