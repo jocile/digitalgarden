@@ -432,7 +432,7 @@ gantt
 >>> - Instalar o [[Tecnico/Assistente-de-TI/Simulador-de-redes\|Simulador-de-redes]] e criar uma rede local entre 3 computadores.
 >[!done] Cronograma da Unidade Curricular 4
 >
->>[!note] Aula em 20/05
+>>[!note]- Aula em 20/05
 >> - Configuração de equipamentos para a montagem de uma rede local.
 >> - [Topologia e arquitetura de redes](https://jocile.github.io/aulas/posts/topologia-e-arquitetura-de-redes/)
 >> - [Componentes principais de uma rede](https://jocile.github.io/aulas/posts/componentes-de-redes/)
@@ -443,9 +443,19 @@ gantt
 >>>[!todo] 🖥️ Atividade: 
 >>> - Instalar o [[Tecnico/Assistente-de-TI/Simulador-de-redes\|Simulador-de-redes]] e criar uma rede local configurando o endereçamento IP dos computadores e um roteador.
 >
->>[!note] Aula em 21/05
+>>[!note]- Aula em 21/05
 >> - Configuração de equipamentos para a montagem de uma rede local: roteadores.
 >> - [As camadas OSI e seus protocolos \| Jocile](https://jocile.github.io/aulas/posts/camadas-osi-e-protocolos/)
+>> - [O funcionamento da Internet - YouTube](https://www.youtube.com/watch?v=RAbDF2yDDAU)
+>>
+>>>[!todo] 🖥️ Atividade: 
+>>>[Prática Montando uma rede local](https://jocile.github.io/aulas/posts/pratica-montando-uma-rede-local/)
+>> - Parte 1: Conectar os Dispositivos
+>> - Parte 2: Configurar o roteador sem fio
+>> - Parte 3: Configurar o endereçamento IP e testar a conectividade
+>
+>>[!note] Aula em 22/05
+>> - Configuração de equipamentos para a montagem de uma rede local com segurança: roteadores WiFi.
 >>
 >>>[!todo] 🖥️ Atividade: 
 >>>[Prática Montando uma rede local](https://jocile.github.io/aulas/posts/pratica-montando-uma-rede-local/)
@@ -479,16 +489,18 @@ gantt
 
 ## Vagas em TI na cidade de Sobral - CE
 
- ![Vagas-ass-adm.png](/img/user/Vagas-ass-adm.png)
+![Vagas-designer.png](/img/user/anexos/vagas/Vagas-designer.png)
+
+ ![Vagas-ass-adm.png](/img/user/anexos/vagas/Vagas-ass-adm.png)
  [Editais](https://www.stacasa.com.br/index.php/trabalheconosco/editais-e-seleoes)
 
-![vaga-execute.jpeg](/img/user/vaga-execute.jpeg)
+![vaga-execute.jpeg](/img/user/anexos/vagas/vaga-execute.jpeg)
 [Trabalhe Conosco](https://www.execute.com.br/content/5-trabalhe-conosco)
 
-![vaga-pluralmed.jpeg](/img/user/vaga-pluralmed.jpeg)
+![vaga-pluralmed.jpeg](/img/user/anexos/vagas/vaga-pluralmed.jpeg)
 [PluralMed - @grupopluralmed](https://www.instagram.com/grupopluralmed/)
 
-![vaga-sobralnet.jpeg](/img/user/vaga-sobralnet.jpeg)
+![vaga-sobralnet.jpeg](/img/user/anexos/vagas/vaga-sobralnet.jpeg)
 [PluralMed](https://www.pluralmed.com.br/src/pages/selecoes/selecoes.html)
 
 

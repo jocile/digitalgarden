@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-05-20T10:29:22.413-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-05-22T13:32:15.282-03:00"}
 ---
 
 
@@ -120,10 +120,15 @@ gantt
 >>[!note]- Aula em 15/05
 >>   - [📑Apostila][apostila] a partir da pg. 105: Processador de Textos Word: Operações com figuras, símbolos e ilustrações; Inserir e formatar Tabelas; Revisor ortográfico; Configuração de página e de impressão; tabelas e listas, impressão. formatação de textos (fonte e parágrafo), ortografia e gramática, cabeçalho e rodapé, objetos e imagens, tabelas e listas, impressão.
 >>>[!todo] 🖥️ Atividades:
->>> - No Word Criando o texto Soneto de Fidelidade, boletim de notas e recibo comercial.
+>>> - No Word Criando o texto Soneto de Fidelidade, sumários e capas em trabalho. 
+>
+>>[!note]- Aula em 20/05
+>> - Word: Exercícios com formas, imagens, tabelas e listas, configuração da página e da impressão
+>>>[!todo] 🖥️ Atividades:
+>>   - [📑Apostila][apostila] a partir da pg. 118: Boletim escolar, recibo comercial, textos formatados e cardápio.
 
 >[!todo] Última atualização
->>[!note] Aula em 20/05
+>>[!note] Aula em 22/05
 >> - [📑Apostila][apostila] a partir da pg. 121, editor de planilhas Excel: 
 >>    - Conceito de Planilha eletrônica;
 >>    - Principais elementos do espaço de trabalho (Pasta, planilha, célula, barras, menus);
