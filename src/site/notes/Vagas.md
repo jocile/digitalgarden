@@ -1,20 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/vagas/","title":"Vagas","metatags":{"description":"Oportunidades em emprego"},"contentClasses":"img-zoom","tags":["vagas"],"noteIcon":"default","updated":"2025-05-04T15:56:13.427-03:00"}
+{"dg-publish":true,"permalink":"/vagas/","title":"Vagas","metatags":{"description":"Oportunidades em emprego"},"contentClasses":"img-zoom","tags":["vagas"],"noteIcon":2,"updated":"2025-05-22T08:14:36.066-03:00"}
 ---
 
 
 ## Vagas em TI na cidade de Sobral - CE
 
- ![Vagas-ass-adm.png](/img/user/Vagas-ass-adm.png)
+![Vagas-designer.png](/img/user/anexos/vagas/Vagas-designer.png)
+
+ ![Vagas-ass-adm.png](/img/user/anexos/vagas/Vagas-ass-adm.png)
  [Editais](https://www.stacasa.com.br/index.php/trabalheconosco/editais-e-seleoes)
 
-![vaga-execute.jpeg](/img/user/vaga-execute.jpeg)
+![vaga-execute.jpeg](/img/user/anexos/vagas/vaga-execute.jpeg)
 [Trabalhe Conosco](https://www.execute.com.br/content/5-trabalhe-conosco)
 
-![vaga-pluralmed.jpeg](/img/user/vaga-pluralmed.jpeg)
+![vaga-pluralmed.jpeg](/img/user/anexos/vagas/vaga-pluralmed.jpeg)
 [PluralMed - @grupopluralmed](https://www.instagram.com/grupopluralmed/)
 
-![vaga-sobralnet.jpeg](/img/user/vaga-sobralnet.jpeg)
+![vaga-sobralnet.jpeg](/img/user/anexos/vagas/vaga-sobralnet.jpeg)
 [PluralMed](https://www.pluralmed.com.br/src/pages/selecoes/selecoes.html)
 
 ## Vagas anteriores
