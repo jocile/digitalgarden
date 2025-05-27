@@ -463,7 +463,7 @@ gantt
 >>> - Parte 2: Configurar o roteador sem fio
 >>> - Parte 3: Configurar o endereçamento IP e testar a conectividade
 >
->>[!note] Aula em 23/05
+>>[!note]- Aula em 23/05
 >> - Endereçamento de equipamentos para a uma rede local: [Funcionamento do IP v4 e v6 \| Jocile](https://jocile.github.io/aulas/posts/funcionamento-do-ip-v4-e-v6/).
 >>
 >>>[!todo] 🖥️ Atividade: 
@@ -471,6 +471,18 @@ gantt
 >>> - Parte 1: Conectar os Dispositivos
 >>> - Parte 2: Configurar o roteador sem fio
 >>> - Parte 3: Configurar o endereçamento IP e testar a conectividade
+>
+>>[!info] Aula em 26/05 - Adiada
+>
+>>[!note] Aula em 27/05
+>> - Endereçamento de servidores  de rede local: [Funcionamento do IP v4 e v6 \| Jocile](https://jocile.github.io/aulas/posts/funcionamento-do-ip-v4-e-v6/).
+>>
+>>>[!todo] 🖥️ Atividade: 
+>>>[Prática Montando uma rede local com servidor de DHCP e DNS](https://jocile.github.io/aulas/posts/pratica-montando-uma-rede-local-com-dhcp/)
+>>> - Parte 1: Conectar os Dispositivos
+>>> - Parte 2: Configurar o roteador sem fio
+>>> - Parte 3: Configurar o endereçamento IP de Servidores DHCP e DNS
+>>> - Parte 4: Configurar o endereçamento IP e testar a conectividade
 
 
 </div></div>

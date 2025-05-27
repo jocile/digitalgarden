@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/traducoes-da-biblia/","title":"Traducoes da Biblia","metatags":{"description":"Tabelas e ilustrações sobre o histórico de traduções da Bíblia"},"noteIcon":"1","updated":"2025-01-12T15:26:28.739-03:00"}
+{"dg-publish":true,"permalink":"/teologia/traducoes-da-biblia/","title":"Traducoes da Biblia","metatags":{"description":"Tabelas e ilustrações sobre o histórico de traduções da Bíblia"},"contentClasses":"row-alt ex-pageheight row-hover","noteIcon":2,"updated":"2025-05-27T08:09:54.269-03:00"}
 ---
 
 

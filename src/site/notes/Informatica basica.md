@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-05-22T13:32:15.282-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-05-27T09:56:19.848-03:00"}
 ---
 
 
@@ -126,9 +126,8 @@ gantt
 >> - Word: Exercícios com formas, imagens, tabelas e listas, configuração da página e da impressão
 >>>[!todo] 🖥️ Atividades:
 >>   - [📑Apostila][apostila] a partir da pg. 118: Boletim escolar, recibo comercial, textos formatados e cardápio.
-
->[!todo] Última atualização
->>[!note] Aula em 22/05
+>
+>>[!note]- Aula em 22/05
 >> - [📑Apostila][apostila] a partir da pg. 121, editor de planilhas Excel: 
 >>    - Conceito de Planilha eletrônica;
 >>    - Principais elementos do espaço de trabalho (Pasta, planilha, célula, barras, menus);
@@ -138,6 +137,14 @@ gantt
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Criando e formatando a planilha de orçamento doméstico.
 >>> - Criando a planilha Feira do mês com cálculos de total.
+
+>[!todo] Última atualização
+>>[!note] Aula em 27/05
+>> - [📑Apostila][apostila] a partir da pg. 137, Editor de planilhas Excel:
+>>     - Operações com colunas e linhas;
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Criando e formatando a planilha de cálculos percentuais.
+>>> - Criando a planilha de boletim escolar com formatação condicional.
 
 > [!important]- 📚Material didático
 > 
