@@ -32,7 +32,7 @@
 gantt
      title Assistente de TI
      tickInterval 1week
-     excludes Saturday, Sunday, 19:03, 25:03, 17:04, 18:04, 21:04, 01:05, 02:05, 07:05, 14:05
+     excludes Saturday, Sunday, 19:03, 25:03, 17:04, 18:04, 21:04, 01:05, 02:05, 07:05, 14:05, 26:05, 29:05, 30:05
      dateFormat DD:MM
      axisFormat %d.%m
      section UC1
