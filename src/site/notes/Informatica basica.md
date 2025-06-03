@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-05-27T09:56:19.848-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-06-03T14:39:28.825-03:00"}
 ---
 
 
@@ -36,7 +36,7 @@ gantt
      title Informática Básica (ter e qui)
      tickInterval 4day
      weekday Monday
-     excludes Sunday, Monday, Wednesday, Friday, Saturday, 17.04, 01.05
+     excludes Sunday, Monday, Wednesday, Friday, Saturday, 17.04, 01.05, 29.05
      dateFormat DD.MM
      axisFormat %d.%m
      section Win
@@ -44,8 +44,8 @@ gantt
      section Word
          Word :a2,after a1, 5d
      section Excel
-         Excel :a3, after a2, 5d
-         PowerPoint :a4, after a3, 2d
+         Excel :a3, after a2, 6d
+         PowerPoint :a4, after a3, 1d
 ```
 
 
@@ -137,14 +137,59 @@ gantt
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Criando e formatando a planilha de orçamento doméstico.
 >>> - Criando a planilha Feira do mês com cálculos de total.
-
->[!todo] Última atualização
->>[!note] Aula em 27/05
+>
+>>[!note]- Aula em 27/05
 >> - [📑Apostila][apostila] a partir da pg. 137, Editor de planilhas Excel:
 >>     - Operações com colunas e linhas;
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Criando e formatando a planilha de cálculos percentuais.
 >>> - Criando a planilha de boletim escolar com formatação condicional.
+
+>[!todo] Última atualização
+>
+>>[!note]- Aula em 03/06
+>> - [📑Apostila][apostila] a partir da pg. 143, Editor de planilhas Excel:
+>> - Operações com planilhas: copiar, selecionar, mover, ocultar, múltiplas seleções;
+>> - Configuração de proteção: proteger células específicas, planilhas e arquivos.
+>> - Validação de dados: garantir entrada de dados a partir de uma lista determinada.
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Criando um formulário para seleção de emprego com células protegidas e validação de dados.
+>>> - Adicionando funções à planilha de boletim escolar.
+
+>[!todo]- Próximas aulas
+>
+>>[!note]- Aula em 05/06
+>> - [📑Apostila][apostila] a partir da pg. 155, Editor de planilhas Excel:
+>> - Configuração de páginas e impressão.
+>> - Configurando o cabeçalho e rodapé.
+>> - Criação e formatação de Gráficos;
+>> - Classificação personalizada de dados;
+>> - Referência absoluta e relativa.
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Adicionando gráficos à planilha de boletim escolar (pg. 156).
+>>> - Criando planilhas com gráficos: PIB Brasil, Pesquisa Eleitoral (pg. 161).
+>>> - Classificando a planilha de funcionários por empresa, departamento e cargo (pg. 163).
+>>> - Criando uma planilha de tabuada aritmética (pg. 168).
+>
+>>[!note]- Aula em 10/06
+>> - [📑Apostila][apostila] a partir da pg. 169, Editor de planilhas Excel:
+>> - Funções condicionais: "se"
+>> - Funções de estatística: máximo, mínimo e média.
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Criando planilhas com funções condicionais: cálculo de salário pelo INSS (pg. 170).
+>>> - Criando planilhas com cotação de preços com cálculo de preço médio, máximo e mínimo (pg. 172).
+>>> - Criando planilha com reajuste percentual usando referência absoluta (pg. 173).
+>>> - Criando planilha com cálculo de índice de massa corpórea usando referência absoluta (pg. 174).
+>
+>>[!note]- Aula em 12/06
+>> - [📸Livro da Biblioteca Virtual SENAC do Power Point][powerpoint] cap. 1 e 2:
+>> - Conhecendo a interface do Power Point;
+>> - Criando slides, adicionando e formatando elementos, como tabelas, formas e gráficos.
+>>>[!todo] 🖥️ Atividades no PowerPoint:
+>>> - Criando slides sobre um relatório de vendas.
+>>> - Criando slides de controle de vídeos com tabelas e gráficos.
+
+
 
 > [!important]- 📚Material didático
 > 
@@ -158,3 +203,4 @@ gantt
 >>> - [📸Power Point](https://bibliotecadigitalsenac.com.br/?from=busca%3FcontentInfo%3D2304%26term%3Dpowerpoint&page=12&section=0#/legacy/2304) | [📄 atividades PowerPoint](https://www.editorasenacsp.com.br/informatica/powerpoint2019/atividades.zip)
 
 [apostila]: https://drive.google.com/file/d/1HNT1is949xITALuJXT1dwaLCbYexrIGT/view?usp=sharing
+[powerpoint]: https://bibliotecadigitalsenac.com.br/#/content/uid/d37df569-17d8-ee11-85fa-00224821b803/detail

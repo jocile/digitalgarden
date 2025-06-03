@@ -449,7 +449,7 @@ gantt
 >> - [O funcionamento da Internet - YouTube](https://www.youtube.com/watch?v=RAbDF2yDDAU)
 >>
 >>>[!todo] 🖥️ Atividade: 
->>>[Prática Montando uma rede local](https://jocile.github.io/aulas/posts/pratica-montando-uma-rede-local/)
+>>> - [Prática Montando uma rede local](https://jocile.github.io/aulas/posts/pratica-montando-uma-rede-local/)
 >>> - Parte 1: Conectar os Dispositivos
 >>> - Parte 2: Configurar o roteador sem fio
 >>> - Parte 3: Configurar o endereçamento IP e testar a conectividade
@@ -458,7 +458,7 @@ gantt
 >> - Configuração de equipamentos para a montagem de uma rede local com segurança: roteadores WiFi.
 >>
 >>>[!todo] 🖥️ Atividade: 
->>>[Prática Montando uma rede local WiFi](https://jocile.github.io/aulas/posts/pratica-montando-uma-rede-local-wifi/)
+>>> - [Prática Montando uma rede local WiFi](https://jocile.github.io/aulas/posts/pratica-montando-uma-rede-local-wifi/)
 >>> - Parte 1: Conectar os Dispositivos
 >>> - Parte 2: Configurar o roteador sem fio
 >>> - Parte 3: Configurar o endereçamento IP e testar a conectividade
@@ -467,22 +467,48 @@ gantt
 >> - Endereçamento de equipamentos para a uma rede local: [Funcionamento do IP v4 e v6 \| Jocile](https://jocile.github.io/aulas/posts/funcionamento-do-ip-v4-e-v6/).
 >>
 >>>[!todo] 🖥️ Atividade: 
->>>[Prática Montando uma rede local com servidor de DHCP](https://jocile.github.io/aulas/posts/pratica-montando-uma-rede-local-com-dhcp/)
+>>> - [Prática Montando uma rede local com servidor de DHCP](https://jocile.github.io/aulas/posts/pratica-montando-uma-rede-local-com-dhcp/)
 >>> - Parte 1: Conectar os Dispositivos
 >>> - Parte 2: Configurar o roteador sem fio
 >>> - Parte 3: Configurar o endereçamento IP e testar a conectividade
 >
 >>[!info] Aula em 26/05 - Adiada
 >
->>[!note] Aula em 27/05
->> - Endereçamento de servidores  de rede local: [Funcionamento do IP v4 e v6 \| Jocile](https://jocile.github.io/aulas/posts/funcionamento-do-ip-v4-e-v6/).
+>>[!note]- Aula em 27/05
+>> - Endereçamento de servidores de rede local: [Funcionamento do IP v4 e v6 \| Jocile](https://jocile.github.io/aulas/posts/funcionamento-do-ip-v4-e-v6/).
 >>
 >>>[!todo] 🖥️ Atividade: 
->>>[Prática Montando uma rede local com servidor de DHCP e DNS](https://jocile.github.io/aulas/posts/pratica-montando-uma-rede-local-com-dhcp/)
+>>> - [Prática Montando uma rede local com servidor de DHCP e DNS](https://jocile.github.io/aulas/posts/pratica-montando-uma-rede-local-com-dhcp/)
 >>> - Parte 1: Conectar os Dispositivos
 >>> - Parte 2: Configurar o roteador sem fio
 >>> - Parte 3: Configurar o endereçamento IP de Servidores DHCP e DNS
 >>> - Parte 4: Configurar o endereçamento IP e testar a conectividade
+>
+>>[!note]- Aula em 28/05
+>> - Endereçamento de roteador de rede local: [Funcionamento do IP v4 e v6 \| Jocile](https://jocile.github.io/aulas/posts/funcionamento-do-ip-v4-e-v6/).
+>>
+>>>[!todo] 🖥️ Atividade: 
+>>> - [Prática Montando uma rede local com servidor de DHCP e DNS](https://jocile.github.io/aulas/posts/pratica-montando-uma-rede-local-com-dhcp/)
+>>> - 12.2.2 Packet Tracer – Examinando o NAT em um roteador sem fio
+>>> - Examinar a configuração da NAT em um roteador sem fio
+>>> - Configurar 4 PCs para que se conectem a um roteador sem fio com DHCP
+>>> - Examinar o tráfego que cruza a rede usando NAT
+>
+>>[!note]- Aula em 02/06
+>> - Roteamento entre redes.
+>>
+>>>[!todo] 🖥️ Atividade: 
+>>> - 14.3.4 Criar uma LAN no Packet Tracer, você atingirá os seguintes objetivos:
+>>> - Conecte hosts e dispositivos de rede
+>>> - Configurar dispositivos com endereçamento IPv4
+>>> - Verificar a configuração do dispositivo final e a conectividade
+>>> - Usar os comandos de rede para exibir informações do host
+>
+>>[!note] Aula em 03/06
+>> - Utilitários de teste de rede 
+>>
+>>>[!todo] 🖥️ Atividade: 
+>>> Exame final de conceitos básicos de rede do curso da [Netacad](https://www.netacad.com/pt/courses/networking-basics?courseLang=pt-BR)
 
 
 </div></div>
