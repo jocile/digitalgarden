@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-06-03T14:39:28.825-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-06-03T18:15:45.879-03:00"}
 ---
 
 
@@ -139,8 +139,9 @@ gantt
 >>> - Criando a planilha Feira do mês com cálculos de total.
 >
 >>[!note]- Aula em 27/05
->> - [📑Apostila][apostila] a partir da pg. 137, Editor de planilhas Excel:
->>     - Operações com colunas e linhas;
+>> - [📑Apostila][apostila] a partir da pg. 135, Editor de planilhas Excel:
+>> - Operações com colunas e linhas;
+>> - Operações com planilhas: copiar, selecionar, mover, ocultar, múltiplas seleções;
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Criando e formatando a planilha de cálculos percentuais.
 >>> - Criando a planilha de boletim escolar com formatação condicional.
@@ -148,8 +149,8 @@ gantt
 >[!todo] Última atualização
 >
 >>[!note]- Aula em 03/06
->> - [📑Apostila][apostila] a partir da pg. 143, Editor de planilhas Excel:
->> - Operações com planilhas: copiar, selecionar, mover, ocultar, múltiplas seleções;
+>> - [📑Apostila][apostila] a partir da pg. 140, Editor de planilhas Excel:
+>> - Funções básicas no Excel: soma, média, máximo, mínimo;
 >> - Configuração de proteção: proteger células específicas, planilhas e arquivos.
 >> - Validação de dados: garantir entrada de dados a partir de uma lista determinada.
 >>>[!todo] 🖥️ Atividades no Excel:
