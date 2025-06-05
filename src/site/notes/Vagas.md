@@ -1,16 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/vagas/","title":"Vagas","metatags":{"description":"Oportunidades em emprego"},"contentClasses":"img-zoom cards","tags":["vagas"],"noteIcon":2,"updated":"2025-06-05T13:59:53.181-03:00"}
+{"dg-publish":true,"permalink":"/vagas/","title":"Vagas","metatags":{"description":"Oportunidades em emprego"},"contentClasses":"img-zoom cards","tags":["vagas"],"noteIcon":2,"updated":"2025-06-05T14:11:51.923-03:00"}
 ---
 
 
 ## Vagas em TI na cidade de Sobral - CE
 
-
-|                                               |                                             |                                             |
-| --------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
-| ![Vagas-vendedora.png](/img/user/Vagas-vendedora.png)   | ![Vagas-gerente.png](/img/user/Vagas-gerente.png)     | ![Vagas-fiscal.png](/img/user/Vagas-fiscal.png)       |
-| ![Vagas-estoquista.png](/img/user/Vagas-estoquista.png) | ![Vagas-designer.png](/img/user/anexos/vagas/Vagas-designer.png)   | ![Vagas-ass-adm.png](/img/user/anexos/vagas/Vagas-ass-adm.png)     |
-| ![vaga-execute.jpeg](/img/user/anexos/vagas/vaga-execute.jpeg)       | ![vaga-pluralmed.jpeg](/img/user/anexos/vagas/vaga-pluralmed.jpeg) | ![vaga-sobralnet.jpeg](/img/user/anexos/vagas/vaga-sobralnet.jpeg) |
+- ![Vagas-vendedora.png](/img/user/anexos/vagas/Vagas-vendedora.png)
+- ![Vagas-gerente.png](/img/user/anexos/vagas/Vagas-gerente.png)
+- ![Vagas-fiscal.png](/img/user/anexos/vagas/Vagas-fiscal.png)
+- ![Vagas-estoquista.png](/img/user/anexos/vagas/Vagas-estoquista.png)
+- ![Vagas-designer.png](/img/user/anexos/vagas/Vagas-designer.png)
+- ![Vagas-ass-adm.png](/img/user/anexos/vagas/Vagas-ass-adm.png) 
+- ![vaga-execute.jpeg](/img/user/anexos/vagas/vaga-execute.jpeg)
+- ![vaga-pluralmed.jpeg](/img/user/anexos/vagas/vaga-pluralmed.jpeg)
+- ![vaga-sobralnet.jpeg](/img/user/anexos/vagas/vaga-sobralnet.jpeg)
 
 ## Vagas anteriores
 
