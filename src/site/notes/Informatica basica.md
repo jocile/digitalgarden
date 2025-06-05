@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-06-03T18:15:45.879-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica/","title":"Informática básica","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-06-05T15:09:20.642-03:00"}
 ---
 
 
@@ -145,24 +145,22 @@ gantt
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Criando e formatando a planilha de cálculos percentuais.
 >>> - Criando a planilha de boletim escolar com formatação condicional.
-
->[!todo] Última atualização
 >
 >>[!note]- Aula em 03/06
 >> - [📑Apostila][apostila] a partir da pg. 140, Editor de planilhas Excel:
 >> - Funções básicas no Excel: soma, média, máximo, mínimo;
 >> - Configuração de proteção: proteger células específicas, planilhas e arquivos.
 >> - Validação de dados: garantir entrada de dados a partir de uma lista determinada.
+>> - Configuração de páginas e impressão.
+>> - Configurando o cabeçalho e rodapé.
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Criando um formulário para seleção de emprego com células protegidas e validação de dados.
 >>> - Adicionando funções à planilha de boletim escolar.
 
->[!todo]- Próximas aulas
+>[!todo] Última atualização
 >
->>[!note]- Aula em 05/06
+>>[!note] Aula em 05/06
 >> - [📑Apostila][apostila] a partir da pg. 155, Editor de planilhas Excel:
->> - Configuração de páginas e impressão.
->> - Configurando o cabeçalho e rodapé.
 >> - Criação e formatação de Gráficos;
 >> - Classificação personalizada de dados;
 >> - Referência absoluta e relativa.
@@ -171,6 +169,8 @@ gantt
 >>> - Criando planilhas com gráficos: PIB Brasil, Pesquisa Eleitoral (pg. 161).
 >>> - Classificando a planilha de funcionários por empresa, departamento e cargo (pg. 163).
 >>> - Criando uma planilha de tabuada aritmética (pg. 168).
+
+>[!todo]- Próximas aulas
 >
 >>[!note]- Aula em 10/06
 >> - [📑Apostila][apostila] a partir da pg. 169, Editor de planilhas Excel:
