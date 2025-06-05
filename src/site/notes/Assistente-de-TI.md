@@ -548,15 +548,21 @@ gantt
 
 ## Vagas em TI na cidade de Sobral - CE
 
-- ![Vagas-vendedora.png](/img/user/anexos/vagas/Vagas-vendedora.png)
-- ![Vagas-gerente.png](/img/user/anexos/vagas/Vagas-gerente.png)
-- ![Vagas-fiscal.png](/img/user/anexos/vagas/Vagas-fiscal.png)
-- ![Vagas-estoquista.png](/img/user/anexos/vagas/Vagas-estoquista.png)
-- ![Vagas-designer.png](/img/user/anexos/vagas/Vagas-designer.png)
-- ![Vagas-ass-adm.png](/img/user/anexos/vagas/Vagas-ass-adm.png) 
-- ![vaga-execute.jpeg](/img/user/anexos/vagas/vaga-execute.jpeg)
-- ![vaga-pluralmed.jpeg](/img/user/anexos/vagas/vaga-pluralmed.jpeg)
-- ![vaga-sobralnet.jpeg](/img/user/anexos/vagas/vaga-sobralnet.jpeg)
+> [!note] Redes de Oportunidades para alunos
+> 
+> ![Vagas-vendedora.png](/img/user/anexos/vagas/Vagas-vendedora.png)
+> ![Vagas-gerente.png](/img/user/anexos/vagas/Vagas-gerente.png)
+> ![Vagas-fiscal.png](/img/user/anexos/vagas/Vagas-fiscal.png)
+> ![Vagas-estoquista.png](/img/user/anexos/vagas/Vagas-estoquista.png)
+> ![Vagas-designer.png](/img/user/anexos/vagas/Vagas-designer.png)
+>
+>> [!todo] [Preencha o seu Cadastro no Banco de Talentos para Alunos SENAC](https://forms.office.com/pages/responsepage.aspx?id=S6miCkPigUmVy0-TwhSrpaSY9nL0Zf1ApDP3RJRhQJ5UNkNaR1BZTDNPOVZVT1REVFcxMkwxOTVQOS4u)
+
+> [!note] Tecnologia da Informação
+> ![Vagas-ass-adm.png](/img/user/anexos/vagas/Vagas-ass-adm.png) 
+> ![vaga-execute.jpeg](/img/user/anexos/vagas/vaga-execute.jpeg)
+> ![vaga-pluralmed.jpeg](/img/user/anexos/vagas/vaga-pluralmed.jpeg)
+> ![vaga-sobralnet.jpeg](/img/user/anexos/vagas/vaga-sobralnet.jpeg)
 
 
 </div></div>

@@ -1,19 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/vagas/","title":"Vagas","metatags":{"description":"Oportunidades em emprego"},"contentClasses":"img-zoom cards","tags":["vagas"],"noteIcon":2,"updated":"2025-06-05T14:11:51.923-03:00"}
+{"dg-publish":true,"permalink":"/vagas/","title":"Vagas","metatags":{"description":"Oportunidades em emprego"},"contentClasses":"img-zoom cards","tags":["vagas"],"noteIcon":2,"updated":"2025-06-05T14:55:13.954-03:00"}
 ---
 
 
 ## Vagas em TI na cidade de Sobral - CE
 
-- ![Vagas-vendedora.png](/img/user/anexos/vagas/Vagas-vendedora.png)
-- ![Vagas-gerente.png](/img/user/anexos/vagas/Vagas-gerente.png)
-- ![Vagas-fiscal.png](/img/user/anexos/vagas/Vagas-fiscal.png)
-- ![Vagas-estoquista.png](/img/user/anexos/vagas/Vagas-estoquista.png)
-- ![Vagas-designer.png](/img/user/anexos/vagas/Vagas-designer.png)
-- ![Vagas-ass-adm.png](/img/user/anexos/vagas/Vagas-ass-adm.png) 
-- ![vaga-execute.jpeg](/img/user/anexos/vagas/vaga-execute.jpeg)
-- ![vaga-pluralmed.jpeg](/img/user/anexos/vagas/vaga-pluralmed.jpeg)
-- ![vaga-sobralnet.jpeg](/img/user/anexos/vagas/vaga-sobralnet.jpeg)
+> [!note] Redes de Oportunidades para alunos
+> 
+> ![Vagas-vendedora.png](/img/user/anexos/vagas/Vagas-vendedora.png)
+> ![Vagas-gerente.png](/img/user/anexos/vagas/Vagas-gerente.png)
+> ![Vagas-fiscal.png](/img/user/anexos/vagas/Vagas-fiscal.png)
+> ![Vagas-estoquista.png](/img/user/anexos/vagas/Vagas-estoquista.png)
+> ![Vagas-designer.png](/img/user/anexos/vagas/Vagas-designer.png)
+>
+>> [!todo] [Preencha o seu Cadastro no Banco de Talentos para Alunos SENAC](https://forms.office.com/pages/responsepage.aspx?id=S6miCkPigUmVy0-TwhSrpaSY9nL0Zf1ApDP3RJRhQJ5UNkNaR1BZTDNPOVZVT1REVFcxMkwxOTVQOS4u)
+
+> [!note] Tecnologia da Informação
+> ![Vagas-ass-adm.png](/img/user/anexos/vagas/Vagas-ass-adm.png) 
+> ![vaga-execute.jpeg](/img/user/anexos/vagas/vaga-execute.jpeg)
+> ![vaga-pluralmed.jpeg](/img/user/anexos/vagas/vaga-pluralmed.jpeg)
+> ![vaga-sobralnet.jpeg](/img/user/anexos/vagas/vaga-sobralnet.jpeg)
 
 ## Vagas anteriores
 
@@ -72,11 +78,11 @@
 
 > [!success]- Assistente Administrativo
 > 
-> ![](/img/user/anexos/vaga assistente adm.png)
+> ![Vagas-ass-adm.png](/img/user/anexos/vagas/Vagas-ass-adm.png)
 
 > [!note]- Designer
 >
-> ![Vaga de designer|300](/img/user/anexos/vaga designer.jpg)
+> ![Vagas-designer.png](/img/user/anexos/vagas/Vagas-designer.png)
 
 > [!tip]- Programador 
 > 
@@ -113,6 +119,8 @@
 > - [Link portalrh.ce.senac.br](https://portalrh.ce.senac.br/FrameHTML/RM/Rhu-BancoTalentos/#/RM/Rhu-BancoTalentos/painelVagas/detalhesVaga/questionarios?codColigada=1&codSelecao=11871&codVaga=1)
 > - [Link do painel de vagas](https://portalrh.ce.senac.br/FrameHTML/RM/Rhu-BancoTalentos/#/RM/Rhu-BancoTalentos/painelVagas/lista)
 
+## Referências
+
 > [!important]- Referências
 > - [BrVagas Sobral](https://brvagas.com.br/sobral/)
 > - [Banco de talentos Senac](https://portalrh.ce.senac.br/FrameHTML/RM/Rhu-BancoTalentos/#/RM/Rhu-BancoTalentos/painelVagas/lista)
@@ -126,7 +134,6 @@
 > - [Prefeitura de Sobral - Sistema de Seleção](https://selecao.sobral.ce.gov.br/) | [Sobral - Banco de Talentos](https://bancodetalentos.sobral.ce.gov.br/curriculo/)
 > - [Quero uma Vaga - CIEE | Centro de Integração Empresa-Escola](https://portal.ciee.org.br/quero-uma-vaga/)
 > - [**Sobral e Região Norte - Ficha de cadastro - REDES** - Microsoft Forms](https://forms.office.com/pages/responsepage.aspx?id=S6miCkPigUmVy0-TwhSrpaSY9nL0Zf1ApDP3RJRhQJ5UNkNaR1BZTDNPOVZVT1REVFcxMkwxOTVQOS4u)
-> - [Editais](https://www.stacasa.com.br/index.php/trabalheconosco/editais-e-seleoes)
-> - [Trabalhe Conosco](https://www.execute.com.br/content/5-trabalhe-conosco)
+> - [Execute - Trabalhe Conosco](https://www.execute.com.br/content/5-trabalhe-conosco)
 > - [PluralMed - @grupopluralmed](https://www.instagram.com/grupopluralmed/)
-> - [PluralMed](https://www.pluralmed.com.br/src/pages/selecoes/selecoes.html)
+> - [PluralMed - Seleções](https://www.pluralmed.com.br/src/pages/selecoes/selecoes.html)
