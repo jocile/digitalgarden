@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":"default","updated":"2025-05-19T09:52:30.964-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":"default","updated":"2025-06-05T14:21:41.980-03:00"}
 ---
 
 
@@ -422,7 +422,7 @@ gantt
 
 ### Cronograma da UC4
 
->[!done] Cronograma da Unidade Curricular 4
+>[!done]- Cronograma da Unidade Curricular 4
 >
 >>[!note]- Aula em 19/05
 >> - Conceitos básicos de redes: componentes e tipos de conexões de redes.
@@ -514,6 +514,18 @@ gantt
 </div></div>
 
 
+## UC5 - Projeto Integrador
+
+### Cronograma da UC5
+
+>[!done] Cronograma da Unidade Curricular 5
+>
+>>[!note] Aulas em 04/06 a 06/06
+>> Planejamento de equipes para o [[Tecnico/Assistente-de-TI/Projeto-integrador-assistente-de-ti\|Projeto-integrador-assistente-de-ti]]
+>
+>>[!note] Aulas em 09/06 a 10/06
+>> Apresentação dos projetos de equipes
+
 > [!important]- 📚Material didático
 > 
 > - [📑Apostila Informática Básica - Intensivo Windows.pdf - Google Drive][apostila]
@@ -536,19 +548,15 @@ gantt
 
 ## Vagas em TI na cidade de Sobral - CE
 
-![Vagas-designer.png](/img/user/anexos/vagas/Vagas-designer.png)
-
- ![Vagas-ass-adm.png](/img/user/anexos/vagas/Vagas-ass-adm.png)
- [Editais](https://www.stacasa.com.br/index.php/trabalheconosco/editais-e-seleoes)
-
-![vaga-execute.jpeg](/img/user/anexos/vagas/vaga-execute.jpeg)
-[Trabalhe Conosco](https://www.execute.com.br/content/5-trabalhe-conosco)
-
-![vaga-pluralmed.jpeg](/img/user/anexos/vagas/vaga-pluralmed.jpeg)
-[PluralMed - @grupopluralmed](https://www.instagram.com/grupopluralmed/)
-
-![vaga-sobralnet.jpeg](/img/user/anexos/vagas/vaga-sobralnet.jpeg)
-[PluralMed](https://www.pluralmed.com.br/src/pages/selecoes/selecoes.html)
+- ![Vagas-vendedora.png](/img/user/anexos/vagas/Vagas-vendedora.png)
+- ![Vagas-gerente.png](/img/user/anexos/vagas/Vagas-gerente.png)
+- ![Vagas-fiscal.png](/img/user/anexos/vagas/Vagas-fiscal.png)
+- ![Vagas-estoquista.png](/img/user/anexos/vagas/Vagas-estoquista.png)
+- ![Vagas-designer.png](/img/user/anexos/vagas/Vagas-designer.png)
+- ![Vagas-ass-adm.png](/img/user/anexos/vagas/Vagas-ass-adm.png) 
+- ![vaga-execute.jpeg](/img/user/anexos/vagas/vaga-execute.jpeg)
+- ![vaga-pluralmed.jpeg](/img/user/anexos/vagas/vaga-pluralmed.jpeg)
+- ![vaga-sobralnet.jpeg](/img/user/anexos/vagas/vaga-sobralnet.jpeg)
 
 
 </div></div>
