@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-05-23T21:16:07.253-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-06-07T18:18:40.968-03:00"}
 ---
 
 
@@ -36,7 +36,7 @@ gantt
      title Informática Básica (sab)
      tickInterval 1week
      weekday Saturday
-     excludes Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, 19.04
+     excludes Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, 19.04, 31.05
      dateFormat DD.MM
      axisFormat %d.%m
      section Win
@@ -105,12 +105,19 @@ gantt
 >>   - [📑Apostila][apostila] a partir da pg. 73: Processador de Textos Word: Elementos da tela; Manipulação com arquivo de texto; Recursos de seleção de texto; 
 >>>[!todo] 🖥️ Atividade:
 >>> - Conhecendo a interface do Word: Criando texto sobre o Blu-Ray contendo formatação e parágrafos;
-
->[!todo] Última atualização
->>[!note] Aula em 24/05
->>   - [📑Apostila][apostila] a partir da pg. 83: Processador de Textos Word: Manipulação com arquivo de texto e formatação e estilos de fonte e parágrafos; Copiar, recortar e colar texto; Ferramenta Zoom; estilos de texto. 
+>
+>>[!note]- Aula em 24/05
+>>   - [📑Apostila][apostila] a partir da pg. 83: Processador de Textos Word: Formatação e estilos de fonte e parágrafos; Copiar, recortar e colar texto; Ferramenta Zoom; visualização de impressão, de tópicos e de leitura.
 >>>[!todo] 🖥️ Atividades:
 >>> - Conhecendo estilos de texto no Word Criando os textos Iracema, poema Cecília, Responsabilidade Social e Teoria da música;
+
+>[!todo] Última atualização
+>
+>>[!note] Aula em 07/06
+>>   - [📑Apostila][apostila] a partir da pg. 95: Processador de Textos Word:  criação de bordas, inserindo formas,
+>>   - Formatação com tabulações, inserindo bordas es sombreamento.
+>>>[!todo] 🖥️ Atividades:
+>>> - Criando cardápios com tabulação, papel de cartas e certificados;
 
 > [!important]- 📚Material didático
 > 
