@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight cards","tags":["gardenEntry"],"noteIcon":"default","updated":"2025-05-19T09:53:28.015-03:00"}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight cards","tags":["gardenEntry"],"noteIcon":"default","updated":"2025-06-13T18:45:11.243-03:00"}
 ---
 
 ## Olá 👋
@@ -8,15 +8,9 @@
 
 ## Aulas
 
-<span>
-<a class="internal-link" href="/assistente-de-ti/#cronograma-da-uc-4"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Assistente de TI</button></a>
-<a class="internal-link" href="/informatica-basica/#cronograma-da-unidade-curricular"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Informática Básica</button></a>
-<a class="internal-link" href="/informatica-basica-sabado/#cronograma-da-unidade-curricular"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Informática Básica aos Sábados</button></a>
-</span>
+
 
 Pretendo reunir aqui 📑notas de aulas e 📚estudos diversos sobre:
- - 🖥️  [[Assistente-de-TI\|Curso de Assistência de TI]]
- - 💻 [[Informatica basica\|Curso de Informática Básica]]
  - 💻 [[Informatica basica sabado\|Curso de Informática Básica aos Sábados]]
  - 📖 [[Teologia\|Teologia]] e [[Teologia/Escatologia\|Escatologia]]
  - 🤖 [[Inteligencia Artificial\|Inteligência Artificial]] .
