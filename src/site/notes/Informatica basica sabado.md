@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-06-13T18:37:42.697-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-06-20T19:59:24.039-03:00"}
 ---
 
 
@@ -116,14 +116,19 @@ gantt
 >>   - Formatação com tabulações, inserindo bordas es sombreamento.
 >>>[!todo] 🖥️ Atividades:
 >>> - Criando cardápios com tabulação, papel de cartas e certificados;
-
->[!todo] Última atualização
 >
->>[!note] Aula em 14/06
+>>[!note]- Aula em 14/06
 >>   - [📑Apostila][apostila] a partir da pg. 110: Processador de Textos Word: Operações com figuras, símbolos e ilustrações; Inserir e formatar Tabelas; Revisor ortográfico; Configuração de página e de impressão; tabelas e listas, impressão. formatação de textos (fonte e parágrafo), ortografia e gramática, cabeçalho e rodapé, objetos e imagens, tabelas e listas, impressão.
 >>>[!todo] 🖥️ Atividades:
 >>> - No Word Criando o texto Soneto de Fidelidade, sumários e capas em trabalho. 
 >>> - [📑Apostila][apostila] a partir da pg. 118: Boletim escolar, recibo comercial, textos formatados e cardápio.
+
+>[!todo] Última atualização
+>
+>>[!note]Aula em 21/06
+>> - Word: Exercícios com formas, imagens, tabelas e listas, configuração da página e da impressão
+>>>[!todo] 🖥️ Atividades:
+>>   - [📑Apostila][apostila] a partir da pg. 118: Boletim escolar, recibo comercial, textos formatados e cardápio.
 
 > [!important]- 📚Material didático
 > 
