@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/image-processing-jocile/","title":"Pacote image_processing","metatags":{"description":"Fazer um pacote usando a estrutura simples de um módulo para testar os conhecimentos adquiridos."},"noteIcon":2,"updated":"2025-06-04T14:57:58.014-03:00"}
+{"dg-publish":true,"permalink":"/projetos/image-processing-jocile/","title":"Pacote image_processing","metatags":{"description":"Fazer um pacote usando a estrutura simples de um módulo para testar os conhecimentos adquiridos."},"noteIcon":2,"updated":"2025-06-20T21:53:33.746-03:00"}
 ---
 
 #Projeto #Python 
@@ -65,5 +65,5 @@ file1_name.my_function()
 - #Python
 - [GitHub - jocile/image-processing-package: Test the knowledge acquired with a practical exercise on creating Python packages](https://github.com/jocile/image-processing-package)
 - [web.dio.me/project/descomplicando-a-criacao-de-pacotes-de-processamento-de-imagens-em-python](https://web.dio.me/project/descomplicando-a-criacao-de-pacotes-de-processamento-de-imagens-em-python/learning/)
-- [[Tecnico/Programador/Python/Modulos e pacotes em Python\|Modulos e pacotes em Python]]
-- [[Tecnico/Programador/Python/Ambientes virtuais/Publicando e reutilizando pacotes Python\|Publicando e reutilizando pacotes Python]]
+- [[Formacao/Python/Modulos e pacotes em Python\|Modulos e pacotes em Python]]
+- [[Formacao/Python/Ambientes virtuais/Publicando e reutilizando pacotes Python\|Publicando e reutilizando pacotes Python]]
