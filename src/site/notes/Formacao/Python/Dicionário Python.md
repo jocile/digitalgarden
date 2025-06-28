@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/python/dicionario-python/","title":"Python com Colab","metatags":{"description":"dicionário de termos em Python"},"noteIcon":1,"updated":"2025-06-26T17:52:58.963-03:00"}
+{"dg-publish":true,"permalink":"/formacao/python/dicionario-python/","title":"Dicionário Python","metatags":{"description":"dicionário de termos em Python"},"noteIcon":1,"updated":"2025-06-26T18:47:39.085-03:00"}
 ---
 
 #Python #Shell

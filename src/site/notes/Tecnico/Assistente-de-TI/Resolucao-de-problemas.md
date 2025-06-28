@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/resolucao-de-problemas/","title":"Resolução de problemas de TI","metatags":{"description":"Resolução de problemas de computadores"},"tags":["Aulas","Assistente-de-TI","Hardware"],"noteIcon":2,"updated":"2025-04-29T10:49:51.779-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/resolucao-de-problemas/","title":"Resolução de problemas de TI","metatags":{"description":"Resolução de problemas de computadores"},"tags":["Aulas","Assistente-de-TI","Hardware"],"noteIcon":2,"updated":"2025-05-09T10:05:12.392-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ide-v-scode/","title":"Google-Colab","metatags":{"description":"ambiente editor que oferece suporte para várias linguagens de programação, configurável com extensões."},"noteIcon":2,"updated":"2025-06-20T21:38:11.684-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ide-v-scode/","title":"IDE VScode","metatags":{"description":"ambiente editor que oferece suporte para várias linguagens de programação, configurável com extensões."},"noteIcon":2,"updated":"2025-06-20T22:40:25.516-03:00"}
 ---
 
 #Ferramentas #ide

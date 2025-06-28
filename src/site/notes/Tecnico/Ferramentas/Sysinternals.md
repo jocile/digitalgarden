@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/sysinternals/","title":"Ferramentas do Sysinternals","metatags":{"description":"Como instalar o Windows em uma máquina virtual."},"noteIcon":2,"updated":"2025-06-20T21:08:18.925-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/sysinternals/","title":"Ferramentas do Sysinternals","metatags":{"description":"utilitários para ajudar no funcionamento interno do Windows, para procurar e corrigir falhas."},"noteIcon":2,"updated":"2025-06-21T17:34:37.216-03:00"}
 ---
 
 #Ferramentas 

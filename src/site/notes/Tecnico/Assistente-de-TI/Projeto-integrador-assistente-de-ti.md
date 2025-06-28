@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/projeto-integrador-assistente-de-ti/","title":"Projeto Integrador Assistente de TI","noteIcon":2,"updated":"2025-05-16T10:43:30.286-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/projeto-integrador-assistente-de-ti/","title":"Projeto Integrador Assistente de TI","metatags":{"description":"Projeto voltado a demonstração prática de aprendizado durante o curso."},"noteIcon":2,"updated":"2025-05-17T19:05:13.382-03:00"}
 ---
 
 

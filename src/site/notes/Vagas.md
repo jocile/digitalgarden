@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vagas/","title":"Vagas","metatags":{"description":"Oportunidades em emprego"},"contentClasses":"img-zoom cards","tags":["vagas"],"noteIcon":2,"updated":"2025-06-05T14:55:13.954-03:00"}
+{"dg-publish":true,"permalink":"/vagas/","title":"Vagas","metatags":{"description":"Oportunidades em emprego"},"contentClasses":"img-zoom cards","tags":["vagas"],"noteIcon":2,"updated":"2025-06-21T17:48:59.099-03:00"}
 ---
 
 
@@ -130,6 +130,7 @@
 > - [Editais | Santa Casa](https://stacasa.com.br/index.php/trabalheconosco/editais-e-seleoes)
 > - [Grendene](https://facapartegrendene.gupy.io/)
 > - [SEST SENAT](https://www.sestsenat.org.br/trabalhe-conosco#vagas)
+> - [FIESC - Trabalhe Conosco](https://fiesc.pandape.infojobs.com.br/)
 > - [@empregasobral Instagram](https://www.instagram.com/empregasobral/)
 > - [Prefeitura de Sobral - Sistema de Seleção](https://selecao.sobral.ce.gov.br/) | [Sobral - Banco de Talentos](https://bancodetalentos.sobral.ce.gov.br/curriculo/)
 > - [Quero uma Vaga - CIEE | Centro de Integração Empresa-Escola](https://portal.ciee.org.br/quero-uma-vaga/)

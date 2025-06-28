@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/linux/","title":"Linux","noteIcon":2,"updated":"2025-05-15T09:48:32.628-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/linux/","title":"Linux","metatags":{"description":"É um dos sistema operacionais mais populares e é amplamente utilizado pelo segmento de servidores e desenvolvedores de software."},"noteIcon":2,"updated":"2025-05-17T19:08:32.289-03:00"}
 ---
 
 

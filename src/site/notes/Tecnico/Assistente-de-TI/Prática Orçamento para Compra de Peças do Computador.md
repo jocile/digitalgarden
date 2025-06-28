@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/pratica-orcamento-para-compra-de-pecas-do-computador/","title":"Prática Orçamento para Compra de Peças do Computador","metatags":{"description":"Prática de orçamento de peças para montagem de computadores"},"noteIcon":2,"updated":"2025-05-05T12:09:14.616-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/pratica-orcamento-para-compra-de-pecas-do-computador/","title":"Prática Orçamento para Compra de Peças do Computador","metatags":{"description":"Prática de orçamento de peças para montagem de computadores"},"noteIcon":2,"updated":"2025-05-11T22:16:23.917-03:00"}
 ---
 
 #Hardware 
@@ -49,3 +49,12 @@ Após completar os passos acima, vocês terão uma planilha detalhada com o cust
 - [Monte seu PC - meupc.net](https://meupc.net/)
 - [MONTAGEM E INSTALAÇÃO DE SISTEMAS | Jocile](https://jocile.github.io/aulas/categories/montagem-e-instala%C3%A7%C3%A3o-de-sistemas/)
 - [SOUZA, Janaina. Montagem e Manutenção de Computadores PDF. Curso técnico de manutenção e Suporte de Informática. Editora E-Tec Brasil.](https://redeetec.mec.gov.br/images/stories/pdf/eixo_infor_comun/tec_man_sup/081112_manut_mont.pdf)
+
+
+> [!help] Páginas semelhantes
+> Talvez estas páginas também interessem:
+>  - [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]
+> - [[Tecnico/Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]]
+> - [[Tecnico/Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]]
+> 
+{ .block-language-dataview}

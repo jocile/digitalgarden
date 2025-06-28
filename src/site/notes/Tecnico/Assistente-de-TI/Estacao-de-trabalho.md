@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/estacao-de-trabalho/","title":"Estação de trabalho","metatags":{"description":"trata-se de um conjuntos de equipamentos mecânicos e eletrônicos adequados e capazes de processar dados afim de que estes se tornem informação"},"tags":["Aulas","Assistente-de-TI"],"noteIcon":"1","updated":"2025-05-05T10:01:51.562-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/estacao-de-trabalho/","title":"Estação de trabalho","metatags":{"description":"trata-se de um conjuntos de equipamentos mecânicos e eletrônicos adequados e capazes de processar dados afim de que estes se tornem informação"},"tags":["Aulas","Assistente-de-TI"],"noteIcon":"1","updated":"2025-05-17T20:54:29.800-03:00"}
 ---
 
-
+#Aulas
 ## Estação de trabalho
 
 Um Sistema Informático trata-se de um conjuntos de equipamentos mecânicos e eletrônicos adequados e capazes de processar dados afim de que estes se tornem informação, de forma automática.

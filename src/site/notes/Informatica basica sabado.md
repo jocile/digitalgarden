@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-06-20T19:59:24.039-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-06-27T21:03:22.759-03:00"}
 ---
 
 
@@ -122,13 +122,24 @@ gantt
 >>>[!todo] 🖥️ Atividades:
 >>> - No Word Criando o texto Soneto de Fidelidade, sumários e capas em trabalho. 
 >>> - [📑Apostila][apostila] a partir da pg. 118: Boletim escolar, recibo comercial, textos formatados e cardápio.
-
->[!todo] Última atualização
 >
->>[!note]Aula em 21/06
+>>[!note]- Aula em 21/06
 >> - Word: Exercícios com formas, imagens, tabelas e listas, configuração da página e da impressão
 >>>[!todo] 🖥️ Atividades:
 >>   - [📑Apostila][apostila] a partir da pg. 118: Boletim escolar, recibo comercial, textos formatados e cardápio.
+
+>[!todo] Última atualização
+>
+>>[!note] Aula em 28/06
+>> - [📑Apostila][apostila] a partir da pg. 121, editor de planilhas Excel: 
+>>    - Conceito de Planilha eletrônica;
+>>    - Principais elementos do espaço de trabalho (Pasta, planilha, célula, barras, menus);
+>>    - Navegação; Edição de dados nas células;
+>>    - Seleção de célula, intervalo(s), coluna(s), linha(s), navegação na planilha;
+>>
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Criando e formatando a planilha de orçamento doméstico.
+>>> - Criando a planilha Feira do mês com cálculos de total.
 
 > [!important]- 📚Material didático
 > 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/simulador-de-redes/","title":"Simulador de redes","metatags":[{"description":"O Cisco Packet Tracer é um programa educacional gratuito que permite simular uma rede de computadores."}],"noteIcon":2,"updated":"2025-05-19T09:51:21.495-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/simulador-de-redes/","title":"Simulador de redes","metatags":{"description":"O Cisco Packet Tracer é um programa educacional gratuito que permite simular uma rede de computadores."},"noteIcon":2,"updated":"2025-06-26T18:10:29.822-03:00"}
 ---
 
 #simulador
