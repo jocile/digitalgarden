@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/estrutura-html-5/","title":"Estrutura do HTML5","metatags":{"description":"tags semânticas que ajudam a estruturar o conteúdo de uma página web de forma mais significativa."},"tags":["Webdesign","HTML5"],"noteIcon":"1","updated":"2025-03-11T08:26:17.832-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/estrutura-html-5/","title":"Estrutura do HTML5","metatags":{"description":"tags semânticas que ajudam a estruturar o conteúdo de uma página web de forma mais significativa."},"noteIcon":"1","updated":"2025-07-01T15:29:39.519-03:00"}
 ---
 
+#Webdesign #HTML5 
 
 ## Estrutura de um Site em HTML5 e suas Tags Semânticas
 
@@ -34,6 +35,8 @@ O HTML5 introduziu várias tags semânticas que ajudam a estruturar o conteúdo 
 7. `<footer>`: Define o rodapé da página ou de uma seção.
 8. `<figure>`: Define conteúdo relacionado a imagem ou vídeo.
 9. `<picture>`: Define várias fontes para um conteúdo de mídia.
+
+![Estrutura HTML5-1751394489992.png](/img/user/Formacao/Webdesign/Estrutura%20HTML5-1751394489992.png)
 
 ### Exemplo de Estrutura
 
