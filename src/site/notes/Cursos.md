@@ -11,7 +11,7 @@
 
 ## 📢  Programador de Web - 240h 
 
-![Curso  Programador Web-1751477870303.png](/img/user/Tecnico/cursos/Curso%20%20Programador%20Web-1751477870303.png)
+![Curso  Programador Web.png](/img/user/Tecnico/cursos/Curso%20%20Programador%20Web.png)
 
 A internet hoje é fundamental para qualquer negócio. Seja qual for o segmento, é preciso ter um site para atender os clientes. Aproveite essa grande possibilidade no mercado e aprenda tudo sobre programação web. Neste curso completo, você aprende a desenvolver aplicações que utilizam a linguagem PHP.
 

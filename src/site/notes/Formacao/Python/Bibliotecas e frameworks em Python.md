@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/python/bibliotecas-e-frameworks-em-python/","title":"Bibliotecas e frameworks em Python","metatags":{"description":"Bibliotecas de módulos para desenvolvimento rápido com Python"},"noteIcon":1,"updated":"2025-07-02T15:58:46.901-03:00"}
+{"dg-publish":true,"permalink":"/formacao/python/bibliotecas-e-frameworks-em-python/","title":"Bibliotecas e frameworks em Python","metatags":{"description":"Bibliotecas de módulos para desenvolvimento rápido com Python"},"noteIcon":1,"updated":"2025-07-02T16:44:15.741-03:00"}
 ---
 
 #Python 
@@ -59,3 +59,20 @@
 > - Beautiful Soup 
 > - lxml
 > - Scrapy
+
+---
+
+## Bibliotecas de módulos usados em inteligência artificial com Python
+
+![Python libraries.png](/img/user/Formacao/Python/Python%20libraries.png)
+
+>[!note] Python com Inteligência Artificial
+> - Python + Pandas = Data Manipulation
+> - Python + Scikit-Learn = Machine Learning
+> - Python + TensorFlow = Deep Learning
+> - Python + Matplotlib = Data Visualization
+> - Python + Seaborn = Advanced Visualization
+> - Python + Flask = Web Development & APIs
+> - Python + Pygame = Game Development
+> - Python + Kivy = Mobile App Development
+> - Python + Tkinter = GUI Development
