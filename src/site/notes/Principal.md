@@ -50,7 +50,7 @@ Este site é um "[jardim digital](https://obsidian.rocks/maps-of-content-effortl
 
 ![Curso  Programador Web-1751477870303.png](/img/user/Tecnico/cursos/Curso%20%20Programador%20Web-1751477870303.png)
 
-A internet hoje é fundamental para qualquer negócio. Seja qual for o segmento, é preciso ter um site para atender os clientes. Aproveite essa grande possibilidade no mercado e aprenda tudo sobre programação web.
+A internet hoje é fundamental para qualquer negócio. Seja qual for o segmento, é preciso ter um site para atender os clientes. Aproveite essa grande possibilidade no mercado e aprenda tudo sobre programação web. Neste curso completo, você aprende a desenvolver aplicações que utilizam a linguagem PHP.
 
 O curso ocorrerá no período: 
 > 🗓️ Período: 07/07/2025 a 26/09/2025 
