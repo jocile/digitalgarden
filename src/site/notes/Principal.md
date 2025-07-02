@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight cards","tags":["gardenEntry"],"noteIcon":"default","updated":"2025-07-02T11:15:23.681-03:00"}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight cards","tags":["gardenEntry"],"noteIcon":"default","updated":"2025-07-02T15:06:21.593-03:00"}
 ---
 
 ## Olá 👋
@@ -33,6 +33,37 @@ Este site é um "[jardim digital](https://obsidian.rocks/maps-of-content-effortl
 - Plantas ( ![Maturity Level: 2|14](https://jocile.com/img/tree-2.svg) ) têm uma quantidade substancial de conteúdo, mas ainda há muito trabalho a ser feito. Coerência e padrões estão apenas emergindo.
 - Árvores ( ![Maturity Level: 3|14](https://jocile.com/img/tree-3.svg) ) são pedaços coerentes de pensamento/ensaio/expressão que não devem mudar muito, exceto por alguns aprimoramentos editoriais.
 - Mapas de conteúdo ( ![Maturity Level: 4|14](https://jocile.com/img/default-note-icon.svg) ) são pontos de referência informativos sobre o caminho, geralmente contendo links.
+
+
+</div></div>
+
+
+## Próximo curso
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+## 📢  Programador de Web - 240h 
+
+![Curso  Programador Web-1751477870303.png](/img/user/Tecnico/cursos/Curso%20%20Programador%20Web-1751477870303.png)
+
+A internet hoje é fundamental para qualquer negócio. Seja qual for o segmento, é preciso ter um site para atender os clientes. Aproveite essa grande possibilidade no mercado e aprenda tudo sobre programação web.
+
+O curso ocorrerá no período: 
+> 🗓️ Período: 07/07/2025 a 26/09/2025 
+> 📝 Segunda a Sexta
+> ⏰ 07h30 às 11h  
+> 📍 Local: Senac Sobral
+
+Inscrições via link ⬇️
+https://psg.ce.senac.br/oportunidade/programador-web-2/
+
+Maiores informações:
+☎️ 88 3677 8700
+📱 88 99468 9288
 
 
 </div></div>
