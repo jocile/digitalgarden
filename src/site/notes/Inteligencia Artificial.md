@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/","title":"Inteligência Artificial","metatags":{"description":"Estudos em Inteligência Artificial"},"contentClasses":"cards","noteIcon":3,"updated":"2025-07-02T11:12:50.362-03:00"}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/","title":"Inteligência Artificial","metatags":{"description":"Estudos em Inteligência Artificial"},"contentClasses":"cards","noteIcon":"default","updated":"2025-07-06T13:18:25.327-03:00"}
 ---
 
 #mapa 
@@ -15,7 +15,6 @@
 | 27.01.25 | [[Formacao/Inteligencia Artificial/Chatbot com IA local\|Chatbot com IA local]]                                                            | Como usar um processo para que o código interaja com o modelo de forma programática para realizar tarefas de geração de texto.                                                                                                       |
 | 24.01.25 | [[Formacao/Inteligencia Artificial/O mundo da IA\|O mundo da IA]]                                                                          | Gráfico sobre o mundo da IA                                                                                                                                                                                                          |
 | 24.01.25 | [[Formacao/Inteligencia Artificial/Niveis de processamento da PLN\|Niveis de processamento da PLN]]                                        | Gráfico sobre processamento em Linguagem Natural                                                                                                                                                                                     |
-| 22.01.25 | [[Formacao/Machine Learning Especialist\|Machine Learning Especialist]]                           | Gráfico das disciplinas do cursos de Escpecialista em Machine Learning                                                                                                                                                               |
 | 20.01.25 | [[Formacao/Inteligencia Artificial/ferramentas de IA/plataformas de agentes de ia\|plataformas de agentes de ia]]                          | plataformas para a criação de agentes de IA, cada uma com suas particularidades e níveis de complexidade. Segue uma lista categorizada para melhor compreensão                                                                       |
 | 20.01.25 | [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]]                                                                          | podem interagir com o ambiente, coletar dados, tomar decisões e realizar ações para atingir um objetivo específico.                                                                                                                  |
 | 20.01.25 | [[Formacao/Inteligencia Artificial/ferramentas de IA/Ollama\|Ollama]]                                                                      | simplifica o uso de modelos de linguagem natural (LLMs) localmente, eliminando a necessidade de configurações complexas ou dependência de servidores externos.                                                                       |
@@ -42,3 +41,5 @@
 | 20.01.25 | [[Formacao/Inteligencia Artificial/ferramentas de IA/Notebooklm\|Notebooklm]]                                                              | é projetada para ajudar os usuários a organizar e analisar informações extraídas de documentos, sites, vídeos do YouTube, etc.                                                                                                       |
 | 18.01.25 | [[Formacao/Inteligencia Artificial/RAG - Retrieval Augmented Generation\|RAG - Retrieval Augmented Generation]]                            | Geração Aumentada por Recuperação, é uma abordagem que melhora a qualidade das respostas de um modelo de linguagem (LLM) ao incorporar informações de fontes externas.                                                               |
 <!-- SerializedQuery END -->
+
+[[Principal\|Principal]]

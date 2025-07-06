@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/machine-learning-especialist/","title":"Machine Learning Especialist","metatags":{"description":"Gráfico das disciplinas do cursos de Escpecialista em Machine Learning"},"contentClasses":"ex-pageheight","tags":["excalidraw","Inteligencia-artificial","Machine-Learning","Curso"],"noteIcon":"1","updated":"2025-07-02T12:16:46.410-03:00"}
+{"dg-publish":true,"permalink":"/formacao/machine-learning-especialist/","title":"Machine Learning Especialist","metatags":{"description":"Gráfico das disciplinas do cursos de Escpecialista em Machine Learning"},"contentClasses":"ex-pageheight","tags":["excalidraw","Inteligencia-artificial","Machine-Learning","Curso","mapa"],"noteIcon":"default","updated":"2025-07-06T13:17:29.129-03:00"}
 ---
 
 

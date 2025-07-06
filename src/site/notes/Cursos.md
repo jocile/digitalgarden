@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cursos/","title":"Cursos","metatags":{"description":"Programação de Cursos no Senac Ceará em Sobral"},"contentClasses":"cards cards-cols-3 cards-cover","tags":["curso","Senac"],"noteIcon":2,"updated":"2025-07-02T14:54:11.982-03:00"}
+{"dg-publish":true,"permalink":"/cursos/","title":"Cursos","metatags":{"description":"Programação de Cursos no Senac Ceará em Sobral"},"contentClasses":"cards cards-cols-3 cards-cover","tags":["curso","Senac","mapa"],"noteIcon":"default","updated":"2025-07-06T13:19:51.664-03:00"}
 ---
 
 
@@ -84,4 +84,4 @@ Maiores informações:
  - [Cursos Senac Sobral-Ceará](https://cursos.ce.senac.br/unidade/senac-sobral/)
  - [Senac EAD - Cursos On-line livres, Técnicos, Graduação e Pós-graduação](https://www.ead.senac.br/)
  - [SENAC - PORTAL DO ALUNO](https://cloud.plataforma.senac.br/senacportalaluno/#/login)
-
+ - [[Principal\|Principal]]

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-python/","title":"Formação em Python","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-02T13:45:07.923-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-python/","title":"Formação em Python","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-06T13:15:17.480-03:00"}
 ---
 
-#Python #Formação
+#Python #Formação #mapa 
 
 ## Fundamentos do Python
 
@@ -143,3 +143,5 @@
 > - Deploy de uma API FastAPI Assíncrona
 > - Boas Práticas para APIs RESTful Assíncronas com FastAPI
 > - Criando sua API Bancária Assíncrona com FastAPI
+
+[[Principal\|Principal]]

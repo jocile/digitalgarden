@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-webdesign/","title":"Formação em Webdesign","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-02T14:06:45.642-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-webdesign/","title":"Formação em Webdesign","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-06T13:14:31.328-03:00"}
 ---
 
-#Webdesign #CSS 
+#Webdesign #CSS #mapa
 
 ## Senac Web Designer
 
@@ -70,3 +70,5 @@
 > - Iniciando com seu primeiro Framework em CSS: Bootstrap
 > - Clonando o Site da HBO Max com Animações em HTML e CSS
 > - Materiais Complementares - Refinando os Estilos CSS das nossas páginas
+
+[[Principal\|Principal]]

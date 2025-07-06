@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight cards","tags":["gardenEntry"],"noteIcon":"default","updated":"2025-07-02T15:06:21.593-03:00"}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight cards","tags":["gardenEntry"],"noteIcon":"default","updated":"2025-07-06T13:00:45.383-03:00"}
 ---
 
 ## Olá 👋
@@ -8,13 +8,18 @@
 
 ## Aulas
 
-
+<span>
+<a class="internal-link" href="/Programador-WEB"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Programador WEB</button></a>
+<a class="internal-link" href="/informatica-basica-sabado/#cronograma-da-unidade-curricular"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Informática Básica aos Sábados</button></a>
+</span>
 
 Pretendo reunir aqui 📑notas de aulas e 📚estudos diversos sobre:
+ - 👨‍💻[[Programador Web\|Programador Web]]
  - 💻 [[Informatica basica sabado\|Curso de Informática Básica aos Sábados]]
  - 📖 [[Teologia\|Teologia]] e [[Teologia/Escatologia\|Escatologia]]
  - 🤖 [[Inteligencia Artificial\|Inteligência Artificial]] .
  - 🎨 [[Webdesign\|Webdesign]]
+ - 💻[[Formacao/Python/Linguagem Python\|Linguagem Python]]
 
 ---
 

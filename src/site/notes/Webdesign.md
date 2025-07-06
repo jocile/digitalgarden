@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/webdesign/","title":"Webdesing","metatags":{"description":"Estudos em WebDesign"},"contentClasses":"cards","noteIcon":2,"updated":"2025-07-02T11:14:47.110-03:00"}
+{"dg-publish":true,"permalink":"/webdesign/","title":"Webdesing","metatags":{"description":"Estudos em WebDesign"},"contentClasses":"cards","noteIcon":"default","updated":"2025-07-06T13:20:44.091-03:00"}
 ---
 
 
@@ -24,3 +24,5 @@
 | 22.01.25 | [[Formacao/Webdesign/Cores no designe\|Cores no designe]]                                 | características psicológicas associadas a algumas das principais cores                                                                                                                                             |
 | 22.01.25 | [[Formacao/Webdesign/Bootstrap\|Bootstrap]]                                               | fornece um conjunto de ferramentas e recursos que permitem criar sites e aplicações responsivos de forma rápida e eficiente.                                                                                       |
 <!-- SerializedQuery END -->
+
+[[Principal\|Principal]] #mapa
