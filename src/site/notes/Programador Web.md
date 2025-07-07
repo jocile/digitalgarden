@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-06T13:08:01.741-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-06T21:48:34.112-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -87,6 +87,15 @@ gantt
 >> 2. Elabora proposta de trabalho de acordo com arquitetura da informação da aplicação web e das estratégias tecnológicas. 
 >> 3. Elabora protótipo para web sites de acordo com o *briefing*. 
 >> 4. Redige o projeto da aplicação web de acordo com a proposta e protótipo.
+
+>[!done] Cronograma das aulas
+>
+>>[!note] Aula 1
+>> - Boas-vindas e apresentação da ementa do curso
+>> - Conceito, estrutura e finalidades de um [[Tecnico/Briefing\|Briefing]]
+>> - Apresentação da plataforma [[Tecnico/Ferramentas/git/Git-GitHub\|Git-GitHub]]
+>>>[!todo] 🖥️ Atividade:
+>>> - Criar a estrutura inicial do briefing em um repositório do GitHub.
 
 ## UC2 - Estruturar aplicações *front-end* para *web
 
