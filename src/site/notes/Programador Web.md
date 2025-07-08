@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-06T21:48:34.112-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-07T21:11:30.894-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -92,12 +92,18 @@ gantt
 >
 >>[!note] Aula 1
 >> - Boas-vindas e apresentação da ementa do curso
->> - Conceito, estrutura e finalidades de um [[Tecnico/Briefing\|Briefing]]
+>> - Conceito, estrutura e finalidades de um [[Formacao/Webdesign/Briefing\|Briefing]]
 >> - Apresentação da plataforma [[Tecnico/Ferramentas/git/Git-GitHub\|Git-GitHub]]
 >>>[!todo] 🖥️ Atividade:
->>> - Criar a estrutura inicial do briefing em um repositório do GitHub.
+>>> - Criando um currículo online e publicando no [GitHub](https://github.com/).
+>
+>>[!note] Aula 2
+>> - [[Formacao/Webdesign/Analise do Briefing\|Analise do Briefing]]
+>> - Editando documentação em [[Formacao/Webdesign/Markdown\|Markdown]] e [[Formacao/Webdesign/markdown notas\|markdown notas]]
+>>>[!todo] 🖥️ Atividade:
+>>> - Criar a estrutura inicial do briefing em um repositório do [GitHub](https://github.com/).
 
-## UC2 - Estruturar aplicações *front-end* para *web
+## UC2 - Estruturar aplicações *front-end* para web
 
 > [!success]- 🖥️ Habilidades da UC2
 > - Organizar conteúdo visual e textual para *web*. 
@@ -145,6 +151,11 @@ gantt
 >>[!check]
 >> - **Proposta 1: Aplicação web multiplataforma com padrões de acessibilidade**
 >> - **Proposta 2: Desenvolvimento de site para promover a visibilidade de um portfólio de produtos e serviços**
+
+## Referências
+
+- [Ebook Programador WEB - Editora Senac](https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail)
+- [Ebook Projetos em UX Designe - Editora Senac](https://bibliotecadigitalsenac.com.br/#/content/uid/c4ced701-627f-ef11-8473-000d3a15d325/detail)
 
 [[Principal\|Principal]]
 
