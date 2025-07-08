@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-07T21:11:30.894-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-07T21:47:58.424-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -99,7 +99,7 @@ gantt
 >
 >>[!note] Aula 2
 >> - [[Formacao/Webdesign/Analise do Briefing\|Analise do Briefing]]
->> - Editando documentação em [[Formacao/Webdesign/Markdown\|Markdown]] e [[Formacao/Webdesign/markdown notas\|markdown notas]]
+>> - Editando documentação [[Formacao/Webdesign/markdown\|markdown]]
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar a estrutura inicial do briefing em um repositório do [GitHub](https://github.com/).
 
