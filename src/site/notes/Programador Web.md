@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-07T21:47:58.424-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-08T22:35:22.824-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -92,16 +92,21 @@ gantt
 >
 >>[!note] Aula 1
 >> - Boas-vindas e apresentação da ementa do curso
->> - Conceito, estrutura e finalidades de um [[Formacao/Webdesign/Briefing\|Briefing]]
+>> - Conceito, estrutura e finalidades de um [[Formacao/UX design/Briefing\|Briefing]]
 >> - Apresentação da plataforma [[Tecnico/Ferramentas/git/Git-GitHub\|Git-GitHub]]
 >>>[!todo] 🖥️ Atividade:
 >>> - Criando um currículo online e publicando no [GitHub](https://github.com/).
 >
 >>[!note] Aula 2
->> - [[Formacao/Webdesign/Analise do Briefing\|Analise do Briefing]]
+>> - [[Formacao/UX design/Analise do Briefing\|Analise do Briefing]]
 >> - Editando documentação [[Formacao/Webdesign/markdown\|markdown]]
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar a estrutura inicial do briefing em um repositório do [GitHub](https://github.com/).
+>
+>>[!note] Aula 3
+>> - Conceitos e estrutura de [[Formacao/UX design/layout\|layout]], [[Formacao/UX design/wireframe\|wireframe]], [[Formacao/UX design/mockup\|mockup]], [[Formacao/UX design/MoodBoard\|MoodBoard]], [[Formacao/UX design/prototipo\|prototipo]]
+>>>[!todo] 🖥️ Atividade:
+>>> - Criar a estrutura inicial do layout com [[Formacao/UX design/wireframe\|wireframe]] de um sistema, usando o [Figma](https://www.figma.com/pt-br/) ou [Excalidraw](https://excalidraw.com/).
 
 ## UC2 - Estruturar aplicações *front-end* para web
 
