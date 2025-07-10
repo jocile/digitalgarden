@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ux-design/wireframe/","metatags":{"description":"são representações visuais de baixa fidelidade, preocupando apenas em descrever todos os elementos presentes da maneira mais simples"},"noteIcon":1,"updated":"2025-07-08T22:25:55.008-03:00"}
+{"dg-publish":true,"permalink":"/formacao/ux-design/wireframe/","metatags":{"description":"são representações visuais de baixa fidelidade, preocupando apenas em descrever todos os elementos presentes da maneira mais simples"},"noteIcon":1,"updated":"2025-07-09T22:49:38.852-03:00"}
 ---
 
 #Webdesign #Projeto
@@ -17,6 +17,11 @@
 
 >[!attention] Atenção! Ele pode sofrer modificações conforme o desenvolvimento do projeto.
 
+## Wireframe Média Fidelidade - anotado
+
+- É o meio termo entre o modelo de baixa e alta fidelidade. Além dos elementos visuais organizados, simulando uma página, você coloca legendas e descrições.
+- Eles permitem visualizar como as coisas funcionam a partir de uma perspectiva mais geral do fluxo.
+
 ## Wireframe de alta fidelidade
 
 - Este tipo de wireframe se aproxima ao resultado final do projeto.
@@ -28,3 +33,15 @@
 > - Explique o que está mostrando ao seu cliente
 > - Se você não explicar o que é o wireframe e que é uma etapa do processo de criação do projeto, seu cliente pode achar que está realizando um trabalho bem relaxado e ele não vai te ajudar!
 > - Muitos não conhecem o Wireframe e por esta razão, acha que você está entregando qualquer coisa à ele.
+
+## Benefícios do Wireframe
+
+- Estruturação da página
+- Arquitetura de Informação
+- Definição do User Flow (fluxo do usuário)
+- Previsão de Funcionalidades
+
+## Como criar o Wireframe
+
+- [Wireframe no Figma - SIMPLES e Muito Útil para UX Design - YouTube](https://www.youtube.com/watch?v=O7jXn04UTGA)
+- [Assim também nascem os Aplicativos - O Wireframe - YouTube](https://www.youtube.com/watch?v=MsNhTvw1Dwc)

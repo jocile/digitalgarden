@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-08T22:35:22.824-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-09T22:56:41.739-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -104,9 +104,17 @@ gantt
 >>> - Criar a estrutura inicial do briefing em um repositório do [GitHub](https://github.com/).
 >
 >>[!note] Aula 3
->> - Conceitos e estrutura de [[Formacao/UX design/layout\|layout]], [[Formacao/UX design/wireframe\|wireframe]], [[Formacao/UX design/mockup\|mockup]], [[Formacao/UX design/MoodBoard\|MoodBoard]], [[Formacao/UX design/prototipo\|prototipo]]
+>> - Conceitos e estrutura de [[Formacao/UX design/layout\|layout]], [[Formacao/UX design/wireframe\|wireframe]]
+>> - Definição das equipes e projetos iniciais.
 >>>[!todo] 🖥️ Atividade:
->>> - Criar a estrutura inicial do layout com [[Formacao/UX design/wireframe\|wireframe]] de um sistema, usando o [Figma](https://www.figma.com/pt-br/) ou [Excalidraw](https://excalidraw.com/).
+>>> - Criar o Briefing para o projeto de Aplicativo WEB para Petshop e para uma Barbearia no Github.
+>
+>>[!note] Aula 4
+>> - Conceitos e estrutura de [[Formacao/UX design/layout\|layout]], [[Formacao/UX design/wireframe\|wireframe]], [[Formacao/UX design/mockup\|mockup]], [[Formacao/UX design/MoodBoard\|MoodBoard]], [[Formacao/UX design/prototipo\|prototipo]]
+>> - [Modelo do Figma de aplicativo de catálogo de produtos](https://www.figma.com/design/1n0aifcfatWv9ozp16XCrq/DSCatalog-Bootcamp?node-id=0-1&t=8ZwtYaRebXzwrolS-1)
+>> - [Modelo do Figma - Digital Agency Website](https://www.figma.com/community/file/1058842196634115002)
+>>>[!todo] 🖥️ Atividade:
+>>> - Criar a estrutura inicial do layout com [[Formacao/UX design/wireframe\|wireframe]] de um sistema, usando o [Figma](https://www.figma.com/pt-br/) ou [Excalidraw](https://excalidraw.com/) ou [Draw.io](https://app.diagrams.net/), e salvar no repositório do GitHub.
 
 ## UC2 - Estruturar aplicações *front-end* para web
 

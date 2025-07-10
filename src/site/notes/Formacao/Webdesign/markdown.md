@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/markdown/","metatags":{"description":"é uma linguagem de marcação leve com sintaxe de formatação de texto simples"},"noteIcon":2,"updated":"2025-07-07T21:47:31.551-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/markdown/","metatags":{"description":"é uma linguagem de marcação leve com sintaxe de formatação de texto simples"},"noteIcon":2,"updated":"2025-07-09T19:44:58.268-03:00"}
 ---
 
 ## Editor
@@ -30,9 +30,9 @@ Links: [Texto do link](https://jocile.com/)
 
 ```
  Listas:
-* Item 1
-* Item 2
-* Item 3
+- Item 1
+- Item 2
+- Item 3
 ```
 
 ## Imagens
