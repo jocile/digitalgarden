@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-09T22:56:41.739-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-10T08:46:47.568-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -115,6 +115,9 @@ gantt
 >> - [Modelo do Figma - Digital Agency Website](https://www.figma.com/community/file/1058842196634115002)
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar a estrutura inicial do layout com [[Formacao/UX design/wireframe\|wireframe]] de um sistema, usando o [Figma](https://www.figma.com/pt-br/) ou [Excalidraw](https://excalidraw.com/) ou [Draw.io](https://app.diagrams.net/), e salvar no repositório do GitHub.
+>>> - Exemplos de sites: 
+>>> 	- [Confraria da Barba - A Barbearia do Homem Moderno](https://www.confrariadabarba.com.br/), 
+>>> 	- [Pet Shop da Petz: tudo que seu pet precisa](https://www.petz.com.br/)
 
 ## UC2 - Estruturar aplicações *front-end* para web
 
