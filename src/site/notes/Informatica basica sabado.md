@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-07-06T13:04:02.046-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-07-12T06:54:57.455-03:00"}
 ---
 
 
@@ -54,7 +54,7 @@ gantt
 
 ## Cronograma da Unidade Curricular
 
->[!done] Cronograma das aulas
+>[!done]- Cronograma das aulas
 >
 >>[!note]- Aula em 05/04
 >> - [HISTORIA : A EVOLUÇÃO DOS COMPUTADORES](https://docs.google.com/presentation/d/1MXW5D73CtuZMqP8obVX5tBnPm_1mUksb/edit?slide=id.p1#slide=id.p1)
@@ -127,10 +127,8 @@ gantt
 >> - Word: Exercícios com formas, imagens, tabelas e listas, configuração da página e da impressão
 >>>[!todo] 🖥️ Atividades:
 >>   - [📑Apostila][apostila] a partir da pg. 118: Boletim escolar, recibo comercial, textos formatados e cardápio.
-
->[!todo] Última atualização
 >
->>[!note] Aula em 28/06
+>>[!note]- Aula em 28/06
 >> - [📑Apostila][apostila] a partir da pg. 121, editor de planilhas Excel: 
 >>    - Conceito de Planilha eletrônica;
 >>    - Principais elementos do espaço de trabalho (Pasta, planilha, célula, barras, menus);
@@ -140,6 +138,18 @@ gantt
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Criando e formatando a planilha de orçamento doméstico.
 >>> - Criando a planilha Feira do mês com cálculos de total.
+>
+>>[!attention]- 05/07: FERIADO: Dia de aniversário de Sobral
+
+>[!todo] Última atualização
+>
+>>[!note] Aula em 12/07
+>> - [📑Apostila][apostila] a partir da pg. 135, Editor de planilhas Excel:
+>> - Operações com colunas e linhas;
+>> - Operações com planilhas: copiar, selecionar, mover, ocultar, múltiplas seleções;
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Criando e formatando a planilha de cálculos percentuais.
+>>> - Criando a planilha de boletim escolar com formatação condicional.
 
 > [!important]- 📚Material didático
 > 

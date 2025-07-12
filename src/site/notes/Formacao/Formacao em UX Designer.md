@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-ux-designer/","title":"Formação em UX Designer","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-09T20:36:12.741-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-ux-designer/","title":"Formação em UX Designer","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-11T15:33:42.219-03:00"}
 ---
 
 #Webdesign #Projeto  #mapa
@@ -21,7 +21,7 @@
 ## Ampliando o seu Conhecimento em UI/UX Design
 
 - Introdução ao UX Design: [[Formacao/UX design/Fundamentos de UX\|Fundamentos de UX]], [[Formacao/UX design/Ferramentas de UX\|Ferramentas de UX]], [[Formacao/UX design/Padroes de interface\|Padroes de interface]]
-- Introdução ao Ul Design
+- Introdução ao Ul Design: [[Formacao/UX design/Cores no design\|Cores no design]], 
 - Introdução à Fonte e Tipografia
 - Desafio de projeto : Criando um Wireframe de Média Fidelidade
 
