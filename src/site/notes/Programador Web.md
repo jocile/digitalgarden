@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-10T08:46:47.568-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-13T20:24:46.816-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -46,7 +46,7 @@
 
 ## Organização curricular
 
-> [!example] Unidades Curriculares
+> [!example]- Unidades Curriculares
 > 
 > | **Unidades Curriculares**                        | **Carga horária** | Aulas |
 > | ------------------------------------------------ | :---------------: | :---: |
@@ -90,31 +90,43 @@ gantt
 
 >[!done] Cronograma das aulas
 >
->>[!note] Aula 1
+>>[!note]- Aula 1
 >> - Boas-vindas e apresentação da ementa do curso
 >> - Conceito, estrutura e finalidades de um [[Formacao/UX design/Briefing\|Briefing]]
 >> - Apresentação da plataforma [[Tecnico/Ferramentas/git/Git-GitHub\|Git-GitHub]]
 >>>[!todo] 🖥️ Atividade:
 >>> - Criando um currículo online e publicando no [GitHub](https://github.com/).
 >
->>[!note] Aula 2
+>>[!note]- Aula 2
 >> - [[Formacao/UX design/Analise do Briefing\|Analise do Briefing]]
 >> - Editando documentação [[Formacao/Webdesign/markdown\|markdown]]
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar a estrutura inicial do briefing em um repositório do [GitHub](https://github.com/).
 >
->>[!note] Aula 3
+>>[!note]- Aula 3
 >> - Conceitos e estrutura de [[Formacao/UX design/layout\|layout]], [[Formacao/UX design/wireframe\|wireframe]]
 >> - Definição das equipes e projetos iniciais.
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar o Briefing para o projeto de Aplicativo WEB para Petshop e para uma Barbearia no Github.
 >
->>[!note] Aula 4
+>>[!note]- Aula 4
 >> - Conceitos e estrutura de [[Formacao/UX design/layout\|layout]], [[Formacao/UX design/wireframe\|wireframe]], [[Formacao/UX design/mockup\|mockup]], [[Formacao/UX design/MoodBoard\|MoodBoard]], [[Formacao/UX design/prototipo\|prototipo]]
+>>>[!todo] 🖥️ Atividade:
+>>> - Criar a estrutura inicial do layout com [[Formacao/UX design/wireframe\|wireframe]] de um sistema, usando o [Figma](https://www.figma.com/pt-br/) ou [Excalidraw](https://excalidraw.com/) ou [Draw.io](https://app.diagrams.net/), e salvar no repositório do GitHub.
+>>> - Exemplos de sites: 
+>>> 	- [Confraria da Barba - A Barbearia do Homem Moderno](https://www.confrariadabarba.com.br/), 
+>>> 	- [Pet Shop da Petz: tudo que seu pet precisa](https://www.petz.com.br/)
+>
+>>[!note]- Aula 5
+>> - Visita técnica a Biblioteca
+>> - Conhecendo a [Biblioteca Digital Senac](https://bibliotecadigitalsenac.com.br/) e a [Plataforma Cachola](https://cachola.senac.br/)
+>
+>>[!note] Aula 6
+>> - Designe de Interface de Usuário de [[Formacao/UX design/layout\|layout]], [[Formacao/UX design/wireframe\|wireframe]] com o [Figma: The Collaborative Interface Design Tool](https://www.figma.com/)
 >> - [Modelo do Figma de aplicativo de catálogo de produtos](https://www.figma.com/design/1n0aifcfatWv9ozp16XCrq/DSCatalog-Bootcamp?node-id=0-1&t=8ZwtYaRebXzwrolS-1)
 >> - [Modelo do Figma - Digital Agency Website](https://www.figma.com/community/file/1058842196634115002)
 >>>[!todo] 🖥️ Atividade:
->>> - Criar a estrutura inicial do layout com [[Formacao/UX design/wireframe\|wireframe]] de um sistema, usando o [Figma](https://www.figma.com/pt-br/) ou [Excalidraw](https://excalidraw.com/) ou [Draw.io](https://app.diagrams.net/), e salvar no repositório do GitHub.
+>>> - Criar a estrutura inicial do layout com [[Formacao/UX design/wireframe\|wireframe]] de um sistema, usando o [Figma](https://www.figma.com/pt-br/) e salvar no repositório do GitHub.
 >>> - Exemplos de sites: 
 >>> 	- [Confraria da Barba - A Barbearia do Homem Moderno](https://www.confrariadabarba.com.br/), 
 >>> 	- [Pet Shop da Petz: tudo que seu pet precisa](https://www.petz.com.br/)
