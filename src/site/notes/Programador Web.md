@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-13T20:24:46.816-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-14T09:08:29.303-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -128,6 +128,7 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar a estrutura inicial do layout com [[Formacao/UX design/wireframe\|wireframe]] de um sistema, usando o [Figma](https://www.figma.com/pt-br/) e salvar no repositório do GitHub.
 >>> - Exemplos de sites: 
+>>> 	- [Tela básica de aplicativo no Figma](https://www.figma.com/design/hpQuzpGHq2MmrI87xnfMoT/DSMovie1?node-id=0-1&t=28CnLRgmCZJluSm1-1)
 >>> 	- [Confraria da Barba - A Barbearia do Homem Moderno](https://www.confrariadabarba.com.br/), 
 >>> 	- [Pet Shop da Petz: tudo que seu pet precisa](https://www.petz.com.br/)
 
