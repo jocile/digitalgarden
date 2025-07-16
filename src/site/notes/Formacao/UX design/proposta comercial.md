@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ux-design/proposta-comercial/","metatags":{"description":"como elaborar a proposta usando o Canva"},"noteIcon":2,"updated":"2025-07-15T21:08:30.201-03:00"}
+{"dg-publish":true,"permalink":"/formacao/ux-design/proposta-comercial/","metatags":{"description":"como elaborar a proposta usando o Canva"},"noteIcon":2,"updated":"2025-07-15T21:33:30.164-03:00"}
 ---
 
 #Projeto 
@@ -109,6 +109,8 @@ Vamos! Faça uma proposta boa, mas que mostre o seu valor de forma clara para o 
 
 Para saber mais assista: [MAIS CLIENTES: Como fazer proposta comercial no Canva TUTORIAL - YouTube](https://www.youtube.com/watch?v=Y-IOZNAmsXA)
 
-Acesse o [Modelo de Proposta Comercial - João Cortez - A4](https://www.canva.com/design/DAEe7HM_Qg4/rN_nZ5aYb4JPoCFiNIpKTA/edit)
+Acesse os modelos:
+- [laboratorio-de-software/fase1 at master · jocile/laboratorio-de-software · GitHub](https://github.com/jocile/laboratorio-de-software/tree/master/fase1)
+- [Modelo de Proposta Comercial - João Cortez - A4](https://www.canva.com/design/DAEe7HM_Qg4/rN_nZ5aYb4JPoCFiNIpKTA/edit)
 
 [[Programador Web\|Programador Web]]

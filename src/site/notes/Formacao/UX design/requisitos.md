@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ux-design/requisitos/","title":"Análise de requisitos","metatags":{"description":"entendermos exatamente o que o cliente precisa e deseja para o sistema"},"noteIcon":2,"updated":"2025-07-15T20:35:36.721-03:00"}
+{"dg-publish":true,"permalink":"/formacao/ux-design/requisitos/","title":"Análise de requisitos","metatags":{"description":"entendermos exatamente o que o cliente precisa e deseja para o sistema"},"noteIcon":2,"updated":"2025-07-15T21:35:57.165-03:00"}
 ---
 
 #Projeto 
@@ -10,7 +10,7 @@ O levantamento de requisitos é a fase inicial do desenvolvimento de software e 
 
 ---
 
-## Importância**
+## Importância
 
 O principal objetivo do levantamento de requisitos é garantir que tanto os clientes quanto os desenvolvedores tenham a mesma visão do projeto. Isso evita desentendimentos e garante que o software final será realmente útil.
 
@@ -151,7 +151,7 @@ Para obter os requisitos corretamente, usamos várias técnicas:
 | Visualizados em Casos de Uso | Atributos (Características) |
 | Funcionalidade do Produto | Propriedades do Produto |
 | Relativamente fáceis de descobrir | Mais difíceis de descobrir |
-| Verbos | Adjetivos |
+| Verbos | Restrições |
 | Necessidades do negócio | Expectativas do negócio |
 
 ---

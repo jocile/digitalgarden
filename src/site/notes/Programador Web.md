@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-15T21:07:11.981-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-15T21:28:54.989-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -144,7 +144,7 @@ gantt
 >> - Como criar uma [[Formacao/UX design/proposta comercial\|proposta comercial]].
 >>>[!todo] 🖥️ Atividade:
 >>> - Criação de uma análise de [[Formacao/UX design/requisitos\|requisitos]] a partir dos [Modelos gratuitos de requisitos de projetos](https://pt.smartsheet.com/content/project-requirements-templates)
->>> - Criação de proposta comercial usando o modelo: [Modelo de Proposta Comercial - João Cortez - A4](https://www.canva.com/design/DAEe7HM_Qg4/rN_nZ5aYb4JPoCFiNIpKTA/edit)
+>>> - Criação de proposta comercial usando o modelo: [laboratorio-de-software - GitHub](https://github.com/jocile/laboratorio-de-software/tree/master/fase1) ou [Modelo de Proposta Comercial no Canva - João Cortez - A4](https://www.canva.com/design/DAEe7HM_Qg4/rN_nZ5aYb4JPoCFiNIpKTA/edit)
 
 ## UC2 - Estruturar aplicações *front-end* para web
 
