@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-14T09:08:29.303-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-15T21:07:11.981-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -121,7 +121,7 @@ gantt
 >> - Visita técnica a Biblioteca
 >> - Conhecendo a [Biblioteca Digital Senac](https://bibliotecadigitalsenac.com.br/) e a [Plataforma Cachola](https://cachola.senac.br/)
 >
->>[!note] Aula 6
+>>[!note]- Aula 6
 >> - Designe de Interface de Usuário de [[Formacao/UX design/layout\|layout]], [[Formacao/UX design/wireframe\|wireframe]] com o [Figma: The Collaborative Interface Design Tool](https://www.figma.com/)
 >> - [Modelo do Figma de aplicativo de catálogo de produtos](https://www.figma.com/design/1n0aifcfatWv9ozp16XCrq/DSCatalog-Bootcamp?node-id=0-1&t=8ZwtYaRebXzwrolS-1)
 >> - [Modelo do Figma - Digital Agency Website](https://www.figma.com/community/file/1058842196634115002)
@@ -131,6 +131,20 @@ gantt
 >>> 	- [Tela básica de aplicativo no Figma](https://www.figma.com/design/hpQuzpGHq2MmrI87xnfMoT/DSMovie1?node-id=0-1&t=28CnLRgmCZJluSm1-1)
 >>> 	- [Confraria da Barba - A Barbearia do Homem Moderno](https://www.confrariadabarba.com.br/), 
 >>> 	- [Pet Shop da Petz: tudo que seu pet precisa](https://www.petz.com.br/)
+>
+>>[!note]- Aula 7
+>> - Mercado de trabalho do Designer
+>> - Introdução ao [[Formacao/UX design/mockup\|mockup]] e ao [[Formacao/UX design/prototipo\|protótipo]]
+>> - Plataformas de criação de protótipos:  [Figma](https://www.figma.com/), [Glide](https://www.glideapps.com/), [Bubble](https://bubble.io/how-to-build)
+>>>[!todo] 🖥️ Atividade:
+>>> - iniciar o protótipo do site.
+>
+>>[!note] Aula 8
+>> - Análise de [[Formacao/UX design/requisitos\|requisitos]];
+>> - Como criar uma [[Formacao/UX design/proposta comercial\|proposta comercial]].
+>>>[!todo] 🖥️ Atividade:
+>>> - Criação de uma análise de [[Formacao/UX design/requisitos\|requisitos]] a partir dos [Modelos gratuitos de requisitos de projetos](https://pt.smartsheet.com/content/project-requirements-templates)
+>>> - Criação de proposta comercial usando o modelo: [Modelo de Proposta Comercial - João Cortez - A4](https://www.canva.com/design/DAEe7HM_Qg4/rN_nZ5aYb4JPoCFiNIpKTA/edit)
 
 ## UC2 - Estruturar aplicações *front-end* para web
 
