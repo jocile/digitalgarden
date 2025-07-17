@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-15T21:28:54.989-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-17T20:39:14.043-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -88,31 +88,31 @@ gantt
 >> 3. Elabora protótipo para web sites de acordo com o *briefing*. 
 >> 4. Redige o projeto da aplicação web de acordo com a proposta e protótipo.
 
->[!done] Cronograma das aulas
+>[!done]- Cronograma das aulas da UC1
 >
 >>[!note]- Aula 1
 >> - Boas-vindas e apresentação da ementa do curso
 >> - Conceito, estrutura e finalidades de um [[Formacao/UX design/Briefing\|Briefing]]
 >> - Apresentação da plataforma [[Tecnico/Ferramentas/git/Git-GitHub\|Git-GitHub]]
 >>>[!todo] 🖥️ Atividade:
->>> - Criando um currículo online e publicando no [GitHub](https://github.com/).
+>>> - Criando um currículo online e publicando no [GitHub][github]
 >
 >>[!note]- Aula 2
 >> - [[Formacao/UX design/Analise do Briefing\|Analise do Briefing]]
 >> - Editando documentação [[Formacao/Webdesign/markdown\|markdown]]
 >>>[!todo] 🖥️ Atividade:
->>> - Criar a estrutura inicial do briefing em um repositório do [GitHub](https://github.com/).
+>>> - Criar a estrutura inicial do briefing em um repositório do [GitHub][github].
 >
 >>[!note]- Aula 3
 >> - Conceitos e estrutura de [[Formacao/UX design/layout\|layout]], [[Formacao/UX design/wireframe\|wireframe]]
 >> - Definição das equipes e projetos iniciais.
 >>>[!todo] 🖥️ Atividade:
->>> - Criar o Briefing para o projeto de Aplicativo WEB para Petshop e para uma Barbearia no Github.
+>>> - Criar o Briefing para o projeto de Aplicativo WEB para Petshop e para uma Barbearia no [GitHub][github].
 >
 >>[!note]- Aula 4
 >> - Conceitos e estrutura de [[Formacao/UX design/layout\|layout]], [[Formacao/UX design/wireframe\|wireframe]], [[Formacao/UX design/mockup\|mockup]], [[Formacao/UX design/MoodBoard\|MoodBoard]], [[Formacao/UX design/prototipo\|prototipo]]
 >>>[!todo] 🖥️ Atividade:
->>> - Criar a estrutura inicial do layout com [[Formacao/UX design/wireframe\|wireframe]] de um sistema, usando o [Figma](https://www.figma.com/pt-br/) ou [Excalidraw](https://excalidraw.com/) ou [Draw.io](https://app.diagrams.net/), e salvar no repositório do GitHub.
+>>> - Criar a estrutura inicial do layout com [[Formacao/UX design/wireframe\|wireframe]] de um sistema, usando o [Figma][figma] ou [Excalidraw](https://excalidraw.com/) ou [Draw.io](https://app.diagrams.net/), e salvar no repositório do [GitHub][github].
 >>> - Exemplos de sites: 
 >>> 	- [Confraria da Barba - A Barbearia do Homem Moderno](https://www.confrariadabarba.com.br/), 
 >>> 	- [Pet Shop da Petz: tudo que seu pet precisa](https://www.petz.com.br/)
@@ -122,11 +122,11 @@ gantt
 >> - Conhecendo a [Biblioteca Digital Senac](https://bibliotecadigitalsenac.com.br/) e a [Plataforma Cachola](https://cachola.senac.br/)
 >
 >>[!note]- Aula 6
->> - Designe de Interface de Usuário de [[Formacao/UX design/layout\|layout]], [[Formacao/UX design/wireframe\|wireframe]] com o [Figma: The Collaborative Interface Design Tool](https://www.figma.com/)
+>> - Designe de Interface de Usuário de [[Formacao/UX design/layout\|layout]], [[Formacao/UX design/wireframe\|wireframe]] com o [Figma: The Collaborative Interface Design Tool][figma]
 >> - [Modelo do Figma de aplicativo de catálogo de produtos](https://www.figma.com/design/1n0aifcfatWv9ozp16XCrq/DSCatalog-Bootcamp?node-id=0-1&t=8ZwtYaRebXzwrolS-1)
 >> - [Modelo do Figma - Digital Agency Website](https://www.figma.com/community/file/1058842196634115002)
 >>>[!todo] 🖥️ Atividade:
->>> - Criar a estrutura inicial do layout com [[Formacao/UX design/wireframe\|wireframe]] de um sistema, usando o [Figma](https://www.figma.com/pt-br/) e salvar no repositório do GitHub.
+>>> - Criar a estrutura inicial do layout com [[Formacao/UX design/wireframe\|wireframe]] de um sistema, usando o [Figma](https://www.figma.com/pt-br/) e salvar no repositório do [GitHub][github].
 >>> - Exemplos de sites: 
 >>> 	- [Tela básica de aplicativo no Figma](https://www.figma.com/design/hpQuzpGHq2MmrI87xnfMoT/DSMovie1?node-id=0-1&t=28CnLRgmCZJluSm1-1)
 >>> 	- [Confraria da Barba - A Barbearia do Homem Moderno](https://www.confrariadabarba.com.br/), 
@@ -135,16 +135,19 @@ gantt
 >>[!note]- Aula 7
 >> - Mercado de trabalho do Designer
 >> - Introdução ao [[Formacao/UX design/mockup\|mockup]] e ao [[Formacao/UX design/prototipo\|protótipo]]
->> - Plataformas de criação de protótipos:  [Figma](https://www.figma.com/), [Glide](https://www.glideapps.com/), [Bubble](https://bubble.io/how-to-build)
+>> - Plataformas de criação de protótipos:  [Figma][figma, [Glide](https://www.glideapps.com/), [Bubble](https://bubble.io/how-to-build)
 >>>[!todo] 🖥️ Atividade:
 >>> - iniciar o protótipo do site.
 >
->>[!note] Aula 8
+>>[!note]- Aula 8
 >> - Análise de [[Formacao/UX design/requisitos\|requisitos]];
 >> - Como criar uma [[Formacao/UX design/proposta comercial\|proposta comercial]].
 >>>[!todo] 🖥️ Atividade:
 >>> - Criação de uma análise de [[Formacao/UX design/requisitos\|requisitos]] a partir dos [Modelos gratuitos de requisitos de projetos](https://pt.smartsheet.com/content/project-requirements-templates)
 >>> - Criação de proposta comercial usando o modelo: [laboratorio-de-software - GitHub](https://github.com/jocile/laboratorio-de-software/tree/master/fase1) ou [Modelo de Proposta Comercial no Canva - João Cortez - A4](https://www.canva.com/design/DAEe7HM_Qg4/rN_nZ5aYb4JPoCFiNIpKTA/edit)
+>
+>>[!note]- Aula 9
+>> Avaliação final da UC e apresentação das atividades
 
 ## UC2 - Estruturar aplicações *front-end* para web
 
@@ -155,6 +158,20 @@ gantt
 >> 1. Manipula imagens, layouts e animações otimizadas para *website* de acordo com os princípios de comunicação visual, normas e tendências de mercado. 
 >> 2. Utiliza linguagem de marcação de conteúdo e estilo, de acordo com as normas e padrões tecnológicos. 
 >> 3. Testa padrões de acessibilidade e usabilidade do *website* de acordo com as normas
+
+>[!done] Cronograma das aulas da UC2
+>
+>>[!note] Aula 1
+>> - Introdução e [[Formacao/Webdesign/Estrutura HTML5\|Estrutura HTML5]] e suas tags básicas;
+>> - [Ebook Programador WEB cap. 1][ebook-programador]
+>>>[!todo] 🖥️ Atividade:
+>>> Criar e salvar no [GitHub][github] uma página “Sobre mim” com os seguintes elementos:
+>>> -  Título da página.
+>>> - Um cabeçalho principal com seu nome.
+>>> - Um parágrafo contando sobre você.
+>>> - Um link para um site que você gosta.
+>>> - Uma imagem (pode ser de banco de imagens).
+>>> - Rodapé com seus contatos fictícios
 
 ## UC3 - Desenvolver aplicações *back-end* para *web.*
 
@@ -197,10 +214,14 @@ gantt
 
 ## Referências
 
-- [Ebook Programador WEB - Editora Senac](https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail)
+- [Ebook Programador WEB - Editora Senac][ebook-programador]
 - [Ebook Projetos em UX Designe - Editora Senac](https://bibliotecadigitalsenac.com.br/#/content/uid/c4ced701-627f-ef11-8473-000d3a15d325/detail)
 
 [[Principal\|Principal]]
+
+[ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
+[github]: https://github.com/
+[figma]: https://www.figma.com/pt-br/
 
 [^1]: G1. **Uso da internet no Brasil cresce, e 70% da população está conectada**. Economia. Tecnologia. 28 de ago. 2019. Disponível em: <https://g1.globo.com/economia/tecnologia/noticia/2019/08/28/uso-da-internet-no-brasil-cresce-e-70percent-da-populacao-esta-conectada.ghtml>. Acesso em: 11 de fev. 2020. [↑](#footnote-ref-2)
 [^2]: MERCADO&CONSUMO. **E-commerce brasileiro fatura R$ 14,1 bilhões em compras de natal**. 1 de jan. 2020. Disponível em: <http://www.mercadoeconsumo.com.br/2020/01/01/e-commerce-brasileiro-fatura-r141-bilhoes-em-compras-de-natal/>. Acesso em: 11 de fev. 2020. [↑](#footnote-ref-3)

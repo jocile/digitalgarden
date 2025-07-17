@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/markdown/","metatags":{"description":"é uma linguagem de marcação leve com sintaxe de formatação de texto simples"},"noteIcon":2,"updated":"2025-07-09T19:44:58.268-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/markdown/","metatags":{"description":"é uma linguagem de marcação leve com sintaxe de formatação de texto simples"},"noteIcon":2,"updated":"2025-07-17T20:22:25.044-03:00"}
 ---
 
 ## Editor
@@ -106,6 +106,18 @@ _ainda_ | `renderiza` | **bem**
 Underscores
 
 <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
+
+## Links no final do arquivo
+
+```
+Link normal [Join the Google Group](http://groups.google.com/group/celluloid-ruby)
+
+Link que seria repetido [Join the Google Group][google-group]
+
+Links organizados no final do arquivo:
+
+[google-group]: http://groups.google.com/group/celluloid-ruby
+```
 
 ## Selos
 
