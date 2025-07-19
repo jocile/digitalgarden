@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-webdesign/","title":"Formação em Webdesign","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-06T13:14:31.328-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-webdesign/","title":"Formação em Webdesign","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-17T22:50:31.037-03:00"}
 ---
 
 #Webdesign #CSS #mapa
@@ -14,11 +14,15 @@
 > - Publicar aplicações web - 36 h;  
 > - Projeto integrador web designer - 16 h.
 
+[GitHub - jocile/webdesigne-senac: Arquivos utilizados nas aulas de WebDesigne no Senac](https://github.com/jocile/webdesigne-senac)
+
 ## Formação HTML Web Developer
 
 ![Formacao html.png](/img/user/Formacao/Formacao%20html.png)
 
-[DIO - Formação HTML Web Developer](https://web.dio.me/track/formacao-html-web-developer)
+- [DIO - Formação HTML Web Developer](https://web.dio.me/track/formacao-html-web-developer)
+- [GitHub - jocile/webdesigner: Arquivos usados na formação de Webdesigner com HTML5 e CSS na DIO](https://github.com/jocile/webdesigner)
+- [GitHub - jocile/trilha-html-modulo-3: Desafio da formacao html web developer da DIO](https://github.com/jocile/trilha-html-modulo-3)
 
 > [!summary]- Primeiros Passos com HTML
 > - Entendendo Comunicação Client x Server
@@ -44,7 +48,9 @@
 
 ![Formacao css.png](/img/user/Formacao/Formacao%20css.png)
 
-[DIO - Formação CSS Web Developer](https://web.dio.me/track/formacao-css-web-developer)
+- [DIO - Formação CSS Web Developer](https://web.dio.me/track/formacao-css-web-developer)
+- [webdesigner/formacao-css at main · jocile/webdesigner · GitHub](https://github.com/jocile/webdesigner/tree/main/formacao-css)
+- [GitHub - jocile/trilha-css-desafio-01: Desafio da trilha de WebDesigne com CSS da DIO Criando uma landing page](https://github.com/jocile/trilha-css-desafio-01)
 
 > [!summary]- Primeiros Passos com CSS
 > - Fundamentos do CSS

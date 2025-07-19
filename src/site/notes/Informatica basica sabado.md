@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-07-12T06:54:57.455-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-07-19T08:00:08.415-03:00"}
 ---
 
 
@@ -140,16 +140,27 @@ gantt
 >>> - Criando a planilha Feira do mês com cálculos de total.
 >
 >>[!attention]- 05/07: FERIADO: Dia de aniversário de Sobral
-
->[!todo] Última atualização
 >
->>[!note] Aula em 12/07
+>>[!note]- Aula em 12/07
 >> - [📑Apostila][apostila] a partir da pg. 135, Editor de planilhas Excel:
 >> - Operações com colunas e linhas;
 >> - Operações com planilhas: copiar, selecionar, mover, ocultar, múltiplas seleções;
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Criando e formatando a planilha de cálculos percentuais.
 >>> - Criando a planilha de boletim escolar com formatação condicional.
+
+>[!todo] Última atualização
+>
+>>[!note]Aula em 19/07
+>> - [📑Apostila][apostila] a partir da pg. 140, Editor de planilhas Excel:
+>> - Funções básicas no Excel: soma, média, máximo, mínimo;
+>> - Configuração de proteção: proteger células específicas, planilhas e arquivos.
+>> - Validação de dados: garantir entrada de dados a partir de uma lista determinada.
+>> - Configuração de páginas e impressão.
+>> - Configurando o cabeçalho e rodapé.
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Criando um formulário para seleção de emprego com células protegidas e validação de dados.
+>>> - Adicionando funções à planilha de boletim escolar.
 
 > [!important]- 📚Material didático
 > 
