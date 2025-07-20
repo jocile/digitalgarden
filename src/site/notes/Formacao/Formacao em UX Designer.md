@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-ux-designer/","title":"Formação em UX Designer","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-11T15:33:42.219-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-ux-designer/","title":"Formação em UX Designer","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-20T10:58:05.613-03:00"}
 ---
 
-#Webdesign #Projeto  #mapa
+#Webdesign #Projeto  #mapa #Formação
 
 # Formação em UX Designer
 

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-webdesign/","title":"Formação em Webdesign","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-17T22:50:31.037-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-webdesign/","title":"Formação em Webdesign","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-20T10:56:21.731-03:00"}
 ---
 
-#Webdesign #CSS #mapa
+#Webdesign #CSS #mapa #Formação
 
 ## Senac Web Designer
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-python/","title":"Formação em Python","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-06T13:15:17.480-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-python/","title":"Formação em Python","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-20T10:59:09.745-03:00"}
 ---
 
 #Python #Formação #mapa 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight cards","tags":["gardenEntry"],"noteIcon":"default","updated":"2025-07-06T13:25:45.487-03:00"}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight cards","tags":["gardenEntry"],"noteIcon":"default","updated":"2025-07-20T11:10:55.052-03:00"}
 ---
 
 ## Olá 👋
@@ -14,12 +14,15 @@
 </span>
 
 Pretendo reunir aqui 📑notas de aulas e 📚estudos diversos sobre:
- - 👨‍💻[[Programador Web\|Programador Web]]
- - 💻 [[Informatica basica sabado\|Curso de Informática Básica aos Sábados]]
- - 📖 [[Teologia\|Teologia]] e [[Teologia/Escatologia\|Escatologia]]
- - 🤖 [[Inteligencia Artificial\|Inteligência Artificial]] .
- - 🎨 [[Webdesign\|Webdesign]]
- - 💻[[Formacao/Python/Linguagem Python\|Linguagem Python]]
+ - 👨‍💻[[Programador Web\|Programador Web]] (atual)
+ - 💻 [[Informatica basica sabado\|Curso de Informática Básica aos Sábados]] (atual)
+ - 📖 [[Teologia\|Teologia]] e [[Teologia/Escatologia\|Escatologia]] (em revisão)
+ - 🤖 [[Inteligencia Artificial\|Inteligência Artificial]] (em revisão)
+ - 🎨 [[Webdesign\|Webdesign]] (em revisão)
+ - 💻[[Formacao/Python/Linguagem Python\|Linguagem Python]] (em revisão)
+ - 🎓[[Formacao/Formacao Overview\|Minhas formações]] (novo)
+
+Acompanhe [[Atualizacoes\|aqui as atualizações por data]]!
 
 ---
 
@@ -43,7 +46,7 @@ Este site é um "[jardim digital](https://obsidian.rocks/maps-of-content-effortl
 </div></div>
 
 
-## Próximo curso
+## Curso em andamento (inscrições encerradas)
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
