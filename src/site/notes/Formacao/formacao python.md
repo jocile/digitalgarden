@@ -1,8 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-python/","title":"Formação em Python","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-20T10:59:09.745-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-python/","title":"Formação em Python","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-20T15:29:59.759-03:00"}
 ---
 
 #Python #Formação #mapa 
+
+# Formações em Python
+
+**Status**:: em andamento 
+**Horas aula**:: 26:00, 57:00, 35:00
+**Habilidades**:: Python, Flask, [[Formacao/Python/webapp/Django\|Django]], FastAPI, POO
 
 ## Fundamentos do Python
 
@@ -16,7 +22,7 @@
 > - Tipos de Operadores com Python
 > - Estruturas Condicionais e de Repetição em Python
 > - Manipulando Strings com Python
-> - Explorando Fundamentos de Python
+> - Desafio de código: Explorando Fundamentos de Python
 
 > [!summary]- Aprendendo Estruturas de Dados com Python
 > - Trabalhando com Listas em Python
@@ -24,7 +30,7 @@
 > - Explorando Conjuntos em Python
 > - Aprendendo a Utilizar Dicionários em Python
 > - Dominando Funções Python
-> - Dominando Estrutura de Dados com Python
+> - Desafio de código: Dominando Estrutura de Dados com Python
 
 > [!summary]- Programação Orientada a Objetos com Python
 > - Introdução à Programação Orientada a Objetos (POO) com Python
@@ -32,7 +38,7 @@
 > - Aplicando Encapsulamento em Python
 > - Conhecendo Polimorfismo em Python
 > - Interfaces e Classes Abstratas com Python
-> - Treinando Orientação a Objetos com Python
+> - Desafio de código: Treinando Orientação a Objetos com Python
 
 > [!summary]- Decoradores, Iteradores e Manipulação de Data e Arquivos em Python
 > - Decoradores, Iteradores e Geradores com Python
@@ -44,6 +50,16 @@
 ![formacao python Suzano.png](/img/user/Formacao/formacao%20python%20Suzano.png)
 
 [DIO Suzano Python Developer](https://web.dio.me/track/suzano-python-developer)
+
+>[!check]- Desafios de projeto:
+> - [x] [Contribuindo em um Projeto Open Source no GitHub](https://github.com/jocile/meus)
+> - [x] [Criando um Sistema Bancário com Python](https://github.com/jocile/sistema-bancario)
+> - [x] [Otimizando o Sistema Bancário com Funções Python](https://github.com/jocile/sistema-bancario)
+> - [x] [Modelando o Sistema Bancário em POO com Python](https://github.com/jocile/sistema-bancario)
+> - [x] [Criando um Pacote de Processamento de Imagens com Python](https://github.com/jocile/image-processing-package)
+> - [x] [Criando seu primeiro Copiloto no Microsoft Copilot Studio](https://github.com/jocile/desafio-copilot)
+> - [x] [Criando um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio](https://github.com/jocile/desafio-copilot)
+> - [x] [Análise de Sentimentos com Language Studio no Azure AI](https://github.com/jocile/lab-azure-speech)
 
 > [!summary]- Introdução ao Ambiente Python e Projetos Colaborativos  
 > - Introdução ao Python com a Suzano  
@@ -107,6 +123,9 @@
 
 [DIO formacao-python-backend-developer](https://web.dio.me/track/formacao-python-backend-developer)
 
+>[!check]- Desafios de projeto:
+> - [ ] Criando sua API Bancária Assíncrona com FastAPI
+
 > [!summary]- Boas Práticas em Python: Pacotes, Banco de Dados e Desenvolvimento Web
 > - Gerenciamento de Pacotes, Convenções e Boas Práticas Python
 > - Explorando Banco de Dados Relacionais com Python DB API
@@ -144,4 +163,4 @@
 > - Boas Práticas para APIs RESTful Assíncronas com FastAPI
 > - Criando sua API Bancária Assíncrona com FastAPI
 
-[[Principal\|Principal]]
+[[Formacao/Formacao Overview\|Formacao Overview]]

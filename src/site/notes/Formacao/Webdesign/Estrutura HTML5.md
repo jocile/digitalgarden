@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/estrutura-html-5/","title":"Estrutura do HTML5","metatags":{"description":"tags semânticas que ajudam a estruturar o conteúdo de uma página web de forma mais significativa."},"noteIcon":"1","updated":"2025-07-17T21:28:03.096-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/estrutura-html-5/","title":"Estrutura do HTML5","metatags":{"description":"tags semânticas que ajudam a estruturar o conteúdo de uma página web de forma mais significativa."},"noteIcon":"1","updated":"2025-07-20T11:24:01.853-03:00"}
 ---
 
 #Webdesign #HTML5 
@@ -8,6 +8,7 @@ Para testar use os seguintes editores online:
 - [editor online CodePen](https://codepen.io/pen/?editors=1000)  - permite editar HTML, CSS e JavaScript;
 - [editor visual wordtohtml](https://wordtohtml.net/) - usa componentes visuais; 
 - [HTML5 Editorl](https://html5-editor.net/) - usa componentes visuais e limpeza de código;
+- [PlayCode](https://playcode.io/) - Editor e guia de estudos de HTML, CSS e JavaScript;
 
 ## Estrutura de um Site em HTML5 e suas Tags Semânticas
 

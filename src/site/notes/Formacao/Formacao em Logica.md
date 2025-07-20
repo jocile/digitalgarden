@@ -1,10 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-logica/","title":"Formação em Lógica","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":2,"updated":"2025-07-20T11:00:25.410-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-logica/","title":"Formação em Lógica","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-20T15:23:06.842-03:00"}
 ---
 
 #JavaScript #mapa #Lógica #Formação #web-developer 
 
 # Formação em Lógica de programação
+
+**Status**:: concluído 
+**Horas aula**:: 41:00
+**Habilidades**:: Lógica, JavaScript
+
+>[!check]- Desafios de projeto:
+> - [x] [Classificador de Nível de Herói](https://github.com/jocile/classificador-de-nivel)
+> - [x] [Calculadora de Partidas Rankeadas](https://github.com/jocile/calculadora-de-partidas)
+> - [x] [Escrevendo as Classes de Um Jogo](https://github.com/jocile/classe-hero)
 
 ![Formacao Logica-1753015437047.png](/img/user/Formacao/Formacao%20Logica-1753015437047.png)
 
@@ -61,3 +70,5 @@
 > - O Que São Classes e Objetos 
 > - Desafio de projeto: Escrevendo as Classes de Um Jogo
 > - Parabéns Por Dominar as Estruturas de Dados
+
+[[Formacao/Formacao Overview\|Formacao Overview]]
