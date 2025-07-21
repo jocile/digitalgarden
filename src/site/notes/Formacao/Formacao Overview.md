@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-overview/","title":"Minhas Formações","pinned":true,"contentClasses":"cards-cols-3","noteIcon":"default","updated":"2025-07-20T20:50:02.648-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-overview/","title":"Minhas Formações","pinned":true,"contentClasses":"cards cards-cols-3","noteIcon":"default","updated":"2025-07-20T22:59:04.072-03:00"}
 ---
 
 
-<!-- QueryToSerialize: TABLE dg-metatags.description AS "📄 Descrição", topics FROM #Formação WHERE dg-publish SORT file.mtime DESC LIMIT 10 -->
-<!-- SerializedQuery: TABLE dg-metatags.description AS "📄 Descrição", topics FROM #Formação WHERE dg-publish SORT file.mtime DESC LIMIT 10 -->
+<!-- QueryToSerialize: TABLE WITHOUT ID file.link AS "🎓 Formações", dg-metatags.description AS "📄 Descrição", topics FROM #Formação WHERE dg-publish SORT file.mtime DESC LIMIT 10 -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.link AS "🎓 Formações", dg-metatags.description AS "📄 Descrição", topics FROM #Formação WHERE dg-publish SORT file.mtime DESC LIMIT 10 -->
 
-| File                                                                                     | 📄 Descrição                                                           | topics                                                                                                          |
+| 🎓 Formações                                                                             | 📄 Descrição                                                           | topics                                                                                                          |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | [[Formacao/Especializacao em Redes e Seguranca\|Especializacao em Redes e Seguranca]] | Lista de disciplinas da formação                                       | <ul><li>Redes de Computadores</li><li>Segurança de Sistema</li><li>Perícia Forence</li></ul>                    |
 | [[Formacao/BootCamp Spring React\|BootCamp Spring React]]                             | Lista de disciplinas da formação                                       | <ul><li>Java</li><li>SpringBoot</li><li>React</li><li>Webdesign</li></ul>                                       |
