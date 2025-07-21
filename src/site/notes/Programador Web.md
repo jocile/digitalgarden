@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-17T20:39:14.043-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-20T22:52:26.942-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -10,16 +10,16 @@
 
 > [!info]- Identificação do curso
 > 
-> |     |     |
-> | ---: | --- |
-> | Título do Curso:| Programador Web  
-> | Eixo tecnológico:| Informação e Comunicação
-> | Segmento:| Tecnologia da Informação  
-> | Carga horária:| 240 horas em 60 aulas
-> | Período:| 07/07/25 a 26/09/25
-> | Horário:| Segunda a Sexta das 07:30 às 11:00
-> | Unidades Curriculares:| 5
-> | Link:| [Senac PSG - Programador Web](https://psg.ce.senac.br/oportunidade/programador-web-2/)
+> Título do Curso:: Programador Web  
+> Eixo tecnológico:: Informação e Comunicação
+> Segmento:: Tecnologia da Informação  
+> Carga horária:: 240 horas em 60 aulas
+> Período:: 07/07/25 a 26/09/25
+> Horário:: Segunda a Sexta das 07:30 às 11:00
+> Unidades Curriculares:: 5
+> Link:: [Senac PSG - Programador Web](https://psg.ce.senac.br/oportunidade/programador-web-2/)
+> **Status**:: em andamento 
+> **Horas aula**:: 36:00, 48:00, 96:00, 36:00, 24:00
 
 >[!note]- Justificativa
 >No Brasil, como em todo o mundo, a internet tornou-se não só uma forma de comunicação, mas uma poderosa ferramenta de comércio nos mais diferentes ramos, mostrando-se necessária cada dia mais. Nesse novo cenário de comunicação e negócios, a demanda por profissionais com expertise na criação de sites é crescente em comparação ao crescimento e influência da rede".
@@ -90,39 +90,40 @@ gantt
 
 >[!done]- Cronograma das aulas da UC1
 >
->>[!note]- Aula 1
->> - Boas-vindas e apresentação da ementa do curso
+>>[!note]- Aula 1.1
+>> - [x] Aula 1.1 - 2025-07-07 - Boas-vindas e apresentação da ementa do curso
 >> - Conceito, estrutura e finalidades de um [[Formacao/UX design/Briefing\|Briefing]]
 >> - Apresentação da plataforma [[Tecnico/Ferramentas/git/Git-GitHub\|Git-GitHub]]
 >>>[!todo] 🖥️ Atividade:
 >>> - Criando um currículo online e publicando no [GitHub][github]
 >
->>[!note]- Aula 2
->> - [[Formacao/UX design/Analise do Briefing\|Analise do Briefing]]
+>>[!note]- Aula 1.2
+>> - [x] Aula 1.2 - 2025-07-08 - [[Formacao/UX design/Analise do Briefing\|Analise do Briefing]]
 >> - Editando documentação [[Formacao/Webdesign/markdown\|markdown]]
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar a estrutura inicial do briefing em um repositório do [GitHub][github].
 >
->>[!note]- Aula 3
->> - Conceitos e estrutura de [[Formacao/UX design/layout\|layout]], [[Formacao/UX design/wireframe\|wireframe]]
+>>[!note]- Aula 1.3
+>> - [x] Aula 1.3 - 2025-07-09 - Conceitos e estrutura de [[Formacao/UX design/layout\|layout]], [[Formacao/UX design/wireframe\|wireframe]]
 >> - Definição das equipes e projetos iniciais.
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar o Briefing para o projeto de Aplicativo WEB para Petshop e para uma Barbearia no [GitHub][github].
 >
->>[!note]- Aula 4
->> - Conceitos e estrutura de [[Formacao/UX design/layout\|layout]], [[Formacao/UX design/wireframe\|wireframe]], [[Formacao/UX design/mockup\|mockup]], [[Formacao/UX design/MoodBoard\|MoodBoard]], [[Formacao/UX design/prototipo\|prototipo]]
+>>[!note]- Aula 1.4
+>> - [x] Aula 1.4 - 2025-07-10 - Conceitos e estrutura de [[Formacao/UX design/layout\|layout]], [[Formacao/UX design/wireframe\|wireframe]], [[Formacao/UX design/mockup\|mockup]], [[Formacao/UX design/MoodBoard\|MoodBoard]], [[Formacao/UX design/prototipo\|prototipo]]
+>>
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar a estrutura inicial do layout com [[Formacao/UX design/wireframe\|wireframe]] de um sistema, usando o [Figma][figma] ou [Excalidraw](https://excalidraw.com/) ou [Draw.io](https://app.diagrams.net/), e salvar no repositório do [GitHub][github].
 >>> - Exemplos de sites: 
 >>> 	- [Confraria da Barba - A Barbearia do Homem Moderno](https://www.confrariadabarba.com.br/), 
 >>> 	- [Pet Shop da Petz: tudo que seu pet precisa](https://www.petz.com.br/)
 >
->>[!note]- Aula 5
->> - Visita técnica a Biblioteca
+>>[!note]- Aula 1.5
+>> - [x] Aula 1.5 - 2025-07-11 - Visita técnica a Biblioteca
 >> - Conhecendo a [Biblioteca Digital Senac](https://bibliotecadigitalsenac.com.br/) e a [Plataforma Cachola](https://cachola.senac.br/)
 >
->>[!note]- Aula 6
->> - Designe de Interface de Usuário de [[Formacao/UX design/layout\|layout]], [[Formacao/UX design/wireframe\|wireframe]] com o [Figma: The Collaborative Interface Design Tool][figma]
+>>[!note]- Aula 1.6
+>> - [x] Aula 1.6 - 2025-07-14 - Designe de Interface de Usuário de [[Formacao/UX design/layout\|layout]], [[Formacao/UX design/wireframe\|wireframe]] com o [Figma: The Collaborative Interface Design Tool][figma]
 >> - [Modelo do Figma de aplicativo de catálogo de produtos](https://www.figma.com/design/1n0aifcfatWv9ozp16XCrq/DSCatalog-Bootcamp?node-id=0-1&t=8ZwtYaRebXzwrolS-1)
 >> - [Modelo do Figma - Digital Agency Website](https://www.figma.com/community/file/1058842196634115002)
 >>>[!todo] 🖥️ Atividade:
@@ -132,22 +133,22 @@ gantt
 >>> 	- [Confraria da Barba - A Barbearia do Homem Moderno](https://www.confrariadabarba.com.br/), 
 >>> 	- [Pet Shop da Petz: tudo que seu pet precisa](https://www.petz.com.br/)
 >
->>[!note]- Aula 7
+>>[!note]- Aula 1.7
+>> - [x] Aula 1.7 - 2025-07-15 - Introdução ao [[Formacao/UX design/mockup\|mockup]] e ao [[Formacao/UX design/prototipo\|protótipo]]
 >> - Mercado de trabalho do Designer
->> - Introdução ao [[Formacao/UX design/mockup\|mockup]] e ao [[Formacao/UX design/prototipo\|protótipo]]
 >> - Plataformas de criação de protótipos:  [Figma][figma, [Glide](https://www.glideapps.com/), [Bubble](https://bubble.io/how-to-build)
 >>>[!todo] 🖥️ Atividade:
 >>> - iniciar o protótipo do site.
 >
->>[!note]- Aula 8
->> - Análise de [[Formacao/UX design/requisitos\|requisitos]];
+>>[!note]- Aula 1.8
+>> - [x] Aula 1.8 - 2025-07-16 - Análise de [[Formacao/UX design/requisitos\|requisitos]];
 >> - Como criar uma [[Formacao/UX design/proposta comercial\|proposta comercial]].
 >>>[!todo] 🖥️ Atividade:
 >>> - Criação de uma análise de [[Formacao/UX design/requisitos\|requisitos]] a partir dos [Modelos gratuitos de requisitos de projetos](https://pt.smartsheet.com/content/project-requirements-templates)
 >>> - Criação de proposta comercial usando o modelo: [laboratorio-de-software - GitHub](https://github.com/jocile/laboratorio-de-software/tree/master/fase1) ou [Modelo de Proposta Comercial no Canva - João Cortez - A4](https://www.canva.com/design/DAEe7HM_Qg4/rN_nZ5aYb4JPoCFiNIpKTA/edit)
 >
->>[!note]- Aula 9
->> Avaliação final da UC e apresentação das atividades
+>>[!note]- Aula 1.9
+>> - [x] Aula 1.9 - 2025-07-17 - Avaliação final da UC e apresentação das atividades
 
 ## UC2 - Estruturar aplicações *front-end* para web
 
@@ -161,8 +162,14 @@ gantt
 
 >[!done] Cronograma das aulas da UC2
 >
->>[!note] Aula 1
->> - Introdução e [[Formacao/Webdesign/Estrutura HTML5\|Estrutura HTML5]] e suas tags básicas;
+>>[!note]- Aula 2.1
+>> - [x] Aula 2.1 - 2025-07-18 - Introdução e [[Formacao/Webdesign/Estrutura HTML5\|Estrutura HTML5]] e suas tags básicas;
+>> - [Ebook Programador WEB cap. 1][ebook-programador]
+>>>[!todo] 🖥️ Atividade:
+>>> Criando a primeira página HTML com tags básicas no Bloco de Notas.
+>
+>>[!note] Aula 2.2
+>> - [x] Aula 2.2 - 2025-07-21 - Frames, tabelas, listas e formulários com HTML
 >> - [Ebook Programador WEB cap. 1][ebook-programador]
 >>>[!todo] 🖥️ Atividade:
 >>> Criar e salvar no [GitHub][github] uma página “Sobre mim” com os seguintes elementos:
@@ -172,6 +179,36 @@ gantt
 >>> - Um link para um site que você gosta.
 >>> - Uma imagem (pode ser de banco de imagens).
 >>> - Rodapé com seus contatos fictícios
+>
+>>[!note]- Aula 2.3
+>> - [ ] Aula 2.3 - 2025-07-22 - Introdução ao CSS
+>
+>>[!note]- Aula 2.4
+>> - [ ] Aula 2.4 - 2025-07-23 - Box Model e Flexbox
+>
+>>[!note]- Aula 2.5
+>> - [ ] Aula 2.5 - 2025-07-24 - HTML5 semântico
+>
+>>[!note]- Aula 2.6
+>> - [ ] Aula 2.6 - 2025-07-25 - Media Queries, Formulários HTML
+>
+>>[!note]- Aula 2.7
+>> - [ ] Aula 2.7 - 2025-07-28 - Validação com JavaScript
+>
+>>[!note]- Aula 2.8
+>> - [ ] Aula 2.8 - 2025-07-29 - Eventos e DOM
+>
+>>[!note]- Aula 2.9
+>> - [ ] Aula 2.9 - 2025-07-30 - formulário validado
+>
+>>[!note]- Aula 2.10
+>> - [ ] Aula 2.10 - 2025-07-31 - Introdução ao Bootstrap
+>
+>>[!note]- Aula 2.11
+>> - [ ] Aula 2.11 - 2025-08-01 - Variáveis, tipos de dados, condicionais, laços e arrays com JavaScript
+>
+>>[!note]- Aula 2.12
+>> - [ ] Aula 2.12 - 2025-08-04 - Avaliação com base em critérios de semântica, estilo, usabilidade e funcionalidade
 
 ## UC3 - Desenvolver aplicações *back-end* para *web.*
 
@@ -212,10 +249,21 @@ gantt
 >> - **Proposta 1: Aplicação web multiplataforma com padrões de acessibilidade**
 >> - **Proposta 2: Desenvolvimento de site para promover a visibilidade de um portfólio de produtos e serviços**
 
+## Editores
+
+Para testar use os seguintes editores online:
+- [editor online CodePen](https://codepen.io/pen/?editors=1000)  - permite editar HTML, CSS e JavaScript;
+- [editor visual wordtohtml](https://wordtohtml.net/) - usa componentes visuais; 
+- [HTML5 Editorl](https://html5-editor.net/) - usa componentes visuais e limpeza de código;
+- [PlayCode](https://playcode.io/) - Editor e guia de estudos de HTML, CSS e JavaScript;
+
 ## Referências
 
 - [Ebook Programador WEB - Editora Senac][ebook-programador]
 - [Ebook Projetos em UX Designe - Editora Senac](https://bibliotecadigitalsenac.com.br/#/content/uid/c4ced701-627f-ef11-8473-000d3a15d325/detail)
+- [📚 HTML Tutorial - W3 Schools](https://www.w3schools.com/html/default.asp)
+- [📁github.com/jocile/webdesigner](https://github.com/jocile/webdesigner)
+- [[Formacao/Formacao em Webdesign\|Formacao em Webdesign]]
 
 [[Principal\|Principal]]
 
