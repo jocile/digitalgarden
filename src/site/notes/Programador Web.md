@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-20T22:52:26.942-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-22T07:37:41.016-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -168,9 +168,16 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> Criando a primeira página HTML com tags básicas no Bloco de Notas.
 >
->>[!note] Aula 2.2
+>>[!note]- Aula 2.2
 >> - [x] Aula 2.2 - 2025-07-21 - Frames, tabelas, listas e formulários com HTML
 >> - [Ebook Programador WEB cap. 1][ebook-programador]
+>>>[!todo] 🖥️ Atividade:
+>>> - Criar uma página de controle acadêmico conforme o cap. 1 do livro.
+>
+>>[!note] Aula 2.3
+>> - [x] Aula 2.3 - 2025-07-22 - Introdução ao CSS, propriedades, identificadores e classes
+>> - [Ebook Programador WEB cap. 1][ebook-programador]
+>> - [[Formacao/Webdesign/CSS/Editor de cores css\|Editor de cores css]], [[Formacao/Webdesign/CSS/Estilizando Cores com css\|Estilizando Cores com css]]
 >>>[!todo] 🖥️ Atividade:
 >>> Criar e salvar no [GitHub][github] uma página “Sobre mim” com os seguintes elementos:
 >>> -  Título da página.
@@ -179,9 +186,6 @@ gantt
 >>> - Um link para um site que você gosta.
 >>> - Uma imagem (pode ser de banco de imagens).
 >>> - Rodapé com seus contatos fictícios
->
->>[!note]- Aula 2.3
->> - [ ] Aula 2.3 - 2025-07-22 - Introdução ao CSS
 >
 >>[!note]- Aula 2.4
 >> - [ ] Aula 2.4 - 2025-07-23 - Box Model e Flexbox

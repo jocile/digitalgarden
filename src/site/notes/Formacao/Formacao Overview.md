@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-overview/","title":"Minhas Formações","pinned":true,"contentClasses":"cards cards-cols-3","noteIcon":"default","updated":"2025-07-20T22:59:04.072-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-overview/","title":"Minhas Formações","pinned":true,"contentClasses":"cards cards-cols-3","noteIcon":"default","updated":"2025-07-21T07:33:27.155-03:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 | [[Formacao/Formacao em Webdesign\|Formacao em Webdesign]]                             | Lista de disciplinas da formação                                       | <ul><li>Webdesign</li><li>HTML5</li><li>CSS3</li><li>WebSites</li><li>FrontEnd</li></ul>                        |
 | [[Formacao/Ciencias da Computacao\|Ciencias da Computacao]]                           | Lista de disciplinas da formação                                       | <ul><li>Ciências da Computação</li></ul>                                                                        |
 | [[Formacao/Machine Learning Especialist\|Machine Learning Especialist]]               | Gráfico das disciplinas do cursos de Escpecialista em Machine Learning | <ul><li>Inteligência Artificial</li><li>Aprendizagem de Máquina</li><li>Algoritmos</li></ul>                    |
-| [[Formacao/formacao python\|formacao python]]                                         | Lista de disciplinas da formação                                       | <ul><li>Lógica de programação</li><li>Desenvolvimento de aplicativos</li><li>Linguagem de Programação</li></ul> |
+| [[Formacao/Formacao Python\|Formacao Python]]                                         | Lista de disciplinas da formação                                       | <ul><li>Lógica de programação</li><li>Desenvolvimento de aplicativos</li><li>Linguagem de Programação</li></ul> |
 | [[Formacao/Formacao em UX Designer\|Formacao em UX Designer]]                         | Lista de disciplinas da formação                                       | <ul><li>Design</li><li>Projetos de interface de usuário</li><li>Projetos de aplicativos</li></ul>               |
 | [[Formacao/Formacao em Logica\|Formacao em Logica]]                                   | Lista de disciplinas da formação                                       | <ul><li>Lógica de programação</li><li>JavaScript</li><li>Algoritmos</li></ul>                                   |
 <!-- SerializedQuery END -->
