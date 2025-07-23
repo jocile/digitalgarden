@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-23T10:06:51.785-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-23T19:24:35.310-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -7,6 +7,12 @@
 # Curso programador Web
 
 ## Sobre o curso
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
 
 > [!info]- Identificação do curso
 > 
@@ -44,7 +50,14 @@
 > - Desenvolver aplicações *back-end* para *web*.
 > - Publicar aplicações *web*.
 
-## Organização curricular
+[^1]: G1. **Uso da internet no Brasil cresce, e 70% da população está conectada**. Economia. Tecnologia. 28 de ago. 2019. Disponível em: <https://g1.globo.com/economia/tecnologia/noticia/2019/08/28/uso-da-internet-no-brasil-cresce-e-70percent-da-populacao-esta-conectada.ghtml>. Acesso em: 11 de fev. 2020. [↑](#footnote-ref-2)
+[^2]: MERCADO&CONSUMO. **E-commerce brasileiro fatura R$ 14,1 bilhões em compras de natal**. 1 de jan. 2020. Disponível em: <http://www.mercadoeconsumo.com.br/2020/01/01/e-commerce-brasileiro-fatura-r141-bilhoes-em-compras-de-natal/>. Acesso em: 11 de fev. 2020. [↑](#footnote-ref-3)
+
+
+</div></div>
+
+
+## Organização curricular de Programador WEB
 
 > [!example]- Unidades Curriculares
 > 
@@ -74,6 +87,12 @@ gantt
 ```
 
 ## UC1 - Elaborar projetos de aplicações para web
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
 
 > [!success]- 🖥️ Habilidades da UC1
 > - Interpretar *briefing* para projetos de *websites*. 
@@ -150,7 +169,20 @@ gantt
 >>[!note]- Aula 1.9
 >> - [x] Aula 1.9 - 2025-07-17 - Avaliação final da UC e apresentação das atividades
 
-## UC2 - Estruturar aplicações *front-end* para web
+[github]: https://github.com/
+[figma]: https://www.figma.com/pt-br/
+
+
+</div></div>
+
+
+## UC2 - Estruturar aplicações front-end para web
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
 
 > [!success]- 🖥️ Habilidades da UC2
 > - Organizar conteúdo visual e textual para *web*. 
@@ -176,12 +208,12 @@ gantt
 >
 >>[!note]- Aula 2.3
 >> - [x] Aula 2.3 - 2025-07-22 - tags de imagens, links e formulários com HTML
->> - [Ebook Programador WEB cap. 1][ebook-programador]
+>> - [Ebook Programador WEB cap. 1 - HTML][ebook-programador]
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar um repositório do projeto controle acadêmico e salvar os arquivos no [GitHub][github]
 >
->>[!note] Aula 2.4
->> - [x] Aula 2.4 - 2025-07-23 - [Formulários HTML](https://github.com/jocile/controle-academico/blob/main/cadastro-de-alunos.html), tags: `fieldset, placeholder, option, required`, etc.
+>>[!note]- Aula 2.4
+>> - [x] Aula 2.4 - 2025-07-23 - [[Formacao/Webdesign/Formulários\|Formulários]] HTML e seus atributos: `fieldset, placeholder, option, required`, etc.
 >>>[!todo] 🖥️ Atividade:
 >>> Criar e salvar no [GitHub][github] uma página “Sobre mim” com os seguintes elementos:
 >>> -  Título da página.
@@ -191,9 +223,12 @@ gantt
 >>> - Uma imagem (pode ser de banco de imagens).
 >>> - Rodapé com seus contatos fictícios
 >
->>[!note]- Aula 2.5
->> - [ ] Aula 2.5 - 2025-07-24 - Introdução ao CSS, propriedades, identificadores e classes, Box Model e Flexbox, HTML5 semântico
+>>[!note] Aula 2.5
+>> - [x] Aula 2.5 - 2025-07-24 - Introdução ao [[Formacao/Webdesign/CSS/CSS\|CSS]], propriedades, identificadores e classes, Box Model e Flexbox, [[Formacao/Webdesign/Estrutura HTML5\|HTML5 semântico]]
+>> - [Ebook Programador WEB cap. 2 - CSS][ebook-programador]
 >> - [[Formacao/Webdesign/CSS/Editor de cores css\|Editor de cores css]], [[Formacao/Webdesign/CSS/Estilizando Cores com css\|Estilizando Cores com css]]
+>>>[!todo] 🖥️ Atividade:
+>>> Estilizar e salvar no [GitHub][github] a página “Sobre mim” conforme o modelo de [[Formacao/Webdesign/CSS/Perfil com HTML e CSS\|Perfil com HTML e CSS]].
 >
 >>[!note]- Aula 2.6
 >> - [ ] Aula 2.6 - 2025-07-25 - Media Queries, 
@@ -215,6 +250,13 @@ gantt
 >
 >>[!note]- Aula 2.12
 >> - [ ] Aula 2.12 - 2025-08-04 - Avaliação com base em critérios de semântica, estilo, usabilidade e funcionalidade
+
+[ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
+[github]: https://github.com/
+
+
+</div></div>
+
 
 ## UC3 - Desenvolver aplicações *back-end* para *web.*
 
@@ -255,14 +297,6 @@ gantt
 >> - **Proposta 1: Aplicação web multiplataforma com padrões de acessibilidade**
 >> - **Proposta 2: Desenvolvimento de site para promover a visibilidade de um portfólio de produtos e serviços**
 
-## Editores
-
-Para testar use os seguintes editores online:
-- [editor online CodePen](https://codepen.io/pen/?editors=1000)  - permite editar HTML, CSS e JavaScript;
-- [editor visual wordtohtml](https://wordtohtml.net/) - usa componentes visuais; 
-- [HTML5 Editorl](https://html5-editor.net/) - usa componentes visuais e limpeza de código;
-- [PlayCode](https://playcode.io/) - Editor e guia de estudos de HTML, CSS e JavaScript;
-
 ## Referências
 
 - [Ebook Programador WEB - Editora Senac][ebook-programador]
@@ -270,12 +304,10 @@ Para testar use os seguintes editores online:
 - [📚 HTML Tutorial - W3 Schools](https://www.w3schools.com/html/default.asp)
 - [📁github.com/jocile/webdesigner](https://github.com/jocile/webdesigner)
 - [[Formacao/Formacao em Webdesign\|Formacao em Webdesign]]
+- [[Formacao/Webdesign/editores HTML online\|editores HTML online]]
 
 [[Principal\|Principal]]
 
 [ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
 [github]: https://github.com/
 [figma]: https://www.figma.com/pt-br/
-
-[^1]: G1. **Uso da internet no Brasil cresce, e 70% da população está conectada**. Economia. Tecnologia. 28 de ago. 2019. Disponível em: <https://g1.globo.com/economia/tecnologia/noticia/2019/08/28/uso-da-internet-no-brasil-cresce-e-70percent-da-populacao-esta-conectada.ghtml>. Acesso em: 11 de fev. 2020. [↑](#footnote-ref-2)
-[^2]: MERCADO&CONSUMO. **E-commerce brasileiro fatura R$ 14,1 bilhões em compras de natal**. 1 de jan. 2020. Disponível em: <http://www.mercadoeconsumo.com.br/2020/01/01/e-commerce-brasileiro-fatura-r141-bilhoes-em-compras-de-natal/>. Acesso em: 11 de fev. 2020. [↑](#footnote-ref-3)

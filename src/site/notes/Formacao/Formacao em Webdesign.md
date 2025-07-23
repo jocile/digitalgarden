@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-webdesign/","title":"Formação em Webdesign","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-20T20:08:01.876-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-webdesign/","title":"Formação em Webdesign","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-23T19:38:00.884-03:00"}
 ---
 
 #Webdesign #CSS #mapa #Formação
@@ -47,15 +47,15 @@
 > - Materiais Complementares - Primeiros Passos com HTML
 
 > [!summary]- HTML I: Conceitos Básicos
-> - Trabalhando com Formulários em HTML
-> - Estruturando seu HTML + Formatações
+> - Trabalhando com [[Formacao/Webdesign/Formulários\|Formulários]] em HTML
+> - [[Formacao/Webdesign/Estruturando seu HTML\|Estruturando seu HTML]] + Formatações
 > - Trabalhando com Mídias utilizando HTML
 > - Criando Tabelas com HTML
 > - Criando seu Primeiro Site Completo com HTML
 > - Materiais Complementares - Conceitos Básicos
 
 > [!summary]- HTML II: Ampliando o Conhecimento
-> - Entendendo HTML Semântico
+> - [[Formacao/Webdesign/Estrutura HTML5\|Entendendo HTML Semântico]]
 > - HTML: Res Especiais (Nota: Supondo que seja um título curto)
 > - Recriando o Wikipedia com Layout Moderno
 
@@ -73,29 +73,29 @@
 >[!info]- Links
 > - [DIO - Formação CSS Web Developer](https://web.dio.me/track/formacao-css-web-developer)
 > - [webdesigner/formacao-css at main · jocile/webdesigner · GitHub](https://github.com/jocile/webdesigner/tree/main/formacao-css)
+> - [[Formacao/Webdesign/CSS/CSS Webdeveloper\|CSS Webdeveloper]]
 
 > [!summary]- Primeiros Passos com CSS
-> - Fundamentos do CSS
-> - Estilizações Básicas com CSS
-> - Unidades de Medida em CSS
+> - Fundamentos do [[Formacao/Webdesign/CSS/CSS\|CSS]]
+> - Estilizações Básicas com CSS: [[Formacao/Webdesign/CSS/Estilizando Cores com css\|cores]], imagens, fundo dos elementos, bordas, fontes, textos, sombras.
+> - [[Formacao/Webdesign/CSS/Unidades de medida do css\|Unidades de medida do css]]: [[Formacao/Webdesign/CSS/Variaveis CSS\|Variaveis CSS]]
 > - Criando sua Primeira Landing Page com HTML e CSS
 > - Materiais Complementares - Primeiros Passos com CSS
 
 > [!summary]- Trabalhando com Layouts no CSS
-> - Posicionamentos e Exibição de Elementos com CSS
-> - Trabalhando com Flexbox no CSS
+> - [[Formacao/Webdesign/CSS/Posicionando elementos com CSS\|Posicionamentos e Exibição de Elementos com CSS]]
+> - Trabalhando com [[Formacao/Webdesign/CSS/Flexbox\|Flexbox]] no CSS
 > - Clonando a Página do YouTube com CSS
 > - Dominando Grid Layouts no CSS
 > - Reproduzindo a Listagem do YouTube com Grid Layout no CSS
 > - Responsividade no CSS
 > - Construindo um Layout Responsivo Para o Site do Discord Com CSS
-> - Materiais Complementares - Trabalhando Com Layouts no CSS
 
 > [!summary]- Refinando os Estilos CSS das Nossas Páginas
 > - Pseudo Elementos e Pseudo Classes
 > - Transições e Animações
-> - Boas Práticas e Convenções no CSS
-> - Iniciando com seu primeiro Framework em CSS: Bootstrap
+> - Boas Práticas e Convenções no CSS: [[Formacao/Webdesign/CSS/Padroes de nomenclatura CSS\|Padroes de nomenclatura CSS]], [[Formacao/Webdesign/CSS/OOCSS\|OOCSS]], [[Formacao/Webdesign/CSS/SMACSS\|SMACSS]]
+> - Iniciando com seu primeiro [[Formacao/Webdesign/CSS/Frameworks CSS\|Framework CSS]]: Bootstrap
 > - Clonando o Site da HBO Max com Animações em HTML e CSS
 > - Materiais Complementares - Refinando os Estilos CSS das nossas páginas
 

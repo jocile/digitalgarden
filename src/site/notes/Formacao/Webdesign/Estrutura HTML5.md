@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/estrutura-html-5/","title":"Estrutura do HTML5","metatags":{"description":"tags semânticas que ajudam a estruturar o conteúdo de uma página web de forma mais significativa."},"noteIcon":"1","updated":"2025-07-20T11:24:01.853-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/estrutura-html-5/","title":"Estrutura do HTML5","metatags":{"description":"tags semânticas que ajudam a estruturar o conteúdo de uma página web de forma mais significativa."},"noteIcon":"1","updated":"2025-07-23T18:03:39.148-03:00"}
 ---
 
 #Webdesign #HTML5 
@@ -84,7 +84,7 @@ Usar essas tags semânticas ajuda a melhorar a acessibilidade, SEO e a manutenç
 
 - [Learn HTML Free – Basic HTML Codes for Beginners](https://www.websiteplanet.com/blog/html-guide-beginners/)
 - [📃Estrutura HTML5 - MDN](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
-- [📚 HTML Tutorial - W3 Schools](https://www.w3schools.com/html/default.asp)
+- [📚 HTML Tutorial - W3 Schools](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - [🎓Curso HTML5 DIO](https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EZyg_wTP-VpGvglNScTbgKwBO861jGo0EIsOR8pAxt97-A?rtime=Phk7Od_U3Eg)
 - [📁github.com/jocile/webdesigner](https://github.com/jocile/webdesigner)
 - [📄HTML5 Differences from HTML4](https://www.w3.org/TR/html5-diff/)
