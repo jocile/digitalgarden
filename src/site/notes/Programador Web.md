@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-22T23:50:33.108-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-23T10:06:51.785-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -181,8 +181,7 @@ gantt
 >>> - Criar um repositório do projeto controle acadêmico e salvar os arquivos no [GitHub][github]
 >
 >>[!note] Aula 2.4
->> - [x] Aula 2.4 - 2025-07-23 - Introdução ao CSS, propriedades, identificadores e classes
->> - [[Formacao/Webdesign/CSS/Editor de cores css\|Editor de cores css]], [[Formacao/Webdesign/CSS/Estilizando Cores com css\|Estilizando Cores com css]]
+>> - [x] Aula 2.4 - 2025-07-23 - [Formulários HTML](https://github.com/jocile/controle-academico/blob/main/cadastro-de-alunos.html), tags: `fieldset, placeholder, option, required`, etc.
 >>>[!todo] 🖥️ Atividade:
 >>> Criar e salvar no [GitHub][github] uma página “Sobre mim” com os seguintes elementos:
 >>> -  Título da página.
@@ -193,10 +192,11 @@ gantt
 >>> - Rodapé com seus contatos fictícios
 >
 >>[!note]- Aula 2.5
->> - [ ] Aula 2.5 - 2025-07-24 - Box Model e Flexbox, HTML5 semântico
+>> - [ ] Aula 2.5 - 2025-07-24 - Introdução ao CSS, propriedades, identificadores e classes, Box Model e Flexbox, HTML5 semântico
+>> - [[Formacao/Webdesign/CSS/Editor de cores css\|Editor de cores css]], [[Formacao/Webdesign/CSS/Estilizando Cores com css\|Estilizando Cores com css]]
 >
 >>[!note]- Aula 2.6
->> - [ ] Aula 2.6 - 2025-07-25 - Media Queries, Formulários HTML
+>> - [ ] Aula 2.6 - 2025-07-25 - Media Queries, 
 >
 >>[!note]- Aula 2.7
 >> - [ ] Aula 2.7 - 2025-07-28 - Validação com JavaScript
