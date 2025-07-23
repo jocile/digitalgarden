@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-22T07:54:22.226-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-22T23:50:33.108-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -169,14 +169,19 @@ gantt
 >>> Criando a primeira página HTML com tags básicas no Bloco de Notas.
 >
 >>[!note]- Aula 2.2
->> - [x] Aula 2.2 - 2025-07-21 - Frames, tabelas, listas e formulários com HTML
+>> - [x] Aula 2.2 - 2025-07-21 - Frames, tabelas, listas
 >> - [Ebook Programador WEB cap. 1][ebook-programador]
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar uma página de controle acadêmico conforme o cap. 1 do livro.
 >
->>[!note] Aula 2.3
->> - [x] Aula 2.3 - 2025-07-22 - Introdução ao CSS, propriedades, identificadores e classes
+>>[!note]- Aula 2.3
+>> - [x] Aula 2.3 - 2025-07-22 - tags de imagens, links e formulários com HTML
 >> - [Ebook Programador WEB cap. 1][ebook-programador]
+>>>[!todo] 🖥️ Atividade:
+>>> - Criar um repositório do projeto controle acadêmico e salvar os arquivos no [GitHub][github]
+>
+>>[!note] Aula 2.4
+>> - [x] Aula 2.4 - 2025-07-23 - Introdução ao CSS, propriedades, identificadores e classes
 >> - [[Formacao/Webdesign/CSS/Editor de cores css\|Editor de cores css]], [[Formacao/Webdesign/CSS/Estilizando Cores com css\|Estilizando Cores com css]]
 >>>[!todo] 🖥️ Atividade:
 >>> Criar e salvar no [GitHub][github] uma página “Sobre mim” com os seguintes elementos:
@@ -187,11 +192,8 @@ gantt
 >>> - Uma imagem (pode ser de banco de imagens).
 >>> - Rodapé com seus contatos fictícios
 >
->>[!note]- Aula 2.4
->> - [ ] Aula 2.4 - 2025-07-23 - Box Model e Flexbox
->
 >>[!note]- Aula 2.5
->> - [ ] Aula 2.5 - 2025-07-24 - HTML5 semântico
+>> - [ ] Aula 2.5 - 2025-07-24 - Box Model e Flexbox, HTML5 semântico
 >
 >>[!note]- Aula 2.6
 >> - [ ] Aula 2.6 - 2025-07-25 - Media Queries, Formulários HTML
