@@ -224,7 +224,7 @@ gantt
 >>> - Rodapé com seus contatos fictícios
 >
 >>[!note] Aula 2.5
->> - [x] Aula 2.5 - 2025-07-24 - Introdução ao [[Formacao/Webdesign/CSS/CSS\|CSS]], propriedades, identificadores e classes, Box Model e Flexbox, [[Formacao/Webdesign/Estrutura HTML5\|HTML5 semântico]]
+>> - [x] Aula 2.5 - 2025-07-24 - [[Formacao/Webdesign/Estruturando seu HTML\|Estruturando seu HTML]] e [[Formacao/Webdesign/Estrutura HTML5\|HTML5 semântico]]; Introdução ao [[Formacao/Webdesign/CSS/CSS\|CSS]], propriedades, identificadores e classes, Box Model e Flexbox;
 >> - [Ebook Programador WEB cap. 2 - CSS][ebook-programador]
 >> - [[Formacao/Webdesign/CSS/Editor de cores css\|Editor de cores css]], [[Formacao/Webdesign/CSS/Estilizando Cores com css\|Estilizando Cores com css]]
 >>>[!todo] 🖥️ Atividade:
