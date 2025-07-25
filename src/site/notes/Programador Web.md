@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-23T19:24:35.310-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-24T22:34:49.253-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -86,13 +86,12 @@ gantt
          UC5 :a5, after a4, 6d
 ```
 
-## UC1 - Elaborar projetos de aplicações para web
-
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
+## UC1 - Elaborar projetos de aplicações para web
 
 > [!success]- 🖥️ Habilidades da UC1
 > - Interpretar *briefing* para projetos de *websites*. 
@@ -176,13 +175,12 @@ gantt
 </div></div>
 
 
-## UC2 - Estruturar aplicações front-end para web
-
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
+## UC2 - Estruturar aplicações front-end para web
 
 > [!success]- 🖥️ Habilidades da UC2
 > - Organizar conteúdo visual e textual para *web*. 
@@ -211,27 +209,34 @@ gantt
 >> - [Ebook Programador WEB cap. 1 - HTML][ebook-programador]
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar um repositório do projeto controle acadêmico e salvar os arquivos no [GitHub][github]
+>>> - Criar um [formulário de cadastro de alunos do projeto acadêmico][formCadAlunos].
 >
 >>[!note]- Aula 2.4
->> - [x] Aula 2.4 - 2025-07-23 - [[Formacao/Webdesign/Formulários\|Formulários]] HTML e seus atributos: `fieldset, placeholder, option, required`, etc.
+>> - [x] Aula 2.4 - 2025-07-23 - [[Formacao/Webdesign/Formulários\|Formulários]] HTML 
+>> - e seus atributos: `fieldset, placeholder, option, required`, etc.
 >>>[!todo] 🖥️ Atividade:
->>> Criar e salvar no [GitHub][github] uma página “Sobre mim” com os seguintes elementos:
->>> -  Título da página.
+>>> - Criar e salvar no [GitHub][github] uma página “Sobre mim” com os seguintes elementos:
+>>> - Título da página.
 >>> - Um cabeçalho principal com seu nome.
 >>> - Um parágrafo contando sobre você.
 >>> - Um link para um site que você gosta.
 >>> - Uma imagem (pode ser de banco de imagens).
 >>> - Rodapé com seus contatos fictícios
 >
->>[!note] Aula 2.5
->> - [x] Aula 2.5 - 2025-07-24 - [[Formacao/Webdesign/Estruturando seu HTML\|Estruturando seu HTML]] e [[Formacao/Webdesign/Estrutura HTML5\|HTML5 semântico]]; Introdução ao [[Formacao/Webdesign/CSS/CSS\|CSS]], propriedades, identificadores e classes, Box Model e Flexbox;
+>>[!note]- Aula 2.5
+>> - [x] Aula 2.5 - 2025-07-24 - [[Formacao/Webdesign/Estruturando seu HTML\|Estruturando seu HTML]] e [[Formacao/Webdesign/Estrutura HTML5\|HTML5 semântico]]; Introdução ao [[Formacao/Webdesign/CSS/CSS\|CSS]], propriedades, identificadores e classes;
 >> - [Ebook Programador WEB cap. 2 - CSS][ebook-programador]
+>> - Introdução a ambientes virtuais com o [Gather](https://app.gather.town/app)
 >> - [[Formacao/Webdesign/CSS/Editor de cores css\|Editor de cores css]], [[Formacao/Webdesign/CSS/Estilizando Cores com css\|Estilizando Cores com css]]
 >>>[!todo] 🖥️ Atividade:
 >>> Estilizar e salvar no [GitHub][github] a página “Sobre mim” conforme o modelo de [[Formacao/Webdesign/CSS/Perfil com HTML e CSS\|Perfil com HTML e CSS]].
 >
->>[!note]- Aula 2.6
->> - [ ] Aula 2.6 - 2025-07-25 - Media Queries, 
+>>[!note] Aula 2.6
+>> - [x] Aula 2.6 - 2025-07-25 - [[Formacao/Webdesign/CSS/CSS\|CSS]] [Box Model](https://www.w3schools.com/css/css_boxmodel.asp), [[Formacao/Webdesign/CSS/Flexbox\|Flexbox]], [CSS Pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp),
+>> - [Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp). 
+>>>[!todo] 🖥️ Atividade:
+>>> Estilizar e salvar no [GitHub][github] o [formulário de cadastro de alunos do projeto acadêmico][formCadAlunos] com [Pseudo Classes](https://jocile.github.io/webdesigner/formacao-css/3-Refinando-estilos-css/pseudo-classes-form.html).
+>>> Estilizar as páginas do projeto acadêmico.
 >
 >>[!note]- Aula 2.7
 >> - [ ] Aula 2.7 - 2025-07-28 - Validação com JavaScript
@@ -253,6 +258,7 @@ gantt
 
 [ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
 [github]: https://github.com/
+[formCadAlunos]: https://github.com/jocile/controle-academico/blob/main/cadastro-de-alunos.html
 
 
 </div></div>

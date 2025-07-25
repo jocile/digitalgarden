@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-webdesign/","title":"Formação em Webdesign","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-23T19:38:00.884-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-webdesign/","title":"Formação em Webdesign","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-24T18:43:39.277-03:00"}
 ---
 
 #Webdesign #CSS #mapa #Formação
@@ -44,19 +44,17 @@
 > - Introdução ao HTML na Prática
 > - Como Entregar seu projeto
 > - Criar Uma Página Web Utilizando as Tags Aprendidas
-> - Materiais Complementares - Primeiros Passos com HTML
 
 > [!summary]- HTML I: Conceitos Básicos
 > - Trabalhando com [[Formacao/Webdesign/Formulários\|Formulários]] em HTML
 > - [[Formacao/Webdesign/Estruturando seu HTML\|Estruturando seu HTML]] + Formatações
 > - Trabalhando com Mídias utilizando HTML
-> - Criando Tabelas com HTML
+> - Criando [Tabelas com HTML](https://jocile.github.io/webdesigner/formacao-html/2-HTML-Conceitos-Basicos/4%20-%20Criando%20Tabelas/index.html)
 > - Criando seu Primeiro Site Completo com HTML
-> - Materiais Complementares - Conceitos Básicos
 
 > [!summary]- HTML II: Ampliando o Conhecimento
-> - [[Formacao/Webdesign/Estrutura HTML5\|Entendendo HTML Semântico]]
-> - HTML: Res Especiais (Nota: Supondo que seja um título curto)
+> - [[Formacao/Webdesign/Estrutura HTML5\|Entendendo HTML Semântico]]: Mudanças do HTML 5, acessibilidade, Web scraping, main, header, footer, aside, section, nav, article. blockquote e Q, [figure, figcaption e picture](https://github.com/jocile/webdesigner/blob/main/formacao-html/3-HTML-semantico/figure.html), SEO.
+> - HTML: Recursos Especiais: Datalist, Code, kbd e pre, Details e summary, Meter e progress, Mark e Javascript, Canvas, Novos atributos do HTML 5.
 > - Recriando o Wikipedia com Layout Moderno
 
 ## Formação CSS Web Developer
@@ -77,26 +75,24 @@
 
 > [!summary]- Primeiros Passos com CSS
 > - Fundamentos do [[Formacao/Webdesign/CSS/CSS\|CSS]]
-> - Estilizações Básicas com CSS: [[Formacao/Webdesign/CSS/Estilizando Cores com css\|cores]], imagens, fundo dos elementos, bordas, fontes, textos, sombras.
+> - Estilizações Básicas com CSS: [[Formacao/Webdesign/CSS/Estilizando Cores com css\|cores]], [imagens](https://jocile.github.io/webdesigner/formacao-css/1-Primeiros-passos-com-css/imagens-preenchimento.html), fundo dos elementos, [bordas](https://jocile.github.io/webdesigner/formacao-css/1-Primeiros-passos-com-css/bordas-propriedades.html), [fontes](https://jocile.github.io/webdesigner/formacao-css/1-Primeiros-passos-com-css/textos.html), [textos](https://www.w3schools.com/css/css_text_align.asp), sombras.
 > - [[Formacao/Webdesign/CSS/Unidades de medida do css\|Unidades de medida do css]]: [[Formacao/Webdesign/CSS/Variaveis CSS\|Variaveis CSS]]
-> - Criando sua Primeira Landing Page com HTML e CSS
-> - Materiais Complementares - Primeiros Passos com CSS
+> - [Criando sua Primeira Landing Page com HTML e CSS](https://github.com/jocile/trilha-css-desafio-01)
 
 > [!summary]- Trabalhando com Layouts no CSS
 > - [[Formacao/Webdesign/CSS/Posicionando elementos com CSS\|Posicionamentos e Exibição de Elementos com CSS]]
 > - Trabalhando com [[Formacao/Webdesign/CSS/Flexbox\|Flexbox]] no CSS
-> - Clonando a Página do YouTube com CSS
-> - Dominando Grid Layouts no CSS
+> - [Clonando a Página do YouTube com CSS](https://github.com/jocile/desafio-youtube-clone)
+> - Dominando [Grid Layouts](https://jocile.github.io/webdesigner/formacao-css/2-Trabalhando-com-layouts-no-css/grid-areas%20abreviado.html) no CSS
 > - Reproduzindo a Listagem do YouTube com Grid Layout no CSS
 > - Responsividade no CSS
 > - Construindo um Layout Responsivo Para o Site do Discord Com CSS
 
 > [!summary]- Refinando os Estilos CSS das Nossas Páginas
-> - Pseudo Elementos e Pseudo Classes
+> - [Pseudo Elementos](https://jocile.github.io/webdesigner/formacao-css/3-Refinando-estilos-css/Pseudo-elementos.html) e [Pseudo Classes](https://jocile.github.io/webdesigner/formacao-css/3-Refinando-estilos-css/pseudo-classes-form.html)
 > - Transições e Animações
 > - Boas Práticas e Convenções no CSS: [[Formacao/Webdesign/CSS/Padroes de nomenclatura CSS\|Padroes de nomenclatura CSS]], [[Formacao/Webdesign/CSS/OOCSS\|OOCSS]], [[Formacao/Webdesign/CSS/SMACSS\|SMACSS]]
 > - Iniciando com seu primeiro [[Formacao/Webdesign/CSS/Frameworks CSS\|Framework CSS]]: Bootstrap
-> - Clonando o Site da HBO Max com Animações em HTML e CSS
-> - Materiais Complementares - Refinando os Estilos CSS das nossas páginas
+> - [Clonando o Site da HBO Max com Animações em HTML e CSS](https://github.com/jocile/desafio-hbomax-clone)
 
 [[Formacao/Formacao Overview\|Formacao Overview]]
