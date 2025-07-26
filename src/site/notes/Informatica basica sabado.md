@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-07-19T08:00:08.415-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-07-25T21:41:25.767-03:00"}
 ---
 
 
@@ -36,7 +36,7 @@ gantt
      title Informática Básica (sab)
      tickInterval 1week
      weekday Saturday
-     excludes Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, 19.04, 31.05
+     excludes Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, 19.04, 31.05, 05.07
      dateFormat DD.MM
      axisFormat %d.%m
      section Win
@@ -148,19 +148,30 @@ gantt
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Criando e formatando a planilha de cálculos percentuais.
 >>> - Criando a planilha de boletim escolar com formatação condicional.
-
->[!todo] Última atualização
 >
->>[!note]Aula em 19/07
+>>[!note]- Aula em 19/07
 >> - [📑Apostila][apostila] a partir da pg. 140, Editor de planilhas Excel:
 >> - Funções básicas no Excel: soma, média, máximo, mínimo;
->> - Configuração de proteção: proteger células específicas, planilhas e arquivos.
 >> - Validação de dados: garantir entrada de dados a partir de uma lista determinada.
 >> - Configuração de páginas e impressão.
 >> - Configurando o cabeçalho e rodapé.
 >>>[!todo] 🖥️ Atividades no Excel:
->>> - Criando um formulário para seleção de emprego com células protegidas e validação de dados.
 >>> - Adicionando funções à planilha de boletim escolar.
+
+>[!todo] Última atualização
+>
+>>[!note] Aula em 26/07
+>> - [📑Apostila][apostila] a partir da pg. 153, Editor de planilhas Excel:
+>> - Configuração de proteção: proteger células específicas, planilhas e arquivos.
+>> - Criação e formatação de Gráficos;
+>> - Classificação personalizada de dados;
+>> - Referência absoluta e relativa.
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Criando um formulário para seleção de emprego com células protegidas e validação de dados.
+>>> - Adicionando gráficos à planilha de boletim escolar (pg. 156).
+>>> - Criando planilhas com gráficos: PIB Brasil, Pesquisa Eleitoral (pg. 161).
+>>> - Classificando a planilha de funcionários por empresa, departamento e cargo (pg. 163).
+>>> - Criando uma planilha de tabuada aritmética (pg. 168).
 
 > [!important]- 📚Material didático
 > 

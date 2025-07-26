@@ -239,16 +239,16 @@ gantt
 >>> Estilizar as páginas do projeto acadêmico.
 >
 >>[!note]- Aula 2.7
->> - [ ] Aula 2.7 - 2025-07-28 - Validação com JavaScript
+>> - [ ] Aula 2.7 - 2025-07-28 - [Validação com JavaScript](https://www.w3schools.com/js/js_validation.asp)
 >
 >>[!note]- Aula 2.8
->> - [ ] Aula 2.8 - 2025-07-29 - Eventos e DOM
+>> - [ ] Aula 2.8 - 2025-07-29 - [Eventos e DOM](https://www.w3schools.com/js/js_htmldom_events.asp)
 >
 >>[!note]- Aula 2.9
->> - [ ] Aula 2.9 - 2025-07-30 - formulário validado
+>> - [ ] Aula 2.9 - 2025-07-30 - [formulário validado](https://www.w3schools.com/js/js_validation_api.asp)
 >
 >>[!note]- Aula 2.10
->> - [ ] Aula 2.10 - 2025-07-31 - Introdução ao Bootstrap
+>> - [ ] Aula 2.10 - 2025-07-31 - Introdução ao [[Formacao/Webdesign/Bootstrap\|Bootstrap]]
 >
 >>[!note]- Aula 2.11
 >> - [ ] Aula 2.11 - 2025-08-01 - Variáveis, tipos de dados, condicionais, laços e arrays com JavaScript
