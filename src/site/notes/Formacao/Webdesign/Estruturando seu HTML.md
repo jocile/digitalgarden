@@ -156,7 +156,7 @@ Agora, os elementos `.inline-block` não forçarão a quebra de linha. Eles se c
 
 Quer facilitar seu trabalho na internet? Existem várias ferramentas que podem ajudar:
 
-- **Visual Studio Code** - [[Tecnico/Ferramentas/IDE VScode\|IDE VScode]]: Editor de texto com recursos avançados.
+- **Visual Studio Code** - [[Tecnico/Ferramentas/Vscode/IDE VScode\|IDE VScode]]: Editor de texto com recursos avançados.
 - [**Brackets**](https://brackets.io/): IDE focada em web design e desenvolvimento.
 
 ### Conclusão  

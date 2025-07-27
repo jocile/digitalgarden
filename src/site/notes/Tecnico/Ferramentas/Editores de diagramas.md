@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/editores-de-diagramas/","title":"Editores de diagramas","metatags":{"description":"Principais editores online para criação de diagramas."},"noteIcon":1,"updated":"2025-06-20T21:32:59.044-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/editores-de-diagramas/","title":"Editores de diagramas","metatags":{"description":"criando projetos com modelos UML"},"noteIcon":1,"updated":"2025-07-27T00:55:36.480-03:00"}
 ---
 
 #Ferramentas #diagramas
 
+topics: [Projetos de aplicativos,editores,]
 Principais editores online para criação de diagramas:
 
 ## Editores de diagramas online

@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ux-design/padroes-de-interface/","noteIcon":1,"updated":"2025-07-09T20:49:20.126-03:00"}
+{"dg-publish":true,"permalink":"/formacao/ux-design/padroes-de-interface/","noteIcon":1,"updated":"2025-07-27T01:12:27.040-03:00"}
 ---
 
+#rascunho
 
 # Padrões de interface
 

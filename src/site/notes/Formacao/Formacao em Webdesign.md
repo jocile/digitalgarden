@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-webdesign/","title":"Formação em Webdesign","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-24T18:43:39.277-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-webdesign/","title":"Formação em Webdesign","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-26T20:51:34.755-03:00"}
 ---
 
 #Webdesign #CSS #mapa #Formação
@@ -83,7 +83,7 @@
 > - [[Formacao/Webdesign/CSS/Posicionando elementos com CSS\|Posicionamentos e Exibição de Elementos com CSS]]
 > - Trabalhando com [[Formacao/Webdesign/CSS/Flexbox\|Flexbox]] no CSS
 > - [Clonando a Página do YouTube com CSS](https://github.com/jocile/desafio-youtube-clone)
-> - Dominando [Grid Layouts](https://jocile.github.io/webdesigner/formacao-css/2-Trabalhando-com-layouts-no-css/grid-areas%20abreviado.html) no CSS
+> - Dominando o [[Formacao/Webdesign/CSS/Grid layout\|Grid layout]] no CSS
 > - Reproduzindo a Listagem do YouTube com Grid Layout no CSS
 > - Responsividade no CSS
 > - Construindo um Layout Responsivo Para o Site do Discord Com CSS

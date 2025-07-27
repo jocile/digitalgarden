@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/css/flexbox/","title":"Flexbox","metatags":{"description":"permite a criação de layouts flexíveis de forma dinâmica e responsiva"},"tags":["Webdesign","Flexbox","CSS","editor"],"noteIcon":"1","updated":"2025-01-22T19:48:11.890-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/css/flexbox/","title":"Flexbox","metatags":{"description":"permite a criação de layouts flexíveis de forma dinâmica e responsiva"},"tags":["Webdesign","Flexbox","CSS","editor"],"noteIcon":"1","updated":"2025-07-26T20:49:34.361-03:00"}
 ---
 
 # Flexbox
@@ -84,8 +84,11 @@ Nesse exemplo, foi criado um contêiner com três filhos e aplicados diferentes 
 - [Flexbox - Aprendendo desenvolvimento web | MDN](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout/Flexbox)
 - [CSS Flexbox Layout Guide | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [W3schools - CSS Flexbox (Flexible Box)](https://www.w3schools.com/css/css3_flexbox.asp)
+- [Flexbox - Aprendendo desenvolvimento web - MDN](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/CSS_layout/Flexbox)
 - [Guia completo de Flexbox - CSS - display: flex;](https://origamid.com/projetos/flexbox-guia-completo/)
 - [Flexbox  |  web.dev](https://web.dev/learn/css/flexbox?hl=pt)
 - [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
 - [DIO \_ Módulo 02 \_ Flexbox.pdf](https://github.com/jocile/webdesigner/blob/main/formacao-css/2-Trabalhando-com-layouts-no-css/DIO%20_%20M%C3%B3dulo%2002%20_%20Flexbox.pdf)
+- [Exemplos de layouts · GitHub](https://github.com/jocile/webdesigner/tree/main/formacao-css/2-Trabalhando-com-layouts-no-css)
 - [Exemplos de alinhamento com Flexbox ](https://jocile.github.io/webdesigner/formacao-css/2-Trabalhando-com-layouts-no-css/flexbox-alinhamento.html)
+- [[Formacao/Formacao em Webdesign\|Formacao em Webdesign]]
