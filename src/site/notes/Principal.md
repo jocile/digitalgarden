@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight cards","tags":["gardenEntry"],"noteIcon":"default","updated":"2025-07-20T12:26:25.290-03:00"}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"ex-pageheight cards","tags":["gardenEntry"],"noteIcon":"default","updated":"2025-07-27T02:12:25.417-03:00"}
 ---
 
 ## Olá 👋
@@ -22,7 +22,7 @@ Pretendo reunir aqui 📑notas de aulas e 📚estudos diversos sobre:
  - 💻[[Formacao/Python/Linguagem Python\|Linguagem Python]] (em revisão)
  - 🎓[[Formacao/Formacao Overview\|Minhas formações]] (novo)
 
-Acompanhe as [[Atualizacoes\|atualizações]] e a [[Topic Overview\|lista de tópicos]] (novo).
+Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de tópicos]] (novo).
 
 ---
 
