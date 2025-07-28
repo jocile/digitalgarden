@@ -231,21 +231,26 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> Estilizar e salvar no [GitHub][github] a página “Sobre mim” conforme o modelo de [[Formacao/Webdesign/CSS/Perfil com HTML e CSS\|Perfil com HTML e CSS]].
 >
->>[!note] Aula 2.6
->> - [x] Aula 2.6 - 2025-07-25 - [[Formacao/Webdesign/CSS/CSS\|CSS]] [Box Model](https://www.w3schools.com/css/css_boxmodel.asp), [[Formacao/Webdesign/CSS/Flexbox\|Flexbox]], [CSS Pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp),
+>>[!note-] Aula 2.6
+>> - [x] Aula 2.6 - 2025-07-25 - Estilizando páginas com [[Formacao/Webdesign/CSS/CSS\|CSS]] [Box Model](https://www.w3schools.com/css/css_boxmodel.asp), [[Formacao/Webdesign/CSS/Flexbox\|Flexbox]],
 >> - [Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp). 
 >>>[!todo] 🖥️ Atividade:
->>> Estilizar e salvar no [GitHub][github] o [formulário de cadastro de alunos do projeto acadêmico][formCadAlunos] com [Pseudo Classes](https://jocile.github.io/webdesigner/formacao-css/3-Refinando-estilos-css/pseudo-classes-form.html).
->>> Estilizar as páginas do projeto acadêmico.
+>>> - Estilizar as páginas do projeto acadêmico.
 >
->>[!note]- Aula 2.7
->> - [ ] Aula 2.7 - 2025-07-28 - [Validação com JavaScript](https://www.w3schools.com/js/js_validation.asp)
+>>[!note] Aula 2.7
+>> - [x] Aula 2.7 - 2025-07-28 - Validando formulários com [CSS Pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp), estilizando com [[Formacao/Webdesign/CSS/Grid layout\|Grid layout]];
+>> - Utilizando [Emmets](https://code.visualstudio.com/docs/languages/emmet) (abreviações) para edição de código.
+>>>[!todo] 🖥️ Atividade:
+>>> Atualizar o Emmet `!` para criar um arquivo HTML5 inicial usando [[Tecnico/Ferramentas/Vscode/VScode html com pt-br\|VScode html com pt-br]].
+>>> - Estilizar e salvar no [GitHub][github] o [formulário de cadastro de alunos do projeto acadêmico][formCadAlunos] com [Pseudo Classes](https://jocile.github.io/webdesigner/formacao-css/3-Refinando-estilos-css/pseudo-classes-form.html).
 >
 >>[!note]- Aula 2.8
->> - [ ] Aula 2.8 - 2025-07-29 - [Eventos e DOM](https://www.w3schools.com/js/js_htmldom_events.asp)
+>> - [ ] Aula 2.8 - 2025-07-29 - [Validação com JavaScript](https://www.w3schools.com/js/js_validation.asp)
+>>>[!todo] 🖥️ Atividade:
+>>> - Validar e salvar no [GitHub][github] o [formulário de cadastro de alunos do projeto acadêmico][formCadAlunos] com JavaScript.
 >
 >>[!note]- Aula 2.9
->> - [ ] Aula 2.9 - 2025-07-30 - [formulário validado](https://www.w3schools.com/js/js_validation_api.asp)
+>> - [ ] Aula 2.9 - 2025-07-30 - [formulário validado](https://www.w3schools.com/js/js_validation_api.asp), [Eventos e DOM](https://www.w3schools.com/js/js_htmldom_events.asp)
 >
 >>[!note]- Aula 2.10
 >> - [ ] Aula 2.10 - 2025-07-31 - Introdução ao [[Formacao/Webdesign/Bootstrap\|Bootstrap]]
