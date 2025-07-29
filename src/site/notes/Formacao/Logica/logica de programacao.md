@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/logica/logica-de-programacao/","title":"Lógica de Programação","metatags":{"description":"É o conjunto de métodos utilizados para organizar pensamentos, raciocínios e argumentos"},"noteIcon":2,"updated":"2025-07-29T00:09:01.014-03:00"}
+{"dg-publish":true,"permalink":"/formacao/logica/logica-de-programacao/","title":"Lógica de Programação","metatags":{"description":"É o conjunto de métodos utilizados para organizar pensamentos, raciocínios e argumentos"},"noteIcon":2,"updated":"2025-07-29T00:49:10.120-03:00"}
 ---
 
 #Lógica 
@@ -192,22 +192,18 @@ Um formulário HTML convencional inclui campos de entrada (como `<input>`, `<sel
 O JavaScript permite capturar os valores digitados, processá-los e mostrar o resultado na própria página sem recarregar.
 
 ```javascript
-const formulario = document.getElementById('formularioExemplo');
-const resultado = document.getElementById('resultado');
-
-formulario.addEventListener('submit', function(event) {
+<script>
+document.getElementById('formularioExemplo').addEventListener('submit', function(event) {
   event.preventDefault(); // Evita o recarregamento da página
-
   // Captura dos valores de entrada
   const num1 = parseFloat(document.getElementById('num1').value);
   const num2 = parseFloat(document.getElementById('num2').value);
-
   // Lógica de programação (exemplo: soma)
   const soma = num1 + num2;
-
   // Exibindo a saída no campo DOM
-  resultado.textContent = `O resultado é: ${soma}`;
+  document.getElementById('resultado').textContent = `O resultado é: ${soma}`;
 });
+</script>
 ```
 
 #### 3. Explicação dos conceitos usados
