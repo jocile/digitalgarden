@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/boot-camp-spring-react/","title":"BootCamp Spring React","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-22T07:40:08.885-03:00"}
+{"dg-publish":true,"permalink":"/formacao/boot-camp-spring-react/","title":"BootCamp Spring React","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-28T23:35:08.340-03:00"}
 ---
 
 #Formação #mapa #Java 
@@ -22,6 +22,7 @@
 > - [x] [Validação e segurança](https://github.com/jocile/bds04)
 > - [x] [MovieFlix domínio e autorização](https://github.com/jocile/bds05)
 > - [x] [MovieFlix casos de uso](https://github.com/jocile/movieflix)
+> - [Repositórios dos desafios do BootCamp](https://github.com/search?q=org%3Adevsuperior+bds&type=repositories)
 
 > [!summary]- 01 CRUD
 > -  01-01 Visão geral do capítulo
@@ -255,6 +256,7 @@
 > - [x] [MovieFlix front listagem](https://github.com/jocile/movieflix)
 > - [x] [ReactJS TDD](https://github.com/jocile/bds10)
 > - [x] [Gráfico e filtro](https://github.com/jocile/bds08)
+> - [Repositórios dos desafios do BootCamp](https://github.com/search?q=org%3Adevsuperior+bds&type=repositories)
 
 > [!summary]- 07 - Layout e navegação
 > - 07-01 Visão geral do capítulo

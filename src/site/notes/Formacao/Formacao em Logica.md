@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-logica/","title":"Formação em Lógica","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-20T15:23:06.842-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-logica/","title":"Formação em Lógica","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-28T23:29:00.565-03:00"}
 ---
 
 #JavaScript #mapa #Lógica #Formação #web-developer 
@@ -23,7 +23,7 @@
 > - Aperte Start com Lógica de Programação
 
 > [!summary]- Introdução à Lógica de Programação
-> - Introdução aos Conceitos Básicos em Lógica de Programação
+> - [[Formacao/Logica/logica de programacao\|Introdução aos Conceitos Básicos em Lógica de Programação]]
 > - Entendendo Algoritmos e Fluxogramas
 > - Estrutura de um Software e Seu Ambiente de Desenvolvimento
 > - Trabalhando com Variáveis

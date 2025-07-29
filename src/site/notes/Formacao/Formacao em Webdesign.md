@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-webdesign/","title":"Formação em Webdesign","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-26T20:51:34.755-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-webdesign/","title":"Formação em Webdesign","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-28T21:39:05.074-03:00"}
 ---
 
 #Webdesign #CSS #mapa #Formação
@@ -23,7 +23,9 @@
 > - Publicar aplicações web - 36 h;  
 > - Projeto integrador web designer - 16 h.
 
-[GitHub - jocile/webdesigne-senac: Arquivos utilizados nas aulas de WebDesigne no Senac](https://github.com/jocile/webdesigne-senac)
+>[!info]- Links
+ > - [Arquivos utilizados nas aulas de Web Designer no Senac](https://github.com/jocile/webdesigne-senac)
+ > - [Visualizando os exemplos](https://jocile.github.io/webdesigne-senac/)
 
 ## Formação HTML Web Developer
 
@@ -35,9 +37,10 @@
 > - [x] [Recriando o Wikipedia com Layout Moderno](https://github.com/jocile/trilha-html-modulo-3)
 
 >[!info]- Links
-> - [DIO - Formação HTML Web Developer](https://web.dio.me/track/formacao-html-web-developer)
+> - [Trilha DIO - Formação HTML Web Developer](https://web.dio.me/track/formacao-html-web-developer)
+> - [WebDesigner - visualizando os exemplos](https://jocile.github.io/webdesigner/)
 > - [GitHub - jocile/webdesigner: Arquivos usados na formação de Webdesigner com HTML5 e CSS na DIO](https://github.com/jocile/webdesigner)
-> - [GitHub - jocile/trilha-html-modulo-3: Desafio da formacao html web developer da DIO](https://github.com/jocile/trilha-html-modulo-3)
+> - [Desafio da formacao html web developer da DIO](https://github.com/jocile/trilha-html-modulo-3)
 
 > [!summary]- Primeiros Passos com HTML
 > - Entendendo Comunicação Client x Server
@@ -69,9 +72,10 @@
 > - [x] [Clonando o Site da HBO Max com Animações em HTML e CSS](https://github.com/jocile/desafio-hbomax-clone)
 
 >[!info]- Links
-> - [DIO - Formação CSS Web Developer](https://web.dio.me/track/formacao-css-web-developer)
-> - [webdesigner/formacao-css at main · jocile/webdesigner · GitHub](https://github.com/jocile/webdesigner/tree/main/formacao-css)
-> - [[Formacao/Webdesign/CSS/CSS Webdeveloper\|CSS Webdeveloper]]
+> - [Trilha DIO - Formação CSS Web Developer](https://web.dio.me/track/formacao-css-web-developer)
+> - [Arquivos da formacao-css](https://github.com/jocile/webdesigner/tree/main/formacao-css)
+> - [Visualizar os exemplos](https://jocile.github.io/webdesigner/)
+> - [[Formacao/Webdesign/CSS/CSS Webdeveloper\|Diagrama das disciplinas do curso desenvolvedor CSS]]
 
 > [!summary]- Primeiros Passos com CSS
 > - Fundamentos do [[Formacao/Webdesign/CSS/CSS\|CSS]]
@@ -95,4 +99,4 @@
 > - Iniciando com seu primeiro [[Formacao/Webdesign/CSS/Frameworks CSS\|Framework CSS]]: Bootstrap
 > - [Clonando o Site da HBO Max com Animações em HTML e CSS](https://github.com/jocile/desafio-hbomax-clone)
 
-[[Formacao/Formacao Overview\|Formacao Overview]]
+[[Formacao/Formacao Overview\|Voltar para as formações]] | [visualizar os exemplos](https://jocile.github.io/webdesigner/)
