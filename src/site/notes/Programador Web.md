@@ -244,16 +244,18 @@ gantt
 >>> - Atualizar o Emmet `!` para criar um arquivo HTML5 inicial usando [[Tecnico/Ferramentas/Vscode/VScode html com pt-br\|VScode html com pt-br]].
 >>> - Estilizar e salvar no [GitHub][github] o [formulário de cadastro de alunos do projeto acadêmico][formCadAlunos] com [Pseudo Classes](https://jocile.github.io/webdesigner/formacao-css/3-Refinando-estilos-css/pseudo-classes-form.html).
 >
->>[!note] Aula 2.8
->> - [x] Aula 2.8 - 2025-07-29 - [Validação de formulários com JavaScript](https://www.w3schools.com/js/js_validation.asp) e [Pseudo Classes](https://jocile.github.io/webdesigner/formacao-css/3-Refinando-estilos-css/pseudo-classes-form.html) CSS
->> - [[Formacao/Logica/logica de programacao\|Introdução a Lógica de Programação usando JavaScript]]
->> - [Introdução ao JavaScrip](https://www.w3schools.com/js/js_intro.asp)
+>>[!note]- Aula 2.8
+>> - [x] Aula 2.8 - 2025-07-29 - Validação de [[Formacao/Webdesign/Formulários\|Formulários]] com [Pseudo Classes](https://jocile.github.io/webdesigner/formacao-css/3-Refinando-estilos-css/pseudo-classes-form.html) CSS
 >> - [Pseudo Elementos](https://jocile.github.io/webdesigner/formacao-css/3-Refinando-estilos-css/Pseudo-elementos.html) CSS
 >>>[!todo] 🖥️ Atividade:
->>> - Validar e salvar no [GitHub][github] o [formulário de cadastro de alunos do projeto acadêmico][formCadAlunos] com JavaScript.
+>>> - Validar e salvar no [GitHub][github] o [formulário de cadastro de alunos do projeto acadêmico][formCadAlunos] com Pseudo classes e Pseudo elementos.
 >
->>[!note]- Aula 2.9
->> - [ ] Aula 2.9 - 2025-07-30 - [Eventos e DOM](https://www.w3schools.com/js/js_htmldom_events.asp)
+>>[!note] Aula 2.9
+>> - [x] Aula 2.9 - 2025-07-30 -  [Validação de formulários com JavaScript](https://www.w3schools.com/js/js_validation.asp)[Eventos e DOM](https://www.w3schools.com/js/js_htmldom_events.asp)
+>> - [[Formacao/Logica/logica de programacao\|Introdução a Lógica de Programação usando JavaScript]]
+>> - [Introdução ao JavaScrip](https://www.w3schools.com/js/js_intro.asp)
+>>>[!todo] 🖥️ Atividade:
+>>> - Validar e salvar no [GitHub][github] o [formulário de cadastro de alunos do projeto acadêmico][formCadAlunos] com JavaScript.
 >
 >>[!note]- Aula 2.10
 >> - [ ] Aula 2.10 - 2025-07-31 - Introdução ao [[Formacao/Webdesign/Bootstrap\|Bootstrap]]
