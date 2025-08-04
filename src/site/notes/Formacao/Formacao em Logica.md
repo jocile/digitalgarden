@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-logica/","title":"Formação em Lógica","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-28T23:29:00.565-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-logica/","title":"Formação em Lógica","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-01T19:36:52.566-03:00"}
 ---
 
 #JavaScript #mapa #Lógica #Formação #web-developer 
@@ -17,7 +17,7 @@
 
 ![Formacao Logica-1753015437047.png](/img/user/Formacao/Formacao%20Logica-1753015437047.png)
 
-[DIO - Formação em Lógica de programação](https://web.dio.me/track/formacao-logica-de-programacao)
+[Trilha DIO - Formação em Lógica de programação](https://web.dio.me/track/formacao-logica-de-programacao)
 
 > [!summary]- Bem-Vindo à Sua Jornada de Lógica de programação
 > - Aperte Start com Lógica de Programação

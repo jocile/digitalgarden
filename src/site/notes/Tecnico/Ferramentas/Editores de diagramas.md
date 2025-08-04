@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/editores-de-diagramas/","title":"Editores de diagramas","metatags":{"description":"criando projetos com modelos UML"},"noteIcon":1,"updated":"2025-07-27T00:55:36.480-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/editores-de-diagramas/","title":"Editores de diagramas","metatags":{"description":"criando projetos com modelos UML"},"noteIcon":1,"updated":"2025-08-01T09:09:24.367-03:00"}
 ---
 
 #Ferramentas #diagramas
@@ -12,6 +12,7 @@ Principais editores online para criação de diagramas:
 - [editor de Diagramas-mermaid](Editor%20de%20Diagramas%20mermaid.md)
 - [excalidraw](https://excalidraw.com/)
 - [PlantUML](https://plantuml.com/)
+- [drawDB - Online database diagram editor and SQL generator](https://www.drawdb.app/editor)
 - [Draw.io app.diagrams.net](https://app.diagrams.net/)
 - [Draw.io exemplos](https://gist.github.com/jocile/b98add89c82e8629eb11b409c5dd0e69)
 - [Modelos de diagramas Lucidchard UML](https://www.lucidchart.com/pages/pt/modelos-e-exemplos-de-diagramas-uml)

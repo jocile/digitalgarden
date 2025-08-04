@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-07-30T09:25:00.738-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-08-03T22:01:36.320-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -74,7 +74,7 @@
 gantt
      title Programador WEB
      tickInterval 1week
-     excludes Saturday, Sunday, 19:03, 
+     excludes Saturday, Sunday, 31:07, 01:08
      dateFormat DD:MM
      axisFormat %d.%m
      section Atual
@@ -251,7 +251,7 @@ gantt
 >>> - Validar e salvar no [GitHub][github] o [formulário de cadastro de alunos do projeto acadêmico][formCadAlunos] com Pseudo classes e Pseudo elementos.
 >
 >>[!note]- Aula 2.9
->> - [x] Aula 2.9 - 2025-07-30 -  [Validação de formulários com JavaScript](https://www.w3schools.com/js/js_validation.asp)[Eventos e DOM](https://www.w3schools.com/js/js_htmldom_events.asp)
+>> - [x] Aula 2.9 - 2025-07-30 -  [Validação de formulários com JavaScript](https://www.w3schools.com/js/js_validation.asp)
 >> - [[Formacao/Logica/logica de programacao\|Introdução a Lógica de Programação usando JavaScript]]
 >> - [Introdução ao JavaScript](https://www.w3schools.com/js/js_intro.asp)
 >>>[!todo] 🖥️ Atividade:
@@ -259,18 +259,21 @@ gantt
 >
 >>[!attention] AULAS DOS DIAS 31/07 E 01/08 ADIADAS
 >
->>[!note]- Aula 2.10
->> - [ ] Aula 2.10 - 2025-08-04 - Introdução ao [[Formacao/Webdesign/Bootstrap\|Bootstrap]]
+>>[!note] Aula 2.10
+>> - [x] Aula 2.10 - 2025-08-04 -  Variáveis, tipos de dados, condicionais, laços e arrays com JavaScript
+>> - [Eventos e DOM](https://www.w3schools.com/js/js_htmldom_events.asp)
+>>>[!todo] 🖥️ Atividade:
+>>> - Validar e salvar no [GitHub][github] o [formulário de cadastro de alunos do projeto acadêmico][formCadAlunos] com JavaScript.
 >
 >>[!note]- Aula 2.11
->> - [ ] Aula 2.11 - 2025-08-05 - Variáveis, tipos de dados, condicionais, laços e arrays com JavaScript
+>> - [ ] Aula 2.11 - 2025-08-05 -Introdução ao [[Formacao/Webdesign/Bootstrap\|Bootstrap]]
 >
 >>[!note]- Aula 2.12
 >> - [ ] Aula 2.12 - 2025-08-06 - Avaliação com base em critérios de semântica, estilo, usabilidade e funcionalidade
 
 [ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
 [github]: https://github.com/
-[formCadAlunos]: https://github.com/jocile/controle-academico/blob/main/cadastro-de-alunos.html
+[formCadAlunos]: https://jocile.github.io/controle-academico/
 
 
 </div></div>
