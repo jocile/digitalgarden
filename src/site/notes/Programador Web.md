@@ -259,14 +259,17 @@ gantt
 >
 >>[!attention] AULAS DOS DIAS 31/07 E 01/08 ADIADAS
 >
->>[!note] Aula 2.10
+>>[!note]- Aula 2.10
 >> - [x] Aula 2.10 - 2025-08-04 -  Variáveis, tipos de dados, condicionais, laços e arrays com JavaScript
+>> - [Ebook Programador WEB cap. 3 - JavaScript][ebook-programador]
+>>>[!todo] 🖥️ Atividade:
+>>> - Criar um [formulário](https://jocile.github.io/controle-academico/calculoMedia.html) para calcular a média de 3 notas com JavaScript.
+>
+>>[!note] Aula 2.11
+>> - [x] Aula 2.11 - 2025-08-05 -Introdução ao [[Formacao/Webdesign/Bootstrap\|Bootstrap]]
 >> - [Eventos e DOM](https://www.w3schools.com/js/js_htmldom_events.asp)
 >>>[!todo] 🖥️ Atividade:
 >>> - Validar e salvar no [GitHub][github] o [formulário de cadastro de alunos do projeto acadêmico][formCadAlunos] com JavaScript.
->
->>[!note]- Aula 2.11
->> - [ ] Aula 2.11 - 2025-08-05 -Introdução ao [[Formacao/Webdesign/Bootstrap\|Bootstrap]]
 >
 >>[!note]- Aula 2.12
 >> - [ ] Aula 2.12 - 2025-08-06 - Avaliação com base em critérios de semântica, estilo, usabilidade e funcionalidade
