@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-08-03T22:01:36.320-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-08-05T21:08:01.733-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -265,16 +265,22 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar um [formulário](https://jocile.github.io/controle-academico/calculoMedia.html) para calcular a média de 3 notas com JavaScript.
 >
->>[!note] Aula 2.11
->> - [x] Aula 2.11 - 2025-08-05 -Introdução ao [[Formacao/Webdesign/Bootstrap\|Bootstrap]]
+>>[!note]- Aula 2.11
+>> - [x] Aula 2.11 - 2025-08-05 - Programação orientada a eventos com JavaScript
+>> - [Ebook Programador WEB cap. 3 - Funções com JavaScript][ebook-programador]
 >> - [Eventos e DOM](https://www.w3schools.com/js/js_htmldom_events.asp)
 >>>[!todo] 🖥️ Atividade:
->>> - Validar e salvar no [GitHub][github] o [formulário de cadastro de alunos do projeto acadêmico][formCadAlunos] com JavaScript.
+>>> - Criar formulários com funções respondendo a eventos, para justificar faltas e calcular médias, no Sistema Acadêmico de exemplo do livro.
 >
->>[!note]- Aula 2.12
->> - [ ] Aula 2.12 - 2025-08-06 - Avaliação com base em critérios de semântica, estilo, usabilidade e funcionalidade
+>>[!note] Aula 2.12
+>> - [x] Aula 2.12 - 2025-08-06 - Design orientado a semântica, estilo, usabilidade e funcionalidade.
+>> - Introdução ao [[Formacao/Webdesign/Bootstrap\|Bootstrap]]
+>> - [Ebook Fundamentos das linguagens web (HTML e CSS) - Editora Senac][ebook-html-css]
+>>>[!todo] 🖥️ Atividade:
+>>> - Criar um sistema básico de front-end para um PetShop seguindo o exemplo dos cap. 1 ao 5 do [Ebook Fundamentos das linguagens web][ebook-html-css].
 
 [ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
+[ebook-html-css]: https://bibliotecadigitalsenac.com.br/#/content/uid/e009d4fe-16d8-ee11-85fa-00224821b803/detail
 [github]: https://github.com/
 [formCadAlunos]: https://jocile.github.io/controle-academico/
 
@@ -324,6 +330,7 @@ gantt
 ## Referências
 
 - [Ebook Projetos em UX Designe - Editora Senac](https://bibliotecadigitalsenac.com.br/#/content/uid/c4ced701-627f-ef11-8473-000d3a15d325/detail)
+- [Ebook Fundamentos das linguagens web (HTML e CSS) - Editora Senac](https://bibliotecadigitalsenac.com.br/#/content/uid/e009d4fe-16d8-ee11-85fa-00224821b803/detail)
 - [Ebook Algoritmos e programação - Editora Senac](https://bibliotecadigitalsenac.com.br/#/content/uid/aac9b699-16d8-ee11-85fa-00224821b803/detail)
 - [Ebook Programador WEB - Editora Senac][ebook-programador]
 - [📚 HTML Tutorial - W3 Schools](https://www.w3schools.com/html/default.asp)

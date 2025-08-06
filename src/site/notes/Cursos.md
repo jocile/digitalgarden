@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cursos/","title":"Cursos","metatags":{"description":"Programação de Cursos no Senac Ceará em Sobral"},"contentClasses":"cards cards-cols-3 cards-cover","tags":["curso","Senac","mapa"],"noteIcon":"default","updated":"2025-08-04T22:33:26.026-03:00"}
+{"dg-publish":true,"permalink":"/cursos/","title":"Cursos","metatags":{"description":"Programação de Cursos no Senac Ceará em Sobral"},"contentClasses":"cards cards-cols-3 cards-cover","tags":["curso","Senac","mapa"],"noteIcon":"default","updated":"2025-08-04T22:53:15.494-03:00"}
 ---
 
 
@@ -26,14 +26,15 @@
 >>[!info] Inscrições via link ⬇️
 >> https://psg.ce.senac.br/oportunidade/aperfeicoamento-para-garcom/
 
-
-
 >[!info]- Maiores informações
 >
 > - ☎ 88 3677 8700
 > - 📱 88 99468 928
 >
-> - [Senac PSG](https://psg.ce.senac.br/oportunidades/)
-> - [Cursos Senac Sobral-Ceará](https://cursos.ce.senac.br/unidade/senac-sobral/)
-> - [Senac EAD - Cursos On-line livres, Técnicos, Graduação e Pós-graduação](https://www.ead.senac.br/)
-> - [SENAC - PORTAL DO ALUNO](https://cloud.plataforma.senac.br/senacportalaluno/#/login)
+>>[!info] Links
+>> - [Senac PSG](https://psg.ce.senac.br/oportunidades/)
+>> - [Cursos Senac Sobral-Ceará](https://cursos.ce.senac.br/unidade/senac-sobral/)
+>> - [Senac EAD - Cursos On-line livres, Técnicos, Graduação e Pós-graduação](https://www.ead.senac.br/)
+>> - [SENAC - PORTAL DO ALUNO](https://cloud.plataforma.senac.br/senacportalaluno/#/login)
+
+

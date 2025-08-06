@@ -107,17 +107,18 @@ Este site é um "[jardim digital](https://obsidian.rocks/maps-of-content-effortl
 >>[!info] Inscrições via link ⬇️
 >> https://psg.ce.senac.br/oportunidade/aperfeicoamento-para-garcom/
 
-
-
 >[!info]- Maiores informações
 >
 > - ☎ 88 3677 8700
 > - 📱 88 99468 928
 >
-> - [Senac PSG](https://psg.ce.senac.br/oportunidades/)
-> - [Cursos Senac Sobral-Ceará](https://cursos.ce.senac.br/unidade/senac-sobral/)
-> - [Senac EAD - Cursos On-line livres, Técnicos, Graduação e Pós-graduação](https://www.ead.senac.br/)
-> - [SENAC - PORTAL DO ALUNO](https://cloud.plataforma.senac.br/senacportalaluno/#/login)
+>>[!info] Links
+>> - [Senac PSG](https://psg.ce.senac.br/oportunidades/)
+>> - [Cursos Senac Sobral-Ceará](https://cursos.ce.senac.br/unidade/senac-sobral/)
+>> - [Senac EAD - Cursos On-line livres, Técnicos, Graduação e Pós-graduação](https://www.ead.senac.br/)
+>> - [SENAC - PORTAL DO ALUNO](https://cloud.plataforma.senac.br/senacportalaluno/#/login)
+
+
 
 
 </div></div>
