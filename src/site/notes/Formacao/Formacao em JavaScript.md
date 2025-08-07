@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-java-script/","title":"Formação em JavaScript","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-01T19:47:27.059-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-java-script/","title":"Formação em JavaScript","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-06T21:55:09.861-03:00"}
 ---
 
 #JavaScript #mapa #Lógica #Formação #web-developer
@@ -9,12 +9,11 @@
 **Status**:: em andamento
 **Horas aula**:: 39:00
 **Habilidades**:: Lógica, JavaScript
+**Link**:: [Trilha DIO - Formação em JavaScript](https://web.dio.me/track/formacao-javascript-developer)
 
 >[!check]- Desafios de projeto:
 > - [ ] Construindo uma Pokédex com JavaScript
 > - [ ] Publicando Seu Portfólio Profissional no GitHub Pages
-
-[Trilha DIO - Formação em JavaScript](https://web.dio.me/track/formacao-javascript-developer)
 
 > [!summary]- Aprenda a Programar do Zero com JavaScript
 > - Apresentação Formação JavaScript

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-08-05T21:08:01.733-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-08-06T22:44:37.408-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -190,7 +190,7 @@ gantt
 >> 2. Utiliza linguagem de marcação de conteúdo e estilo, de acordo com as normas e padrões tecnológicos. 
 >> 3. Testa padrões de acessibilidade e usabilidade do *website* de acordo com as normas
 
->[!done] Cronograma das aulas da UC2
+>[!done]- Cronograma das aulas da UC2
 >
 >>[!note]- Aula 2.1
 >> - [x] Aula 2.1 - 2025-07-18 - Introdução e [[Formacao/Webdesign/Estrutura HTML5\|Estrutura HTML5]] e suas tags básicas;
@@ -272,7 +272,7 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar formulários com funções respondendo a eventos, para justificar faltas e calcular médias, no Sistema Acadêmico de exemplo do livro.
 >
->>[!note] Aula 2.12
+>>[!note]- Aula 2.12
 >> - [x] Aula 2.12 - 2025-08-06 - Design orientado a semântica, estilo, usabilidade e funcionalidade.
 >> - Introdução ao [[Formacao/Webdesign/Bootstrap\|Bootstrap]]
 >> - [Ebook Fundamentos das linguagens web (HTML e CSS) - Editora Senac][ebook-html-css]
@@ -286,6 +286,12 @@ gantt
 
 
 </div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
 
 
 ## UC3 - Desenvolver aplicações *back-end* para *web.*
@@ -303,6 +309,22 @@ gantt
 >> 4. Desenvolve tratamento de requisições POST e GET do *front-end*, de acordo com a linguagem de programação *back-end*. 
 >> 5. Implementa *session* e *cookies* da aplicação *web*, de acordo com a linguagem de programação *back-end*. 
 >> 6. Integra banco de dados, de acordo com a aplicação web e requisitos do projeto de software.
+
+>[!done] Cronograma das aulas da UC3
+>
+>>[!note] Aula 3.1
+>> - [x] Aula 3.1 - 2025-08-07 - Introdução ao [[Formacao/PHP/Ecossistema PHP\|Ecossistema PHP]] e [documentação](https://www.php.net/manual/pt_BR/)
+>> - [Ebook Programador WEB cap. 4][ebook-programador]
+>> - [Introdução ao PHP - W3schools](https://www.w3schools.com/php/php_intro.asp)
+>>>[!todo] 🖥️ Atividade:
+>>> Ler os dados do [formulário][formCadAlunos] e escrever em uma página usando PHP.
+
+[ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
+[formCadAlunos]: https://jocile.github.io/controle-academico/
+
+
+</div></div>
+
 
 ## UC4 - Publicar aplicações web
 

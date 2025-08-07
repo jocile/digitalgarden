@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-ux-designer/","title":"Formação em UX Designer","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-20T15:24:01.946-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-ux-designer/","title":"Formação em UX Designer","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-06T21:59:09.404-03:00"}
 ---
 
 #Webdesign #Projeto  #mapa #Formação
@@ -9,14 +9,13 @@
 **Status**:: em andamento
 **Horas aula**:: 30:00
 **Habilidades**:: UX, Figma, Designer
+**Link**:: [DIO - Formação UI e UX Designer](https://web.dio.me/track/formacao-uiux-designer/)
 
 >[!check]- Desafios de projeto:
 > - [ ] Criando um Wireframe de Média Fidelidade;
 > - [ ] Criando um Protótipo Simples de 2 páginas (Web ou Mobile)
 > - [ ] Desafio - UX Research
 > - [ ] Implementando Todas as Etapas para a Criação de um Protótipo Profissional
-
-[DIO - Formação em Interface do Usuário e UX Designer](https://web.dio.me/track/formacao-uiux-designer/)
 
 > [!summary]- Fundamentos da Arquitetura de User Experience (UX)
 > - Entendendo a Arquitetura de Produtos Digitais

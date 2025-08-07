@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-python/","title":"Formação Python","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-22T07:58:05.120-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-python/","title":"Formação Python","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-06T21:55:36.780-03:00"}
 ---
 
 #Python #Formação #mapa 
@@ -9,12 +9,11 @@
 **Status**:: em andamento 
 **Horas aula**:: 26:00, 57:00, 35:00
 **Habilidades**:: Python, Flask, [[Formacao/Python/webapp/Django\|Django]], FastAPI, POO
+**Link**:: [DIO - Python Fundamentals](https://web.dio.me/track/formacao-python-fundamentals)
 
 ## Fundamentos do Python
 
 ![formacao python fundamentals.png](/img/user/Formacao/formacao%20python%20fundamentals.png)
-
-[DIO - Python Fundamentals](https://web.dio.me/track/formacao-python-fundamentals)
 
 > [!summary]- Fundamentos do Python
 > - Ambiente de Desenvolvimento e Primeiros Passos com Python

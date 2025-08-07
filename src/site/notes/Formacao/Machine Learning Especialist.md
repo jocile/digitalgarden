@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/machine-learning-especialist/","title":"Machine Learning Especialist","metatags":{"description":"Gráfico das disciplinas do cursos de Escpecialista em Machine Learning"},"contentClasses":"ex-pageheight","tags":["excalidraw","Inteligencia-artificial","Machine-Learning","Curso","mapa","Formação"],"noteIcon":"default","updated":"2025-07-20T15:43:17.437-03:00"}
+{"dg-publish":true,"permalink":"/formacao/machine-learning-especialist/","title":"Machine Learning Especialist","metatags":{"description":"Gráfico das disciplinas do cursos de Escpecialista em Machine Learning"},"contentClasses":"ex-pageheight","tags":["excalidraw","Inteligencia-artificial","Machine-Learning","Curso","mapa","Formação"],"noteIcon":"default","updated":"2025-08-06T21:57:03.211-03:00"}
 ---
 
 
@@ -8,6 +8,7 @@
 **Status**:: em andamento 
 **Horas aula**:: 92:00
 **Habilidades**:: Python, Copilot, [[Formacao/Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]], Algoritmos, [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]]
+**Link**:: [Formação Machine Learning Especialist](https://web.dio.me/track/formacao-machine-learning-specialist)
 
 >[!check]- Desafios de projeto:
 > - [x] [Treinamento de Redes Neurais com Transfer Learning](https://github.com/jocile/TransferLearning)

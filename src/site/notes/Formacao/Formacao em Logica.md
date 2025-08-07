@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-logica/","title":"Formação em Lógica","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-01T19:36:52.566-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-logica/","title":"Formação em Lógica","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-06T21:51:00.498-03:00"}
 ---
 
 #JavaScript #mapa #Lógica #Formação #web-developer 
@@ -9,6 +9,7 @@
 **Status**:: concluído 
 **Horas aula**:: 41:00
 **Habilidades**:: Lógica, JavaScript
+**Link**:: [Trilha DIO - Formação em Lógica de programação](https://web.dio.me/track/formacao-logica-de-programacao)
 
 >[!check]- Desafios de projeto:
 > - [x] [Classificador de Nível de Herói](https://github.com/jocile/classificador-de-nivel)
@@ -16,8 +17,6 @@
 > - [x] [Escrevendo as Classes de Um Jogo](https://github.com/jocile/classe-hero)
 
 ![Formacao Logica-1753015437047.png](/img/user/Formacao/Formacao%20Logica-1753015437047.png)
-
-[Trilha DIO - Formação em Lógica de programação](https://web.dio.me/track/formacao-logica-de-programacao)
 
 > [!summary]- Bem-Vindo à Sua Jornada de Lógica de programação
 > - Aperte Start com Lógica de Programação

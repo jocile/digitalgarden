@@ -35,18 +35,18 @@ Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de t
 
 | File                                                                                 | 📄 Descrição                                                                            |
 | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| [[Formacao/Formacao em PHP\|Formacao em PHP]]                                     | Lista de disciplinas da formação                                                        |
+| [[Formacao/PHP/Ecossistema PHP\|Ecossistema PHP]]                                 | é um dos maiores na área de desenvolvimento web                                         |
 | [[Formacao/Formacao em JavaScript\|Formacao em JavaScript]]                       | Lista de disciplinas da formação                                                        |
 | [[Teologia/Teologia da Igreja\|Teologia da Igreja]]                               | Doutrina que estuda a organização da igreja                                             |
 | [[Formacao/Logica/logica de programacao\|logica de programacao]]                  | É o conjunto de métodos utilizados para organizar pensamentos, raciocínios e argumentos |
-| [[Formacao/Inteligencia Artificial/code smells\|code smells]]                     | são padrões no código fonte que indicam problemas e melhorias                           |
 | [[Formacao/Webdesign/CSS/Grid layout\|Grid layout]]                               | oferece um sistema bidimensional para criação de um layout                              |
+| [[Formacao/Inteligencia Artificial/code smells\|code smells]]                     | são padrões no código fonte que indicam problemas e melhorias                           |
 | [[Tecnico/Ferramentas/Vscode/Autocompletar com vscode\|Autocompletar com vscode]] | pequenos trechos de código pré-definidos que podem ser inseridos rapidamente            |
 | [[Tecnico/Ferramentas/Vscode/VScode html com pt-br\|VScode html com pt-br]]       | modificar o atalho no vscode onde cria a estrutura básica do HTML                       |
 | [[Formacao/Webdesign/CSS/CSS\|CSS]]                                               | é um mecanismo utilizado para adicionar estilo a documentos web                         |
 | [[Formacao/Webdesign/CSS/Perfil com HTML e CSS\|Perfil com HTML e CSS]]           | como personalizar elementos da sua página web                                           |
 | [[Formacao/Webdesign/editores HTML online\|editores HTML online]]                 | editores de código online                                                               |
-| [[Formacao/Webdesign/Estruturando seu HTML\|Estruturando seu HTML]]               | Como usar as tags div e span para organizar o conteúdo do site                          |
-| [[Formacao/Webdesign/Formulários\|Formulários]]                                   | possui campos para coletar informações dos usuários                                     |
 <!-- SerializedQuery END -->
 
 

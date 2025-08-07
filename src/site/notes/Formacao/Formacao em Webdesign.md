@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-webdesign/","title":"Formação em Webdesign","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-28T21:39:05.074-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-webdesign/","title":"Formação em Webdesign","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-06T21:53:56.489-03:00"}
 ---
 
 #Webdesign #CSS #mapa #Formação
@@ -29,6 +29,8 @@
 
 ## Formação HTML Web Developer
 
+**Link**:: [Trilha DIO - Formação HTML Web Developer](https://web.dio.me/track/formacao-html-web-developer)
+
 ![Formacao html.png](/img/user/Formacao/Formacao%20html.png)
 
 >[!check]- Desafios de projeto:
@@ -37,7 +39,6 @@
 > - [x] [Recriando o Wikipedia com Layout Moderno](https://github.com/jocile/trilha-html-modulo-3)
 
 >[!info]- Links
-> - [Trilha DIO - Formação HTML Web Developer](https://web.dio.me/track/formacao-html-web-developer)
 > - [WebDesigner - visualizando os exemplos](https://jocile.github.io/webdesigner/)
 > - [GitHub - jocile/webdesigner: Arquivos usados na formação de Webdesigner com HTML5 e CSS na DIO](https://github.com/jocile/webdesigner)
 > - [Desafio da formacao html web developer da DIO](https://github.com/jocile/trilha-html-modulo-3)
@@ -62,6 +63,8 @@
 
 ## Formação CSS Web Developer
 
+**Link**:: [Trilha DIO - Formação CSS Web Developer](https://web.dio.me/track/formacao-css-web-developer)
+
 ![Formacao css.png](/img/user/Formacao/Formacao%20css.png)
 
 >[!check]- Desafios de projeto:
@@ -72,7 +75,6 @@
 > - [x] [Clonando o Site da HBO Max com Animações em HTML e CSS](https://github.com/jocile/desafio-hbomax-clone)
 
 >[!info]- Links
-> - [Trilha DIO - Formação CSS Web Developer](https://web.dio.me/track/formacao-css-web-developer)
 > - [Arquivos da formacao-css](https://github.com/jocile/webdesigner/tree/main/formacao-css)
 > - [Visualizar os exemplos](https://jocile.github.io/webdesigner/)
 > - [[Formacao/Webdesign/CSS/CSS Webdeveloper\|Diagrama das disciplinas do curso desenvolvedor CSS]]
