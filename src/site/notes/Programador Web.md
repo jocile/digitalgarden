@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-08-06T22:44:37.408-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-08-07T20:39:56.748-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -74,16 +74,17 @@
 gantt
      title Programador WEB
      tickInterval 1week
-     excludes Saturday, Sunday, 31:07, 01:08
+     excludes Saturday, Sunday, 31:07, 01:08, 05:08
      dateFormat DD:MM
      axisFormat %d.%m
-     section Atual
+     section Inicio
          UC1 :a1, 07:07, 9d
-     section prox
          UC2 :a2,after a1, 12d
+     section atual
          UC3 :a3, after a2, 24d
+     section prox
          UC4 :a4, after a3, 9d
-         UC5 :a5, after a4, 6d
+         UC5 :a5, after a4, 5d
 ```
 
 
@@ -266,14 +267,14 @@ gantt
 >>> - Criar um [formulário](https://jocile.github.io/controle-academico/calculoMedia.html) para calcular a média de 3 notas com JavaScript.
 >
 >>[!note]- Aula 2.11
->> - [x] Aula 2.11 - 2025-08-05 - Programação orientada a eventos com JavaScript
+>> - [x] Aula 2.11 - 2025-08-06 - Programação orientada a eventos com JavaScript
 >> - [Ebook Programador WEB cap. 3 - Funções com JavaScript][ebook-programador]
 >> - [Eventos e DOM](https://www.w3schools.com/js/js_htmldom_events.asp)
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar formulários com funções respondendo a eventos, para justificar faltas e calcular médias, no Sistema Acadêmico de exemplo do livro.
 >
 >>[!note]- Aula 2.12
->> - [x] Aula 2.12 - 2025-08-06 - Design orientado a semântica, estilo, usabilidade e funcionalidade.
+>> - [x] Aula 2.12 - 2025-08-07 - Design orientado a semântica, estilo, usabilidade e funcionalidade.
 >> - Introdução ao [[Formacao/Webdesign/Bootstrap\|Bootstrap]]
 >> - [Ebook Fundamentos das linguagens web (HTML e CSS) - Editora Senac][ebook-html-css]
 >>>[!todo] 🖥️ Atividade:
@@ -313,7 +314,7 @@ gantt
 >[!done] Cronograma das aulas da UC3
 >
 >>[!note] Aula 3.1
->> - [x] Aula 3.1 - 2025-08-07 - Introdução ao [[Formacao/PHP/Ecossistema PHP\|Ecossistema PHP]] e [documentação](https://www.php.net/manual/pt_BR/)
+>> - [x] Aula 3.1 - 2025-08-08 - Introdução ao [[Formacao/PHP/Ecossistema PHP\|Ecossistema PHP]] e [documentação](https://www.php.net/manual/pt_BR/)
 >> - [Ebook Programador WEB cap. 4][ebook-programador]
 >> - [Introdução ao PHP - W3schools](https://www.w3schools.com/php/php_intro.asp)
 >>>[!todo] 🖥️ Atividade:
@@ -338,6 +339,12 @@ gantt
 >> 2. Formata e exporta arquivos do projeto local para servidor web, de acordo com as tecnologias disponíveis. 
 >> 3. Verifica compatibilidade e performance do *website*, de acordo com as normas e exigências do mercado.
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
 ## UC5 - Projeto Integrador Programador *web.*
 
 > [!success]- 🖥️ Habilidades da UC5
@@ -348,6 +355,15 @@ gantt
 >>[!check]
 >> - **Proposta 1: Aplicação web multiplataforma com padrões de acessibilidade**
 >> - **Proposta 2: Desenvolvimento de site para promover a visibilidade de um portfólio de produtos e serviços**
+
+>[!done] Cronograma das aulas da UC5
+>
+>>[!note]- Aula 5.1
+>> - [x] Aula 5.01 - 2025-08-05 - Front-end do projeto integrador.
+
+
+</div></div>
+
 
 ## Referências
 
