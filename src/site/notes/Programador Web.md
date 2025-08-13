@@ -313,15 +313,41 @@ gantt
 
 >[!done] Cronograma das aulas da UC3
 >
->>[!note] Aula 3.1
->> - [x] Aula 3.1 - 2025-08-08 - Introdução ao [[Formacao/PHP/Ecossistema PHP\|Ecossistema PHP]] e [documentação](https://www.php.net/manual/pt_BR/)
->> - [Ebook Programador WEB cap. 4][ebook-programador]
->> - [Introdução ao PHP - W3schools](https://www.w3schools.com/php/php_intro.asp)
+>>[!note]- Aula 3.1
+>> - [x] Aula 3.1 - 2025-08-08 - Introdução a lógica de programação com JavaScript, entrada e saída de dados, variáveis.
+>> - [Ebook Programador WEB cap. 3][ebook-programador]
+>> - [Introdução ao JavaScript - W3Schools][w3-js]
 >>>[!todo] 🖥️ Atividade:
->>> Ler os dados do [formulário][formCadAlunos] e escrever em uma página usando PHP.
+>>> Criar um formulário para entrada de notas e mostrar a saída da média e se foi aprovado .
+>
+>>[!note]- Aula 3.2
+>> - [x] Aula 3.1 - 2025-08-11 - Manipulação de textos, imagens, ocultar e mostrar elementos com JavaScript.
+>> - [Ebook Programador WEB cap. 3][ebook-programador]
+>> - [Manipulação de elementos com JavaScript - W3Schools][w3-js]
+>>>[!todo] 🖥️ Atividade:
+>>> Criar páginas inserindo texto, imagens, e ocultando elementos com JavaScript.
+>
+>>[!note]- Aula 3.3
+>> - [x] Aula 3.1 - 2025-08-12 - Funções de resposta a eventos com JavaScript.
+>> - [Ebook Programador WEB cap. 3][ebook-programador]
+>> - [Funções em JavaScript - W3Schools](https://www.w3schools.com/js/js_functions.asp)
+>>>[!todo] 🖥️ Atividade:
+>>> Criar uma páginas com botão e a função respondendo ao clicar que mostre:
+>>> - a data.
+>>> - um texto.
+>>> - o resultado da média.
+>
+>>[!note] Aula 3.4
+>> - [x] Aula 3.1 - 2025-08-13 - Condicionais e loops com JavaScript
+>> - [Ebook Programador WEB cap. 3][ebook-programador]
+>> - [Condicionais e loops com JavaScript - W3Schools](https://www.w3schools.com/js/js_if_else.asp)
+>> - [Expressões condicionais - Jocile](https://jocile.github.io/aulas/posts/expressoes-condicionais/)
+>>>[!todo] 🖥️ Atividade:
+>>> Criar um [formulário](https://jocile.github.io/aulas/posts/expressoes-condicionais/#exemplo-de-situa%C3%A7%C3%A3o-do-aluno-em-pascal) que receba as notas do aluno e a presença, faça validação das entradas evitando entradas negativas e calcule e mostre  a situação do aluno, se aprovado ou reprovado.
 
 [ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
 [formCadAlunos]: https://jocile.github.io/controle-academico/
+[w3-js]: https://www.w3schools.com/js/js_intro.asp
 
 
 </div></div>

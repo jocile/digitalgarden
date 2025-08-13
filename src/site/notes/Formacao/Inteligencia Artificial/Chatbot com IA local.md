@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/chatbot-com-ia-local/","title":"Chatbot com IA local","metatags":{"description":"Como usar um processo para que o código interaja com o modelo de forma programática para realizar tarefas de geração de texto."},"tags":["Inteligencia-artificial","Agentes","Prompt","Ollama","Python"],"noteIcon":"1","updated":"2025-01-27T17:52:20.140-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/chatbot-com-ia-local/","title":"Chatbot com IA local","metatags":{"description":"Como usar um processo para que o código interaja com o modelo de forma programática para realizar tarefas de geração de texto."},"tags":["Inteligencia-artificial","Agentes","Prompt","Ollama","Python"],"noteIcon":"1","updated":"2025-08-08T08:52:25.283-03:00"}
 ---
 
 
@@ -9,7 +9,7 @@ O modelo Llama 3 pode ser usado em código [Python](Python.md) para gerar respos
 
 >[!summary] Em resumo, a utilização do modelo Llama 3 com [Langchain](Langchain.md) em [Python](Python.md) envolve a **importação**, a **instanciação**, a **definição do prompt**, a **invocação do modelo** e o **processamento da resposta**. Esse processo permite que o código interaja com o modelo de forma programática para realizar tarefas de geração de texto.
 
-Para usar o Llama 3 em Python, primeiro, é necessário importar a classe [Ollama](Ollama.md) de `langchain_community.llms`. Em seguida, cria-se um objeto `[Ollama](Ollama.md)` especificando o modelo a ser usado, neste caso, "Llama 3". Após instanciar o modelo, a função `invoke` é utilizada para passar um prompt e obter uma resposta.
+Para usar o Llama 3 em Python, primeiro, é necessário importar a classe [[Formacao/Inteligencia Artificial/ferramentas de IA/Ollama\|Ollama]] de `langchain_community.llms`. Em seguida, cria-se um objeto `[Ollama](Ollama.md)` especificando o modelo a ser usado, neste caso, "Llama 3". Após instanciar o modelo, a função `invoke` é utilizada para passar um prompt e obter uma resposta.
 
 ### Passo a passo
 
@@ -67,11 +67,11 @@ model = Ollama()
 
 Agora que você tem a instância do modelo configurada, você estará pronto para utilizar o modelo Llama 3 com a biblioteca [[Formacao/Inteligencia Artificial/Langchain\|Langchain]].
 
-- **Instanciar o modelo:** Cria-se um objeto do tipo [Ollama](Ollama.md), especificando qual modelo será utilizado. Nesse caso, o modelo a ser usado é "Llama 3". Este objeto é que permitirá interagir com o modelo Llama 3. Por exemplo, a linha `model = Ollama(model="llama3")` instancia o modelo.
+- **Instanciar o modelo:** Cria-se um objeto do tipo [[Formacao/Inteligencia Artificial/ferramentas de IA/Ollama\|Ollama]], especificando qual modelo será utilizado. Nesse caso, o modelo a ser usado é "Llama 3". Este objeto é que permitirá interagir com o modelo Llama 3. Por exemplo, a linha `model = Ollama(model="llama3")` instancia o modelo.
     
 - **Definir o prompt (input):** O próximo passo é definir a entrada, ou seja, o prompt que será enviado para o modelo. Este prompt pode ser uma pergunta, uma instrução ou qualquer texto que se deseja que o modelo processe. No exemplo simples, o prompt é "hello world".
     
-- **Invocar o modelo para obter uma resposta:** Utiliza-se o método `invoke` do objeto [Ollama](Ollama.md) para enviar o prompt para o modelo e obter uma resposta. O método `invoke` recebe o prompt como parâmetro e retorna a resposta gerada pelo modelo. Por exemplo, `result = model.invoke(input)` envia o input para o modelo e armazena o resultado em `result`.
+- **Invocar o modelo para obter uma resposta:** Utiliza-se o método `invoke` do objeto [[Formacao/Inteligencia Artificial/ferramentas de IA/Ollama\|Ollama]] para enviar o prompt para o modelo e obter uma resposta. O método `invoke` recebe o prompt como parâmetro e retorna a resposta gerada pelo modelo. Por exemplo, `result = model.invoke(input)` envia o input para o modelo e armazena o resultado em `result`.
     
 - **Processar e utilizar a resposta:** A resposta obtida do modelo pode ser armazenada em uma variável e utilizada conforme a necessidade do programa. Em geral, a resposta é um texto que pode ser exibido para o usuário, ou usado em outras partes do código.
     
@@ -81,9 +81,9 @@ Além disso, o código Python também pode incluir outras funcionalidades, como:
 - Definir parâmetros como a temperatura para controlar a aleatoriedade das respostas.
 - Encapsular a chamada ao modelo em funções para facilitar o reuso do código.
 - Utilizar diferentes tipos de memória para manter o histórico das interações.
-- Combinar a chamada ao modelo com outros processos dentro de uma chain, que podem incluir [Prompts](Prompts.md) e parsers.
+- Combinar a chamada ao modelo com outros processos dentro de uma chain, que podem incluir [[Formacao/Inteligencia Artificial/Prompts\|Prompts]] e parsers.
 
-É importante destacar que a biblioteca [Langchain](Langchain.md) está em constante desenvolvimento, com novas funcionalidades e atualizações sendo adicionadas frequentemente, o que pode implicar mudanças na forma como os modelos são utilizados.
+É importante destacar que a biblioteca [[Formacao/Inteligencia Artificial/Langchain\|Langchain]] está em constante desenvolvimento, com novas funcionalidades e atualizações sendo adicionadas frequentemente, o que pode implicar mudanças na forma como os modelos são utilizados.
 
 ### Exemplos
 
@@ -157,12 +157,12 @@ O código fornecido demonstra o seguinte processo:
 - A variável `contexto` recebe a pregunta e a resposta para ser lembrada;
 - O loop repete o repete o pedido de um novo `iput` com a pergunta do usuário até que seja digitado "s" para sair.
 
-Em resumo, o código Python utiliza a biblioteca [Langchain](Langchain.md) para importar o modelo Llama 3, enviando um prompt e obtendo uma resposta de forma programática.
+Em resumo, o código Python utiliza a biblioteca [[Formacao/Inteligencia Artificial/Langchain\|Langchain]] para importar o modelo Llama 3, enviando um prompt e obtendo uma resposta de forma programática.
 
 ### Referências
 
 - [IA no seu PC com Ollama, LM Studio, GPT4All - YouTube](https://www.youtube.com/watch?v=Ar1lF4yVIss)
 - [Create a LOCAL Python AI Chatbot In Minutes Using Ollama - YouTube](https://www.youtube.com/watch?v=d0o89z134CQ)
-- [Ollama](Ollama.md)
-- [Langchain](Langchain.md)
-- [engenharia de prompt](engenharia%20de%20prompt.md)
+- [[Formacao/Inteligencia Artificial/ferramentas de IA/Ollama\|Ollama]]
+- [[Formacao/Inteligencia Artificial/Langchain\|Langchain]]
+- [[Formacao/Inteligencia Artificial/engenharia de prompt\|engenharia de prompt]]
