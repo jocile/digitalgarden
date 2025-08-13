@@ -342,6 +342,7 @@ gantt
 >> - [Ebook Programador WEB cap. 3][ebook-programador]
 >> - [Condicionais e loops com JavaScript - W3Schools](https://www.w3schools.com/js/js_if_else.asp)
 >> - [Expressões condicionais - Jocile](https://jocile.github.io/aulas/posts/expressoes-condicionais/)
+>> - [[Formacao/JavaScript/Manipulando elementos com JavaScript\|Manipulando elementos com JavaScript]]
 >>>[!todo] 🖥️ Atividade:
 >>> Criar um [formulário](https://jocile.github.io/aulas/posts/expressoes-condicionais/#exemplo-de-situa%C3%A7%C3%A3o-do-aluno-em-pascal) que receba as notas do aluno e a presença, faça validação das entradas evitando entradas negativas e calcule e mostre  a situação do aluno, se aprovado ou reprovado.
 
