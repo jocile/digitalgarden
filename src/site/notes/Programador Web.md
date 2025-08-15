@@ -338,16 +338,26 @@ gantt
 >>> - o resultado da média.
 >
 >>[!note]- Aula 3.4
->> - [x] Aula 3.4 - 2025-08-13 - Condicionais e loops com JavaScript
+>> - [x] Aula 3.4 - 2025-08-13 - Condicionais com JavaScript
 >> - [Ebook Programador WEB cap. 3][ebook-programador]
 >> - [Condicionais e loops com JavaScript - W3Schools](https://www.w3schools.com/js/js_if_else.asp)
->> - [Expressões condicionais - Jocile](https://jocile.github.io/aulas/posts/expressoes-condicionais/)
 >> - [[Formacao/JavaScript/Manipulando elementos com JavaScript\|Manipulando elementos com JavaScript]]
 >>>[!todo] 🖥️ Atividade:
 >>> Criar um [formulário](https://jocile.github.io/aulas/posts/expressoes-condicionais/#exemplo-de-situa%C3%A7%C3%A3o-do-aluno-em-pascal) que receba as notas do aluno e a presença, faça validação das entradas evitando entradas negativas e calcule e mostre  a situação do aluno, se aprovado ou reprovado.
 >
->>[!note] Aula 3.5
->> - [x] Aula 3.5 - 2025-08-14 - Introdução a programação com PHP, entrada e saída de dados com formulários e variáveis.
+>>[!note]- Aula 3.5
+>> - [x] Aula 3.5 - 2025-08-14 - Condicionais e repetições com JavaScript
+>> - [Listas com JavaScript Arrays - W3Schools](https://www.w3schools.com/js/js_arrays.asp)
+>> - [Repetições com JavaScript](https://www.w3schools.com/js/js_loop_for.asp)
+>> - [Percorrendo listas com JavaScript For In](https://www.w3schools.com/js/js_loop_forin.asp)
+>> - [[Formacao/JavaScript/Condicionais com JavaScript\|Condicionais com JavaScript]]
+>> - [Expressões condicionais - Jocile](https://jocile.github.io/aulas/posts/expressoes-condicionais/)
+>>>[!todo] 🖥️ Atividade:
+>>> - Criar um script que receba a hora e mostre bom dia, boa tarde ou boa noite.
+>>> - Criar um script que receba a altura e mostre o peso ideal.
+>
+>>[!note] Aula 3.6
+>> - [x] Aula 3.6 - 2025-08-15 - Introdução a programação com PHP, entrada e saída de dados com formulários e variáveis.
 >> - [Ebook Programador WEB cap. 4][ebook-programador]
 >> - [Introdução ao PHP -W3Schools](https://www.w3schools.com/php/php_intro.asp)
 >> - [Instando o pacote XAMPP](https://www.apachefriends.org/pt_br/index.html)

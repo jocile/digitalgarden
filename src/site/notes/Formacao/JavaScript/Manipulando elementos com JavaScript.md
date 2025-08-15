@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/java-script/manipulando-elementos-com-java-script/","metatags":{"description":"Manipulando textos e fazendo cálculos"},"noteIcon":2,"updated":"2025-08-13T10:52:28.840-03:00"}
+{"dg-publish":true,"permalink":"/formacao/java-script/manipulando-elementos-com-java-script/","metatags":{"description":"Exemplos de manipulação de textos e cálculos"},"noteIcon":2,"updated":"2025-08-14T09:27:40.999-03:00"}
 ---
 
-#JavaScript 
+#JavaScript #Aulas 
 
 ## Manipulando o texto
 
@@ -107,7 +107,7 @@ function ocultar(){
 
 <p>x = 5</p>
 <p>x * 10 =
-<spam id="valores"></spam></p>
+<span id="valores"></span></p>
 <p id="demo"></p>
 
 <script>
@@ -216,7 +216,7 @@ catch (err) {
 <p> x = 10</p>
 <p> x = x + 5 ou x += 5</p>
 <p> x = 
-<spam id="demo"></spam></p>
+<span id="demo"></span></p>
 
 <script>
 var x = 10;
@@ -239,11 +239,11 @@ document.getElementById("demo").innerHTML = x;
 
 <p> x = 4</p>
 <p> y = x % 2</p>
-<spam id="par"></spam></p>
+<span id="par"></span></p>
 
 <p> x = 5</p>
 <p> y = x % 2</p>
-<spam id="impar"></spam></p>
+<span id="impar"></span></p>
 
 
 <script>
