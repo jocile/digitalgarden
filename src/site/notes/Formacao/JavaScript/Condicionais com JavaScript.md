@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/java-script/condicionais-com-java-script/","metatags":{"description":"Exemplos de scripts com tomada de decisão"},"noteIcon":2,"updated":"2025-08-14T10:01:21.317-03:00"}
+{"dg-publish":true,"permalink":"/formacao/java-script/condicionais-com-java-script/","metatags":{"description":"Exemplos de scripts com tomada de decisão"},"noteIcon":2,"updated":"2025-08-14T23:49:02.285-03:00"}
 ---
 
 #JavaScript #Aulas
@@ -58,18 +58,6 @@
 </body>
 </html>
 ```
-
-### Usando um fluxograma para entender a lógica
-
-```mermaid
-flowchart TD
-    A[Hora?] -->|Pegue a hora| C{Let me think}
-    C -->|<12| D[Bom dia]
-    C -->|<18| E[Boa tarde]
-    C -->|depois de 18| F[Boa noite]
-```
-
-Feito com o [Mermaid Live Editor](https://mermaid.live/edit#pako:eNpVjU1PwzAMhv-K5XM3NU2zthECwQbiwIEDJ9YdosX9EGsyZan4aPvfyTohNJ_8-nlsD7i3mlBidbCf-0Y5D2-b0kCo--2zdepuB4vF7fhKdU-goAmjEdbDC3noCHzTmo_p4q9n8YYlI2y2D7YD3ardNcpHeAxIgVdO0xXUdLTtCTTB2XqaLWNbf7Ewwtq1GqV3PUXYkevUOeJwpiX6hjoqUYZWU6X6gy-xNFNYOyrzbm33t-lsXzcoK3U4hdQftfK0aVXt1L9CRpNb2954lDxl8w2UA36FGPNlzkSa8yJLs4JnEX6jFGK5ShKWsUIwUcRZPkX4Mz-Ngx1zwVmecZ4LEa-mX2Urb10)
 
 ### Usando uma função para organizar o código
 
