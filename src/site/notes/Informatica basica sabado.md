@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-07-25T21:41:25.767-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-08-16T08:18:04.269-03:00"}
 ---
 
 
-## Curso Informática básica
+## Curso Informática básica aos sábados
 
 > [!info]- Identificação do curso
 > 
@@ -54,9 +54,10 @@ gantt
 
 ## Cronograma da Unidade Curricular
 
->[!done]- Cronograma das aulas
+>[!done] Cronograma das aulas
 >
 >>[!note]- Aula em 05/04
+>> - [x] Aula 1 - 2025-04-05 - Digitação básica e introdução ao Sistema Operacional
 >> - [HISTORIA : A EVOLUÇÃO DOS COMPUTADORES](https://docs.google.com/presentation/d/1MXW5D73CtuZMqP8obVX5tBnPm_1mUksb/edit?slide=id.p1#slide=id.p1)
 >> - [HISTORIA : A EVOLUÇÃO DOS COMPUTADORES - YouTube](https://www.youtube.com/watch?v=mFdUqqwzbVs)
 >> - [História e Evolução dos Computadores](https://www.todamateria.com.br/historia-e-evolucao-dos-computadores/)
@@ -65,6 +66,7 @@ gantt
 >>> - Digitação com acentuação na página 53 da [📑Apostila][apostila]
 >
 >>[!note]- Aula em 12/04
+>> - [x] Aula 2 - 2025-04-12 - Hardware e Software, organização de arquivos e área de trabalho
 >> - [Partes do computador](https://docs.google.com/presentation/d/1Ohfb9t_ZR_qWBVGtOg3tQJ28Y4mGXufM/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> - [📑Apostila][apostila] página 61 explorando arquivos e pastas no Windows.
 >>   - Interface e manuseio de janelas, área de trabalho,
@@ -79,6 +81,7 @@ gantt
 >>[!attention] 19/04: FERIADO: Semana Santa
 >
 >>[!note]- Aula em 26/04
+>> - [x] Aula 3 - 2025-04-26 - Personalização da área de trabalho e menus do Windows
 >> - Configuração de interface de telas da área de trabalho do Windows, seguindo o roteiro a partir da página 36 da [📑Apostila][apostila]:
 >> - Mudar a imagem das telas de bloqueio e desktop do Windows;
 >> - Identificar como instalar e modificar temas do Windows;
@@ -88,12 +91,14 @@ gantt
 >>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
 >
 >>[!note]- Aula em 03/05
+>> - [x] Aula 4 - 2025-05-05 - Gerenciamento de arquivos e backup
 >> - Organização de arquivos e pastas no Windows Explorer, gerenciando o armazenamento, deletando e recuperando arquivos, usando a área de transferência (pg. 60).
 >>>[!todo] 🖥️ Atividades:
 >>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
 >>> - Criando o texto do "Descobrimento do Brasil" e formatando no WordPad na pag. 69;
 >
 >>[!note]- Aula em 10/05
+>>- [x] Aula 5 - 2025-05-10 - Introdução aos aplicativos do Office, Word
 >>   -  Processador de Textos Word: Manipulação com arquivo de texto e formatação e estilos de fonte e parágrafos; Copiar, recortar e colar texto; Ferramenta Zoom; estilos de texto. 
 >>>[!todo] 🖥️ Atividades:
 >>> - [📑Apostila][apostila] a partir da pg. 69: Criação e cópia de arquivos e pastas,
@@ -101,35 +106,35 @@ gantt
 >>> - Conhecendo estilos de texto no Word e criando os textos Iracema e o poema Cecília;
 >
 >>[!note]- Aula em 17/05
->>   - Editor de texto [Word](https://support.microsoft.com/pt-br/word): área de trabalho;
+>> - [x] Aula 6 - 2025-05-17 - Editor de texto [Word](https://support.microsoft.com/pt-br/word): área de trabalho;
 >>   - [📑Apostila][apostila] a partir da pg. 73: Processador de Textos Word: Elementos da tela; Manipulação com arquivo de texto; Recursos de seleção de texto; 
 >>>[!todo] 🖥️ Atividade:
 >>> - Conhecendo a interface do Word: Criando texto sobre o Blu-Ray contendo formatação e parágrafos;
 >
 >>[!note]- Aula em 24/05
->>   - [📑Apostila][apostila] a partir da pg. 83: Processador de Textos Word: Formatação e estilos de fonte e parágrafos; Copiar, recortar e colar texto; Ferramenta Zoom; visualização de impressão, de tópicos e de leitura.
+>>- [x] Aula 7 - 2025-05-24 - [📑Apostila][apostila] a partir da pg. 83: Processador de Textos Word: Formatação e estilos de fonte e parágrafos; Copiar, recortar e colar texto; Ferramenta Zoom; visualização de impressão, de tópicos e de leitura.
 >>>[!todo] 🖥️ Atividades:
 >>> - Conhecendo estilos de texto no Word Criando os textos Iracema, poema Cecília, Responsabilidade Social e Teoria da música;
 >
 >>[!note]- Aula em 07/06
->>   - [📑Apostila][apostila] a partir da pg. 95: Processador de Textos Word:  criação de bordas, inserindo formas,
+>> - [x] Aula 8 - 2025-06-07 - [📑Apostila][apostila] a partir da pg. 95: Processador de Textos Word:  criação de bordas, inserindo formas,
 >>   - Formatação com tabulações, inserindo bordas es sombreamento.
 >>>[!todo] 🖥️ Atividades:
 >>> - Criando cardápios com tabulação, papel de cartas e certificados;
 >
 >>[!note]- Aula em 14/06
->>   - [📑Apostila][apostila] a partir da pg. 110: Processador de Textos Word: Operações com figuras, símbolos e ilustrações; Inserir e formatar Tabelas; Revisor ortográfico; Configuração de página e de impressão; tabelas e listas, impressão. formatação de textos (fonte e parágrafo), ortografia e gramática, cabeçalho e rodapé, objetos e imagens, tabelas e listas, impressão.
+>> - [x] Aula 9 - 2025-06-14  - [📑Apostila][apostila] a partir da pg. 110: Processador de Textos Word: Operações com figuras, símbolos e ilustrações; Inserir e formatar Tabelas; Revisor ortográfico; Configuração de página e de impressão; tabelas e listas, impressão. formatação de textos (fonte e parágrafo), ortografia e gramática, cabeçalho e rodapé, objetos e imagens, tabelas e listas, impressão.
 >>>[!todo] 🖥️ Atividades:
 >>> - No Word Criando o texto Soneto de Fidelidade, sumários e capas em trabalho. 
 >>> - [📑Apostila][apostila] a partir da pg. 118: Boletim escolar, recibo comercial, textos formatados e cardápio.
 >
 >>[!note]- Aula em 21/06
->> - Word: Exercícios com formas, imagens, tabelas e listas, configuração da página e da impressão
+>> - [x] Aula 10 - 2025-06-21 - Word: Exercícios com formas, imagens, tabelas e listas, configuração da página e da impressão
 >>>[!todo] 🖥️ Atividades:
->>   - [📑Apostila][apostila] a partir da pg. 118: Boletim escolar, recibo comercial, textos formatados e cardápio.
+>>>   - [📑Apostila][apostila] a partir da pg. 118: Boletim escolar, recibo comercial, textos formatados e cardápio.
 >
 >>[!note]- Aula em 28/06
->> - [📑Apostila][apostila] a partir da pg. 121, editor de planilhas Excel: 
+>> - [x] Aula 11 - 2025-06-28 - [📑Apostila][apostila] a partir da pg. 121, editor de planilhas Excel: 
 >>    - Conceito de Planilha eletrônica;
 >>    - Principais elementos do espaço de trabalho (Pasta, planilha, célula, barras, menus);
 >>    - Navegação; Edição de dados nas células;
@@ -142,7 +147,7 @@ gantt
 >>[!attention]- 05/07: FERIADO: Dia de aniversário de Sobral
 >
 >>[!note]- Aula em 12/07
->> - [📑Apostila][apostila] a partir da pg. 135, Editor de planilhas Excel:
+>> - [x] Aula 12 - 2025-07-12 - [📑Apostila][apostila] a partir da pg. 135, Editor de planilhas Excel:
 >> - Operações com colunas e linhas;
 >> - Operações com planilhas: copiar, selecionar, mover, ocultar, múltiplas seleções;
 >>>[!todo] 🖥️ Atividades no Excel:
@@ -150,18 +155,16 @@ gantt
 >>> - Criando a planilha de boletim escolar com formatação condicional.
 >
 >>[!note]- Aula em 19/07
->> - [📑Apostila][apostila] a partir da pg. 140, Editor de planilhas Excel:
+>>- [x] Aula 13 - 2025-07-19 - [📑Apostila][apostila] a partir da pg. 140, Editor de planilhas Excel:
 >> - Funções básicas no Excel: soma, média, máximo, mínimo;
 >> - Validação de dados: garantir entrada de dados a partir de uma lista determinada.
 >> - Configuração de páginas e impressão.
 >> - Configurando o cabeçalho e rodapé.
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Adicionando funções à planilha de boletim escolar.
-
->[!todo] Última atualização
 >
 >>[!note] Aula em 26/07
->> - [📑Apostila][apostila] a partir da pg. 153, Editor de planilhas Excel:
+>>- [x] Aula 14 - 2025-07-26 - [📑Apostila][apostila] a partir da pg. 153, Editor de planilhas Excel:
 >> - Configuração de proteção: proteger células específicas, planilhas e arquivos.
 >> - Criação e formatação de Gráficos;
 >> - Classificação personalizada de dados;
@@ -170,8 +173,39 @@ gantt
 >>> - Criando um formulário para seleção de emprego com células protegidas e validação de dados.
 >>> - Adicionando gráficos à planilha de boletim escolar (pg. 156).
 >>> - Criando planilhas com gráficos: PIB Brasil, Pesquisa Eleitoral (pg. 161).
+>
+>>[!attention] Aula em 02/08: ADIADA
+>
+>>[!note]- Aula em 09/08
+>> - [x] Aula 15 - 2025-08-09 - [📑Apostila][apostila] a partir da pg. 155, Editor de planilhas Excel:
+>> - Criação e formatação de Gráficos;
+>> - Classificação personalizada de dados;
+>> - Referência absoluta e relativa.
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Adicionando gráficos à planilha de boletim escolar (pg. 156).
+>>> - Criando planilhas com gráficos: PIB Brasil, Pesquisa Eleitoral (pg. 161).
 >>> - Classificando a planilha de funcionários por empresa, departamento e cargo (pg. 163).
 >>> - Criando uma planilha de tabuada aritmética (pg. 168).
+>
+>>[!note] Aula em 16/08
+>> - [x] Aula 16 - 2025-08-16
+>> - [📑Apostila][apostila] a partir da pg. 171, Editor de planilhas Excel:
+>> - Funções condicionais: "se"
+>> - Funções de estatística: máximo, mínimo e média.
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Criando planilhas de estimativa de gastos de Academia.
+>>> - Criando planilhas com cotação de preços com cálculo de preço médio, máximo e mínimo.
+>>> - Criando planilha de cesta básica com cálculo de total de reajuste por porcentagem.
+>>> - Criando planilha com cálculo de índice de massa corpórea usando referência absoluta e condicionais para mostrar o resultado.
+>
+>>[!note]- Aula em 23/08
+>>- [ ] Aula 16 - 2025-08-23
+>> - [📸Livro da Biblioteca Virtual SENAC do Power Point][powerpoint] cap. 1 a 3:
+>> - Conhecendo a interface do Power Point;
+>> - Criando slides, adicionando e formatando elementos, como tabelas, formas e gráficos.
+>>>[!todo] 🖥️ Atividades no PowerPoint:
+>>> - Criando slides sobre um relatório de vendas.
+>>> - Criando slides de controle de vídeos com tabelas e gráficos.
 
 > [!important]- 📚Material didático
 > 
@@ -182,8 +216,9 @@ gantt
 >>> - [💻 Windows 10](https://bibliotecadigitalsenac.com.br/#/?contentInfo=2795) 
 >>> - [📄 Word](https://bibliotecadigitalsenac.com.br/#/?contentInfo=2309) | [📄 atividades Word](https://www.editorasenacsp.com.br/informatica/word2019/atividades.zip)
 >>> - [📈 Excel](https://bibliotecadigitalsenac.com.br/#/busca?contentInfo=3130&term=excel) | [📄 atividades Excel](https://www.editorasenacsp.com.br/informatica/excel2019/planilhas.zip)
->>> - [📸Power Point](https://bibliotecadigitalsenac.com.br/?from=busca%3FcontentInfo%3D2304%26term%3Dpowerpoint&page=12&section=0#/legacy/2304) | [📄 atividades PowerPoint](https://www.editorasenacsp.com.br/informatica/powerpoint2019/atividades.zip)
+>>> - [📸Power Point][powerpoint]
 
 [[Principal\|Principal]]
 
 [apostila]: https://drive.google.com/file/d/1HNT1is949xITALuJXT1dwaLCbYexrIGT/view?usp=sharing
+[powerpoint]: https://bibliotecadigitalsenac.com.br/#/content/uid/d37df569-17d8-ee11-85fa-00224821b803/detail
