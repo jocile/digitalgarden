@@ -33,20 +33,20 @@ Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de t
 <!-- QueryToSerialize: TABLE dg-metatags.description AS "📄 Descrição" WHERE dg-publish SORT file.cday DESC LIMIT 12 -->
 <!-- SerializedQuery: TABLE dg-metatags.description AS "📄 Descrição" WHERE dg-publish SORT file.cday DESC LIMIT 12 -->
 
-| File                                                                                 | 📄 Descrição                                                                            |
-| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
-| [[Formacao/Formacao em PHP\|Formacao em PHP]]                                     | Lista de disciplinas da formação                                                        |
-| [[Formacao/PHP/Ecossistema PHP\|Ecossistema PHP]]                                 | é um dos maiores na área de desenvolvimento web                                         |
-| [[Formacao/Formacao em JavaScript\|Formacao em JavaScript]]                       | Lista de disciplinas da formação                                                        |
-| [[Teologia/Teologia da Igreja\|Teologia da Igreja]]                               | Doutrina que estuda a organização da igreja                                             |
-| [[Formacao/Logica/logica de programacao\|logica de programacao]]                  | É o conjunto de métodos utilizados para organizar pensamentos, raciocínios e argumentos |
-| [[Formacao/Webdesign/CSS/Grid layout\|Grid layout]]                               | oferece um sistema bidimensional para criação de um layout                              |
-| [[Formacao/Inteligencia Artificial/code smells\|code smells]]                     | são padrões no código fonte que indicam problemas e melhorias                           |
-| [[Tecnico/Ferramentas/Vscode/Autocompletar com vscode\|Autocompletar com vscode]] | pequenos trechos de código pré-definidos que podem ser inseridos rapidamente            |
-| [[Tecnico/Ferramentas/Vscode/VScode html com pt-br\|VScode html com pt-br]]       | modificar o atalho no vscode onde cria a estrutura básica do HTML                       |
-| [[Formacao/Webdesign/CSS/CSS\|CSS]]                                               | é um mecanismo utilizado para adicionar estilo a documentos web                         |
-| [[Formacao/Webdesign/CSS/Perfil com HTML e CSS\|Perfil com HTML e CSS]]           | como personalizar elementos da sua página web                                           |
-| [[Formacao/Webdesign/editores HTML online\|editores HTML online]]                 | editores de código online                                                               |
+| File                                                                                                  | 📄 Descrição                                                                            |
+| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [[Formacao/PHP/Exemplos em PHP\|Exemplos em PHP]]                                                  | exemplos de códigos de desenvolvimento web                                              |
+| [[Formacao/JavaScript/Condicionais com JavaScript\|Condicionais com JavaScript]]                   | Exemplos de scripts com tomada de decisão                                               |
+| [[Formacao/JavaScript/Repeticoes com JavaScript\|Repeticoes com JavaScript]]                       | Exemplos de scripts com loops                                                           |
+| [[Formacao/JavaScript/Manipulando elementos com JavaScript\|Manipulando elementos com JavaScript]] | Exemplos de manipulação de textos e cálculos                                            |
+| [[Formacao/Formacao em PHP\|Formacao em PHP]]                                                      | Lista de disciplinas da formação                                                        |
+| [[Formacao/PHP/Ecossistema PHP\|Ecossistema PHP]]                                                  | é um dos maiores na área de desenvolvimento web                                         |
+| [[Formacao/Formacao em JavaScript\|Formacao em JavaScript]]                                        | Lista de disciplinas da formação                                                        |
+| [[Teologia/Teologia da Igreja\|Teologia da Igreja]]                                                | Doutrina que estuda a organização da igreja                                             |
+| [[Formacao/Logica/logica de programacao\|logica de programacao]]                                   | É o conjunto de métodos utilizados para organizar pensamentos, raciocínios e argumentos |
+| [[Formacao/Inteligencia Artificial/code smells\|code smells]]                                      | são padrões no código fonte que indicam problemas e melhorias                           |
+| [[Formacao/Webdesign/CSS/Grid layout\|Grid layout]]                                                | oferece um sistema bidimensional para criação de um layout                              |
+| [[Tecnico/Ferramentas/Vscode/Autocompletar com vscode\|Autocompletar com vscode]]                  | pequenos trechos de código pré-definidos que podem ser inseridos rapidamente            |
 <!-- SerializedQuery END -->
 
 
