@@ -362,14 +362,22 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> Criar um [formulário](https://jocile.github.io/aulas/posts/expressoes-condicionais/#exemplo-de-situa%C3%A7%C3%A3o-do-aluno-em-pascal) de cadastro de usuário, que receba o nome e a senha, faça validação das entradas evitando entrada vazia e conferindo a senha.
 >
->>[!note] Aula 3.7
->> - [x] Aula 3.7 - 2025-08-18 - Introdução a programação com PHP, entrada e saída de dados com formulários e variáveis.
+>>[!note]- Aula 3.7
+>> - [x] Aula 3.7 - 2025-08-18 - Introdução a programação com PHP, entrada e saída de dados.
 >> - [Ebook Programador WEB cap. 4][ebook-programador]
 >> - [Introdução ao PHP -W3Schools](https://www.w3schools.com/php/php_intro.asp)
 >> - [Instalando o pacote XAMPP](https://www.apachefriends.org/pt_br/index.html)
 >> - [[Formacao/PHP/Exemplos em PHP\|Exemplos em PHP]]
 >>>[!todo] 🖥️ Atividade:
->>> Criar um [formulário](https://jocile.github.io/aulas/posts/expressoes-condicionais/#exemplo-de-situa%C3%A7%C3%A3o-do-aluno-em-pascal) de cadastro de curso, que receba o nome do aluno e o curso, faça validação das entradas evitando irregulares e mostre a saída dos dados na página.
+>>> Criar um programa em PHP, que receba variáveis, faça operações e mostre a saída dos dados.
+>
+>>[!note] Aula 3.8
+>> - [x] Aula 3.8 - 2025-08-19 - Estruturas de controle com PHP, entrada e saída de dados com formulários e variáveis.
+>> - [Ebook Programador WEB cap. 4][ebook-programador]
+>> - [Introdução ao PHP -W3Schools](https://www.w3schools.com/php/php_intro.asp)
+>> - [[Formacao/PHP/Exemplos em PHP\|Exemplos em PHP]]
+>>>[!todo] 🖥️ Atividade:
+>>> Criar um [formulário][formCadAlunos] de cadastro de curso, que receba o nome do aluno e o curso, faça validação das entradas evitando irregulares e mostre a saída dos dados na página.
 
 [ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
 [formCadAlunos]: https://jocile.github.io/controle-academico/
