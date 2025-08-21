@@ -371,7 +371,7 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> Criar um programa em PHP, que receba variáveis, faça operações e mostre a saída dos dados.
 >
->>[!note] Aula 3.8
+>>[!note]- Aula 3.8
 >> - [x] Aula 3.8 - 2025-08-19 - Estruturas de controle com PHP, entrada e saída de dados com formulários e variáveis.
 >> - [Ebook Programador WEB cap. 4][ebook-programador]
 >> - [Introdução ao PHP -W3Schools](https://www.w3schools.com/php/php_intro.asp)
@@ -379,7 +379,7 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> Criar um [formulário][formCadAlunos] de cadastro de curso, que receba o nome do aluno e o curso, faça validação das entradas evitando irregulares e mostre a saída dos dados na página.
 >
->>[!note] Aula 3.9
+>>[!note]- Aula 3.9
 >> - [x] Aula 3.8 - 2025-08-20 - Processando dados de formulários e operações aritméticas com PHP.
 >> - [Ebook Programador WEB cap. 4][ebook-programador]
 >> - [PHP Form Validation - W3Schools](https://www.w3schools.com/php/php_form_validation.asp)
@@ -392,7 +392,7 @@ gantt
 >>[!note] Aula 3.10
 >> - [x] Aula 3.8 - 2025-08-21 - Estruturas de controle e de repetição com PHP.
 >> - [Ebook Programador WEB cap. 4][ebook-programador]
->> - [If, else, loops com PHP - W3Schools]https://www.w3schools.com/php/php_if_else.asp)
+>> - [If, else, loops com PHP - W3Schools](https://www.w3schools.com/php/php_if_else.asp)
 >> - [Exercicios em PHP][phpExercicios]
 >>>[!todo] 🖥️ Atividade:
 >>> Criar um [formulário PHP][contAcadPHP] de cadastro de curso, com a opção de escolha de curso, e mostre na saída o turno de acordo com a escolha feita.
