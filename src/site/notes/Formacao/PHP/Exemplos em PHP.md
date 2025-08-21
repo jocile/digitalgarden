@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/php/exemplos-em-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-17T21:13:39.503-03:00"}
+{"dg-publish":true,"permalink":"/formacao/php/exemplos-em-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-19T10:18:23.685-03:00"}
 ---
 
 #PHP
@@ -119,7 +119,7 @@ Quando uma variável é atribuída a outra, sempre é criada uma nova área de a
 ```php
 <?php
 $a = 5;
-$b = $a:
+$b = $a;
 $b = 10;
 echo $a; // resultado = 5
 echo $b; // resultado = 10
@@ -288,6 +288,7 @@ percorreu mais 50 do total de 350
 ```php
 <?php
 $var = 5; // Atribui o valor 5 a $var;
+$var++;   // Soma +1 ao valor de $var;
 $var += 5: // Soma 5 em $var;
 $var -= 5; // Subtrai 5 em $var;
 $var *=5; // Multiplica $var por 5;

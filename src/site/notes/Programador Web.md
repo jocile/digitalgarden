@@ -378,9 +378,29 @@ gantt
 >> - [[Formacao/PHP/Exemplos em PHP\|Exemplos em PHP]]
 >>>[!todo] 🖥️ Atividade:
 >>> Criar um [formulário][formCadAlunos] de cadastro de curso, que receba o nome do aluno e o curso, faça validação das entradas evitando irregulares e mostre a saída dos dados na página.
+>
+>>[!note] Aula 3.9
+>> - [x] Aula 3.8 - 2025-08-20 - Processando dados de formulários e operações aritméticas com PHP.
+>> - [Ebook Programador WEB cap. 4][ebook-programador]
+>> - [PHP Form Validation - W3Schools](https://www.w3schools.com/php/php_form_validation.asp)
+>> - [Estilos de formulários com Bootstrap](https://www.w3schools.com/bootstrap5/bootstrap_forms.php)
+>> - [Exercicios em PHP][phpExercicios]
+>>>[!todo] 🖥️ Atividade:
+>>> Criar um [formulário PHP][contAcadPHP] de cadastro de curso, que receba o nome do aluno e o curso, faça validação das entradas evitando irregulares e mostre a saída dos dados na página.
+>>> Criar um [formulário PHP][contAcadPHP] que receba o nome do aluno, 2 notas, faça validação das entradas evitando notas negativas ou maiores que 10, e mostre a saída dos dados na própria página com a soma, média e resultado se aprovado com média maior ou igual a 7.
+>
+>>[!note] Aula 3.10
+>> - [x] Aula 3.8 - 2025-08-21 - Estruturas de controle e de repetição com PHP.
+>> - [Ebook Programador WEB cap. 4][ebook-programador]
+>> - [If, else, loops com PHP - W3Schools]https://www.w3schools.com/php/php_if_else.asp)
+>> - [Exercicios em PHP][phpExercicios]
+>>>[!todo] 🖥️ Atividade:
+>>> Criar um [formulário PHP][contAcadPHP] de cadastro de curso, com a opção de escolha de curso, e mostre na saída o turno de acordo com a escolha feita.
 
 [ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
 [formCadAlunos]: https://jocile.github.io/controle-academico/
+[contAcadPHP]: https://github.com/jocile/controle-academico/tree/main/php
+[phpExercicios]: https://github.com/jocile/php-exercicios
 [w3-js]: https://www.w3schools.com/js/js_intro.asp
 
 
