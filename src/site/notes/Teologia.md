@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/","title":"Teologia","metatags":{"description":"Estudos teológicos da Bíblia"},"contentClasses":"cards","noteIcon":2,"updated":"2025-08-22T07:42:25.643-03:00"}
+{"dg-publish":true,"permalink":"/teologia/","title":"Teologia","metatags":{"description":"Estudos teológicos da Bíblia"},"contentClasses":"cards","noteIcon":2,"updated":"2025-08-23T20:43:04.948-03:00"}
 ---
 
 
@@ -10,6 +10,10 @@
 
 | Data     | 📖 Páginas em Teologia                                                                                                         | 📄 Descrição                                                                                                                                                                                    |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 23.08.25 | [[Teologia/Historia dos Hebreus/Primeira Revolta Judaica\|Primeira Revolta Judaica]]                                        | figuras importantes mencionadas nos Evangelhos e Atos dos Apóstolos                                                                                                                             |
+| 23.08.25 | [[Teologia/Historia dos Hebreus/Historia do povo Hebreu\|Historia do povo Hebreu]]                                          | suas origens genealógicas até os grandes eventos que moldaram sua trajetória                                                                                                                    |
+| 23.08.25 | [[Teologia/Historia dos Hebreus/Personagens biblicos\|Personagens biblicos]]                                                | figuras importantes mencionadas nos Evangelhos e Atos dos Apóstolos                                                                                                                             |
+| 23.08.25 | [[Teologia/Historia dos Hebreus/A Historia dos Hebreus\|A Historia dos Hebreus]]                                            | As obras de Josefo são consideradas uma das principais fontes de informações sobre os impérios da Antiguidade                                                                                   |
 | 21.08.25 | [[Teologia/Escatologia/Diferencas entre Israel e a Igreja\|Diferencas entre Israel e a Igreja]]                             | o plano de Deus para Israel e o seu plano para a Igreja.                                                                                                                                        |
 | 21.08.25 | [[Teologia/Escatologia/Diferencas-entre-Israel-e-a-igreja-no-Apocalipse\|Diferencas-entre-Israel-e-a-igreja-no-Apocalipse]] | o plano de Deus para Israel e o seu plano para a Igreja.                                                                                                                                        |
 | 01.08.25 | [[Teologia/Teologia da Igreja\|Teologia da Igreja]]                                                                         | Doutrina que estuda a organização da igreja                                                                                                                                                     |
