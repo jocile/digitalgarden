@@ -401,9 +401,9 @@ gantt
 >>[!note] Aula 3.11
 >> - [x] Aula 3.10 - 2025-08-21 - Persistência de dados com PHP, acessando e salvando arquivos.
 >> - [Ebook Programador WEB cap. 4][ebook-programador]
->> - [PHP include e require](https://www.w3schools.com/php/php_includes.asp)
->> - [PHP File Open/Read/Close](https://www.w3schools.com/php/php_file_open.asp)
->> - [PHP and JSON](https://www.w3schools.com/php/php_json.asp)
+>> - [Incluindo arquivos usando PHP include e require](https://www.w3schools.com/php/php_includes.asp)
+>> - [Salvando e lendo arquivos com PHP](https://www.w3schools.com/php/php_file_open.asp)
+>> - [Formado de dados em JSON com PHP](https://www.w3schools.com/php/php_json.asp)
 >> - [Exercícios em PHP][phpExercicios]
 >>>[!todo] 🖥️ Atividade:
 >>> Editar o [formulário PHP][contAcadPHP] de cadastro de alunos, salvar a lista criada em formato JSON em um arquivo txt.

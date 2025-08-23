@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/php/exemplos-em-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-19T10:18:23.685-03:00"}
+{"dg-publish":true,"permalink":"/formacao/php/exemplos-em-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-22T08:14:27.667-03:00"}
 ---
 
 #PHP
@@ -29,7 +29,7 @@ Para comentar muitas linhas:
 
 ```php
 /* echo "a";
-echo "b */
+echo "b" */
 ```
 
 ## Saída
@@ -72,7 +72,7 @@ Imprime o conteúdo de uma variável de forma explanativa, assim como a `var_dum
 
 ```php
 $vetor = array('Palio', 'Gol', 'Fiesta', 'Corsa');
-print_r(Svetor);
+print_r($vetor);
 ```
 
 Resultado:
@@ -245,10 +245,10 @@ Todas as variáveis declaradas dentro do escopo de uma função são locais. Par
 ```php
 <?php
 $total = 0;
-function km2mi($quilometros)
-global $total;
-$total += $quilometros;
-return Squilometros * 0.6;
+function km2mi($quilometros) {
+  global $total;
+  $total += $quilometros;
+  return $quilometros * 0.6;
 }
 echo 'percorreu'. km2mi(100). " milhas \n";
 echo 'percorreu'. km2mi (200)."milhas \n";
@@ -268,7 +268,7 @@ Dentro do escopo de uma função podemos armazenar variáveis de forma estática
 ```php
 function percorre($quilometros)
 {
-  static Stotal;
+  static $total;
   $total += $quilometros;
   echo "percorreu mais Squilometros do total de Stotal\n";
 }
@@ -335,7 +335,7 @@ $a = 1234;
 $b = '1234';
 if ($a == $b)
 }
-	echo '$a e Sb são iguais';
+	echo '$a e $b são iguais';
 }
 else if ($a != $b)
 {

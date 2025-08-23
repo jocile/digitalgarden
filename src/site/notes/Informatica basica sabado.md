@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-08-16T08:18:04.269-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-08-23T07:26:15.390-03:00"}
 ---
 
 
@@ -187,7 +187,7 @@ gantt
 >>> - Classificando a planilha de funcionários por empresa, departamento e cargo (pg. 163).
 >>> - Criando uma planilha de tabuada aritmética (pg. 168).
 >
->>[!note] Aula em 16/08
+>>[!note]- Aula em 16/08
 >> - [x] Aula 16 - 2025-08-16
 >> - [📑Apostila][apostila] a partir da pg. 171, Editor de planilhas Excel:
 >> - Funções condicionais: "se"
@@ -198,8 +198,8 @@ gantt
 >>> - Criando planilha de cesta básica com cálculo de total de reajuste por porcentagem.
 >>> - Criando planilha com cálculo de índice de massa corpórea usando referência absoluta e condicionais para mostrar o resultado.
 >
->>[!note]- Aula em 23/08
->>- [ ] Aula 16 - 2025-08-23
+>>[!note] Aula em 23/08
+>>- [x] Aula 16 - 2025-08-23
 >> - [📸Livro da Biblioteca Virtual SENAC do Power Point][powerpoint] cap. 1 a 3:
 >> - Conhecendo a interface do Power Point;
 >> - Criando slides, adicionando e formatando elementos, como tabelas, formas e gráficos.
