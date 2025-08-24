@@ -390,7 +390,7 @@ gantt
 >>> Criar um [formulário PHP][contAcadPHP] que receba o nome do aluno, 2 notas, faça validação das entradas evitando notas negativas ou maiores que 10, e mostre a saída dos dados na própria página com a soma, média e resultado se aprovado com média maior ou igual a 7.
 >
 >>[!note]- Aula 3.10
->> - [x] Aula 3.10 - 2025-08-21 - Estruturas de controle e de repetição com PHP.
+>> - [x] Aula 3.10 - 2025-08-21 - Estruturas de controle e de [[Formacao/PHP/Repeticao com PHP\|Repeticao com PHP]] .
 >> - [Ebook Programador WEB cap. 4][ebook-programador]
 >> - [If, else, loops com PHP - W3Schools](https://www.w3schools.com/php/php_if_else.asp)
 >> - [Algoritmos de exercícios de Expressões condicionais](https://jocile.github.io/aulas/posts/expressoes-condicionais/)
@@ -398,8 +398,8 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> Criar um [formulário PHP][contAcadPHP] de cadastro de curso, com a opção de escolha de curso, e mostre na saída o turno de acordo com a escolha feita.
 >
->>[!note] Aula 3.11
->> - [x] Aula 3.10 - 2025-08-21 - Persistência de dados com PHP, acessando e salvando arquivos.
+>>[!note]- Aula 3.11
+>> - [x] Aula 3.11 - 2025-08-22 - Persistência de dados com PHP, acessando e salvando arquivos.
 >> - [Ebook Programador WEB cap. 4][ebook-programador]
 >> - [Incluindo arquivos usando PHP include e require](https://www.w3schools.com/php/php_includes.asp)
 >> - [Salvando e lendo arquivos com PHP](https://www.w3schools.com/php/php_file_open.asp)
@@ -407,6 +407,16 @@ gantt
 >> - [Exercícios em PHP][phpExercicios]
 >>>[!todo] 🖥️ Atividade:
 >>> Editar o [formulário PHP][contAcadPHP] de cadastro de alunos, salvar a lista criada em formato JSON em um arquivo txt.
+>
+>>[!note] Aula 3.12
+>> - [x] Aula 3.12 - 2025-08-24 - programação Orientada a Objetos [[Formacao/PHP/POO com PHP\|POO com PHP]].
+>> - [[Formacao/PHP/Repeticao com PHP\|Repeticao com PHP]] / [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]] / [[Formacao/PHP/Metodos com PHP\|Metodos com PHP]]
+>> - [Ebook Programador WEB cap. 4][ebook-programador]
+>> - [PHP OOP Intro](https://www.w3schools.com/php/php_oop_what_is.asp)
+>> - [PHP: Classes e Objetos - Manual](https://www.php.net/manual/pt_BR/language.oop5.php)
+>>>[!todo] 🖥️ Atividades:
+>>> [[Formacao/PHP/Cadastrando alunos com PHP\|Cadastrando alunos com PHP]]
+>>> [[Formacao/PHP/Cadastrando nome e curso com PHP\|Cadastrando nome e curso com PHP]]
 
 [ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
 [formCadAlunos]: https://jocile.github.io/controle-academico/

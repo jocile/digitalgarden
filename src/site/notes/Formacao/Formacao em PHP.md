@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-php/","title":"Formação em PHP","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-06T23:03:58.493-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-php/","title":"Formação em PHP","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-24T19:23:21.657-03:00"}
 ---
 
 #PHP #mapa #Lógica #Formação #web-developer
@@ -18,14 +18,14 @@
 > - Introdução ao Desenvolvimento Moderno de Software
 > - Introdução à Programação e Pensamento Computacional
 > - Introdução ao [[Formacao/PHP/Ecossistema PHP\|Ecossistema PHP]] e [Documentação](https://www.php.net/manual/pt_BR/)
-> - Tipos de Variáveis em PHP
-> - Estruturas Condicionais e de Repetição em PHP
+> - Tipos de Variáveis em PHP: [[Formacao/PHP/Exemplos em PHP\|Exemplos em PHP]]
+> - Estruturas [[Formacao/PHP/Condicionais em PHP\|Condicionais em PHP]] e de [[Formacao/PHP/Repeticao com PHP\|Repeticao com PHP]]
 > - Desafio de código - Formação PHP - Desafios Básicos
 
 > [!summary]- Tratamento de Exceções e Programação Orientada a Objetos em PHP
 > - Debug e Tratamento de Exceções em PHP
 > - Gerenciamento de Pacotes em PHP com Composer
-> - Programação Orientada a Objetos com PHP
+> - Programação Orientada a Objetos com PHP: [[Formacao/PHP/POO com PHP\|POO com PHP]], [[Formacao/PHP/Classes em PHP\|Classes em PHP]], [[Formacao/PHP/Metodos com PHP\|Metodos com PHP]], [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]].
 > - Desafio de código - Formação PHP - Desafios Intermediários
 
 > [!summary]- Boas Práticas PHP e Desenvolvimento de APIs com Laravel

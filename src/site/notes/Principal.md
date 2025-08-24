@@ -33,20 +33,20 @@ Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de t
 <!-- QueryToSerialize: TABLE dg-metatags.description AS "📄 Descrição" WHERE dg-publish SORT file.cday DESC LIMIT 12 -->
 <!-- SerializedQuery: TABLE dg-metatags.description AS "📄 Descrição" WHERE dg-publish SORT file.cday DESC LIMIT 12 -->
 
-| File                                                                                                  | 📄 Descrição                                                                            |
-| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| [[Teologia/Historia dos Hebreus/Historia do povo Hebreu\|Historia do povo Hebreu]]                 | suas origens genealógicas até os grandes eventos que moldaram sua trajetória            |
-| [[Teologia/Escatologia/Diferencas entre Israel e a Igreja\|Diferencas entre Israel e a Igreja]]    | o plano de Deus para Israel e o seu plano para a Igreja.                                |
-| [[Formacao/PHP/Exemplos em PHP\|Exemplos em PHP]]                                                  | exemplos de códigos de desenvolvimento web                                              |
-| [[Formacao/JavaScript/Condicionais com JavaScript\|Condicionais com JavaScript]]                   | Exemplos de scripts com tomada de decisão                                               |
-| [[Formacao/JavaScript/Repeticoes com JavaScript\|Repeticoes com JavaScript]]                       | Exemplos de scripts com loops                                                           |
-| [[Formacao/JavaScript/Manipulando elementos com JavaScript\|Manipulando elementos com JavaScript]] | Exemplos de manipulação de textos e cálculos                                            |
-| [[Formacao/Formacao em PHP\|Formacao em PHP]]                                                      | Lista de disciplinas da formação                                                        |
-| [[Formacao/PHP/Ecossistema PHP\|Ecossistema PHP]]                                                  | é um dos maiores na área de desenvolvimento web                                         |
-| [[Formacao/Formacao em JavaScript\|Formacao em JavaScript]]                                        | Lista de disciplinas da formação                                                        |
-| [[Teologia/Teologia da Igreja\|Teologia da Igreja]]                                                | Doutrina que estuda a organização da igreja                                             |
-| [[Formacao/Logica/logica de programacao\|logica de programacao]]                                   | É o conjunto de métodos utilizados para organizar pensamentos, raciocínios e argumentos |
-| [[Formacao/Inteligencia Artificial/code smells\|code smells]]                                      | são padrões no código fonte que indicam problemas e melhorias                           |
+| File                                                                                               | 📄 Descrição                                                                 |
+| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [[Formacao/PHP/Metodos com PHP\|Metodos com PHP]]                                               | exemplos de códigos de desenvolvimento web                                   |
+| [[Formacao/PHP/Classes em PHP\|Classes em PHP]]                                                 | exemplos de códigos de desenvolvimento web                                   |
+| [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]]                                       | exemplos de códigos de desenvolvimento web                                   |
+| [[Formacao/PHP/POO com PHP\|POO com PHP]]                                                       | exemplos de códigos de desenvolvimento web                                   |
+| [[Formacao/PHP/Repeticao com PHP\|Repeticao com PHP]]                                           | exemplos de códigos de desenvolvimento web                                   |
+| [[Formacao/PHP/Condicionais em PHP\|Condicionais em PHP]]                                       | exemplos de códigos de desenvolvimento web                                   |
+| [[Formacao/PHP/Cadastrando alunos com PHP\|Cadastrando alunos com PHP]]                         | exemplos de códigos de desenvolvimento web                                   |
+| [[Formacao/PHP/Cadastrando nome e curso com PHP\|Cadastrando nome e curso com PHP]]             | exemplos de códigos de desenvolvimento web                                   |
+| [[Teologia/Historia dos Hebreus/Historia do povo Hebreu\|Historia do povo Hebreu]]              | suas origens genealógicas até os grandes eventos que moldaram sua trajetória |
+| [[Teologia/Escatologia/Diferencas entre Israel e a Igreja\|Diferencas entre Israel e a Igreja]] | o plano de Deus para Israel e o seu plano para a Igreja.                     |
+| [[Formacao/PHP/Exemplos em PHP\|Exemplos em PHP]]                                               | exemplos de códigos de desenvolvimento web                                   |
+| [[Formacao/JavaScript/Condicionais com JavaScript\|Condicionais com JavaScript]]                | Exemplos de scripts com tomada de decisão                                    |
 <!-- SerializedQuery END -->
 
 
