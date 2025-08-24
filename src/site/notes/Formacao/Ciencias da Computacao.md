@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ciencias-da-computacao/","title":"Bacharel em Ciências da Computação","metatags":{"description":"Lista de disciplinas da formação"},"contentClasses":"row-lines row-hover","noteIcon":"default","updated":"2025-08-06T21:11:54.891-03:00"}
+{"dg-publish":true,"permalink":"/formacao/ciencias-da-computacao/","title":"Bacharel em Ciências da Computação","metatags":{"description":"Lista de disciplinas da formação"},"contentClasses":"row-lines row-hover","noteIcon":"default","updated":"2025-08-24T20:22:54.621-03:00"}
 ---
 
 #Formação #mapa

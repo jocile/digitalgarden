@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-php/","title":"Formação em PHP","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-24T19:23:21.657-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-php/","title":"Formação em PHP","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-24T20:19:29.888-03:00"}
 ---
 
 #PHP #mapa #Lógica #Formação #web-developer

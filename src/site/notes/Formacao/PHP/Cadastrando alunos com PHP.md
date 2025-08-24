@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/php/cadastrando-alunos-com-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-24T19:48:16.247-03:00"}
+{"dg-publish":true,"permalink":"/formacao/php/cadastrando-alunos-com-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-24T20:18:21.069-03:00"}
 ---
 
 #PHP #POO
