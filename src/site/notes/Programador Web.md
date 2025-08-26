@@ -409,9 +409,17 @@ gantt
 >>> Editar o [formulário PHP][contAcadPHP] de cadastro de alunos, salvar a lista criada em formato JSON em um arquivo txt.
 >
 >>[!note] Aula 3.12
->> - [x] Aula 3.12 - 2025-08-24 - programação Orientada a Objetos [[Formacao/PHP/POO com PHP\|POO com PHP]].
->> - [[Formacao/PHP/Repeticao com PHP\|Repeticao com PHP]] / [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]] / [[Formacao/PHP/Metodos com PHP\|Metodos com PHP]]
->> - [Ebook Programador WEB cap. 4][ebook-programador]
+>> - [x] Aula 3.12 - 2025-08-25 - Listas e repetições com PHP.
+>> - [[Formacao/PHP/Repeticao com PHP\|Repeticao com PHP]]
+>> - [PHP Arrays](https://www.w3schools.com/php/php_arrays.asp)
+>> - [PHP: Arrays - Manual](https://www.php.net/manual/pt_BR/language.types.array.php)
+>>>[!todo] 🖥️ Atividades:
+>>> [[Formacao/PHP/Exercicios com listas\|Exercicios com listas]] 
+>>> [Cadastrando alunos em uma lista e salvando em um arquivo](https://github.com/jocile/php-exercicios/blob/main/lista.php).
+>
+>>[!note] Aula 3.13
+>> - [x] Aula 3.13 - 2025-08-26 - programação Orientada a Objetos [[Formacao/PHP/POO com PHP\|POO com PHP]].
+>> - [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]] / [[Formacao/PHP/Metodos com PHP\|Metodos com PHP]]
 >> - [PHP OOP Intro](https://www.w3schools.com/php/php_oop_what_is.asp)
 >> - [PHP: Classes e Objetos - Manual](https://www.php.net/manual/pt_BR/language.oop5.php)
 >>>[!todo] 🖥️ Atividades:

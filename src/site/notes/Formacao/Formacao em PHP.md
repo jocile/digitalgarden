@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-php/","title":"Formação em PHP","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-24T20:19:29.888-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-php/","title":"Formação em PHP","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-25T18:57:27.082-03:00"}
 ---
 
 #PHP #mapa #Lógica #Formação #web-developer
@@ -29,9 +29,9 @@
 > - Desafio de código - Formação PHP - Desafios Intermediários
 
 > [!summary]- Boas Práticas PHP e Desenvolvimento de APIs com Laravel
-Orientação a Objetos, Exceções e Banco de Dados com PHP
-Introdução a APIs e REST com PHP
-Desenvolvimento Avançado em PHP
-Desafio de projeto - Laravel: Construindo uma API do Zero
+> - Orientação a Objetos, Exceções e Banco de Dados com PHP
+> - Introdução a APIs e REST com PHP
+> - Desenvolvimento Avançado em PHP
+> - Desafio de projeto - Laravel: Construindo uma API do Zero
 
 [[Formacao/Formacao Overview\|Formacao Overview]]

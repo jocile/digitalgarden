@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-08-23T07:26:15.390-03:00"}
+{"dg-publish":true,"permalink":"/informatica-basica-sabado/","title":"Informática básica sábado","metatags":{"description":"Curso Informática básica"},"tags":["Aulas","Informatica-basica","Senac","curso"],"noteIcon":2,"updated":"2025-08-25T20:50:19.326-03:00"}
 ---
 
 
@@ -199,7 +199,7 @@ gantt
 >>> - Criando planilha com cálculo de índice de massa corpórea usando referência absoluta e condicionais para mostrar o resultado.
 >
 >>[!note] Aula em 23/08
->>- [x] Aula 16 - 2025-08-23
+>>- [x] Aula 17 - 2025-08-23
 >> - [📸Livro da Biblioteca Virtual SENAC do Power Point][powerpoint] cap. 1 a 3:
 >> - Conhecendo a interface do Power Point;
 >> - Criando slides, adicionando e formatando elementos, como tabelas, formas e gráficos.
