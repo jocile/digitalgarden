@@ -35,18 +35,18 @@ Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de t
 
 | File                                                                                               | 📄 Descrição                                                                 |
 | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| [[Formacao/PHP/Metodos com PHP\|Metodos com PHP]]                                               | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/PHP/Classes em PHP\|Classes em PHP]]                                                 | exemplos de códigos de desenvolvimento web                                   |
+| [[Formacao/PHP/Exercicios com listas\|Exercicios com listas]]                                   | exemplos de códigos de desenvolvimento web                                   |
+| [[Formacao/PHP/Condicionais em PHP\|Condicionais em PHP]]                                       | exemplos de códigos de desenvolvimento web                                   |
 | [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]]                                       | exemplos de códigos de desenvolvimento web                                   |
+| [[Formacao/PHP/Classes em PHP\|Classes em PHP]]                                                 | exemplos de códigos de desenvolvimento web                                   |
+| [[Formacao/PHP/Cadastrando nome e curso com PHP\|Cadastrando nome e curso com PHP]]             | exemplos de códigos de desenvolvimento web                                   |
+| [[Formacao/PHP/Cadastrando alunos com PHP\|Cadastrando alunos com PHP]]                         | exemplos de códigos de desenvolvimento web                                   |
+| [[Formacao/PHP/Metodos com PHP\|Metodos com PHP]]                                               | exemplos de códigos de desenvolvimento web                                   |
 | [[Formacao/PHP/POO com PHP\|POO com PHP]]                                                       | exemplos de códigos de desenvolvimento web                                   |
 | [[Formacao/PHP/Repeticao com PHP\|Repeticao com PHP]]                                           | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/PHP/Condicionais em PHP\|Condicionais em PHP]]                                       | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/PHP/Cadastrando alunos com PHP\|Cadastrando alunos com PHP]]                         | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/PHP/Cadastrando nome e curso com PHP\|Cadastrando nome e curso com PHP]]             | exemplos de códigos de desenvolvimento web                                   |
 | [[Teologia/Historia dos Hebreus/Historia do povo Hebreu\|Historia do povo Hebreu]]              | suas origens genealógicas até os grandes eventos que moldaram sua trajetória |
 | [[Teologia/Escatologia/Diferencas entre Israel e a Igreja\|Diferencas entre Israel e a Igreja]] | o plano de Deus para Israel e o seu plano para a Igreja.                     |
 | [[Formacao/PHP/Exemplos em PHP\|Exemplos em PHP]]                                               | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/JavaScript/Condicionais com JavaScript\|Condicionais com JavaScript]]                | Exemplos de scripts com tomada de decisão                                    |
 <!-- SerializedQuery END -->
 
 

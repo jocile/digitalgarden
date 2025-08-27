@@ -408,7 +408,7 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> Editar o [formulário PHP][contAcadPHP] de cadastro de alunos, salvar a lista criada em formato JSON em um arquivo txt.
 >
->>[!note] Aula 3.12
+>>[!note]- Aula 3.12
 >> - [x] Aula 3.12 - 2025-08-25 - Listas e repetições com PHP.
 >> - [[Formacao/PHP/Repeticao com PHP\|Repeticao com PHP]]
 >> - [PHP Arrays](https://www.w3schools.com/php/php_arrays.asp)
@@ -418,7 +418,24 @@ gantt
 >>> [Cadastrando alunos em uma lista e salvando em um arquivo](https://github.com/jocile/php-exercicios/blob/main/lista.php).
 >
 >>[!note] Aula 3.13
->> - [x] Aula 3.13 - 2025-08-26 - programação Orientada a Objetos [[Formacao/PHP/POO com PHP\|POO com PHP]].
+>> - [x] Aula 3.13 - 2025-08-26 - Introdução ao banco de dados MySQL [[Formacao/PHP/POO com PHP\|POO com PHP]].
+>> - [Ebook Programador WEB cap. 5][ebook-programador]
+>> - [PHP: MySQL Database](https://www.w3schools.com/php/php_mysql_intro.asp)
+>> - [PHP: MySQL - Manual](https://www.php.net/manual/pt_BR/set.mysqlinfo.php)
+>>>[!todo] 🖥️ Atividades:
+>>> [Criar um Banco de Dados](https://github.com/jocile/controle-academico/blob/main/php/criarBD.php) `sis_academico` com PTP e MySQL, seguindo o exemplo do livro.
+>>> [Criar uma tabela para cadastro de alunos com PHP e MYSQL](https://github.com/jocile/controle-academico/blob/main/php/criarTabela.php).
+>
+>>[!note] Aula 3.14
+>> - [x] Aula 3.14 - 2025-08-27 - Criando um CRUD com banco de dados MySQL.
+>> - [Ebook Programador WEB cap. 5][ebook-programador]
+>> - [PHP MySQL Insert Data](https://www.w3schools.com/php/php_mysql_insert.asp)
+>>>[!todo] 🖥️ Atividades:
+>>> [[Formacao/PHP/Cadastrando alunos com PHP\|Cadastrando alunos com PHP]] e salvando em Banco de Dados;
+>>> [[Formacao/PHP/Cadastrando nome e curso com PHP\|Cadastrando nome e curso com PHP]] e salvando em Banco de Dados.
+>
+>>[!note]- Aula 3.15
+>> - [ ] Aula 3.15 - 2025-08-28 - programação Orientada a Objetos [[Formacao/PHP/POO com PHP\|POO com PHP]].
 >> - [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]] / [[Formacao/PHP/Metodos com PHP\|Metodos com PHP]]
 >> - [PHP OOP Intro](https://www.w3schools.com/php/php_oop_what_is.asp)
 >> - [PHP: Classes e Objetos - Manual](https://www.php.net/manual/pt_BR/language.oop5.php)
