@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/historia-do-povo-hebreu/","metatags":{"description":"suas origens genealógicas até os grandes eventos que moldaram sua trajetória"},"noteIcon":2,"updated":"2025-08-23T20:38:06.518-03:00"}
+{"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/historia-do-povo-hebreu/","metatags":{"description":"suas origens genealógicas até os grandes eventos que moldaram sua trajetória"},"noteIcon":2,"updated":"2025-08-27T18:32:36.138-03:00"}
 ---
 
-#Teologia/Historia
+#Teologia/Historia #Hebreus
 
 ## Breve Histórico do Povo Hebreu: Das Origens Patriarcais à Diáspora
 
@@ -115,3 +115,6 @@ O curso segue um cronograma abrangente:
 
 - [HISTÓRIA DO POVO HEBREU 1 AULA - YouTube](https://www.youtube.com/watch?v=S92uBge2WuI)
 - [[Teologia\|Teologia]]
+- [[Teologia/Historia dos Hebreus/Linha do tempo dos Hebreus\|Linha do tempo dos Hebreus]]
+- [[Teologia/Historia dos Hebreus/Cronologia da Historia dos Hebreus\|Cronologia da Historia dos Hebreus]]
+- [[Teologia/Historia dos Hebreus/Alianças de Deus com os Hebreus\|Alianças de Deus com os Hebreus]]

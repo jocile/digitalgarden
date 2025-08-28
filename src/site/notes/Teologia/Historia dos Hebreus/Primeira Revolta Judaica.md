@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/primeira-revolta-judaica/","metatags":{"description":"figuras importantes mencionadas nos Evangelhos e Atos dos Apóstolos"},"noteIcon":2,"updated":"2025-08-23T20:42:10.835-03:00"}
+{"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/primeira-revolta-judaica/","metatags":{"description":"figuras importantes mencionadas nos Evangelhos e Atos dos Apóstolos"},"noteIcon":2,"updated":"2025-08-27T18:33:37.640-03:00"}
 ---
 
-#Teologia/Historia
+#Teologia/Historia #Judeus
 
 Flávio Josefo, através de suas obras "Antiguidades Judaicas" e "A Guerra dos Judeus", oferece um relato detalhado e perspicaz desses eventos. Sua narrativa, embora às vezes criticada por sua aparente defesa dos romanos, permanece uma fonte indispensável para entender esse período crucial da história judaica e do cristianismo.
 
 Esse texto foi criado com o GPT Doutor em Teologia, usando o seguinte Prompt:\
 Continue, agora como o documento conta a primeira revolta judaica, organize em forma de artigo histórico, iniciando com um cronograma dos passos do acontecimento narrado.
 
-## Cronograma da Primeira Revolta Judaica (66-70 d.C.)
+# Cronograma da Primeira Revolta Judaica (66-70 d.C.)
 
 1. **66 d.C. - Início da Revolta**
    - Irrompe a revolta dos judeus contra o domínio romano.
@@ -61,3 +61,5 @@ A resistência judaica persistiu até 73 d.C., quando a fortaleza de Massada, de
 ## Conclusão
 
 A Primeira Revolta Judaica teve consequências duradouras para o povo judeu e para o cristianismo. A destruição do Templo transformou a prática judaica, deslocando o foco para a sinagoga e a lei rabínica. Para os cristãos, os eventos da revolta foram interpretados como a confirmação das profecias de Jesus, fortalecendo a fé nas escrituras cristãs.
+
+[[Teologia\|Teologia]]

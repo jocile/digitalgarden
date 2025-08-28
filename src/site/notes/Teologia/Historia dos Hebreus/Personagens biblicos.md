@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/personagens-biblicos/","metatags":{"description":"figuras importantes mencionadas nos Evangelhos e Atos dos Apóstolos"},"noteIcon":2,"updated":"2025-08-23T20:20:32.698-03:00"}
+{"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/personagens-biblicos/","metatags":{"description":"figuras importantes mencionadas nos Evangelhos e Atos dos Apóstolos"},"noteIcon":2,"updated":"2025-08-27T18:33:17.526-03:00"}
 ---
 
 #Teologia/Historia
@@ -79,3 +79,5 @@ Cronologia:
 ## Conclusão
 
 Os relatos de Flávio Josefo sobre essas figuras bíblicas fornecem um contexto histórico valioso que complementa e confirma os relatos dos Evangelhos e Atos dos Apóstolos. Suas descrições oferecem uma visão mais ampla das complexas interações políticas e sociais da época, enriquecendo nossa compreensão da história e do desenvolvimento inicial do cristianismo. A precisão e a riqueza de detalhes em seus escritos tornam Josefo uma fonte indispensável para estudiosos e interessados na história do judaísmo e do cristianismo.
+
+[[Teologia\|Teologia]]

@@ -427,15 +427,21 @@ gantt
 >>> [Criar uma tabela para cadastro de alunos com PHP e MYSQL](https://github.com/jocile/controle-academico/blob/main/php/criarTabela.php).
 >
 >>[!note] Aula 3.14
->> - [x] Aula 3.14 - 2025-08-27 - Criando um CRUD com banco de dados MySQL.
+>> - [x] Aula 3.14 - 2025-08-27 - Criando um CRUD com banco de dados MySQL, criando o Banco de Dados e as tabelas.
 >> - [Ebook Programador WEB cap. 5][ebook-programador]
 >> - [PHP MySQL Insert Data](https://www.w3schools.com/php/php_mysql_insert.asp)
 >>>[!todo] 🖥️ Atividades:
->>> [[Formacao/PHP/Cadastrando alunos com PHP\|Cadastrando alunos com PHP]] e salvando em Banco de Dados;
->>> [[Formacao/PHP/Cadastrando nome e curso com PHP\|Cadastrando nome e curso com PHP]] e salvando em Banco de Dados.
+>>> [Cadastrando alunos e cursos com PHP e salvando em Banco de Dados MySQL](https://github.com/jocile/controle-academico/blob/main/php/criarBD_completo.php);
 >
->>[!note]- Aula 3.15
->> - [ ] Aula 3.15 - 2025-08-28 - programação Orientada a Objetos [[Formacao/PHP/POO com PHP\|POO com PHP]].
+>>[!note] Aula 3.15
+>> - [x] Aula 3.15 - 2025-08-28 - Criando um CRUD com banco de dados MySQL, inserindo e atualizando dados na tabela.
+>> - [Ebook Programador WEB cap. 5][ebook-programador]
+>> - [PHP MySQL Insert Data](https://www.w3schools.com/php/php_mysql_insert.asp)
+>>>[!todo] 🖥️ Atividades:
+>>> [Cadastrando alunos e cursos com PHP e salvando em Banco de Dados MySQL](https://github.com/jocile/controle-academico/blob/main/php/criarBD_completo.php);
+>
+>>[!note]- Aula 3.16
+>> - [ ] Aula 3.16 - 2025-08-29 - programação Orientada a Objetos [[Formacao/PHP/POO com PHP\|POO com PHP]].
 >> - [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]] / [[Formacao/PHP/Metodos com PHP\|Metodos com PHP]]
 >> - [PHP OOP Intro](https://www.w3schools.com/php/php_oop_what_is.asp)
 >> - [PHP: Classes e Objetos - Manual](https://www.php.net/manual/pt_BR/language.oop5.php)

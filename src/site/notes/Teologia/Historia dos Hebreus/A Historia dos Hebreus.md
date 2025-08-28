@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/a-historia-dos-hebreus/","metatags":{"description":"As obras de Josefo são consideradas uma das principais fontes de informações sobre os impérios da Antiguidade"},"noteIcon":2,"updated":"2025-08-23T20:17:47.862-03:00"}
+{"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/a-historia-dos-hebreus/","metatags":{"description":"As obras de Josefo são consideradas uma das principais fontes de informações sobre os impérios da Antiguidade"},"noteIcon":2,"updated":"2025-08-27T18:30:52.050-03:00"}
 ---
 
-#Teologia/Historia
+#Teologia/Historia #Hebreus
 
 ## A História dos Hebreus de Flávio Josefo
 
@@ -40,4 +40,4 @@ A sua abordagem, combinando rigor histórico com uma profunda percepção espiri
 
 Como teólogo, eu aprecio a maneira como Josefo trata a história não apenas como uma série de eventos, mas como um testemunho da ação divina na humanidade. Sua obra nos lembra da importância de preservar e aprender com nosso passado para compreender o presente e o futuro. Em um mundo onde as divisões e conflitos são prevalentes, os escritos de Josefo nos oferecem lições valiosas sobre a importância da unidade, da justiça e da fé inabalável em tempos de adversidade.
 
-[Cronologia da Historia dos Hebreus](Cronologia%20da%20Historia%20dos%20Hebreus.md)
+[[Teologia\|Teologia]] / [[Teologia/Historia dos Hebreus/Cronologia da Historia dos Hebreus\|Cronologia da Historia dos Hebreus]]
