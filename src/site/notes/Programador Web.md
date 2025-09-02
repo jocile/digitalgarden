@@ -417,37 +417,53 @@ gantt
 >>> [[Formacao/PHP/Exercicios com listas\|Exercicios com listas]] 
 >>> [Cadastrando alunos em uma lista e salvando em um arquivo](https://github.com/jocile/php-exercicios/blob/main/lista.php).
 >
->>[!note] Aula 3.13
+>>[!note]- Aula 3.13
 >> - [x] Aula 3.13 - 2025-08-26 - Introdução ao banco de dados MySQL [[Formacao/PHP/POO com PHP\|POO com PHP]].
 >> - [Ebook Programador WEB cap. 5][ebook-programador]
 >> - [PHP: MySQL Database](https://www.w3schools.com/php/php_mysql_intro.asp)
 >> - [PHP: MySQL - Manual](https://www.php.net/manual/pt_BR/set.mysqlinfo.php)
 >>>[!todo] 🖥️ Atividades:
 >>> [Criar um Banco de Dados](https://github.com/jocile/controle-academico/blob/main/php/criarBD.php) `sis_academico` com PTP e MySQL, seguindo o exemplo do livro.
->>> [Criar uma tabela para cadastro de alunos com PHP e MYSQL](https://github.com/jocile/controle-academico/blob/main/php/criarTabela.php).
+>>> [Criar uma tabela para cadastro de alunos com PHP e MYSQL](https://github.com/jocile/controle-academico/blob/main/backend/criarTabela.php).
 >
->>[!note] Aula 3.14
+>>[!note]- Aula 3.14
 >> - [x] Aula 3.14 - 2025-08-27 - Criando um CRUD com banco de dados MySQL, criando o Banco de Dados e as tabelas.
 >> - [Ebook Programador WEB cap. 5][ebook-programador]
 >> - [PHP MySQL Insert Data](https://www.w3schools.com/php/php_mysql_insert.asp)
 >>>[!todo] 🖥️ Atividades:
->>> [Cadastrando alunos e cursos com PHP e salvando em Banco de Dados MySQL](https://github.com/jocile/controle-academico/blob/main/php/criarBD_completo.php);
+>>> [Cadastrando alunos e cursos com PHP e salvando em Banco de Dados MySQL](https://github.com/jocile/controle-academico/blob/main/backend/criarBD_completo.php);
 >
->>[!note] Aula 3.15
+>>[!note]- Aula 3.15
 >> - [x] Aula 3.15 - 2025-08-28 - Criando um CRUD com banco de dados MySQL, inserindo e visualizando dados na tabela.
 >> - [Ebook Programador WEB cap. 5][ebook-programador]
 >> - [PHP MySQL Insert Data](https://www.w3schools.com/php/php_mysql_insert.asp)
 >>>[!todo] 🖥️ Atividades:
 >>> Criar arquivo separado para conexão no Banco de Dados, inserir e visualizar dados de cadastro de alunos e cursos do Sistema Acadêmico, seguindo o exemplo do livro;
 >
->>[!note] Aula 3.16
+>>[!note]- Aula 3.16
 >> - [x] Aula 3.16 - 2025-08-29 - Criando um CRUD com banco de dados MySQL, atualizando e deletando dados na tabela.
 >> - [Ebook Programador WEB cap. 5][ebook-programador]
 >>>[!todo] 🖥️ Atividades:
 >>> Criar arquivo separado para conexão no Banco de Dados, atualizar e deletar dados de cadastro de alunos e cursos do Sistema Acadêmico, seguindo o exemplo do livro;
 >
 >>[!note]- Aula 3.17
->> - [ ] Aula 3.16 - 2025-09-01 - programação Orientada a Objetos [[Formacao/PHP/POO com PHP\|POO com PHP]].
+>> - [x] Aula 3.17 - 2025-09-01 - Exercícios com funções em PHP.
+>> - [[Formacao/PHP/Metodos com PHP\|Metodos com PHP]]
+>> - [Funções com PHP - W3Schools](https://www.w3schools.com/php/php_functions.asp)
+>> - [Funções - Manual PHP](https://www.php.net/manual/pt_BR/language.functions.php)
+>>>[!todo] 🖥️ Atividades:
+>>> [[Formacao/PHP/Exercicios com funcoes em PHP\|Exercicios com funcoes em PHP]]
+>
+>>[!note] Aula 3.18
+>> - [x] Aula 3.18 - 2025-09-02 - Exercícios com listas com PHP.
+>> - [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]]
+>> - [PHP Arrays - W3Schools](https://www.w3schools.com/php/php_arrays.asp)
+>> - [PHP: Arrays - Manual](https://www.php.net/manual/pt_BR/book.array.php)
+>>>[!todo] 🖥️ Atividades:
+>>> Criar lista recebendo o cadastro de alunos e cursos, ordenar, e mostrar na saída a pesquisa por nome e por curso.
+>
+>>[!note]- Aula 3.19
+>> - [ ] Aula 3.19 - 2025-09-03 - programação Orientada a Objetos [[Formacao/PHP/POO com PHP\|POO com PHP]].
 >> - [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]] / [[Formacao/PHP/Metodos com PHP\|Metodos com PHP]]
 >> - [PHP OOP Intro](https://www.w3schools.com/php/php_oop_what_is.asp)
 >> - [PHP: Classes e Objetos - Manual](https://www.php.net/manual/pt_BR/language.oop5.php)
@@ -457,7 +473,7 @@ gantt
 
 [ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
 [formCadAlunos]: https://jocile.github.io/controle-academico/
-[contAcadPHP]: https://github.com/jocile/controle-academico/tree/main/php
+[contAcadPHP]: https://github.com/jocile/controle-academico/tree/main/backend
 [phpExercicios]: https://github.com/jocile/php-exercicios
 [w3-js]: https://www.w3schools.com/js/js_intro.asp
 
