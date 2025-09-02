@@ -449,18 +449,19 @@ gantt
 >>[!note]- Aula 3.17
 >> - [x] Aula 3.17 - 2025-09-01 - Exercícios com funções em PHP.
 >> - [[Formacao/PHP/Metodos com PHP\|Metodos com PHP]]
+>> - [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]]
 >> - [Funções com PHP - W3Schools](https://www.w3schools.com/php/php_functions.asp)
 >> - [Funções - Manual PHP](https://www.php.net/manual/pt_BR/language.functions.php)
 >>>[!todo] 🖥️ Atividades:
 >>> [[Formacao/PHP/Exercicios com funcoes em PHP\|Exercicios com funcoes em PHP]]
 >
 >>[!note] Aula 3.18
->> - [x] Aula 3.18 - 2025-09-02 - Exercícios com listas com PHP.
->> - [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]]
+>> - [x] Aula 3.18 - 2025-09-02 - Validações para o CRUD com banco de dados MySQL.
+>> - [Ebook Programador WEB cap. 5][ebook-programador]
 >> - [PHP Arrays - W3Schools](https://www.w3schools.com/php/php_arrays.asp)
 >> - [PHP: Arrays - Manual](https://www.php.net/manual/pt_BR/book.array.php)
 >>>[!todo] 🖥️ Atividades:
->>> Criar lista recebendo o cadastro de alunos e cursos, ordenar, e mostrar na saída a pesquisa por nome e por curso.
+>>> Criar lista recebendo o cadastro de alunos e cursos por formulário, mostrar em uma tabela com botões para inserir, visualizar, editar e deletar os dados salvos no banco de dados.
 >
 >>[!note]- Aula 3.19
 >> - [ ] Aula 3.19 - 2025-09-03 - programação Orientada a Objetos [[Formacao/PHP/POO com PHP\|POO com PHP]].
