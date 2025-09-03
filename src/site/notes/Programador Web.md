@@ -455,7 +455,7 @@ gantt
 >>>[!todo] 🖥️ Atividades:
 >>> [[Formacao/PHP/Exercicios com funcoes em PHP\|Exercicios com funcoes em PHP]]
 >
->>[!note] Aula 3.18
+>>[!note]- Aula 3.18
 >> - [x] Aula 3.18 - 2025-09-02 - Validações para o CRUD com banco de dados MySQL.
 >> - [Ebook Programador WEB cap. 5][ebook-programador]
 >> - [PHP Arrays - W3Schools](https://www.w3schools.com/php/php_arrays.asp)
@@ -463,8 +463,14 @@ gantt
 >>>[!todo] 🖥️ Atividades:
 >>> Criar lista recebendo o cadastro de alunos e cursos por formulário, mostrar em uma tabela com botões para inserir, visualizar, editar e deletar os dados salvos no banco de dados.
 >
->>[!note]- Aula 3.19
->> - [ ] Aula 3.19 - 2025-09-03 - programação Orientada a Objetos [[Formacao/PHP/POO com PHP\|POO com PHP]].
+>>[!note] Aula 3.19
+>> - [x] Aula 3.19 - 2025-09-03 - Criando um dashboard com PHP e MySQL.
+>> - [Ebook Programador WEB cap. 5][ebook-programador]
+>>>[!todo] 🖥️ Atividades:
+>>> Criar tabela exibindo o cadastro de alunos e cursos por formulário, com botões para inserir, visualizar, editar e deletar os dados salvos no banco de dados.
+>
+>>[!note]- Aula 3.20
+>> - [ ] Aula 3.20 - 2025-09-03 - programação Orientada a Objetos [[Formacao/PHP/POO com PHP\|POO com PHP]].
 >> - [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]] / [[Formacao/PHP/Metodos com PHP\|Metodos com PHP]]
 >> - [PHP OOP Intro](https://www.w3schools.com/php/php_oop_what_is.asp)
 >> - [PHP: Classes e Objetos - Manual](https://www.php.net/manual/pt_BR/language.oop5.php)
