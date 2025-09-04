@@ -470,8 +470,9 @@ gantt
 >>> Criar o cadastro completo de alunos seguindo o exemplo do cap. 6 do livro, e salvar no [GitHub][contAcadPHP].
 >
 >>[!note] Aula 3.20
->> - [x] Aula 3.20 - 2025-09-04 - Criando um sistema acadêmico com PHP e MySQL.
+>> - [x] Aula 3.20 - 2025-09-04 - Aplicando estilos  no sistema acadêmico com [[Formacao/Webdesign/Bootstrap\|Bootstrap]].
 >> - [Ebook Programador WEB cap. 6][ebook-programador]
+>> - [Formulários com Bootstrap5](https://www.w3schools.com/bootstrap5/bootstrap_form_input_group.php)
 >>>[!todo] 🖥️ Atividades:
 >>> Criar os cadastros de professores, cursos, matrículas, disciplinas e turmas seguindo o exemplo do cap. 6 do livro, e salvar no [GitHub][contAcadPHP].
 >
