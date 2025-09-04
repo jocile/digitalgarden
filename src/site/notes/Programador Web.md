@@ -464,13 +464,19 @@ gantt
 >>> Criar lista recebendo o cadastro de alunos e cursos por formulário, mostrar em uma tabela com botões para inserir, visualizar, editar e deletar os dados salvos no banco de dados.
 >
 >>[!note] Aula 3.19
->> - [x] Aula 3.19 - 2025-09-03 - Criando um dashboard com PHP e MySQL.
->> - [Ebook Programador WEB cap. 5][ebook-programador]
+>> - [x] Aula 3.19 - 2025-09-03 - Criando um sistema acadêmico com PHP e MySQL.
+>> - [Ebook Programador WEB cap. 6][ebook-programador]
 >>>[!todo] 🖥️ Atividades:
->>> Criar tabela exibindo o cadastro de alunos e cursos por formulário, com botões para inserir, visualizar, editar e deletar os dados salvos no banco de dados.
+>>> Criar o cadastro completo de alunos seguindo o exemplo do cap. 6 do livro, e salvar no [GitHub][contAcadPHP].
 >
->>[!note]- Aula 3.20
->> - [ ] Aula 3.20 - 2025-09-03 - programação Orientada a Objetos [[Formacao/PHP/POO com PHP\|POO com PHP]].
+>>[!note] Aula 3.20
+>> - [x] Aula 3.20 - 2025-09-04 - Criando um sistema acadêmico com PHP e MySQL.
+>> - [Ebook Programador WEB cap. 6][ebook-programador]
+>>>[!todo] 🖥️ Atividades:
+>>> Criar os cadastros de professores, cursos, matrículas, disciplinas e turmas seguindo o exemplo do cap. 6 do livro, e salvar no [GitHub][contAcadPHP].
+>
+>>[!note]- Aula 3.21
+>> - [ ] Aula 3.21 - 2025-09-03 - programação Orientada a Objetos [[Formacao/PHP/POO com PHP\|POO com PHP]].
 >> - [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]] / [[Formacao/PHP/Metodos com PHP\|Metodos com PHP]]
 >> - [PHP OOP Intro](https://www.w3schools.com/php/php_oop_what_is.asp)
 >> - [PHP: Classes e Objetos - Manual](https://www.php.net/manual/pt_BR/language.oop5.php)
@@ -480,7 +486,7 @@ gantt
 
 [ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
 [formCadAlunos]: https://jocile.github.io/controle-academico/
-[contAcadPHP]: https://github.com/jocile/controle-academico/tree/main/backend
+[contAcadPHP]: https://github.com/jocile/controle-academico/tree/main
 [phpExercicios]: https://github.com/jocile/php-exercicios
 [w3-js]: https://www.w3schools.com/js/js_intro.asp
 

@@ -1,27 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/chatbot-com-ia-local/","title":"Chatbot com IA local","metatags":{"description":"Como usar um processo para que o código interaja com o modelo de forma programática para realizar tarefas de geração de texto."},"tags":["Inteligencia-artificial","Agentes","Prompt","Ollama","Python"],"noteIcon":"1","updated":"2025-08-08T08:52:25.283-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/chatbot-com-ia-local/","title":"Chatbot com IA local","metatags":{"description":"Como usar um processo para que o código interaja com o modelo de forma programática para realizar tarefas de geração de texto."},"tags":["Inteligencia-artificial","Agentes","Prompt","Ollama","Python"],"noteIcon":"1","updated":"2025-09-03T09:21:57.375-03:00"}
 ---
 
 
 ## Criando um Chatbot com IA local
 
-O modelo Llama 3 pode ser usado em código [Python](Python.md) para gerar respostas através da biblioteca [Langchain](Langchain.md).
+O modelo Llama 3 pode ser usado em código [[class/Python\|Python]] para gerar respostas através da biblioteca [[Formacao/Inteligencia Artificial/Langchain\|Langchain]].
 
->[!summary] Em resumo, a utilização do modelo Llama 3 com [Langchain](Langchain.md) em [Python](Python.md) envolve a **importação**, a **instanciação**, a **definição do prompt**, a **invocação do modelo** e o **processamento da resposta**. Esse processo permite que o código interaja com o modelo de forma programática para realizar tarefas de geração de texto.
+>[!summary] Em resumo, a utilização do modelo Llama 3 com [[Formacao/Inteligencia Artificial/Langchain\|Langchain]] em [[class/Python\|Python]] envolve a **importação**, a **instanciação**, a **definição do prompt**, a **invocação do modelo** e o **processamento da resposta**. Esse processo permite que o código interaja com o modelo de forma programática para realizar tarefas de geração de texto.
 
 Para usar o Llama 3 em Python, primeiro, é necessário importar a classe [[Formacao/Inteligencia Artificial/ferramentas de IA/Ollama\|Ollama]] de `langchain_community.llms`. Em seguida, cria-se um objeto `[Ollama](Ollama.md)` especificando o modelo a ser usado, neste caso, "Llama 3". Após instanciar o modelo, a função `invoke` é utilizada para passar um prompt e obter uma resposta.
 
 ### Passo a passo
 
-O passo a passo para usar o modelo Llama 3 em código Python, utilizando a biblioteca [Langchain](Langchain.md), é o seguinte:
+O passo a passo para usar o modelo Llama 3 em código Python, utilizando a biblioteca [[Formacao/Inteligencia Artificial/Langchain\|Langchain]], é o seguinte:
 
 Inicialmente certifique-se que a LLm local como o [Ollama](Ollama.md) está devidamente instalado para executar o [llama3.1](https://ollama.com/library/llama3.1).
 
 #### **Importar as Bibliotecas Necessárias**
 
-- **Importar as bibliotecas necessárias:** Inicialmente, é preciso importar as classes e funções necessárias da biblioteca [Langchain](Langchain.md). No caso do modelo Llama 3, importa-se a classe [Ollama](Ollama.md) do módulo `langchain_community.llms`.
+- **Importar as bibliotecas necessárias:** Inicialmente, é preciso importar as classes e funções necessárias da biblioteca [Langchain](Langchain.md). No caso do modelo Llama 3, importa-se a classe [[Formacao/Inteligencia Artificial/ferramentas de IA/Ollama\|Ollama]] do módulo `langchain_community.llms`.
 
-Para começar a trabalhar com o modelo Llama 3 utilizando a biblioteca [Langchain](Langchain.md), é necessário importar as classes e funções necessárias utilizando o pip. Isso inclui a classe [[Formacao/Inteligencia Artificial/ferramentas de IA/Ollama\|Ollama]] do módulo `langchain_community.llms`. Lembre-se de criar um ambiente virtual antes:
+Para começar a trabalhar com o modelo Llama 3 utilizando a biblioteca [[Formacao/Inteligencia Artificial/Langchain\|Langchain]], é necessário importar as classes e funções necessárias utilizando o pip. Isso inclui a classe [[Formacao/Inteligencia Artificial/ferramentas de IA/Ollama\|Ollama]] do módulo `langchain_community.llms`. Lembre-se de criar um ambiente virtual antes:
 
 #### **Criando Ambiente Virtual e Instalando Bibliotecas**
 
