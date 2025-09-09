@@ -463,13 +463,13 @@ gantt
 >>>[!todo] 🖥️ Atividades:
 >>> Criar lista recebendo o cadastro de alunos e cursos por formulário, mostrar em uma tabela com botões para inserir, visualizar, editar e deletar os dados salvos no banco de dados.
 >
->>[!note] Aula 3.19
+>>[!note]- Aula 3.19
 >> - [x] Aula 3.19 - 2025-09-03 - Criando um sistema acadêmico com PHP e MySQL.
 >> - [Ebook Programador WEB cap. 6][ebook-programador]
 >>>[!todo] 🖥️ Atividades:
 >>> Criar o cadastro completo de alunos seguindo o exemplo do cap. 6 do livro, e salvar no [GitHub][contAcadPHP].
 >
->>[!note] Aula 3.20
+>>[!note]- Aula 3.20
 >> - [x] Aula 3.20 - 2025-09-04 - Aplicando estilos  no sistema acadêmico com [[Formacao/Webdesign/Bootstrap\|Bootstrap]].
 >> - [Ebook Programador WEB cap. 6][ebook-programador]
 >> - [Formulários com Bootstrap5](https://www.w3schools.com/bootstrap5/bootstrap_form_input_group.php)
@@ -477,13 +477,28 @@ gantt
 >>> Criar os cadastros de professores, cursos, matrículas, disciplinas e turmas seguindo o exemplo do cap. 6 do livro, e salvar no [GitHub][contAcadPHP].
 >
 >>[!note]- Aula 3.21
->> - [ ] Aula 3.21 - 2025-09-03 - programação Orientada a Objetos [[Formacao/PHP/POO com PHP\|POO com PHP]].
+>> - [x] Aula 3.21 - 2025-09-05 - programação Orientada a Objetos [[Formacao/PHP/POO com PHP\|POO com PHP]].
 >> - [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]] / [[Formacao/PHP/Metodos com PHP\|Metodos com PHP]]
 >> - [PHP OOP Intro](https://www.w3schools.com/php/php_oop_what_is.asp)
 >> - [PHP: Classes e Objetos - Manual](https://www.php.net/manual/pt_BR/language.oop5.php)
 >>>[!todo] 🖥️ Atividades:
 >>> [[Formacao/PHP/Cadastrando alunos com PHP\|Cadastrando alunos com PHP]]
 >>> [[Formacao/PHP/Cadastrando nome e curso com PHP\|Cadastrando nome e curso com PHP]]
+>
+>>[!note]- Aula 3.22
+>> - [x] Aula 3.22 - 2025-09-08 - Resolução de exercícios com formulários e relatórios em PHP.
+>>>[!todo] 🖥️ Atividades:
+>>> Cadastro de professores e cursos com formulário seguindo o [cap. 6 do livro][ebook-programador], registro em banco de dados do Sistema Acadêmico, e salvar no [GitHub][contAcadPHP].
+>
+>>[!note] Aula 3.23
+>> - [x] Aula 3.23 - 2025-09-09 - Frameworks com PHP, introdução ao WordPress e seus principais plugins.
+>> - [Ferramenta de blog, plataforma de publicação e CMS – WordPress.org Brasil](https://br.wordpress.org/)
+>> - [Elementor Website Builder – Mais do que apenas um construtor de páginas – Plugin do WordPress](https://br.wordpress.org/plugins/elementor/)
+>> - [WooCommerce – Plugin do WordPress](https://br.wordpress.org/plugins/woocommerce/)
+>> - [Forminator Forms – Contact Form, Payment Form & Custom Form Builder – Plugin do WordPress](https://br.wordpress.org/plugins/forminator/)
+>> - [Custom Post Type UI – Plugin do WordPress](https://br.wordpress.org/plugins/custom-post-type-ui/)
+>>>[!todo] 🖥️ Atividades:
+>>> Instalar e configurar uma loja virtual com WordPress e WooCommerce.
 
 [ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
 [formCadAlunos]: https://jocile.github.io/controle-academico/
