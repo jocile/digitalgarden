@@ -311,7 +311,7 @@ gantt
 >> 5. Implementa *session* e *cookies* da aplicação *web*, de acordo com a linguagem de programação *back-end*. 
 >> 6. Integra banco de dados, de acordo com a aplicação web e requisitos do projeto de software.
 
->[!done] Cronograma das aulas da UC3
+>[!done]- Cronograma das aulas da UC3
 >
 >>[!note]- Aula 3.1
 >> - [x] Aula 3.1 - 2025-08-08 - Introdução a lógica de programação com JavaScript, entrada e saída de dados, variáveis.
@@ -541,7 +541,8 @@ gantt
 >> - [x] Aula 4.01 - 2025-09-11 - Introdução aos Servidores de hospedagem.
 >> - [8 Hospedagem PHP Gratuitos para o Brasil 2025](https://www.bitcatcha.com/br/melhor-hospedagem-de-site/php-gratuita/)
 >>>[!todo] 🖥️ Atividade:
->>> Configurar um servidor de hospedagem online.
+>>> - Configurar um servidor de hospedagem online em [Free Web Hosting with PHP and MySQL - InfinityFree](https://www.infinityfree.com/)
+>>> - Copiar o Sistema Acadêmico usando o painel de controle e o gerenciador de arquivos, exemplo: [sis.page.gd/academico/](https://sis.page.gd/academico/).
 
 
 </div></div>
