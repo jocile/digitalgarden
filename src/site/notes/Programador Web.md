@@ -490,8 +490,9 @@ gantt
 >>>[!todo] 🖥️ Atividades:
 >>> Cadastro de professores e cursos com formulário seguindo o [cap. 6 do livro][ebook-programador], registro em banco de dados do Sistema Acadêmico, e salvar no [GitHub][contAcadPHP].
 >
->>[!note] Aula 3.23
+>>[!note]- Aula 3.23
 >> - [x] Aula 3.23 - 2025-09-09 - Frameworks com PHP, introdução ao WordPress e seus principais plugins.
+>> - [Como instalar WordPress no computador (localhost)](https://www.hostgator.com.br/blog/como-instalar-wordpress-no-computador-localhost/)
 >> - [Ferramenta de blog, plataforma de publicação e CMS – WordPress.org Brasil](https://br.wordpress.org/)
 >> - [Elementor Website Builder – Mais do que apenas um construtor de páginas – Plugin do WordPress](https://br.wordpress.org/plugins/elementor/)
 >> - [WooCommerce – Plugin do WordPress](https://br.wordpress.org/plugins/woocommerce/)
@@ -499,6 +500,12 @@ gantt
 >> - [Custom Post Type UI – Plugin do WordPress](https://br.wordpress.org/plugins/custom-post-type-ui/)
 >>>[!todo] 🖥️ Atividades:
 >>> Instalar e configurar uma loja virtual com WordPress e WooCommerce.
+>
+>>[!note]- Aula 3.24
+>> - [x] Aula 3.24 - 2025-09-10 - Frameworks com PHP, introdução ao Laravel.
+>> - [Docs Brasil - Laravel](https://laravel.docsbrasil.dev/)
+>>>[!todo] 🖥️ Atividades:
+>>> Instalar e configurar o cadastro de alunos com Laravel usando o Xampp.
 
 [ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
 [formCadAlunos]: https://jocile.github.io/controle-academico/
