@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-08-07T20:39:56.748-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-09-11T09:29:26.201-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -517,7 +517,13 @@ gantt
 </div></div>
 
 
-## UC4 - Publicar aplicações web
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+## UC4 - Publicar aplicações web.*
 
 > [!success]- 🖥️ Habilidades da UC4
 > - Hospedar *websites*. 
@@ -528,6 +534,18 @@ gantt
 >> 1. Define serviço de hospedagem de acordo com os objetivos do projeto. 
 >> 2. Formata e exporta arquivos do projeto local para servidor web, de acordo com as tecnologias disponíveis. 
 >> 3. Verifica compatibilidade e performance do *website*, de acordo com as normas e exigências do mercado.
+
+>[!done] Cronograma das aulas da UC4
+>
+>>[!note] Aula 4.1
+>> - [x] Aula 4.01 - 2025-09-11 - Introdução aos Servidores de hospedagem.
+>> - [8 Hospedagem PHP Gratuitos para o Brasil 2025](https://www.bitcatcha.com/br/melhor-hospedagem-de-site/php-gratuita/)
+>>>[!todo] 🖥️ Atividade:
+>>> Configurar um servidor de hospedagem online.
+
+
+</div></div>
+
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
