@@ -549,6 +549,7 @@ gantt
 >> - [Aprenda a criar controle de acesso com PHP e MySQL - DevMedia - DevMedia](https://www.devmedia.com.br/criando-controle-de-acesso-com-php-e-mysql/28123)
 >> - [PHP Cookies](https://www.w3schools.com/php/php_cookies.asp)
 >> - [PHP Sessions](https://www.w3schools.com/php/php_sessions.asp)
+>> - [Sistema de Login com PHP e MySQL - YouTube](https://www.youtube.com/watch?v=Ln7lqyWJPUE)
 >>>[!todo] 🖥️ Atividade:
 >>> - Configurar um sistema de login para o Sistema Acadêmico com usuário e senha para acessar o sistema acadêmico, exemplo: [sisacad.page.gd](https://sisacad.page.gd/)
 >
