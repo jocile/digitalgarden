@@ -537,12 +537,28 @@ gantt
 
 >[!done] Cronograma das aulas da UC4
 >
->>[!note] Aula 4.1
+>>[!note]- Aula 4.1
 >> - [x] Aula 4.01 - 2025-09-11 - Introdução aos Servidores de hospedagem.
 >> - [8 Hospedagem PHP Gratuitos para o Brasil 2025](https://www.bitcatcha.com/br/melhor-hospedagem-de-site/php-gratuita/)
 >>>[!todo] 🖥️ Atividade:
 >>> - Configurar um servidor de hospedagem online em [Free Web Hosting with PHP and MySQL - InfinityFree](https://www.infinityfree.com/)
->>> - Copiar o Sistema Acadêmico usando o painel de controle e o gerenciador de arquivos, exemplo: [sis.page.gd/academico/](https://sis.page.gd/academico/).
+>>> - Copiar o Sistema Acadêmico usando o painel de controle e o gerenciador de arquivos, exemplo: [sisacad.page.gd](https://sisacad.page.gd/)
+>
+>>[!note] Aula 4.2
+>> - [x] Aula 4.02 - 2025-09-12 - Introdução a segurança de sistemas, cookies e session para [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
+>> - [PHP Cookies](https://www.w3schools.com/php/php_cookies.asp)
+>> - [PHP Sessions](https://www.w3schools.com/php/php_sessions.asp)
+>>>[!todo] 🖥️ Atividade:
+>>> - Configurar um sistema de login para o Sistema Acadêmico com usuário e senha para acessar o sistema acadêmico, exemplo: [sisacad.page.gd](https://sisacad.page.gd/)
+>
+>>[!note] Aula 4.3
+>> - [ ] Aula 4.03 - 2025-09-15 - Introdução ao carregamento dinâmico de páginas com AJAX.
+>> - [AJAX - W3Schools](https://www.w3schools.com/php/php_ajax_intro.asp)
+>>>[!todo] 🖥️ Atividade:
+>>> - [Criando um cadastro com PHP, Ajax e jQuery - DevMedia](https://www.devmedia.com.br/criando-um-cadastro-com-php-ajax-e-jquery/28046)
+>
+>>[!note] Aula 4.4
+>> - [ ] Aula 4.04 - 2025-09-16 - Configurar o sistema acadêmico com AJAX.
 
 
 </div></div>
