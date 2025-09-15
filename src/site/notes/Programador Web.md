@@ -523,7 +523,7 @@ gantt
 
 
 
-## UC4 - Publicar aplicações web.*
+## UC4 - Publicar aplicações web
 
 > [!success]- 🖥️ Habilidades da UC4
 > - Hospedar *websites*. 
@@ -544,7 +544,7 @@ gantt
 >>> - Configurar um servidor de hospedagem online em [Free Web Hosting with PHP and MySQL - InfinityFree](https://www.infinityfree.com/)
 >>> - Copiar o Sistema Acadêmico usando o painel de controle e o gerenciador de arquivos, exemplo: [sisacad.page.gd](https://sisacad.page.gd/)
 >
->>[!note] Aula 4.2
+>>[!note]- Aula 4.2
 >> - [x] Aula 4.02 - 2025-09-12 - Introdução a segurança de sistemas, cookies e session para [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
 >> - [Aprenda a criar controle de acesso com PHP e MySQL - DevMedia - DevMedia](https://www.devmedia.com.br/criando-controle-de-acesso-com-php-e-mysql/28123)
 >> - [PHP Cookies](https://www.w3schools.com/php/php_cookies.asp)
@@ -553,8 +553,16 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> - Configurar um sistema de login para o Sistema Acadêmico com usuário e senha para acessar o sistema acadêmico, exemplo: [sisacad.page.gd](https://sisacad.page.gd/)
 >
->>[!note]- Aula 4.3
->> - [ ] Aula 4.03 - 2025-09-15 - Introdução ao carregamento dinâmico de páginas com AJAX.
+>>[!note] Aula 4.3
+>> - [x] Aula 4.03 - 2025-09-15 - Criando variáveis de sessão para [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
+>> - [Aprenda a criar controle de acesso com PHP e MySQL - DevMedia - DevMedia](https://www.devmedia.com.br/criando-controle-de-acesso-com-php-e-mysql/28123)
+>> - [PHP Sessions](https://www.w3schools.com/php/php_sessions.asp)
+>> - [Sistema de Login com PHP e MySQL - YouTube](https://www.youtube.com/watch?v=Ln7lqyWJPUE)
+>>>[!todo] 🖥️ Atividade:
+>>> - Configurar um sistema de login para o Sistema Acadêmico com usuário e senha para acessar o sistema acadêmico, exemplo: [sisacad.page.gd](https://sisacad.page.gd/)
+>
+>>[!note]- Aula 4.4
+>> - [ ] Aula 4.04 - 2025-09-16 - Introdução ao carregamento dinâmico de páginas com AJAX.
 >> - [AJAX - W3Schools](https://www.w3schools.com/php/php_ajax_intro.asp)
 >>>[!todo] 🖥️ Atividade:
 >>> - [Criando um cadastro com PHP, Ajax e jQuery - DevMedia](https://www.devmedia.com.br/criando-um-cadastro-com-php-ajax-e-jquery/28046)
