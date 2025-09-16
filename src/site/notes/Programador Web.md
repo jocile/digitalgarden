@@ -545,7 +545,7 @@ gantt
 >>> - Copiar o Sistema Acadêmico usando o painel de controle e o gerenciador de arquivos, exemplo: [sisacad.page.gd](https://sisacad.page.gd/)
 >
 >>[!note]- Aula 4.2
->> - [x] Aula 4.02 - 2025-09-12 - Introdução a segurança de sistemas, cookies e session para [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
+>> - [x] Aula 4.02 - 2025-09-12 - Introdução a segurança de sistemas, Middlewares cookies e session para [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
 >> - [Aprenda a criar controle de acesso com PHP e MySQL - DevMedia - DevMedia](https://www.devmedia.com.br/criando-controle-de-acesso-com-php-e-mysql/28123)
 >> - [PHP Cookies](https://www.w3schools.com/php/php_cookies.asp)
 >> - [PHP Sessions](https://www.w3schools.com/php/php_sessions.asp)
@@ -553,16 +553,21 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> - Configurar um sistema de login para o Sistema Acadêmico com usuário e senha para acessar o sistema acadêmico, exemplo: [sisacad.page.gd](https://sisacad.page.gd/)
 >
->>[!note] Aula 4.3
->> - [x] Aula 4.03 - 2025-09-15 - Criando variáveis de sessão para [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
->> - [Aprenda a criar controle de acesso com PHP e MySQL - DevMedia - DevMedia](https://www.devmedia.com.br/criando-controle-de-acesso-com-php-e-mysql/28123)
+>>[!note]- Aula 4.3
+>> - [x] Aula 4.03 - 2025-09-15 - Criando Middlewares com variáveis de sessão para [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
+>> - [Middleware - Docs Brasil - Laravel](https://laravel.docsbrasil.dev/fundamentos/middleware)
 >> - [PHP Sessions](https://www.w3schools.com/php/php_sessions.asp)
->> - [Sistema de Login com PHP e MySQL - YouTube](https://www.youtube.com/watch?v=Ln7lqyWJPUE)
 >>>[!todo] 🖥️ Atividade:
->>> - Configurar um sistema de login para o Sistema Acadêmico com usuário e senha para acessar o sistema acadêmico, exemplo: [sisacad.page.gd](https://sisacad.page.gd/)
+>>> - Configurar um sistema de login com usuário e senha para acessar páginas restritas, exemplo: [login em · jocile/php-exercicios · GitHub](https://github.com/jocile/php-exercicios/tree/main/login)
 >
->>[!note]- Aula 4.4
->> - [ ] Aula 4.04 - 2025-09-16 - Introdução ao carregamento dinâmico de páginas com AJAX.
+>>[!note] Aula 4.4
+>> - [x] Aula 4.04 - 2025-09-16 - Publicando página com [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
+>> -  [Free Web Hosting with PHP and MySQL - InfinityFree](https://www.infinityfree.com/)
+>>>[!todo] 🖥️ Atividade:
+>>> - Configurar um sistema de login com usuário e senha para acessar páginas restritas on-line: [login em · jocile/php-exercicios · GitHub](https://github.com/jocile/php-exercicios/tree/main/login)
+>
+>>[!note]- Aula 4.5
+>> - [ ] Aula 4.05 - 2025-09-17 - Introdução ao carregamento dinâmico de páginas com AJAX.
 >> - [AJAX - W3Schools](https://www.w3schools.com/php/php_ajax_intro.asp)
 >>>[!todo] 🖥️ Atividade:
 >>> - [Criando um cadastro com PHP, Ajax e jQuery - DevMedia](https://www.devmedia.com.br/criando-um-cadastro-com-php-ajax-e-jquery/28046)

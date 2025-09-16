@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/php/login-com-php-e-mysql/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-09-13T20:51:53.128-03:00"}
+{"dg-publish":true,"permalink":"/formacao/php/login-com-php-e-mysql/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-09-15T20:45:22.158-03:00"}
 ---
 
 #PHP #exemplos
@@ -96,7 +96,7 @@ Exemplo:
 O script PHP responsável por processar os dados do formulário (ex: `controle.php`, `login.php`) executa as seguintes etapas:
 
 1. **Início da Sessão**: A função `session_start()` deve ser a primeira instrução PHP em qualquer script que utilize sessões, antes de qualquer saída de conteúdo HTML, é usada para guardar variáveis entre as páginas, neste caso, o usuário logado e sua senha.
-2. **Recuperação dos Dados**: Os valores inseridos nos campos do formulário são recuperados utilizando a superglobal `$_POST`, por exemplo, `$_POST['login']` e `$_POST['senha']`.
+2. **Recuperação dos Dados**: Os valores inseridos nos campos do formulário são recuperados utilizando a superglobal `$_POST`, por exemplo, `$_POST['usuario']` e `$_POST['senha']`.
 3. **Criptografia da Senha**: Antes de comparar a senha fornecida pelo usuário com a senha armazenada no banco de dados, é essencial criptografar a senha recebida do formulário. Historicamente, `md5()` foi usado, mas métodos mais seguros de hashing (como bcrypt) são a prática atual e frameworks como Laravel lidam com isso automaticamente.
 4. **Consulta ao Banco de Dados**: Uma consulta SQL (`SELECT`) é executada no banco de dados para verificar se existe um registro de usuário que corresponda ao login e à senha fornecidos. Exemplo: `SELECT id, nome, login, senha, postar FROM aut_usuarios WHERE login = '$login'`.
 5. **Verificação e Autenticação**:
@@ -210,18 +210,17 @@ $username = "root";
 $password = ""; // aqui vazio para teste
 
 // Criar conexão
-$conexao = mysqli_connect($servername, $username, $password);
+$conn = mysqli_connect($servername, $username, $password);
 
 // Verificar conexão
-if ($conexao->connect_error) {
-    die('Não foi possível conectar ao Banco de Dados. Erro detectado: ' . $conexao->connect_error);
+if ($conn->connect_error) {
+    die('Não foi possível conectar ao Banco de Dados. Erro detectado: ' . $conn->connect_error);
   }
-?>
 ```
 
 >[!warning] **Observação**: A função `mysql_connect()` é uma função mais antiga e foi descontinuada no PHP 7. Em implementações modernas, `mysqli_connect()` ou PDO (PHP Data Objects) são as alternativas recomendadas para uma conexão segura e eficaz.
 
-### 2. Criando o banco de dados (`criaBD.php`)
+### 2. Criando o banco de dados (`criarBanco.php`)
 
 ```php
 <?php
@@ -236,7 +235,7 @@ function criarBanco($conexao, $nomeBanco) {
 }
 ```
 
-### 3. Criando a tabela (`criaTb.php`)
+### 3. Criando a tabela (`criarTabela.php`)
 
 ```php
 <?php
@@ -244,9 +243,9 @@ function criarBanco($conexao, $nomeBanco) {
 function criarTabela($conexao, $nomeBanco, $nomeTabela) {
   $tabela_usuario = "CREATE TABLE IF NOT EXISTS $nomeTabela (
     id INT(10) AUTO_INCREMENT PRIMARY KEY,
-    login VARCHAR (50) NOT NULL,
+    usuario VARCHAR (50) NOT NULL,
     senha VARCHAR(50) NOT NULL,
-    id_tipo_acesso INT(1) NOT NULL
+    tipo_usuario INT(1) NOT NULL
     )";
   $conexao->select_db($nomeBanco);
   if ($conexao->query($tabela_usuario)) {
@@ -305,12 +304,12 @@ require("conexao.php");
 
 // Criando o banco de dados se não existir
 require("criarBanco.php");
-criarBanco($conn, "teste-login");
+criarBanco($conn, "testelogin");
 
 // Criando a tabela se não existir
 require("criarTabela.php");
-criarTabela($conn, "teste-login", "usuarios");
-
+criarTabela($conn, "testelogin", "usuarios");
+00
 // Incluindo os dados do formulario
 $usuario = trim($_POST["usuario"]);
 $senha = md5(trim($_POST["senha"]));
@@ -320,34 +319,40 @@ $tipo_usuario = $_POST["tipo_usuario"];
 $inserir = "INSERT INTO usuarios (usuario, senha, tipo_usuario) VALUES ('$usuario', '$senha', '$tipo_usuario')";
 if (mysqli_query($conn, $inserir)) {
   //Redireciona para a página de sucesso
-  echo 'Usuário cadastrado com sucesso!';
-  print "<script>setTimeout(function(){ location.href='dashboard.php'; }, 9000);</script>";
+  echo "<script>alert('Usuário cadastrado com sucesso!');</script>";
+  print "<script>setTimeout(function(){ location.href='index.php'; }, 9000);</script>";
   } else {
-  echo 'Erro ao cadastrar usuário!';
-  print "<script>setTimeout(function(){ location.href='cadastroForm.php'; }, 9000);</script>";
+  echo "<script>alert('Erro ao cadastrar usuário!');</script>";
+  print "<script>setTimeout(function(){ location.href='cadastroForm.php'; }, 9000);</script>";
   }
 mysqli_close($conn);
 ```
 
+Acesse o formulário criado e cadastre o usuário `admin` e senha `1234` para o login.
 
 ### 5. Formulário de Login (`index.php`)
 
 Esta é a página HTML que apresenta o formulário onde o usuário digitará o login e a senha.
 
 ```php
-<html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Login</title>
+</head>
 <body>
-<form action="login.php" method="post">
-	<div">
-	  <label for="usuario">Usuário</label>
-	  <input type="text" name="usuario" required />
-	</div>
-	<div>
-	  <label for="senha">Senha</label>
-	  <input type="password" name="senha" required />
-	</div>
-	<button type="submit">Login</button>
-</form>
+    <form action="login.php" method="post">
+    <div>
+      <label for="usuario">Usuário</label>
+      <input type="text" name="usuario" required />
+    </div>
+    <div>
+      <label for="senha">Senha</label>
+      <input type="password" name="senha" required />
+    </div>
+    <button type="submit">Login</button>
+  </form>
 </body>
 </html>
 ```
@@ -362,7 +367,7 @@ Esta página recebe os dados do formulário (`index.php`), verifica as credencia
 session_start();
 
 // Verifica se os campos estão vazios
-if (empty($_POST) or (empty($_POST["login"]) or empty($_POST["senha"]))) {
+if (empty($_POST) or (empty($_POST["usuario"]) or empty($_POST["senha"]))) {
   print "<script>location.href='index.php';</script>";
 }
 
@@ -413,12 +418,12 @@ Este script é incluído no início de todas as páginas que você deseja restri
 session_start(); //
 
 // Verifica se existe os dados da sessão de login
-if(!isset($_SESSION["id_usuario"]) || !isset($_SESSION["nome_usuario"])) { //
-    // Usuário não logado! Redireciona para a página de login
-    header("Location: login.html"); //
-    exit;
+if (!isset($_SESSION["usuario"]) || !isset($_SESSION["tipo"])) { //
+  // Usuário não logado! Redireciona para a página de login
+  echo "<script>alert('Usuário não logado!');</script>";
+  print "<script>setTimeout(function(){ location.href='index.php'; }, 9000);</script>";
+  exit;
 }
-?>
 ```
 
 ### 8. Página restrita (`dashboard.php`)
@@ -484,9 +489,9 @@ Esta página permite que o usuário encerre sua sessão, destruindo todas as var
 ```php
 <?php
 // Inicia sessões, para assim poder destruí-las
-session_start(); //
-session_destroy(); // // Destrói todas as variáveis de sessão de uma única vez.
-header("Location: index.php"); //
+session_start();
+session_destroy(); // Destrói todas as variáveis de sessão de uma única vez.
+header("Location: index.php");
 ?>
 ```
 
