@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/php/login-com-php-e-mysql/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-09-15T20:45:22.158-03:00"}
+{"dg-publish":true,"permalink":"/formacao/php/login-com-php-e-mysql/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-09-16T10:04:28.807-03:00"}
 ---
 
 #PHP #exemplos
@@ -239,7 +239,7 @@ function criarBanco($conexao, $nomeBanco) {
 
 ```php
 <?php
-// Criando a tabela se não exisitir
+// Criando a tabela se não existir
 function criarTabela($conexao, $nomeBanco, $nomeTabela) {
   $tabela_usuario = "CREATE TABLE IF NOT EXISTS $nomeTabela (
     id INT(10) AUTO_INCREMENT PRIMARY KEY,
@@ -309,7 +309,7 @@ criarBanco($conn, "testelogin");
 // Criando a tabela se não existir
 require("criarTabela.php");
 criarTabela($conn, "testelogin", "usuarios");
-00
+
 // Incluindo os dados do formulario
 $usuario = trim($_POST["usuario"]);
 $senha = md5(trim($_POST["senha"]));

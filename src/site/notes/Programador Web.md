@@ -541,8 +541,8 @@ gantt
 >> - [x] Aula 4.01 - 2025-09-11 - Introdução aos Servidores de hospedagem.
 >> - [8 Hospedagem PHP Gratuitos para o Brasil 2025](https://www.bitcatcha.com/br/melhor-hospedagem-de-site/php-gratuita/)
 >>>[!todo] 🖥️ Atividade:
->>> - Configurar um servidor de hospedagem online em [Free Web Hosting with PHP and MySQL - InfinityFree](https://www.infinityfree.com/)
->>> - Copiar o Sistema Acadêmico usando o painel de controle e o gerenciador de arquivos, exemplo: [sisacad.page.gd](https://sisacad.page.gd/)
+>>> - Configurar um servidor de hospedagem online em [Free Web Hosting with PHP and MySQL - InfinityFree][sevidorfree]
+>>> - Copiar o Sistema Acadêmico usando o painel de controle e o gerenciador de arquivos, exemplo: [sisacad.page.gd][sisacad]
 >
 >>[!note]- Aula 4.2
 >> - [x] Aula 4.02 - 2025-09-12 - Introdução a segurança de sistemas, Middlewares cookies e session para [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
@@ -551,29 +551,41 @@ gantt
 >> - [PHP Sessions](https://www.w3schools.com/php/php_sessions.asp)
 >> - [Sistema de Login com PHP e MySQL - YouTube](https://www.youtube.com/watch?v=Ln7lqyWJPUE)
 >>>[!todo] 🖥️ Atividade:
->>> - Configurar um sistema de login para o Sistema Acadêmico com usuário e senha para acessar o sistema acadêmico, exemplo: [sisacad.page.gd](https://sisacad.page.gd/)
+>>> - Configurar um sistema de login para o Sistema Acadêmico com usuário e senha para acessar o sistema acadêmico, exemplo: [sisacad.page.gd][sisacad]
 >
 >>[!note]- Aula 4.3
 >> - [x] Aula 4.03 - 2025-09-15 - Criando Middlewares com variáveis de sessão para [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
 >> - [Middleware - Docs Brasil - Laravel](https://laravel.docsbrasil.dev/fundamentos/middleware)
 >> - [PHP Sessions](https://www.w3schools.com/php/php_sessions.asp)
 >>>[!todo] 🖥️ Atividade:
->>> - Configurar um sistema de login com usuário e senha para acessar páginas restritas, exemplo: [login em · jocile/php-exercicios · GitHub](https://github.com/jocile/php-exercicios/tree/main/login)
+>>> - Configurar um sistema de login com usuário e senha para acessar páginas restritas, exemplo: [login em · jocile/php-exercicios · GitHub][php-login]
 >
->>[!note] Aula 4.4
+>>[!note]- Aula 4.4
 >> - [x] Aula 4.04 - 2025-09-16 - Publicando página com [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
->> -  [Free Web Hosting with PHP and MySQL - InfinityFree](https://www.infinityfree.com/)
+>> -  [Free Web Hosting with PHP and MySQL - InfinityFree][sevidorfree]
 >>>[!todo] 🖥️ Atividade:
->>> - Configurar um sistema de login com usuário e senha para acessar páginas restritas on-line: [login em · jocile/php-exercicios · GitHub](https://github.com/jocile/php-exercicios/tree/main/login)
+>>> - Configurar um sistema de login com usuário e senha para acessar páginas restritas on-line: [login em · jocile/php-exercicios · GitHub][php-login]
 >
->>[!note]- Aula 4.5
->> - [ ] Aula 4.05 - 2025-09-17 - Introdução ao carregamento dinâmico de páginas com AJAX.
+>>[!note] Aula 4.5
+>> - [x] Aula 4.05 - 2025-09-17 - [Publicando o Sistema Acadêmico][sisacad] com [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
+>> - [Free Web Hosting with PHP and MySQL - InfinityFree][sevidorfree]
+>>>[!todo] 🖥️ Atividade:
+>>> - Configurar o Sistema Acadêmico no cap. 6 do [Ebook-programador][ebook-programador] com sistema de login com usuário e senha para acessar páginas restritas on-line: [login em · jocile/php-exercicios · GitHub][php-login]
+>
+>>[!note]- Aula 4.6
+>> - [ ] Aula 4.05 - 2025-09-18 - Introdução ao carregamento dinâmico de páginas com AJAX.
 >> - [AJAX - W3Schools](https://www.w3schools.com/php/php_ajax_intro.asp)
 >>>[!todo] 🖥️ Atividade:
 >>> - [Criando um cadastro com PHP, Ajax e jQuery - DevMedia](https://www.devmedia.com.br/criando-um-cadastro-com-php-ajax-e-jquery/28046)
 >
->>[!note]- Aula 4.4
->> - [ ] Aula 4.04 - 2025-09-16 - Configurar o sistema acadêmico com AJAX.
+>>[!note]- Aula 4.7
+>> - [ ] Aula 4.07 - 2025-09-23 - Configurar o sistema acadêmico com AJAX.
+
+[ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
+[sevidorfree]: https://www.infinityfree.com/
+[formCadAlunos]: https://jocile.github.io/controle-academico/
+[php-login]: https://github.com/jocile/php-exercicios/tree/main/login
+[sisacad]: https://sisacad.page.gd/
 
 
 </div></div>
