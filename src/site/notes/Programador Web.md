@@ -566,20 +566,20 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> - Configurar um sistema de login com usuário e senha para acessar páginas restritas on-line: [login em · jocile/php-exercicios · GitHub][php-login]
 >
->>[!note] Aula 4.5
+>>[!note]- Aula 4.5
 >> - [x] Aula 4.05 - 2025-09-17 - [Publicando o Sistema Acadêmico][sisacad] com [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
 >> - [Free Web Hosting with PHP and MySQL - InfinityFree][sevidorfree]
 >>>[!todo] 🖥️ Atividade:
->>> - Configurar o Sistema Acadêmico no cap. 6 do [Ebook-programador][ebook-programador] com sistema de login com usuário e senha para acessar páginas restritas on-line: [login em · jocile/php-exercicios · GitHub][php-login]
+>>> - Configurar o [Sistema Acadêmico][formCadAlunos] no cap. 6 do [Ebook-programador][ebook-programador] com sistema de login com usuário e senha para acessar páginas restritas on-line: [login em · jocile/php-exercicios · GitHub][php-login]
 >
->>[!note]- Aula 4.6
->> - [ ] Aula 4.05 - 2025-09-18 - Introdução ao carregamento dinâmico de páginas com AJAX.
->> - [AJAX - W3Schools](https://www.w3schools.com/php/php_ajax_intro.asp)
+>>[!note] Aula 4.6
+>> - [x] Aula 4.06 - 2025-09-18 - Otimizando e [Publicando o Sistema Acadêmico][sisacad] com [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
+>> - [Free Web Hosting with PHP and MySQL - InfinityFree][sevidorfree]
 >>>[!todo] 🖥️ Atividade:
->>> - [Criando um cadastro com PHP, Ajax e jQuery - DevMedia](https://www.devmedia.com.br/criando-um-cadastro-com-php-ajax-e-jquery/28046)
+>>> - Otimizando o [Sistema Acadêmico][formCadAlunos] com cadastros e consultas conforme o passo a passo do cap. 6 do [Ebook-programador][ebook-programador].
 >
 >>[!note]- Aula 4.7
->> - [ ] Aula 4.07 - 2025-09-23 - Configurar o sistema acadêmico com AJAX.
+>> - [ ] Aula 4.07 - 2025-09-22 - Transferência de Arquivos via FTP.
 
 [ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
 [sevidorfree]: https://www.infinityfree.com/
