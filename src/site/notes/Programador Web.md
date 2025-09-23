@@ -572,18 +572,22 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> - Configurar o [Sistema Acadêmico][formCadAlunos] no cap. 6 do [Ebook-programador][ebook-programador] com sistema de login com usuário e senha para acessar páginas restritas on-line: [login em · jocile/php-exercicios · GitHub][php-login]
 >
->>[!note] Aula 4.6
->> - [x] Aula 4.06 - 2025-09-18 - Otimizando e [Publicando o Sistema Acadêmico][sisacad] com [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
+>>[!note]- Aula 4.6
+>> - [x] Aula 4.06 - 2025-09-18 - Otimizando [Sistema Acadêmico][gitsisacad] com [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
 >> - [Free Web Hosting with PHP and MySQL - InfinityFree][sevidorfree]
 >>>[!todo] 🖥️ Atividade:
->>> - Otimizando o [Sistema Acadêmico][formCadAlunos] com cadastros e consultas conforme o passo a passo do cap. 6 do [Ebook-programador][ebook-programador].
+>>> - Otimizando o [Sistema Acadêmico][gitsisacad] com cadastros e consultas conforme o passo a passo do cap. 6 do [Ebook-programador][ebook-programador].
 >
->>[!note]- Aula 4.7
->> - [ ] Aula 4.07 - 2025-09-22 - Transferência de Arquivos via FTP.
+>>[!note] Aula 4.7
+>> - [x] Aula 4.07 - 2025-09-23 - Transferência de Arquivos via FTP.
+>>>[!todo] 🖥️ Atividade:
+>>> - Configurando o [Sistema Acadêmico][gitsisacad] com cadastros e consultas conforme o passo a passo do cap. 6 do [Ebook-programador][ebook-programador].
+
 
 [ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
 [sevidorfree]: https://www.infinityfree.com/
 [formCadAlunos]: https://jocile.github.io/controle-academico/
+[gitsisacad]: https://github.com/jocile/controle-academico/tree/main/sis_academico
 [php-login]: https://github.com/jocile/php-exercicios/tree/main/login
 [sisacad]: https://sisacad.page.gd/
 

@@ -1,15 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-php/","title":"Formação em PHP","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-25T18:57:27.082-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-php/","title":"Formação em PHP","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-22T19:17:31.128-03:00"}
 ---
 
 #PHP #mapa #Lógica #Formação #web-developer
 
 # Formação PHP Experience
 
-**Status**:: em andamento
+**Status**:: concluído
 **Horas aula**:: 40:00
 **Habilidades**:: Lógica, PHP
 **Link**:: [Trilha DIO - Formação PHP Experience](https://web.dio.me/track/formacao-php-experience)
+
+![Formacao em PHP-1758579358036.png](/img/user/Formacao/Formacao%20em%20PHP-1758579358036.png)
+
 
 >[!check]- Desafios de projeto:
 > - [ ] Laravel: Construindo uma API do Zero
