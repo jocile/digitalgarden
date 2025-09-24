@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-09-11T09:29:26.201-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-09-24T07:47:33.324-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -74,7 +74,7 @@
 gantt
      title Programador WEB
      tickInterval 1week
-     excludes Saturday, Sunday, 31:07, 01:08, 05:08
+     excludes Saturday, Sunday, 31:07, 01:08, 05:08, 19:09, 22:09
      dateFormat DD:MM
      axisFormat %d.%m
      section Inicio
@@ -580,6 +580,12 @@ gantt
 >
 >>[!note] Aula 4.7
 >> - [x] Aula 4.07 - 2025-09-23 - Transferência de Arquivos via FTP.
+>>>[!todo] 🖥️ Atividade:
+>>> - Configurando o [Sistema Acadêmico][gitsisacad] com cadastros e consultas conforme o passo a passo do cap. 6 do [Ebook-programador][ebook-programador].
+>
+>>[!note] Aula 4.8
+>> - [x] Aula 4.08 - 2025-09-24 - Testes de Compatibilidade e Performance
+>> - Introdução a ferramentas de teste de performance como Google PageSpeed Insights e GTmetrix.
 >>>[!todo] 🖥️ Atividade:
 >>> - Configurando o [Sistema Acadêmico][gitsisacad] com cadastros e consultas conforme o passo a passo do cap. 6 do [Ebook-programador][ebook-programador].
 
