@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ciencias-da-computacao/","title":"Bacharel em Ciências da Computação","metatags":{"description":"Lista de disciplinas da formação"},"contentClasses":"row-lines row-hover","noteIcon":"default","updated":"2025-08-24T20:22:54.621-03:00"}
+{"dg-publish":true,"permalink":"/formacao/ciencias-da-computacao/","title":"Bacharel em Ciências da Computação","metatags":{"description":"Lista de disciplinas da formação"},"contentClasses":"row-lines row-hover","noteIcon":"default","updated":"2025-09-24T18:52:27.531-03:00"}
 ---
 
 #Formação #mapa
 
 **Status**:: concluído
+**Link**:: [Ciências da Computação - Universidade Estadual do Vale do Acaraú](https://www.uva.ce.gov.br/cursos/cursos-graduacao/cg-computacao/)
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnzqmToGTx9bmKoj1u3O4GsoQe9oJPidLF9HQ4Kusy1VvTsVS-YMM3S0G90vbjqX2UQ0CbiwQxtrasi-TrVOyRaDYiebGnDJg1MUfm9qUdk0fn7klVTgG49O8vVvYH7WBW9-P5qxZy0PU/s1600/fig128002.png)
 

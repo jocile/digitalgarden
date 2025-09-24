@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-python/","title":"Formação Python","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T17:52:21.058-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-python/","title":"Formação Python","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T18:32:30.395-03:00"}
 ---
 
 #Python #Formação #mapa 
@@ -11,9 +11,9 @@
 **Habilidades**:: Python, Flask, [[Formacao/Python/webapp/Django\|Django]], FastAPI, POO
 **Link**:: [DIO - Python Fundamentals](https://web.dio.me/track/formacao-python-fundamentals)
 
-## Fundamentos do Python
+## Fundamentos do Python 26 ha.
 
-![formacao python fundamentals.png](/img/user/Formacao/formacao%20python%20fundamentals.png) 26 ha.
+![formacao python fundamentals.png](/img/user/Formacao/formacao%20python%20fundamentals.png) 
 
 > [!summary]- Fundamentos do Python
 > - Ambiente de Desenvolvimento e Primeiros Passos com Python
@@ -44,11 +44,11 @@
 > - Lidando com Data, Hora e Fuso Horário no Python
 > - Manipulando Arquivos em Python
 
-## Suzano Python Developer
+## Suzano Python Developer 57 ha.
 
 ![formacao python Suzano.png](/img/user/Formacao/formacao%20python%20Suzano.png)
 
-[DIO Suzano Python Developer](https://web.dio.me/track/suzano-python-developer) 57 ha.
+**Link**:: [DIO Suzano Python Developer](https://web.dio.me/track/suzano-python-developer) 
 
 >[!check]- Desafios de projeto:
 > - [x] [Contribuindo em um Projeto Open Source no GitHub](https://github.com/jocile/meus)
@@ -117,9 +117,9 @@
 > - Análise de Sentimentos com Language Stu no Azure AI  
 > - Trabalhando com Serviços Azure OpenAI
 
-## Formação em Python developer
+## Formação em Python developer 64 ha.
 
-[DIO Python Developer](https://web.dio.me/track/formacao-python-developer) 64 ha.
+**Link**:: [DIO Python Developer](https://web.dio.me/track/formacao-python-developer)
 
 >[!check]- Desafios de projeto:
 > - [x] [Criando um Sistema Bancário com Python](https://github.com/jocile/sistema-bancario)
@@ -177,9 +177,9 @@ Desenvolvendo Rest APIs Com Python e Flask
 Desenvolvimento Web com Python e Django
 Desafio de projeto - Consumindo a API do Twitter com Python
 
-## Formação em Python backend developer
+## Formação em Python backend developer 35 ha.
 
-[DIO formacao-python-backend-developer](https://web.dio.me/track/formacao-python-backend-developer) 35 ha.
+**Link**:: [DIO formacao-python-backend-developer](https://web.dio.me/track/formacao-python-backend-developer)
 
 >[!check]- Desafios de projeto:
 > - [ ] Criando sua API Bancária Assíncrona com FastAPI

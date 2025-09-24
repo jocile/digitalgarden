@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/especializacao-em-redes-e-seguranca/","title":"Especialização em Redes e Segurança","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-07-20T20:42:47.553-03:00"}
+{"dg-publish":true,"permalink":"/formacao/especializacao-em-redes-e-seguranca/","title":"Especialização em Redes e Segurança","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T18:50:07.391-03:00"}
 ---
 
 #Formação #mapa
@@ -9,8 +9,7 @@
 **Status**:: concluído 
 **Horas aula**:: 380:00
 **Habilidades**:: Redes de Computadores, Cibersegurança, Servidores, Cabeamento estruturado, Suporte TI
-
-[Pós-Graduação - UNINTA](https://uninta.edu.br/site/pos-graduacao/)
+**Link**:: [Pós-Graduação - UNINTA](https://uninta.edu.br/site/pos-graduacao/)
 
 >[!check]- Trabalho de Conclusão de Curso
 > - [x] A IMPORTANCIA DA REDE DE COMPUTADORES PARA MONITORAMENTO: PROJETO DE SISTEMA DE MEDIÇÃO
