@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/boot-camp-spring-react/","title":"BootCamp Spring React","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-24T20:22:39.867-03:00"}
+{"dg-publish":true,"permalink":"/formacao/boot-camp-spring-react/","title":"BootCamp Spring React","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T17:52:07.769-03:00"}
 ---
 
-#Formação #mapa #Java 
+#Formação #mapa #Java #React 
 
 # BootCamp Spring React
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-python/","title":"Formação Python","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-24T20:21:15.297-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-python/","title":"Formação Python","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T17:52:21.058-03:00"}
 ---
 
 #Python #Formação #mapa 
@@ -7,13 +7,13 @@
 # Formações em Python
 
 **Status**:: em andamento 
-**Horas aula**:: 26:00, 57:00, 35:00
+**Horas aula**:: 26:00, 57:00, 64:00, 35:00
 **Habilidades**:: Python, Flask, [[Formacao/Python/webapp/Django\|Django]], FastAPI, POO
 **Link**:: [DIO - Python Fundamentals](https://web.dio.me/track/formacao-python-fundamentals)
 
 ## Fundamentos do Python
 
-![formacao python fundamentals.png](/img/user/Formacao/formacao%20python%20fundamentals.png)
+![formacao python fundamentals.png](/img/user/Formacao/formacao%20python%20fundamentals.png) 26 ha.
 
 > [!summary]- Fundamentos do Python
 > - Ambiente de Desenvolvimento e Primeiros Passos com Python
@@ -48,7 +48,7 @@
 
 ![formacao python Suzano.png](/img/user/Formacao/formacao%20python%20Suzano.png)
 
-[DIO Suzano Python Developer](https://web.dio.me/track/suzano-python-developer)
+[DIO Suzano Python Developer](https://web.dio.me/track/suzano-python-developer) 57 ha.
 
 >[!check]- Desafios de projeto:
 > - [x] [Contribuindo em um Projeto Open Source no GitHub](https://github.com/jocile/meus)
@@ -117,10 +117,69 @@
 > - Análise de Sentimentos com Language Stu no Azure AI  
 > - Trabalhando com Serviços Azure OpenAI
 
+## Formação em Python developer
+
+[DIO Python Developer](https://web.dio.me/track/formacao-python-developer) 64 ha.
+
+>[!check]- Desafios de projeto:
+> - [x] [Criando um Sistema Bancário com Python](https://github.com/jocile/sistema-bancario)
+> - [x] [Otimizando o Sistema Bancário com Funções Python](https://github.com/jocile/sistema-bancario)
+> - [x] [Modelando o Sistema Bancário em POO com Python](https://github.com/jocile/sistema-bancario)
+> - [ ] Integrando Python com SQLite e MongoDB
+> - [ ] Criando uma API com Flask no Ambiente COLAB
+> - [ ] Análise de dados com Python e Pandas
+> - [ ] Criando um Pacote de Processamento de Imagens com Python
+> - [ ] Consumindo a API do Twitter com Python
+
+> [!summary]- Fundamentos de Python
+> - Ambiente de Desenvolvimento e Primeiros passos com Python
+> - Conhecendo a Linguagem de Programação Python
+> - Tipos de Operadores com Python
+> - Estruturas Condicionais e Repetição em Python
+> - Manipulando Strings com Python
+> - Desafios Básicos Formação Python Developer
+> - Desafio de projeto - Criando um Sistema Bancário com Python
+
+> [!summary]- Aprendendo Estruturas de Dados com Python
+> - Trabalhando com Listas em Python
+> - Conhecendo Tuplas em Python
+> - Explorando Conjuntos em Python
+> - Aprendendo a Utilizar Dicionários em Python
+> - Dominando Funções Python
+> - Desafio de código - Desafios Intermediários Formação Python Developer
+> - Desafio de projeto - Otimizando o Sistema Bancário com Funções Python
+
+> [!summary]- Programação Orientada a Objetos com Python
+> - Introdução à Programação Orientada a Objetos (POO) com Python
+> - Aprendendo o Conceito de Herança com Python
+> - Aplicando Encapsulamento em Python
+> - Conhecendo Polimorfismo em Python
+> - Interfaces e Classes Abstratas com Python
+> - Desafio de Projeto - Modelando o Sistema Bancário em POO com Python
+
+> [!summary]- Integração Com Python e Frameworks
+> - Integrando Python com Banco de Dados Relacionais Utilizando SQLAlchemy
+> - Integrando Python com MongoDB Utilizando Pymongo
+> - Primeiros Passos com o Framework Django
+> - Primeiros passos com o Framework Flask
+> - Boas Práticas com Python
+> - Desafio de projeto - Integrando Python com SQLite e MongoDB
+> - Desafio de projeto - Criando uma API com Flask no Ambiente COLAB
+
+> [!summary]- Tratamento de Dados com Python
+> - Fundamentos de ETL (Extract, Transform, Load) com Python
+> - Segurança da Informação com Python
+> - Desafio de projeto - Análise de dados com Python e Pandas
+> - Desafio de projeto - Criando um Pacote de Processamento de Imagens com Python
+
+> [!summary]- Praticando Desenvolvimento Web Com Python
+Desenvolvendo Rest APIs Com Python e Flask
+Desenvolvimento Web com Python e Django
+Desafio de projeto - Consumindo a API do Twitter com Python
 
 ## Formação em Python backend developer
 
-[DIO formacao-python-backend-developer](https://web.dio.me/track/formacao-python-backend-developer)
+[DIO formacao-python-backend-developer](https://web.dio.me/track/formacao-python-backend-developer) 35 ha.
 
 >[!check]- Desafios de projeto:
 > - [ ] Criando sua API Bancária Assíncrona com FastAPI

@@ -1,30 +1,43 @@
 ---
-{"dg-publish":true,"permalink":"/cursos/","title":"Cursos","metatags":{"description":"Programação de Cursos no Senac Ceará em Sobral"},"contentClasses":"cards cards-cols-3 cards-cover","tags":["curso","Senac","mapa"],"noteIcon":"default","updated":"2025-08-04T22:53:15.494-03:00"}
+{"dg-publish":true,"permalink":"/cursos/","title":"Cursos","metatags":{"description":"Programação de Cursos no Senac Ceará em Sobral"},"contentClasses":"cards cards-cols-3 cards-cover","tags":["curso","Senac","mapa"],"noteIcon":"default","updated":"2025-09-24T18:19:59.472-03:00"}
 ---
 
 
->[!note]- Cabeleireiro - 400H👩🏻
-> O segmento de beleza no Brasil é um dos três maiores do mundo. Para ganhar destaque dentro de um setor dinâmico e competitivo, é preciso ser um profissional completo. Neste curso com 400 horas de treinamento, você aprenderá as técnicas mais modernas de beleza capilar, tratamento, corte, escova, penteado, coloração, descoloração, ondulação e alisamento com perfeição e habilidade. O Senac é referência na área e você poderá tornar-se um profissional de excelência.
+>[!note]- 📢  Recepcionista de Eventos 👩🏻 (gratuito)
+> Curso voltado à formação de profissionais qualificados para atuar na recepção de eventos, com foco em atendimento ao público, orientação de participantes e execução de procedimentos operacionais. O participante será capacitado para prestar informações com clareza, acolher os convidados com cordialidade e garantir uma recepção eficiente e bem organizada.
 > 
-> - Investimento : 12x R$199,17 no cartão 
-> - Período : 11/08/2025 a 04/12/2025
+> - 🗓️ Período: 06/10/2025 a 01/12/2025
 > - Horário : 08h às 11h30
-> - Requisitos : A partir de 18 anos e ensino fundamental completo
+> - 📝 Segunda a Sexta
+> - ⏰ 18h às 21h10  
+> - 📍 Local: Senac Sobral
 >
 >>[!info] Inscrições presenciais ou link ⬇️
->> https://cursos.ce.senac.br/produto/cabeleireiro-sobral-noite-2025-12-122/
+>> - [Senac PSG](https://psg.ce.senac.br/oportunidade/recepcionista-de-eventos-2/)
 
->[!note]- Aperfeiçoamento para garçom- 40h (gratuito)
+>[!note]- 📢  Massagista 💆🏻‍♂️(gratuito)
 >
-> Propiciar ao participante conhecimentos sobre as técnicas no atendimento em negócios de alimentação.
+> Curso voltado à capacitação de profissionais na aplicação de técnicas de massagem e terapias corporais. O participante será preparado para atuar com segurança e eficiência, promovendo o bem-estar físico e emocional por meio de manobras adequadas às diferentes regiões do corpo, respeitando os princípios da anatomia, higiene e ética profissional.
 >
-> - 🗓️ Período: 04/08/2025 a 15/08/2025 
+> - 🗓️ Período: 13/10/2025 a 06/01/2025 
 > - 📝 Segunda a Sexta
-> - ⏰ 08h às 11h30  
+> - ⏰ 13h30 às 17h  
 > - 📍 Local: Senac Sobral
 >
 >>[!info] Inscrições via link ⬇️
->> https://psg.ce.senac.br/oportunidade/aperfeicoamento-para-garcom/
+>> - [Senac PSG](https://psg.ce.senac.br/oportunidade/massagista-2/)
+
+>[!note]- 📢  Organizador de Eventos 👩🏻‍💼
+>
+> Curso destinado à qualificação de profissionais para planejar, organizar e executar eventos de pequeno e médio porte. O participante será capacitado para atuar em todas as etapas do processo, utilizando estratégias eficazes de elaboração de projetos, captação de recursos, marketing, logística e coordenação operacional, garantindo a realização de eventos bem-sucedidos e alinhados aos objetivos do cliente.
+>
+> - 🗓️ Período: 06/10/2025 a 08/12/2025 
+> -📝 Segunda a Sexta
+> -⏰ 13h30 às 17h  
+> -📍 Local: Senac Sobral
+>
+>>[!info] Inscrições via link ⬇️
+>> - [Senac PSG](https://psg.ce.senac.br/oportunidade/organizador-de-eventos-3/)
 
 >[!info]- Maiores informações
 >
