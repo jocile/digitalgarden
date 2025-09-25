@@ -33,20 +33,20 @@ Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de t
 <!-- QueryToSerialize: TABLE dg-metatags.description AS "📄 Descrição" WHERE dg-publish SORT file.cday DESC LIMIT 12 -->
 <!-- SerializedQuery: TABLE dg-metatags.description AS "📄 Descrição" WHERE dg-publish SORT file.cday DESC LIMIT 12 -->
 
-| File                                                                                               | 📄 Descrição                                                                 |
-| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| [[Formacao/PHP/Exercicios com listas\|Exercicios com listas]]                                   | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/PHP/Condicionais em PHP\|Condicionais em PHP]]                                       | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]]                                       | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/PHP/Classes em PHP\|Classes em PHP]]                                                 | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/PHP/Cadastrando nome e curso com PHP\|Cadastrando nome e curso com PHP]]             | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/PHP/Cadastrando alunos com PHP\|Cadastrando alunos com PHP]]                         | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/PHP/Metodos com PHP\|Metodos com PHP]]                                               | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/PHP/POO com PHP\|POO com PHP]]                                                       | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/PHP/Repeticao com PHP\|Repeticao com PHP]]                                           | exemplos de códigos de desenvolvimento web                                   |
-| [[Teologia/Historia dos Hebreus/Historia do povo Hebreu\|Historia do povo Hebreu]]              | suas origens genealógicas até os grandes eventos que moldaram sua trajetória |
-| [[Teologia/Escatologia/Diferencas entre Israel e a Igreja\|Diferencas entre Israel e a Igreja]] | o plano de Deus para Israel e o seu plano para a Igreja.                     |
-| [[Formacao/PHP/Exemplos em PHP\|Exemplos em PHP]]                                               | exemplos de códigos de desenvolvimento web                                   |
+| File                                                                                                                                    | 📄 Descrição                                                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [[Formacao/Excel e Power BI Dashboards\|Excel e Power BI Dashboards]]                                                                | Lista de disciplinas da formação                                                                                        |
+| [[Formacao/Formação React Developer\|Formação React Developer]]                                                                      | Lista de disciplinas da formação                                                                                        |
+| [[Formacao/PHP/login com php e mysql\|login com php e mysql]]                                                                        | exemplos de códigos de desenvolvimento web                                                                              |
+| [[Teologia/Historia dos Hebreus/Alianças de Deus com os Hebreus\|Alianças de Deus com os Hebreus]]                                   | tema central na história do povo hebreu, demonstrando o relacionamento de Deus com a humanidade e Seu plano de salvação |
+| [[Teologia/Historia dos Hebreus/Eva oferecendo a fruta e Sara oferecendo a serva\|Eva oferecendo a fruta e Sara oferecendo a serva]] | Comparação do fato de Sara oferecer a serva para Abraão com Eva oferecendo a fruta para Adão                            |
+| [[Teologia/Historia dos Hebreus/Linha do tempo dos Hebreus\|Linha do tempo dos Hebreus]]                                             | suas origens genealógicas até os grandes eventos que moldaram sua trajetória                                            |
+| [[Formacao/PHP/Exercicios com listas\|Exercicios com listas]]                                                                        | exemplos de códigos de desenvolvimento web                                                                              |
+| [[Formacao/PHP/Cadastrando alunos com PHP\|Cadastrando alunos com PHP]]                                                              | exemplos de códigos de desenvolvimento web                                                                              |
+| [[Formacao/PHP/Classes em PHP\|Classes em PHP]]                                                                                      | exemplos de códigos de desenvolvimento web                                                                              |
+| [[Formacao/PHP/Cadastrando nome e curso com PHP\|Cadastrando nome e curso com PHP]]                                                  | exemplos de códigos de desenvolvimento web                                                                              |
+| [[Formacao/PHP/Condicionais em PHP\|Condicionais em PHP]]                                                                            | exemplos de códigos de desenvolvimento web                                                                              |
+| [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]]                                                                            | exemplos de códigos de desenvolvimento web                                                                              |
 <!-- SerializedQuery END -->
 
 
@@ -120,7 +120,7 @@ Este site é um "[jardim digital](https://obsidian.rocks/maps-of-content-effortl
 >>[!info] Inscrições via link ⬇️
 >> - [Senac PSG](https://psg.ce.senac.br/oportunidade/organizador-de-eventos-3/)
 
->[!info]- Maiores informações
+>[!info]- Maiores informações de cursos no Senac
 >
 > - ☎ 88 3677 8700
 > - 📱 88 99468 928
@@ -130,6 +130,17 @@ Este site é um "[jardim digital](https://obsidian.rocks/maps-of-content-effortl
 >> - [Cursos Senac Sobral-Ceará](https://cursos.ce.senac.br/unidade/senac-sobral/)
 >> - [Senac EAD - Cursos On-line livres, Técnicos, Graduação e Pós-graduação](https://www.ead.senac.br/)
 >> - [SENAC - PORTAL DO ALUNO](https://cloud.plataforma.senac.br/senacportalaluno/#/login)
+
+>[!tip]- Cursos online de tecnologia
+> - [Guia de carreira: techguide.sh](https://techguide.sh/)
+> - [Digital Inovatio One - DIO](https://dio.me/sign-up?ref=XXNHOX4TYB)
+> - [Academia da Cisco - netacad.com](https://netacad.com/)
+> - [Bootcamp SpringBoot DevSuperior](https://devsuperior.com.br/)
+> - [Rocketseat](https://www.rocketseat.com.br/)
+> - [Alura treinamentos](https://www.alura.com.br/)
+> - [Treinamento na nuvem Google](https://www.cloudskillsboost.google/?locale=pt_BR)
+> - [Treinamento Microsoft](https://learn.microsoft.com/pt-br/training/)
+> - [Treinamento Amazon AWS](https://explore.skillbuilder.aws/learn)
 
 
 

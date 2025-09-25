@@ -578,17 +578,21 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> - Otimizando o [Sistema Acadêmico][gitsisacad] com cadastros e consultas conforme o passo a passo do cap. 6 do [Ebook-programador][ebook-programador].
 >
->>[!note] Aula 4.7
+>>[!note]- Aula 4.7
 >> - [x] Aula 4.07 - 2025-09-23 - Transferência de Arquivos via FTP.
 >>>[!todo] 🖥️ Atividade:
 >>> - Configurando o [Sistema Acadêmico][gitsisacad] com cadastros e consultas conforme o passo a passo do cap. 6 do [Ebook-programador][ebook-programador].
 >
->>[!note] Aula 4.8
+>>[!note]- Aula 4.8
 >> - [x] Aula 4.08 - 2025-09-24 - Testes de Compatibilidade e Performance
 >> - Introdução a ferramentas de teste de performance como Google PageSpeed Insights e GTmetrix.
 >>>[!todo] 🖥️ Atividade:
 >>> - Configurando o [Sistema Acadêmico][gitsisacad] com cadastros e consultas conforme o passo a passo do cap. 6 do [Ebook-programador][ebook-programador].
-
+>
+>>[!note] Aula 4.9
+>> - [x] Aula 4.09 - 2025-09-25 - Apresentação dos projetos publicados.
+>>>[!todo] 🖥️ Atividade:
+>>> - Cada aluno fará uma breve apresentação do seu projeto final, explicando as etapas de publicação e otimização. A avaliação será baseada na funcionalidade do site online e nos testes de performance realizados.
 
 [ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
 [sevidorfree]: https://www.infinityfree.com/
