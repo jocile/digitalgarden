@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/excel-e-power-bi-dashboards/","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T17:46:30.140-03:00"}
+{"dg-publish":true,"permalink":"/formacao/excel-e-power-bi-dashboards/","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T22:47:55.161-03:00"}
 ---
 
 #Excel #Formação #mapa #Powerbi #Dashboard
@@ -7,7 +7,7 @@
 # Klabin - Excel e Power BI Dashboards
 
 **Status**:: em andamento 
-**Horas aula**:: 90:00
+**Horas-aula**:: 90:00
 **Habilidades**:: Excel, PowerBI
 **Link**:: [DIO - Klabin - Excel e Power BI Dashboards](https://web.dio.me/track/klabin-excel-e-power-bi-dashboards)
 

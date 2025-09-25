@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-react-developer/","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T17:49:26.670-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-react-developer/","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T22:49:03.254-03:00"}
 ---
 
 #React #Formação #mapa
@@ -7,7 +7,7 @@
 # Formação React Developer
 
 **Status**:: em andamento 
-**Horas aula**:: 34:00
+**Horas-aula**:: 34:00
 **Habilidades**:: React, JavaScript, Webdesign
 **Link**:: [DIO - Formação React Developer](https://web.dio.me/track/formacao-react-developers)
 
