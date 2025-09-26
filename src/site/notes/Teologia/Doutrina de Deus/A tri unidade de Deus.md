@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/doutrina-de-deus/a-tri-unidade-de-deus/","title":"A tri unidade de Deus","metatags":{"description":"doutrina que afirma a existência de Deus como três pessoas"},"tags":["Teologia","Deus"],"noteIcon":"1","updated":"2025-02-05T15:52:44.081-03:00"}
+{"dg-publish":true,"permalink":"/teologia/doutrina-de-deus/a-tri-unidade-de-deus/","metatags":{"description":"doutrina que afirma a existência de Deus como três pessoas"},"noteIcon":"1","updated":"2025-09-26T09:06:28.036-03:00"}
 ---
+
+#Teologia #Trindade #Deus
 
 # A tri unidade de Deus
 
