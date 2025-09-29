@@ -535,7 +535,7 @@ gantt
 >> 2. Formata e exporta arquivos do projeto local para servidor web, de acordo com as tecnologias disponíveis. 
 >> 3. Verifica compatibilidade e performance do *website*, de acordo com as normas e exigências do mercado.
 
->[!done] Cronograma das aulas da UC4
+>[!done]- Cronograma das aulas da UC4
 >
 >>[!note]- Aula 4.1
 >> - [x] Aula 4.01 - 2025-09-11 - Introdução aos Servidores de hospedagem.
@@ -626,6 +626,18 @@ gantt
 >
 >>[!note]- Aula 5.1
 >> - [x] Aula 5.01 - 2025-08-05 - Front-end do projeto integrador.
+>
+>>[!note]- Aula 5.2
+>> - [x] Aula 5.02 - 2025-09-26 - Front-end do projeto integrador.
+>
+>>[!note] Aula 5.3
+>> - [x] Aula 5.03 - 2025-09-29 - Back-end do projeto integrador.
+>
+>>[!note]- Aula 5.4
+>> - [ ] Aula 5.04 - 2025-09-30 - Apresentação do projeto integrador.
+>
+>>[!note]- Aula 5.5
+>> - [ ] Aula 5.04 - 2025-10-01 - Apresentação do projeto integrador.
 
 
 </div></div>

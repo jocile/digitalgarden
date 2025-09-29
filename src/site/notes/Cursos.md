@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cursos/","title":"Cursos","metatags":{"description":"Programação de Cursos no Senac Ceará em Sobral"},"contentClasses":"cards cards-cols-3 cards-cover","tags":["curso","Senac","mapa"],"noteIcon":"default","updated":"2025-09-24T22:04:30.450-03:00"}
+{"dg-publish":true,"permalink":"/cursos/","title":"Cursos","metatags":{"description":"Programação de Cursos no Senac Ceará em Sobral"},"contentClasses":"cards cards-cols-3 cards-cover","tags":["curso","Senac","mapa"],"noteIcon":"default","updated":"2025-09-29T08:03:24.367-03:00"}
 ---
 
 
@@ -7,7 +7,6 @@
 > Curso voltado à formação de profissionais qualificados para atuar na recepção de eventos, com foco em atendimento ao público, orientação de participantes e execução de procedimentos operacionais. O participante será capacitado para prestar informações com clareza, acolher os convidados com cordialidade e garantir uma recepção eficiente e bem organizada.
 > 
 > - 🗓️ Período: 06/10/2025 a 01/12/2025
-> - Horário : 08h às 11h30
 > - 📝 Segunda a Sexta
 > - ⏰ 18h às 21h10  
 > - 📍 Local: Senac Sobral

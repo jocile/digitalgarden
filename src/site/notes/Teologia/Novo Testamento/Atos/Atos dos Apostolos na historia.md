@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/novo-testamento/atos/atos-dos-apostolos-na-historia/","metatags":{"description":"mostra como o Evangelho foi difundido e consolidado após a morte, ressurreição e ascensão de Jesus."},"noteIcon":"1","updated":"2025-09-26T10:39:44.964-03:00"}
+{"dg-publish":true,"permalink":"/teologia/novo-testamento/atos/atos-dos-apostolos-na-historia/","metatags":{"description":"mostra como o Evangelho foi difundido e consolidado após a morte, ressurreição e ascensão de Jesus."},"noteIcon":"1","updated":"2025-09-26T13:08:15.060-03:00"}
 ---
 
 #Teologia #Atos
@@ -154,6 +154,11 @@ O livro de Atos dos Apóstolos documenta a transição crucial do movimento de J
 
 ### Referências
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
 Texto gerado e revisado usando [[Formacao/Inteligencia Artificial/ferramentas de IA/Notebooklm\|Notebooklm]] com as seguintes fontes:
 
 - [[Teologia/Bibliografia de Teologia/Atos por Barclay\|Atos por Barclay]]
@@ -161,4 +166,8 @@ Texto gerado e revisado usando [[Formacao/Inteligencia Artificial/ferramentas de
 - Atos por MHenry;
 - Atos por Mood;
 - Atos - comentário Esperança;
-- Atos- Novo Comentário da Bíblia.
+- AtosNovo Comentário da Bíblia.
+
+
+</div></div>
+

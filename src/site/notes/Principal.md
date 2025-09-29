@@ -88,7 +88,6 @@ Este site é um "[jardim digital](https://obsidian.rocks/maps-of-content-effortl
 > Curso voltado à formação de profissionais qualificados para atuar na recepção de eventos, com foco em atendimento ao público, orientação de participantes e execução de procedimentos operacionais. O participante será capacitado para prestar informações com clareza, acolher os convidados com cordialidade e garantir uma recepção eficiente e bem organizada.
 > 
 > - 🗓️ Período: 06/10/2025 a 01/12/2025
-> - Horário : 08h às 11h30
 > - 📝 Segunda a Sexta
 > - ⏰ 18h às 21h10  
 > - 📍 Local: Senac Sobral
