@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-react-developer/","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T22:49:03.254-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-react-developer/","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-30T22:21:19.190-03:00"}
 ---
 
 #React #Formação #mapa
@@ -14,7 +14,7 @@
 [[Formacao/BootCamp Spring React#BrootCamp React\|BootCamp Spring React#BrootCamp React]]
 
 >[!check]- Desafios de projeto:
-> - [ ] Criando Uma Calculadora Com React
+> - [x] [Criando Uma Calculadora Com React](https://github.com/jocile/calculadora)
 > - [ ] Criando Uma Wiki de Repositórios do GitHub Com React
 > - [ ] Desenvolvendo a Tela de Cadastro da Plataforma Dio com React
 > - [ ] Implementando Uma Tela de Login Com Validação Usando TypeScript
