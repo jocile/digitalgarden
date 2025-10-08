@@ -69,20 +69,29 @@ gantt
 
 >[!done] Cronograma da Unidade Curricular 1 (<font color="#ff0000">clique aqui</font>)
 >
->>[!note] Aula em 06/10
+>>[!note]- Aula em 06/10
 >> - 🎓 [Abertura do curso](https://docs.google.com/presentation/d/12myN-OpLqppVuXahxOGlCTRJcd84ftr_/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> - ✨ [Aula 1 - Apresentação](https://drive.google.com/file/d/1-6RPU-erktgeD7HxvyWlQguM4dIXTYuH/view?usp=sharing)
 >>>[!todo] 🖥️ Atividade: 
 >>> - Criar um relatório sobre:
->>>   - A versão do Sistema Operacional e do Office;
->>>   - A quantidade de memória e armazenamento do Desktop;
->>>   - Enviar por E-mail.
->
->>[!note]- Aula em 07/10
->> - [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estação de Trabalho em Tecnologia da Informação]]
->>>[!todo] 🖥️ Atividade: 
+>>>  - A versão do Sistema Operacional e do Office;
 >>> - Digitação com acentuação na página 53 da [📑Apostila][apostila]
 >
+>>[!note]- Aula em 07/10
+>> - [História e Evolução dos Computadores](https://www.todamateria.com.br/historia-e-evolucao-dos-computadores/)
+>>>[!todo] 🖥️ Atividade: 
+>>>  - A quantidade de memória e armazenamento do Desktop;
+>>> - Organização de ícones e arquivos na Área de Trabalho, na páginas 29 a 35 da [📑Apostila][apostila]
+>>>  - Operações gráficas com mouse em aplicativos Paint e Paint 3D
+>
+>>[!note] Aula em 08/10
+>> - [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estação de Trabalho em Tecnologia da Informação]]
+>> - Configuração do Windows:
+>>  - acesso e tela de bloqueio;
+>>  - organização de arquivos;
+>>>[!todo] 🖥️ Atividades:
+>>> - Organização de arquivos e pastas, na páginas 29 a 35 da [📑Apostila][apostila]
+>>> - Criar arquivos ocultos e [como deixar uma pasta invisível](https://dti.unilab.edu.br/blog/2014/08/13/como-deixar-uma-pasta-invisivel/)
 
 
 
