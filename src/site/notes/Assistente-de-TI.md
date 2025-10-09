@@ -69,7 +69,8 @@ gantt
 
 >[!done] Cronograma da Unidade Curricular 1 (<font color="#ff0000">clique aqui</font>)
 >
->>[!note]- Aula em 06/10
+>>[!note]- Aula 1.1 - introdução ao Windows
+>>  - [x] Aula 1.1 - 2025.10.06 - Windows -  Introdução
 >> - 🎓 [Abertura do curso](https://docs.google.com/presentation/d/12myN-OpLqppVuXahxOGlCTRJcd84ftr_/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> - ✨ [Aula 1 - Apresentação](https://drive.google.com/file/d/1-6RPU-erktgeD7HxvyWlQguM4dIXTYuH/view?usp=sharing)
 >>>[!todo] 🖥️ Atividade: 
@@ -77,21 +78,48 @@ gantt
 >>>  - A versão do Sistema Operacional e do Office;
 >>> - Digitação com acentuação na página 53 da [📑Apostila][apostila]
 >
->>[!note]- Aula em 07/10
+>>[!note]- Aula 1.2 - conhecendo a área de trabalho
+>>  - [x] Aula 1.2 - 2025.10.07 - Windows - Conhecendo a área de trabalho
 >> - [História e Evolução dos Computadores](https://www.todamateria.com.br/historia-e-evolucao-dos-computadores/)
 >>>[!todo] 🖥️ Atividade: 
 >>>  - A quantidade de memória e armazenamento do Desktop;
 >>> - Organização de ícones e arquivos na Área de Trabalho, na páginas 29 a 35 da [📑Apostila][apostila]
->>>  - Operações gráficas com mouse em aplicativos Paint e Paint 3D
+>>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
 >
->>[!note] Aula em 08/10
+>>[!note]- Aula 1.3 - configurando as telas do Windows
+>>  - [x] Aula 1.3 - 2025.10.08 - Windows - Configuração das telas
 >> - [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estação de Trabalho em Tecnologia da Informação]]
 >> - Configuração do Windows:
 >>  - acesso e tela de bloqueio;
 >>  - organização de arquivos;
+>>   - opções de energia;
 >>>[!todo] 🖥️ Atividades:
 >>> - Organização de arquivos e pastas, na páginas 29 a 35 da [📑Apostila][apostila]
+>>> - Configurar o desligamento automático para 30 minutos;
+>>> - Mudar a imagem das telas de bloqueio e desktop do Windows;
+>>> - Identificar como instalar e modificar temas do Windows;
 >>> - Criar arquivos ocultos e [como deixar uma pasta invisível](https://dti.unilab.edu.br/blog/2014/08/13/como-deixar-uma-pasta-invisivel/)
+>
+>>[!note] Aula 1.4 - organizando arquivos e pastas, ferramentas do Sistema
+>>  - [x] Aula 1.4 - 2025.10.09 - Windows - ferramentas, arquivos e pastas
+>>   - [[Tecnico/Assistente-de-TI/Guia do Windows\|Guia do Windows]]
+>>   - [[Tecnico/Assistente-de-TI/5 segredos do Windows\|5 segredos do Windows]]
+>>   - Configurando o menu Iniciar, organizando atalhos em pastas;
+>>   - interface e manuseio de janelas, área de trabalho,
+>>   - manipulação de arquivos e pastas,
+>>   - recurso de área de transferência, seleção, copiar, recortar e colar;
+>>   - painel de controle.
+>>>[!todo] 🖥️ Atividade:
+>>> - Mudar a imagem de sua conta de usuário do Windows;
+>>> - Selecionando textos conforme pg. 56 da [📑Apostila][apostila];
+>
+>>[!note]- Aula 1.5 - programas acessórios do Windows
+>>  - [ ] Aula 1.5 - 2025.10.10 - Windows - programas acessórios
+>>   - Conhecendo os acessórios do Windows: bloco de notas, calculadora Paint e Wordpad, digitação com acentos e atalhos de teclado
+>>   - acessórios do SO: bloco de notas, [[Tecnico/Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], WordPad;
+>>>[!todo] 🖥️ Atividade:
+>>> - Criando textos e formatando no WordPad;
+>>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
 
 
 
