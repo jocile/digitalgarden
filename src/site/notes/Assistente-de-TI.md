@@ -67,7 +67,7 @@ gantt
 
 ### Cronograma da UC1
 
->[!done] Cronograma da Unidade Curricular 1 (<font color="#ff0000">clique aqui</font>)
+>[!done] Cronograma da Unidade Curricular 1
 >
 >>[!note]- Aula 1.1 - introdução ao Windows
 >>  - [x] Aula 1.1 - 2025.10.06 - Windows -  Introdução
@@ -89,7 +89,7 @@ gantt
 >>[!note]- Aula 1.3 - configurando as telas do Windows
 >>  - [x] Aula 1.3 - 2025.10.08 - Windows - Configuração das telas
 >> - [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estação de Trabalho em Tecnologia da Informação]]
->> - Configuração do Windows:
+>> - [Personalizar a IU do dispositivo Windows](https://learn.microsoft.com/pt-br/windows-hardware/customize/)
 >>  - acesso e tela de bloqueio;
 >>  - organização de arquivos;
 >>   - opções de energia;
@@ -100,7 +100,7 @@ gantt
 >>> - Identificar como instalar e modificar temas do Windows;
 >>> - Criar arquivos ocultos e [como deixar uma pasta invisível](https://dti.unilab.edu.br/blog/2014/08/13/como-deixar-uma-pasta-invisivel/)
 >
->>[!note] Aula 1.4 - organizando arquivos e pastas, ferramentas do Sistema
+>>[!note]- Aula 1.4 - organizando arquivos e pastas, ferramentas do Sistema
 >>  - [x] Aula 1.4 - 2025.10.09 - Windows - ferramentas, arquivos e pastas
 >>   - [[Tecnico/Assistente-de-TI/Guia do Windows\|Guia do Windows]]
 >>   - [[Tecnico/Assistente-de-TI/5 segredos do Windows\|5 segredos do Windows]]
@@ -113,10 +113,12 @@ gantt
 >>> - Mudar a imagem de sua conta de usuário do Windows;
 >>> - Selecionando textos conforme pg. 56 da [📑Apostila][apostila];
 >
->>[!note]- Aula 1.5 - programas acessórios do Windows
->>  - [ ] Aula 1.5 - 2025.10.10 - Windows - programas acessórios
+>>[!note] Aula 1.5 - programas acessórios do Windows
+>>  - [x] Aula 1.5 - 2025.10.10 - Windows - programas acessórios
 >>   - Conhecendo os acessórios do Windows: bloco de notas, calculadora Paint e Wordpad, digitação com acentos e atalhos de teclado
 >>   - acessórios do SO: bloco de notas, [[Tecnico/Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], WordPad;
+>>   - [Explorar as ferramentas de suporte e diagnóstico](https://learn.microsoft.com/pt-br/training/modules/explore-support-diagnostic-tools/?source=recommendations)
+>>   - [Sysinternals - Sysinternals \| Microsoft Learn](https://learn.microsoft.com/pt-br/sysinternals/)
 >>>[!todo] 🖥️ Atividade:
 >>> - Criando textos e formatando no WordPad;
 >>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
