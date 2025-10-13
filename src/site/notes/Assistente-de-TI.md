@@ -113,7 +113,7 @@ gantt
 >>> - Mudar a imagem de sua conta de usuário do Windows;
 >>> - Selecionando textos conforme pg. 56 da [📑Apostila][apostila];
 >
->>[!note] Aula 1.5 - programas acessórios do Windows
+>>[!note]- Aula 1.5 - programas acessórios do Windows
 >>  - [x] Aula 1.5 - 2025.10.10 - Windows - programas acessórios
 >>   - Conhecendo os acessórios do Windows: bloco de notas, calculadora Paint e Wordpad, digitação com acentos e atalhos de teclado
 >>   - acessórios do SO: bloco de notas, [[Tecnico/Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], WordPad;
@@ -122,6 +122,21 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> - Criando textos e formatando no WordPad;
 >>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
+>
+>>[!note] Aula 1.6 - Word - elementos, formatação e parágrafos
+>>  - [x] Aula 1.6 - 2025.10.13 - Editor de texto [Word](https://support.microsoft.com/pt-br/word): área de trabalho;
+>>   - [📑Apostila][apostila] a partir da pg. 73: Processador de Textos Word: Elementos da tela; Manipulação com arquivo de texto; Recursos de seleção de texto; 
+>>>[!todo] 🖥️ Atividade:
+>>> - Conhecendo a interface do Word: Criando texto sobre o Blu-Ray contendo formatação e parágrafos;
+>>> - Conhecendo estilos de texto no Word Criando o texto Iracema;
+>
+>>[!note]- Aula 1.7 - Word - formatação de textos (fonte e parágrafo), ortografia e gramática.
+>>  - [ ] Aula 1.7 - 2025.10.14 - Editor de texto [Word](https://support.microsoft.com/pt-br/word): área de trabalho;
+>>   - Editor de texto [Word](https://support.microsoft.com/pt-br/word): formatação de textos (fonte e parágrafo), ortografia e gramática.
+>>   - [📑Apostila][apostila] a partir da pg. 83: Processador de Textos Word: Manipulação com arquivo de texto e formatação e estilos de fonte e parágrafos; Copiar, recortar e colar texto; Ferramenta Zoom; estilos de texto. 
+>>>[!todo] 🖥️ Atividade:
+>>> - Criar um Formulário on-line de pesquisa de satisfação;
+>>> - Conhecendo estilos de texto no Word Criando os textos Iracema e o poema Cecília;
 
 
 
