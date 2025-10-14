@@ -123,20 +123,38 @@ gantt
 >>> - Criando textos e formatando no WordPad;
 >>> - Criando desenhos no Paint e Paint 3d conforme pg. 57 da [📑Apostila][apostila];
 >
->>[!note] Aula 1.6 - Word - elementos, formatação e parágrafos
+>>[!note]- Aula 1.6 - Word - elementos, formatação e parágrafos
 >>  - [x] Aula 1.6 - 2025.10.13 - Editor de texto [Word](https://support.microsoft.com/pt-br/word): área de trabalho;
 >>   - [📑Apostila][apostila] a partir da pg. 73: Processador de Textos Word: Elementos da tela; Manipulação com arquivo de texto; Recursos de seleção de texto; 
 >>>[!todo] 🖥️ Atividade:
 >>> - Conhecendo a interface do Word: Criando texto sobre o Blu-Ray contendo formatação e parágrafos;
->>> - Conhecendo estilos de texto no Word Criando o texto Iracema;
+>>> - Conhecendo estilos de texto no Word Criando os textos Iracema e o poema Cecília;
 >
->>[!note]- Aula 1.7 - Word - formatação de textos (fonte e parágrafo), ortografia e gramática.
->>  - [ ] Aula 1.7 - 2025.10.14 - Editor de texto [Word](https://support.microsoft.com/pt-br/word): área de trabalho;
+>>[!note] Aula 1.7 - Word - formatação de textos (fonte e parágrafo), ortografia e gramática.
+>>  - [x] Aula 1.7 - 2025.10.14 - Editor de texto [Word](https://support.microsoft.com/pt-br/word): área de trabalho;
 >>   - Editor de texto [Word](https://support.microsoft.com/pt-br/word): formatação de textos (fonte e parágrafo), ortografia e gramática.
 >>   - [📑Apostila][apostila] a partir da pg. 83: Processador de Textos Word: Manipulação com arquivo de texto e formatação e estilos de fonte e parágrafos; Copiar, recortar e colar texto; Ferramenta Zoom; estilos de texto. 
 >>>[!todo] 🖥️ Atividade:
->>> - Criar um Formulário on-line de pesquisa de satisfação;
->>> - Conhecendo estilos de texto no Word Criando os textos Iracema e o poema Cecília;
+>>> - Conhecendo estilos de texto no Word Criando os textos Responsabilidade Social e Teoria da música;
+>>> - Criando um portifólio no [Google Sites](https://sites.google.com/new/).
+>
+>>[!note]- Aula 1.8 - Word - histórico, desfazer, área de transferência
+>>  - [ ] Aula 1.8 - 2025.10.15- [📑Apostila][apostila] a partir da pg. 88: Processador de Textos Word: Manipulação com arquivo de texto e formatação e estilos de fonte e parágrafos; Copiar, recortar e colar texto; Ferramenta Zoom; reverter texto, histórico de desfaz e refaz ações;
+>>>[!todo] 🖥️ Atividade:
+>>> - No Word Criando os textos Teoria da música, Menu com tabulação, Sumário manual.
+>
+>>[!note]- Aula 1.9 - Word - correção, tabulação, cabeçalho
+>>  - [ ] Aula 1.8 - 2025.10.16
+>>  - [📑Apostila][apostila] a partir da pg. 92: Processador de Textos Word:  Correção ortográfica, tabulações,  cabeçalho e rodapé, objetos e imagens.
+>>>[!todo] 🖥️ Atividades:
+>>>  - [📑Apostila][apostila] a partir da pg. 118: Boletim escolar, recibo comercial, textos formatados e cardápio.
+>
+>>[!note]- Aula 1.10 - Word - Designe de documentos, bordas, cor de fundo, estilos de papel.
+>>  - [ ] Aula 1.8 - 2025.10.17 - [📑Apostila][apostila] a partir da pg. 99: Processador de Textos Word:  bordas de parágrafo e de páginas, designe de documentos.
+>>   - Compartilhamento de arquivos no Drive e [Google Sites](https://sites.google.com/view/informaticasenac/assistente-de-ti-2024)
+>>>[!todo] 🖥️ Atividades:
+>>> - No Word Criando os certificados e papel de carta estilizados.
+
 
 
 
