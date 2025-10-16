@@ -132,37 +132,32 @@ gantt
 >
 >>[!note]- Aula 1.7 - Word - formatação de textos (fonte e parágrafo), ortografia e gramática.
 >>  - [x] Aula 1.7 - 2025.10.14 - Editor de texto [Word](https://support.microsoft.com/pt-br/word): área de trabalho;
->>   - Editor de texto [Word](https://support.microsoft.com/pt-br/word): formatação de textos (fonte e parágrafo), ortografia e gramática.
->>   - [📑Apostila][apostila] a partir da pg. 83: Processador de Textos Word: Manipulação com arquivo de texto e formatação e estilos de fonte e parágrafos; Copiar, recortar e colar texto; Ferramenta Zoom; estilos de texto. 
+>>   - Editor de texto [Word](https://support.microsoft.com/pt-br/word): formatação de textos (fonte e parágrafo), 
+>>   - [📑Apostila][apostila] a partir da pg. 83: Processador de Textos Word: Manipulação com arquivo de texto e formatação e estilos de fonte e parágrafos; Copiar, recortar e colar texto; estilos de texto, reverter texto, histórico de desfaz e refaz ações;
 >>>[!todo] 🖥️ Atividade:
 >>> - Criando um portifólio no [Google Sites](https://sites.google.com/new/).
 >>   - Compartilhamento de arquivos no [Drive](https://drive.google.com/) e [Google Sites](https://sites.google.com/view/informaticasenac/assistente-de-ti-2024)
 >>> - Conhecendo estilos de texto no Word Criando os textos Responsabilidade Social e Teoria da música;
 >
->>[!note] Aula 1.8 - Word - histórico, desfazer, área de transferência
->>  - [x] Aula 1.8 - 2025.10.15- [📑Apostila][apostila] a partir da pg. 88: Processador de Textos Word: Copiar, recortar e colar texto; Ferramenta Zoom; reverter texto, histórico de desfaz e refaz ações;
+>>[!note] Aula 1.8 - Word - ortografia e gramática, correção, tabulação, cabeçalho
+>>  - [x] Aula 1.8 - 2025.10.15- [📑Apostila][apostila] a partir da pg. 88: Processador de Textos Word: ortografia e gramática, layout de visualização
 >>>[!todo] 🖥️ Atividade:
 >>> - No Word Criando os textos Teoria da música, Menu com tabulação, Sumário manual.
 >>> - No Word Criando o texto Soneto de Fidelidade, sumários e capas em trabalho.
 >
->>[!note]- Aula 1.9 - Word - correção, tabulação, cabeçalho
->>  - [ ] Aula 1.8 - 2025.10.16 - Word - Correção ortográfica
->>  - [📑Apostila][apostila] a partir da pg. 92: Processador de Textos Word:  Correção ortográfica, tabulações,  cabeçalho e rodapé, objetos e imagens.
+>>[!note]- Aula 1.9 - Word - design de bordas e imagens
+>>  - [x] Aula 1.9 - 2025.10.16 - Word - [📑Apostila][apostila] a partir da pg. 92: Processador de Textos Word: cabeçalho e rodapé, objetos e imagens, bordas de parágrafo e de páginas, design de documentos.
 >>>[!todo] 🖥️ Atividades:
 >>>  - [📑Apostila][apostila] a partir da pg. 118: Boletim escolar, recibo comercial, textos formatados e cardápio.
->
->>[!note]- Aula 1.9 - Word - Designe de documentos, bordas, cor de fundo, estilos de papel.
->>  - [ ] Aula 1.9 - 2025.10.16 - [📑Apostila][apostila] a partir da pg. 99: Processador de Textos Word:  bordas de parágrafo e de páginas, designe de documentos.
->>>[!todo] 🖥️ Atividades:
 >>> - No Word Criando os certificados e papel de carta estilizados.
+>>> - No Word Criando os textos com símbolos e  organizando imagens no texto "Samba de Noel Rosa".
+>>> - Criando Infografo;
 >
 >>[!note]- Aula 1.10 - [📑Apostila][apostila] a partir da pg. 118: Processador de Textos Word:  atividade avaliativa.
->> - [ ]  Aula 1.8 - 2025.10.16 - Word - elementos da página, cabeçalho e rodapé
->>   - [📑Apostila][apostila] a partir da pg. 106: Processador de Textos Word:  cabeçalho e rodapé, símbolos, objetos e imagens.
+>> - [ ]  Aula 1.10 - 2025.10.17 - Word - elementos da página, cabeçalho e rodapé, tabelas e listas.
+>>   - [📑Apostila][apostila] a partir da pg. 105: Processador de Textos Word: Operações com figuras, símbolos e ilustrações; Inserir e formatar Tabelas; Revisor ortográfico; Configuração de página e de impressão; tabelas e listas, impressão. formatação de textos (fonte e parágrafo), ortografia e gramática, cabeçalho e rodapé, objetos e imagens, tabelas e listas, impressão.
 >>>[!todo] 🖥️ Atividades:
->>> - No Word Criando os textos com símbolos e  organizando imagens no texto "Samba de Noel Rosa".
 >>> - Criando a tabela boletim;
->>> - Criando Infografo;
 >>> - Criando o relatório de vendas com tabulação;
 >>> - Criando o recibo comercial.
 
