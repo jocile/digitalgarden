@@ -139,22 +139,22 @@ gantt
 >>   - Compartilhamento de arquivos no [Drive](https://drive.google.com/) e [Google Sites](https://sites.google.com/view/informaticasenac/assistente-de-ti-2024)
 >>> - Conhecendo estilos de texto no Word Criando os textos Responsabilidade Social e Teoria da música;
 >
->>[!note] Aula 1.8 - Word - ortografia e gramática, correção, tabulação, cabeçalho
+>>[!note]- Aula 1.8 - Word - ortografia e gramática, correção, tabulação, cabeçalho
 >>  - [x] Aula 1.8 - 2025.10.15- [📑Apostila][apostila] a partir da pg. 88: Processador de Textos Word: ortografia e gramática, layout de visualização
 >>>[!todo] 🖥️ Atividade:
 >>> - No Word Criando os textos Teoria da música, Menu com tabulação, Sumário manual.
 >>> - No Word Criando o texto Soneto de Fidelidade, sumários e capas em trabalho.
 >
->>[!note]- Aula 1.9 - Word - design de bordas e imagens
->>  - [x] Aula 1.9 - 2025.10.16 - Word - [📑Apostila][apostila] a partir da pg. 92: Processador de Textos Word: cabeçalho e rodapé, objetos e imagens, bordas de parágrafo e de páginas, design de documentos.
+>>[!note]- Aula 1.9 - Word - elementos, marcadores, símbolos e ilustrações, design de bordas e imagens
+>>  - [x] Aula 1.9 - 2025.10.16 - Word - [📑Apostila][apostila] a partir da pg. 97: Processador de Textos Word: cabeçalho e rodapé, objetos e imagens, bordas de parágrafo e de páginas, design de documentos.
 >>>[!todo] 🖥️ Atividades:
 >>>  - [📑Apostila][apostila] a partir da pg. 118: Boletim escolar, recibo comercial, textos formatados e cardápio.
 >>> - No Word Criando os certificados e papel de carta estilizados.
 >>> - No Word Criando os textos com símbolos e  organizando imagens no texto "Samba de Noel Rosa".
 >>> - Criando Infografo;
 >
->>[!note]- Aula 1.10 - [📑Apostila][apostila] a partir da pg. 118: Processador de Textos Word:  atividade avaliativa.
->> - [ ]  Aula 1.10 - 2025.10.17 - Word - elementos da página, cabeçalho e rodapé, tabelas e listas.
+>>[!note] Aula 1.10 - [📑Apostila][apostila] a partir da pg. 118: Processador de Textos Word:  atividade avaliativa.
+>> - [x]  Aula 1.10 - 2025.10.17 - Word - elementos da página, cabeçalho e rodapé, tabelas e listas.
 >>   - [📑Apostila][apostila] a partir da pg. 105: Processador de Textos Word: Operações com figuras, símbolos e ilustrações; Inserir e formatar Tabelas; Revisor ortográfico; Configuração de página e de impressão; tabelas e listas, impressão. formatação de textos (fonte e parágrafo), ortografia e gramática, cabeçalho e rodapé, objetos e imagens, tabelas e listas, impressão.
 >>>[!todo] 🖥️ Atividades:
 >>> - Criando a tabela boletim;
