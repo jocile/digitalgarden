@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-react-developer/","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-10-05T17:12:43.267-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-react-developer/","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-10-19T16:35:03.321-03:00"}
 ---
 
 #React #Formação #mapa
@@ -16,8 +16,8 @@
 >[!check]- Desafios de projeto:
 > - [x] [Criando Uma Calculadora Com React](https://github.com/jocile/calculadora)
 > - [x] [Criando Uma Wiki de Repositórios do GitHub Com React](https://github.com/jocile/wiki-git)
-> - [ ] Desenvolvendo a Tela de Cadastro da Plataforma Dio com React
-> - [ ] Implementando Uma Tela de Login Com Validação Usando TypeScript
+> - [x] [Desenvolvendo a Tela de Cadastro da Plataforma Dio com React](https://github.com/jocile/clonedio)
+> - [x] [Implementando Uma Tela de Login Com Validação Usando TypeScript](https://github.com/jocile/login-typescript)
 > - [ ] Criando o Seu Blog Pessoal Com Next.js
 
 > [!summary]- Fundamentos do React

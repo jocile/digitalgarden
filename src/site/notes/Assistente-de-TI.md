@@ -153,14 +153,73 @@ gantt
 >>> - No Word Criando os textos com símbolos e  organizando imagens no texto "Samba de Noel Rosa".
 >>> - Criando Infografo;
 >
->>[!note] Aula 1.10 - [📑Apostila][apostila] a partir da pg. 118: Processador de Textos Word:  atividade avaliativa.
+>>[!note]- Aula 1.10 - [📑Apostila][apostila] a partir da pg. 118: Processador de Textos Word:  atividade avaliativa.
 >> - [x]  Aula 1.10 - 2025.10.17 - Word - elementos da página, cabeçalho e rodapé, tabelas e listas.
 >>   - [📑Apostila][apostila] a partir da pg. 105: Processador de Textos Word: Operações com figuras, símbolos e ilustrações; Inserir e formatar Tabelas; Revisor ortográfico; Configuração de página e de impressão; tabelas e listas, impressão. formatação de textos (fonte e parágrafo), ortografia e gramática, cabeçalho e rodapé, objetos e imagens, tabelas e listas, impressão.
+>>   - [Atualizações do Windows 11 25H2](https://www.youtube.com/watch?v=QCHn_1WDSX0)
 >>>[!todo] 🖥️ Atividades:
 >>> - Criando a tabela boletim;
 >>> - Criando o relatório de vendas com tabulação;
 >>> - Criando o recibo comercial.
-
+>
+>>[!note] Aula 1.11 - Introdução a planilhas com o Excel
+>> - [x]  Aula 1.11 - 2025.10.20 - [📑Apostila][apostila] a partir da pg. 121, editor de planilhas Excel: 
+>>    - Conceito de Planilha eletrônica;
+>>    - Principais elementos do espaço de trabalho (Pasta, planilha, célula, barras, menus);
+>>    - Navegação; Edição de dados nas células;
+>>    - Seleção de célula, intervalo(s), coluna(s), linha(s), toda planilha;
+>>
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Criando e formatando a planilha de orçamento doméstico.
+>>> - Criando a planilha Feira do mês com cálculos de total.
+>
+>>[!note]- Aula 1.12 - Operações aritméticas com Excel:
+>> - [ ]  Aula 1.12 - 2025.10.21 - [📑Apostila][apostila] a partir da pg. 137, Editor de planilhas Excel:
+>> - Operações com colunas e linhas;
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Criando e formatando a planilha de cálculos percentuais.
+>>> - Criando a planilha de boletim escolar com formatação condicional.
+>
+>>[!note]- Aula 1,13 - Funções com Ecel:
+>> - [ ]  Aula 1.13 - 2025.10.22 - [📑Apostila][apostila] a partir da pg. 141, Editor de planilhas Excel:
+>> - Operações com funções aritméticas: soma, máximo, mínimo, média,`procv`, `proch`;
+>> - Formatação condicional para destacar informações com cores.
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Adicionando funções à planilha de cálculos percentuais.
+>>> - Adicionando funções e destacando notas vermelhas à planilha de boletim escolar.
+>>> - Pesquisa dinâmica de nomes, notas e resultados no boletim.
+>
+>>[!note]- Aula 1.14 - Segurança e proteção em planilhas no Excel:
+>> - [ ]  Aula 1.14 - 2025.10.23  - [📑Apostila][apostila] a partir da pg. 143, Editor de planilhas Excel:
+>> - Operações com planilhas: copiar, selecionar, mover, ocultar, múltiplas seleções;
+>> - Configuração de proteção: proteger células específicas, planilhas e arquivos.
+>> - Validação de dados: garantir entrada de dados a partir de uma lista determinada.
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Criando um formulário para seleção de emprego com células protegidas e validação de dados.
+>>> - Adicionando funções à planilha de boletim escolar.
+>
+>>[!note]- Aula 1.15 - Gráficos em planilhas do Excel:
+>> - [ ]  Aula 1.15 - 2025.10.24 - [📑Apostila][apostila] a partir da pg. 155, Editor de planilhas Excel:
+>> - Configuração de páginas e impressão.
+>> - Configurando o cabeçalho e rodapé.
+>> - Criação e formatação de Gráficos;
+>> - Classificação personalizada de dados;
+>> - Referência absoluta e relativa.
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Adicionando gráficos à planilha de boletim escolar (pg. 156).
+>>> - Criando planilhas com gráficos: PIB Brasil, Pesquisa Eleitoral (pg. 161).
+>>> - Classificando a planilha de funcionários por empresa, departamento e cargo (pg. 163).
+>>> - Criando uma planilha de tabuada aritmética (pg. 168).
+>
+>>[!note]- Aula 1.16 - Expressões condicionais com Excel:
+>> - [ ]  Aula 1.16 - 2025.10.27 - [📑Apostila][apostila] a partir da pg. 169, Editor de planilhas Excel:
+>> - Funções condicionais: "se"
+>> - Funções de estatística: máximo, mínimo e média.
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Criando planilhas com funções condicionais: cálculo de salário pelo INSS (pg. 170).
+>>> - Criando planilhas com cotação de preços com cálculo de preço médio, máximo e mínimo (pg. 172).
+>>> - Criando planilha com reajuste percentual usando referência absoluta (pg. 173).
+>>> - Criando planilha com cálculo de índice de massa corpórea usando referência absoluta (pg. 174).
 
 
 
