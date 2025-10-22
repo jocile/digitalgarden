@@ -153,7 +153,7 @@ gantt
 >>> - No Word Criando os textos com símbolos e  organizando imagens no texto "Samba de Noel Rosa".
 >>> - Criando Infografo;
 >
->>[!note]- Aula 1.10 - [📑Apostila][apostila] a partir da pg. 118: Processador de Textos Word:  atividade avaliativa.
+>>[!note]- Aula 1.10 - [📑Apostila][apostila] Processador de Textos Word:  inserindo símbolos, figuras, tabelas e objetos.
 >> - [x]  Aula 1.10 - 2025.10.17 - Word - elementos da página, cabeçalho e rodapé, tabelas e listas.
 >>   - [📑Apostila][apostila] a partir da pg. 105: Processador de Textos Word: Operações com figuras, símbolos e ilustrações; Inserir e formatar Tabelas; Revisor ortográfico; Configuração de página e de impressão; tabelas e listas, impressão. formatação de textos (fonte e parágrafo), ortografia e gramática, cabeçalho e rodapé, objetos e imagens, tabelas e listas, impressão.
 >>   - [Atualizações do Windows 11 25H2](https://www.youtube.com/watch?v=QCHn_1WDSX0)
@@ -162,7 +162,7 @@ gantt
 >>> - Criando o relatório de vendas com tabulação;
 >>> - Criando o recibo comercial.
 >
->>[!note] Aula 1.11 - Introdução a planilhas com o Excel
+>>[!note]- Aula 1.11 - Introdução a planilhas com o Excel
 >> - [x]  Aula 1.11 - 2025.10.20 - [📑Apostila][apostila] a partir da pg. 121, editor de planilhas Excel: 
 >>    - Conceito de Planilha eletrônica;
 >>    - Principais elementos do espaço de trabalho (Pasta, planilha, célula, barras, menus);
@@ -174,19 +174,19 @@ gantt
 >>> - Criando a planilha Feira do mês com cálculos de total.
 >
 >>[!note]- Aula 1.12 - Operações aritméticas com Excel:
->> - [ ]  Aula 1.12 - 2025.10.21 - [📑Apostila][apostila] a partir da pg. 137, Editor de planilhas Excel:
+>> - [x]  Aula 1.12 - 2025.10.21 - [📑Apostila][apostila] a partir da pg. 137, Editor de planilhas Excel:
 >> - Operações com colunas e linhas;
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Criando e formatando a planilha de cálculos percentuais.
->>> - Criando a planilha de boletim escolar com formatação condicional.
+>>> - Adicionando funções à planilha de cálculos percentuais.
 >
->>[!note]- Aula 1,13 - Funções com Ecel:
->> - [ ]  Aula 1.13 - 2025.10.22 - [📑Apostila][apostila] a partir da pg. 141, Editor de planilhas Excel:
+>>[!note] Aula 1,13 - Funções com Excel:
+>> - [x]  Aula 1.13 - 2025.10.22 - [📑Apostila][apostila] a partir da pg. 141, Editor de planilhas Excel:
 >> - Operações com funções aritméticas: soma, máximo, mínimo, média,`procv`, `proch`;
 >> - Formatação condicional para destacar informações com cores.
 >>>[!todo] 🖥️ Atividades no Excel:
->>> - Adicionando funções à planilha de cálculos percentuais.
 >>> - Adicionando funções e destacando notas vermelhas à planilha de boletim escolar.
+>>> - Criando a planilha de boletim escolar com formatação condicional.
 >>> - Pesquisa dinâmica de nomes, notas e resultados no boletim.
 >
 >>[!note]- Aula 1.14 - Segurança e proteção em planilhas no Excel:
