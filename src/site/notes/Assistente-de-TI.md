@@ -176,27 +176,27 @@ gantt
 >>[!note]- Aula 1.12 - Operações aritméticas com Excel:
 >> - [x]  Aula 1.12 - 2025.10.21 - [📑Apostila][apostila] a partir da pg. 137, Editor de planilhas Excel:
 >> - Operações com colunas e linhas;
+>> - Operações com planilhas: copiar, selecionar, mover, ocultar, múltiplas seleções;
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Criando e formatando a planilha de cálculos percentuais.
 >>> - Adicionando funções à planilha de cálculos percentuais.
 >
->>[!note] Aula 1,13 - Funções com Excel:
+>>[!note]- Aula 1,13 - Funções com Excel:
 >> - [x]  Aula 1.13 - 2025.10.22 - [📑Apostila][apostila] a partir da pg. 141, Editor de planilhas Excel:
 >> - Operações com funções aritméticas: soma, máximo, mínimo, média,`procv`, `proch`;
 >> - Formatação condicional para destacar informações com cores.
 >>>[!todo] 🖥️ Atividades no Excel:
->>> - Adicionando funções e destacando notas vermelhas à planilha de boletim escolar.
->>> - Criando a planilha de boletim escolar com formatação condicional.
+>>> - Criando a planilha de boletim escolar com formatação condicional, adicionando funções e destacando notas vermelha.
+>>> - Adicionando funções de cálculos de média e resultados com condicionais à planilha de boletim escolar pg. 169.
 >>> - Pesquisa dinâmica de nomes, notas e resultados no boletim.
 >
->>[!note]- Aula 1.14 - Segurança e proteção em planilhas no Excel:
->> - [ ]  Aula 1.14 - 2025.10.23  - [📑Apostila][apostila] a partir da pg. 143, Editor de planilhas Excel:
->> - Operações com planilhas: copiar, selecionar, mover, ocultar, múltiplas seleções;
+>>[!note] Aula 1.14 - Segurança e proteção em planilhas no Excel:
+>> - [x]  Aula 1.14 - 2025.10.23  - [📑Apostila][apostila] a partir da pg. 143, Editor de planilhas Excel:
 >> - Configuração de proteção: proteger células específicas, planilhas e arquivos.
+>> - [Matrícula de cursos Online - DIO](https://dio.me/sign-up?ref=XXNHOX4TYB) - [Curso Santander Excel com inteligencia artificial 2º semestre](https://web.dio.me/track/santander-excel-com-inteligencia-artificial-2-semestre)
 >> - Validação de dados: garantir entrada de dados a partir de uma lista determinada.
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Criando um formulário para seleção de emprego com células protegidas e validação de dados.
->>> - Adicionando funções à planilha de boletim escolar.
 >
 >>[!note]- Aula 1.15 - Gráficos em planilhas do Excel:
 >> - [ ]  Aula 1.15 - 2025.10.24 - [📑Apostila][apostila] a partir da pg. 155, Editor de planilhas Excel:

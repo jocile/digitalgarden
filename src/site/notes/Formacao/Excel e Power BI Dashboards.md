@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/excel-e-power-bi-dashboards/","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T22:47:55.161-03:00"}
+{"dg-publish":true,"permalink":"/formacao/excel-e-power-bi-dashboards/","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-10-23T09:20:43.730-03:00"}
 ---
 
 #Excel #Formação #mapa #Powerbi #Dashboard
@@ -89,3 +89,5 @@
 > - Gerenciamento de Workspaces com Power BI
 > - Gerenciamento de Datasets com Power BI
 > - Desafio de projeto - Criando Relatórios Dinâmicos com o uso de Parâmetros no Power BI
+
+[[Formacao/Formacao Overview\|Formacao Overview]] - [[Formacao/Excel com Inteligencia Artificial\|Excel com Inteligencia Artificial]]
