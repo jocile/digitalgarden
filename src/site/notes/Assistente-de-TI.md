@@ -190,7 +190,7 @@ gantt
 >>> - Adicionando funções de cálculos de média e resultados com condicionais à planilha de boletim escolar pg. 169.
 >>> - Pesquisa dinâmica de nomes, notas e resultados no boletim.
 >
->>[!note] Aula 1.14 - Segurança e proteção em planilhas no Excel:
+>>[!note]- Aula 1.14 - Segurança e proteção em planilhas no Excel:
 >> - [x]  Aula 1.14 - 2025.10.23  - [📑Apostila][apostila] a partir da pg. 143, Editor de planilhas Excel:
 >> - Configuração de proteção: proteger células específicas, planilhas e arquivos.
 >> - [Matrícula de cursos Online - DIO](https://dio.me/sign-up?ref=XXNHOX4TYB) - [Curso Santander Excel com inteligencia artificial 2º semestre](https://web.dio.me/track/santander-excel-com-inteligencia-artificial-2-semestre)
@@ -199,7 +199,7 @@ gantt
 >>> - Criando um formulário para seleção de emprego com células protegidas e validação de dados.
 >
 >>[!note]- Aula 1.15 - Gráficos em planilhas do Excel:
->> - [ ]  Aula 1.15 - 2025.10.24 - [📑Apostila][apostila] a partir da pg. 155, Editor de planilhas Excel:
+>> - [x]  Aula 1.15 - 2025.10.24 - [📑Apostila][apostila] a partir da pg. 155, Editor de planilhas Excel:
 >> - Configuração de páginas e impressão.
 >> - Configurando o cabeçalho e rodapé.
 >> - Criação e formatação de Gráficos;
@@ -211,10 +211,10 @@ gantt
 >>> - Classificando a planilha de funcionários por empresa, departamento e cargo (pg. 163).
 >>> - Criando uma planilha de tabuada aritmética (pg. 168).
 >
->>[!note]- Aula 1.16 - Expressões condicionais com Excel:
->> - [ ]  Aula 1.16 - 2025.10.27 - [📑Apostila][apostila] a partir da pg. 169, Editor de planilhas Excel:
->> - Funções condicionais: "se"
->> - Funções de estatística: máximo, mínimo e média.
+>>[!note] Aula 1.16 - Excel: Automações com macros e tabela dinâmica
+>> - [x]  Aula 1.16 - 2025.10.27 - [📑Apostila][apostila] a partir da pg. 169, Editor de planilhas Excel:
+>> - Automações com macros
+>> - Segmentação de dados e tabelas dinâmicas.
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Criando planilhas com funções condicionais: cálculo de salário pelo INSS (pg. 170).
 >>> - Criando planilhas com cotação de preços com cálculo de preço médio, máximo e mínimo (pg. 172).
