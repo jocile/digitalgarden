@@ -210,7 +210,7 @@ gantt
 >>> - Criando planilhas com gráficos: PIB Brasil, Pesquisa Eleitoral (pg. 161).
 >>> - Classificando a planilha de funcionários por empresa, departamento e cargo (pg. 163).
 >
->>[!note- Aula 1.16 - Excel: Automações com macros e tabela dinâmica
+>>[!note]- Aula 1.16 - Excel: Automações com macros e tabela dinâmica
 >> - [x]  Aula 1.16 - 2025.10.27 - [📑Apostila][apostila] a partir da pg. 165, Editor de planilhas Excel: Referência absoluta e relativa;
 >> - Automações com macros
 >> - Segmentação de dados e tabelas dinâmicas.
@@ -220,13 +220,21 @@ gantt
 >>> - Criando planilhas com funções condicionais: cálculo de salário pelo INSS (pg. 170).
 >>> - Criando planilha com reajuste percentual usando referência absoluta (pg. 173).
 >
->>[!note] Aula 1.17 - Relatórios e dashboards com Excel
+>>[!note]- Aula 1.17 - Relatórios e dashboards com Excel
 >> - [x]  Aula 1.17 - 2025.10.27 - Relatórios e dashboards
 >> - Gráficos com tabela dinâmica.
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Criando planilhas com cotação de preços com cálculo de preço médio, máximo e mínimo (pg. 172).
 >>> - Criando planilha com reajuste percentual usando referência absoluta (pg. 173).
 >>> - Criando planilha com cálculo de índice de massa corpórea usando referência absoluta (pg. 174).
+>
+>>[!note] Aula 1.18 - Organizando base de dados com Excel
+>> - [x]  Aula 1.18 - 2025.10.27 - Bases de dados e relatórios com Excel
+>> - Base de dados em CSV.
+>>>[!todo] 🖥️ Atividades no Excel:
+>>> - Importar dados em formato CSV e organizar e formata-los em tabelas do Excel.
+>>> - [Base-de-dados1.csv](https://drive.google.com/file/d/116BITe6oCPIHJoRCpBF3aALAkDbFjjNx/view?usp=sharing)
+>>> - [TBase-de-dados2.csv](https://drive.google.com/file/d/1iwOaOf3E7GXknZmlQVpEZpbmn3njzjIg/view?usp=sharing)
 
 
 
