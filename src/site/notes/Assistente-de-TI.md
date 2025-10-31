@@ -221,7 +221,7 @@ gantt
 >>> - Criando planilha com reajuste percentual usando referência absoluta (pg. 173).
 >
 >>[!note]- Aula 1.17 - Relatórios e dashboards com Excel
->> - [x]  Aula 1.17 - 2025.10.27 - Relatórios e dashboards
+>> - [x]  Aula 1.17 - 2025.10.28 - Relatórios e dashboards
 >> - Gráficos com tabela dinâmica.
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Criando planilhas com cotação de preços com cálculo de preço médio, máximo e mínimo (pg. 172).
@@ -229,12 +229,34 @@ gantt
 >>> - Criando planilha com cálculo de índice de massa corpórea usando referência absoluta (pg. 174).
 >
 >>[!note] Aula 1.18 - Organizando base de dados com Excel
->> - [x]  Aula 1.18 - 2025.10.27 - Bases de dados e relatórios com Excel
+>> - [x]  Aula 1.18 - 2025.10.29 - Bases de dados e relatórios com Excel
 >> - Base de dados em CSV.
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Importar dados em formato CSV e organizar e formata-los em tabelas do Excel.
 >>> - [Base-de-dados1.csv](https://drive.google.com/file/d/116BITe6oCPIHJoRCpBF3aALAkDbFjjNx/view?usp=sharing)
 >>> - [TBase-de-dados2.csv](https://drive.google.com/file/d/1iwOaOf3E7GXknZmlQVpEZpbmn3njzjIg/view?usp=sharing)
+>
+>>[!note] Aula 1.19 - Exercícios com tabela dinâmica com Excel
+>> - [x]  Aula 1.19 - 2025.10.29 -Tabela dinâmica avançada
+>> - Base de dados em CSV.
+>>>[!todo] 🖥️ Atividades no Excel:
+>>>- [Montar uma Tabela dinâmica, Cap. 7, Excel avançado - Editora Senac](https://bibliotecadigitalsenac.com.br/#/content/uid/1d4fc6f8-16d8-ee11-85fa-00224821b803/detail)
+>
+>>[!note]- Aula 1.20 - Introdução ao Power Point
+>> - [x]  Aula 1.20 - 2025.10.30 - Power Point
+>>   - [📸Livro da Biblioteca Virtual SENAC do Power Point][powerpoint] cap. 1 e 2:
+>>     - Conhecendo a interface do Power Point;
+>>     - Criando slides, adicionando e formatando elementos, como tabelas, formas e gráficos.
+>>>[!todo] 🖥️ Atividades no PowerPoint:
+>>> - Criando slides sobre um relatório de vendas.
+>>> - Criando slides de controle de vídeos com tabelas e gráficos.
+>
+>>[!note]- Aula 1.21 - Estilos em Slides no Power Point
+>> - [ ]  Aula 1.21 - 2025.11.03 - Power Point com transições e animações.
+>>   - [📸Livro da Biblioteca Virtual SENAC do Power Point][powerpoint] cap. 3 e 4:
+>>     - Criando slides com transições e animações.
+>>>[!todo] 🖥️ Atividades no PowerPoint:
+>>> - Aplicando efeitos em vários modelos de slides.
 
 
 
