@@ -228,7 +228,7 @@ gantt
 >>> - Criando planilha com reajuste percentual usando referência absoluta (pg. 173).
 >>> - Criando planilha com cálculo de índice de massa corpórea usando referência absoluta (pg. 174).
 >
->>[!note] Aula 1.18 - Organizando base de dados com Excel
+>>[!note]- Aula 1.18 - Organizando base de dados com Excel
 >> - [x]  Aula 1.18 - 2025.10.29 - Bases de dados e relatórios com Excel
 >> - Base de dados em CSV.
 >>>[!todo] 🖥️ Atividades no Excel:
@@ -236,14 +236,14 @@ gantt
 >>> - [Base-de-dados1.csv](https://drive.google.com/file/d/116BITe6oCPIHJoRCpBF3aALAkDbFjjNx/view?usp=sharing)
 >>> - [TBase-de-dados2.csv](https://drive.google.com/file/d/1iwOaOf3E7GXknZmlQVpEZpbmn3njzjIg/view?usp=sharing)
 >
->>[!note] Aula 1.19 - Exercícios com tabela dinâmica com Excel
->> - [x]  Aula 1.19 - 2025.10.29 -Tabela dinâmica avançada
+>>[!note]- Aula 1.19 - Exercícios com tabela dinâmica com Excel
+>> - [x]  Aula 1.19 - 2025.10.30 -Tabela dinâmica avançada
 >> - Base de dados em CSV.
 >>>[!todo] 🖥️ Atividades no Excel:
 >>>- [Montar uma Tabela dinâmica, Cap. 7, Excel avançado - Editora Senac](https://bibliotecadigitalsenac.com.br/#/content/uid/1d4fc6f8-16d8-ee11-85fa-00224821b803/detail)
 >
->>[!note]- Aula 1.20 - Introdução ao Power Point
->> - [x]  Aula 1.20 - 2025.10.30 - Power Point
+>>[!note] Aula 1.20 - Introdução ao Power Point
+>> - [x]  Aula 1.20 - 2025.10.31 - Power Point
 >>   - [📸Livro da Biblioteca Virtual SENAC do Power Point][powerpoint] cap. 1 e 2:
 >>     - Conhecendo a interface do Power Point;
 >>     - Criando slides, adicionando e formatando elementos, como tabelas, formas e gráficos.
