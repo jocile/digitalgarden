@@ -245,16 +245,16 @@ gantt
 >>[!note] Aula 1.20 - Introdução ao Power Point
 >> - [x]  Aula 1.20 - 2025.10.31 - Power Point
 >>   - [📸Livro da Biblioteca Virtual SENAC do Power Point][powerpoint] cap. 1 e 2:
->>     - Conhecendo a interface do Power Point;
->>     - Criando slides, adicionando e formatando elementos, como tabelas, formas e gráficos.
+>>     - Conhecendo a interface do Power Point - [[Tecnico/Assistente-de-TI/PowerPoint/PowerPoint2019-cap1\|PowerPoint2019-cap1]];
+>>     - Criando slides, adicionando e formatando elementos, como tabelas, formas e gráficos - [[Tecnico/Assistente-de-TI/PowerPoint/PowerPoint2019-cap2\|PowerPoint2019-cap2]].
 >>>[!todo] 🖥️ Atividades no PowerPoint:
 >>> - Criando slides sobre um relatório de vendas.
 >>> - Criando slides de controle de vídeos com tabelas e gráficos.
 >
->>[!note]- Aula 1.21 - Estilos em Slides no Power Point
->> - [ ]  Aula 1.21 - 2025.11.03 - Power Point com transições e animações.
+>>[!note] Aula 1.21 - Estilos em Slides no Power Point
+>> - [x]  Aula 1.21 - 2025.11.03 - Power Point com transições e animações.
 >>   - [📸Livro da Biblioteca Virtual SENAC do Power Point][powerpoint] cap. 3 e 4:
->>     - Criando slides com transições e animações.
+>>     - Criando slides com transições e animações - [[Tecnico/Assistente-de-TI/PowerPoint/PowerPoint2019-cap3\|PowerPoint2019-cap3]].
 >>>[!todo] 🖥️ Atividades no PowerPoint:
 >>> - Aplicando efeitos em vários modelos de slides.
 
