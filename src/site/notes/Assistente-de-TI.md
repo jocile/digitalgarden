@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":"default","updated":"2025-10-06T10:58:48.679-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":"default","updated":"2025-11-04T08:35:01.054-03:00"}
 ---
 
 
@@ -67,7 +67,7 @@ gantt
 
 ### Cronograma da UC1
 
->[!done] Cronograma da Unidade Curricular 1
+>[!done]- Cronograma da Unidade Curricular 1
 >
 >>[!note]- Aula 1.1 - introdução ao Windows
 >>  - [x] Aula 1.1 - 2025.10.06 - Windows -  Introdução
@@ -242,7 +242,7 @@ gantt
 >>>[!todo] 🖥️ Atividades no Excel:
 >>>- [Montar uma Tabela dinâmica, Cap. 7, Excel avançado - Editora Senac](https://bibliotecadigitalsenac.com.br/#/content/uid/1d4fc6f8-16d8-ee11-85fa-00224821b803/detail)
 >
->>[!note] Aula 1.20 - Introdução ao Power Point
+>>[!note]- Aula 1.20 - Introdução ao Power Point
 >> - [x]  Aula 1.20 - 2025.10.31 - Power Point
 >>   - [📸Livro da Biblioteca Virtual SENAC do Power Point][powerpoint] cap. 1 e 2:
 >>     - Conhecendo a interface do Power Point - [[Tecnico/Assistente-de-TI/PowerPoint/PowerPoint2019-cap1\|PowerPoint2019-cap1]];
@@ -251,10 +251,11 @@ gantt
 >>> - Criando slides sobre um relatório de vendas.
 >>> - Criando slides de controle de vídeos com tabelas e gráficos.
 >
->>[!note] Aula 1.21 - Estilos em Slides no Power Point
+>>[!note]- Aula 1.21 - Estilos em Slides no Power Point
 >> - [x]  Aula 1.21 - 2025.11.03 - Power Point com transições e animações.
 >>   - [📸Livro da Biblioteca Virtual SENAC do Power Point][powerpoint] cap. 3 e 4:
 >>     - Criando slides com transições e animações - [[Tecnico/Assistente-de-TI/PowerPoint/PowerPoint2019-cap3\|PowerPoint2019-cap3]].
+>>     - Criando infografos com [Canva](https://www.canva.com/templates)
 >>>[!todo] 🖥️ Atividades no PowerPoint:
 >>> - Aplicando efeitos em vários modelos de slides.
 
@@ -262,6 +263,76 @@ gantt
 
 [apostila]: https://drive.google.com/file/d/1HNT1is949xITALuJXT1dwaLCbYexrIGT/view?usp=sharing
 [powerpoint]: https://bibliotecadigitalsenac.com.br/#/content/uid/d37df569-17d8-ee11-85fa-00224821b803/detail
+
+
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+## UC2 - Instalar e configurar componentes de hardware
+
+> [!success]- 🖥️ Habilidades
+> 1. Diferenciar componentes de hardware.
+> 2. Manusear equipamentos e ferramentas.
+> 3. Operar ferramentas de diagnóstico de hardware.
+> 4. Elaborar documentos técnicos.
+> 5. Interpretar documentos e manuais técnicos.
+> 6. Organizar materiais, ferramentas, instrumentos, documentos e local de trabalho.
+
+### Cronograma da UC2
+
+>[!done] Cronograma da Unidade Curricular 2
+>
+>>[!note] Aula 2.1 - Instalações elétricas e proteção 
+>> - [x] Aula 2.1 - 2025.11.04 - Eletricidade e equipamentos elétricos
+>> - [Simulações Interativas: Corrente e circuito elétrico](https://drive.google.com/file/d/1_9aMRbhF_d9Tkiut1v0uqKVRgWPQQq8d/view?usp=sharing)
+>> - [atividade PHET - Circuitos Elétricos 1.pptx - Apresentações Google](https://docs.google.com/presentation/d/1ydRZFuRjyW3epVuboxguCDOrx0moi99n/edit?usp=sharing)
+>> - [Eletricidade Basica Aula.ppt - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vRQbF_HeUA62xVYROHayMUQwq81dXZdn9RbHwihait41yerHY0-FvtlPygsC28ldg/pub?start=true&loop=false&delayms=3000)
+>> - [Eletricidade e proteção.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vQFiCPOw6kBrVUnlE3EfaoBHl0ys2DxUm9yZqTRPylsZcmDqTYdmM3gBxSrr4GJeQ/pub?start=true&loop=false&delayms=3000)
+>> - [Fonte de alimentação.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTf_VeIsIGUfBaXbLHUKRx1mCv95CGcWe-739PpXIgxOHJr_KwUtLI6kXaOoVnvsw/pub?start=true&loop=false&delayms=3000)
+>> - [Fontes - Escola de Hardware - Episódio 7 - YouTube](https://www.youtube.com/watch?v=J4HpGfUiaag)
+>> - [[Tecnico/Assistente-de-TI/Cálculos elétricos\|Cálculos elétricos]]
+>> - Componentes do Hardware: [Fontes de alimentação ATX: principais características](https://www.infowester.com/fontesatx.php)
+>>>[!todo] 🖥️ Atividade: 
+>> - Simular:  [Circuitos AC](https://phet.colorado.edu/pt/simulations/circuit-construction-kit-ac) - [Corrente e circuito elétrico](https://phet.colorado.edu/pt/activities/6728) - [Circuitos Elétricos (Básico)](https://phet.colorado.edu/pt/activities/4911)
+>>> - Criar uma planilha de orçamento de fontes de computadores usando [PSU Calculator da Cooler Master](https://www.coolermaster.com/pt-br/power-supply-calculator/).
+>>> - Modelo de [Quadro de carga.xlsx - Planilhas Google](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>
+>>[!note]- Aula 2.2 - Proteção elétrica
+>>- [ ] Aula 2.2 - 2025.11.05 - Equipamentos de proteção elétrica
+>> - [Equipamentos de proteção elétrica.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vT-plmkdESOqUamkDtCt8T-DMxoIwGYqH4n1OO6MrR8r-eBzs48fB34ODm1MgFKuw/pub?start=true&loop=false&delayms=3000)
+>> - [Equipamentos de proteção elétrica](https://jocile.github.io/aulas/posts/equipamentos-de-protecao-eletrica/)
+>> - Introdução ao funcionamento da rede elétrica: [Conceitos de Eletricidade](https://jocile.github.io/aulas/posts/conceitos-de-eletricidade/)
+>>>[!todo] 🖥️ Atividade: 
+>>> - Criar uma planilha de orçamento de equipamentos de proteção elétrica para um laboratório de informática com 10 computadores.
+>>> - Modelo de [Quadro de carga.xlsx - Planilhas Google](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>
+>>[!note]- Aula 2.3 - Componentes de Hardware
+>>- [ ] Aula 2.3 - 2025.11.06 - Componentes de Hardware
+>> - [Partes do Computador.ppt - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vScIJZntmXRw-YLkSd6oQ45r2avd_Vp9mt44B3YDZ_58rSzgs_wJHTVerjmdEVuUg/pub?start=true&loop=false&delayms=3000)
+>> - [Apresentação sobre gabinetes e conexões](https://docs.google.com/presentation/d/e/2PACX-1vTsgRf0APpdSQcmGqju49KaVhLoVFxjhYNUWWvYUu-dI0r96NkSn2GyLEaPrzsLXA/pub?start=true&loop=false&delayms=3000)
+>> - Componentes do Hardware de uma [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]: placa-mãe, processador, memória RAM, cooler, fonte de alimentação, gabinetes e placas de expansão.
+>>>[!todo] 🖥️ Atividade: 
+>>> - Criar uma planilha de inventário de peças de um computador.
+>>> - [Calculadora de Autonomia Nobreaks Intelbras](https://calculadora-nobreaks.intelbras.com.br/)
+>>> - [Modelo de lista peças do computador](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>
+>>[!note]- Aula 2.4 - Componentes de Hardware
+>>- [ ] Aula 2.4 - 2025.11.07 - Componentes de Hardware
+>> - Componentes do Hardware: [Processadores.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vRx8cvvDeinPIWpHX22yGBxuhvSEDix4lth4Ru9U9dJZVVPUI7VRIGdFLwttrzhKw/pub?start=true&loop=false&delayms=3000)
+>> - [Memória.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vSPuWVYJSM7wXvxL9d2MRZht-k3Iz2UUrBqIG2_4KBqzTfnptAs3Tky7-OggDYwfA/pub?start=true&loop=false&delayms=3000)
+>> - [Placa-mãe.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTWKEtYI6PLBfg-Ey4NJpspgUqX4SHbcLOUVeKZfFDo9-oXtsXzMN-PX0i4qOJWyw/pub?start=true&loop=false&delayms=3000)
+>> - [Instalação de Hardware.pdf](https://drive.google.com/file/d/1eHpXpqeI8s4uvExVrM9IHNdlLYtHag8z/view?usp=sharing)
+>>>[!todo] 🖥️ Atividade:
+>>> - [Modelo de lista peças do computador](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>>> - [Questionário sobre as peças do computador](https://forms.gle/nYuKC46Jr59SfELD6)
+>>> - [PRALET de Instalação de Hardware.docx](https://docs.google.com/document/d/e/2PACX-1vRsI5aKkqN3PlhJkaR9AOAS54HreKqYXWBtrIjnxjFV2NGC4-V0-lj2rengIdsIbg/pub)
+
 
 
 
