@@ -288,7 +288,7 @@ gantt
 
 >[!done] Cronograma da Unidade Curricular 2
 >
->>[!note] Aula 2.1 - Instalações elétricas e proteção 
+>>[!note]- Aula 2.1 - Instalações elétricas e proteção 
 >> - [x] Aula 2.1 - 2025.11.04 - Eletricidade e equipamentos elétricos
 >> - [Simulações Interativas: Corrente e circuito elétrico](https://drive.google.com/file/d/1_9aMRbhF_d9Tkiut1v0uqKVRgWPQQq8d/view?usp=sharing)
 >> - [atividade PHET - Circuitos Elétricos 1.pptx - Apresentações Google](https://docs.google.com/presentation/d/1ydRZFuRjyW3epVuboxguCDOrx0moi99n/edit?usp=sharing)
@@ -301,16 +301,17 @@ gantt
 >>>[!todo] 🖥️ Atividade: 
 >> - Simular:  [Circuitos AC](https://phet.colorado.edu/pt/simulations/circuit-construction-kit-ac) - [Corrente e circuito elétrico](https://phet.colorado.edu/pt/activities/6728) - [Circuitos Elétricos (Básico)](https://phet.colorado.edu/pt/activities/4911)
 >>> - Criar uma planilha de orçamento de fontes de computadores usando [PSU Calculator da Cooler Master](https://www.coolermaster.com/pt-br/power-supply-calculator/).
->>> - Modelo de [Quadro de carga.xlsx - Planilhas Google](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >
->>[!note]- Aula 2.2 - Proteção elétrica
->>- [ ] Aula 2.2 - 2025.11.05 - Equipamentos de proteção elétrica
+>>[!note] Aula 2.2 - Proteção elétrica
+>>- [x] Aula 2.2 - 2025.11.05 - Equipamentos de proteção elétrica
 >> - [Equipamentos de proteção elétrica.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vT-plmkdESOqUamkDtCt8T-DMxoIwGYqH4n1OO6MrR8r-eBzs48fB34ODm1MgFKuw/pub?start=true&loop=false&delayms=3000)
 >> - [Equipamentos de proteção elétrica](https://jocile.github.io/aulas/posts/equipamentos-de-protecao-eletrica/)
 >> - Introdução ao funcionamento da rede elétrica: [Conceitos de Eletricidade](https://jocile.github.io/aulas/posts/conceitos-de-eletricidade/)
+>> - [IDR (DR) ATUA OU NÃO - YouTube](https://www.youtube.com/watch?v=5uEzzo-Gh1c)
 >>>[!todo] 🖥️ Atividade: 
->>> - Criar uma planilha de orçamento de equipamentos de proteção elétrica para um laboratório de informática com 10 computadores.
+>>> - Criar uma planilha de orçamento de equipamentos de proteção elétrica para um laboratório de informática com 10 computadores
 >>> - Modelo de [Quadro de carga.xlsx - Planilhas Google](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>>> - Modelo de [planilha para levantamento de carga instalada.xls](https://www.fecoergs.com.br/anexos/anexo_1_planilha_para_levantamento_de_carga_instalada_e_calculo_do_tipo_de_fornecimento.xls)
 >
 >>[!note]- Aula 2.3 - Componentes de Hardware
 >>- [ ] Aula 2.3 - 2025.11.06 - Componentes de Hardware
