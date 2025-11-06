@@ -53,7 +53,9 @@ Após completar os passos acima, vocês terão uma planilha detalhada com o cust
 
 > [!help] Páginas semelhantes
 > Talvez estas páginas também interessem:
->  - [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]
+>  - [[Tecnico/Assistente-de-TI/Chipsets de Placas-Mae\|Chipsets de Placas-Mae]]
+> - [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]
+> - [[Tecnico/Assistente-de-TI/Placa-Mae\|Placa-Mae]]
 > - [[Tecnico/Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]]
 > - [[Tecnico/Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]]
 > 

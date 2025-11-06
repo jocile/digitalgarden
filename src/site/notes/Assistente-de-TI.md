@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":"default","updated":"2025-11-04T08:35:01.054-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":"default","updated":"2025-11-06T13:27:47.181-03:00"}
 ---
 
 
@@ -295,6 +295,7 @@ gantt
 >> - [Eletricidade Basica Aula.ppt - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vRQbF_HeUA62xVYROHayMUQwq81dXZdn9RbHwihait41yerHY0-FvtlPygsC28ldg/pub?start=true&loop=false&delayms=3000)
 >> - [Eletricidade e proteção.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vQFiCPOw6kBrVUnlE3EfaoBHl0ys2DxUm9yZqTRPylsZcmDqTYdmM3gBxSrr4GJeQ/pub?start=true&loop=false&delayms=3000)
 >> - [Fonte de alimentação.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTf_VeIsIGUfBaXbLHUKRx1mCv95CGcWe-739PpXIgxOHJr_KwUtLI6kXaOoVnvsw/pub?start=true&loop=false&delayms=3000)
+>> - [Eletricidade Básica - YouTube](https://www.youtube.com/playlist?list=PLr-Pz5YOnmxBm4_G2V6uArAEOFuFcXGsk)
 >> - [Fontes - Escola de Hardware - Episódio 7 - YouTube](https://www.youtube.com/watch?v=J4HpGfUiaag)
 >> - [[Tecnico/Assistente-de-TI/Cálculos elétricos\|Cálculos elétricos]]
 >> - Componentes do Hardware: [Fontes de alimentação ATX: principais características](https://www.infowester.com/fontesatx.php)
@@ -302,33 +303,41 @@ gantt
 >> - Simular:  [Circuitos AC](https://phet.colorado.edu/pt/simulations/circuit-construction-kit-ac) - [Corrente e circuito elétrico](https://phet.colorado.edu/pt/activities/6728) - [Circuitos Elétricos (Básico)](https://phet.colorado.edu/pt/activities/4911)
 >>> - Criar uma planilha de orçamento de fontes de computadores usando [PSU Calculator da Cooler Master](https://www.coolermaster.com/pt-br/power-supply-calculator/).
 >
->>[!note] Aula 2.2 - Proteção elétrica
+>>[!note]- Aula 2.2 - Proteção elétrica
 >>- [x] Aula 2.2 - 2025.11.05 - Equipamentos de proteção elétrica
 >> - [Equipamentos de proteção elétrica.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vT-plmkdESOqUamkDtCt8T-DMxoIwGYqH4n1OO6MrR8r-eBzs48fB34ODm1MgFKuw/pub?start=true&loop=false&delayms=3000)
 >> - [Equipamentos de proteção elétrica](https://jocile.github.io/aulas/posts/equipamentos-de-protecao-eletrica/)
 >> - Introdução ao funcionamento da rede elétrica: [Conceitos de Eletricidade](https://jocile.github.io/aulas/posts/conceitos-de-eletricidade/)
 >> - [IDR (DR) ATUA OU NÃO - YouTube](https://www.youtube.com/watch?v=5uEzzo-Gh1c)
+>> - [Nikola Tesla foi impedido de contar esse segredo para a humanidade - YouTube](https://www.youtube.com/watch?v=Uvz-v9E-96o)
+>> - [FILTRO DE LINHA ou NOBREAK, QUAL O MELHOR PARA O SEU PC GAMER? Vem Conferir! - YouTube](https://www.youtube.com/watch?v=J6YbIZ3E_Hw)
 >>>[!todo] 🖥️ Atividade: 
+>>> - [[Tecnico/Assistente-de-TI/Calculando a fonte\|Calculando a fonte]]
 >>> - Criar uma planilha de orçamento de equipamentos de proteção elétrica para um laboratório de informática com 10 computadores
 >>> - Modelo de [Quadro de carga.xlsx - Planilhas Google](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >>> - Modelo de [planilha para levantamento de carga instalada.xls](https://www.fecoergs.com.br/anexos/anexo_1_planilha_para_levantamento_de_carga_instalada_e_calculo_do_tipo_de_fornecimento.xls)
+>>> - [enel.com.br - Descrição de carga.pdf](https://www.enel.com.br/content/dam/enel-br/documentos/megamenu/informativos/imobili%C3%A1rias/Descri%C3%A7%C3%A3o%20de%20carga.pdf)
 >
->>[!note]- Aula 2.3 - Componentes de Hardware
->>- [ ] Aula 2.3 - 2025.11.06 - Componentes de Hardware
->> - [Partes do Computador.ppt - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vScIJZntmXRw-YLkSd6oQ45r2avd_Vp9mt44B3YDZ_58rSzgs_wJHTVerjmdEVuUg/pub?start=true&loop=false&delayms=3000)
+>>[!note] Aula 2.3 - Componentes de Hardware - placa mãe
+>>- [x] Aula 2.3 - 2025.11.06 - Componentes de Hardware
+>>- [Partes do Computador.ppt - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vScIJZntmXRw-YLkSd6oQ45r2avd_Vp9mt44B3YDZ_58rSzgs_wJHTVerjmdEVuUg/pub?start=true&loop=false&delayms=3000)
 >> - [Apresentação sobre gabinetes e conexões](https://docs.google.com/presentation/d/e/2PACX-1vTsgRf0APpdSQcmGqju49KaVhLoVFxjhYNUWWvYUu-dI0r96NkSn2GyLEaPrzsLXA/pub?start=true&loop=false&delayms=3000)
->> - Componentes do Hardware de uma [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]: placa-mãe, processador, memória RAM, cooler, fonte de alimentação, gabinetes e placas de expansão.
+>> - Componentes do Hardware de uma [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]: placa-mãe, processador, memória RAM, cooler, fonte de alimentação, gabinetes e placas de expansão- [Todas as Peças de Computador Explicadas em 8 Minutos - YouTube](https://www.youtube.com/watch?v=pFTgWgb5wiM)
+>> - Conhecendo os [[Tecnico/Assistente-de-TI/Chipsets de Placas-Mae\|Chipsets de Placas-Mae]]
+>> - Guia para a escolha da [[Tecnico/Assistente-de-TI/Placa-Mae\|Placa-Mae]]
 >>>[!todo] 🖥️ Atividade: 
 >>> - Criar uma planilha de inventário de peças de um computador.
 >>> - [Calculadora de Autonomia Nobreaks Intelbras](https://calculadora-nobreaks.intelbras.com.br/)
 >>> - [Modelo de lista peças do computador](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >
->>[!note]- Aula 2.4 - Componentes de Hardware
+>>[!note]- Aula 2.4 - Componentes de Hardware - processadores
 >>- [ ] Aula 2.4 - 2025.11.07 - Componentes de Hardware
 >> - Componentes do Hardware: [Processadores.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vRx8cvvDeinPIWpHX22yGBxuhvSEDix4lth4Ru9U9dJZVVPUI7VRIGdFLwttrzhKw/pub?start=true&loop=false&delayms=3000)
 >> - [Memória.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vSPuWVYJSM7wXvxL9d2MRZht-k3Iz2UUrBqIG2_4KBqzTfnptAs3Tky7-OggDYwfA/pub?start=true&loop=false&delayms=3000)
 >> - [Placa-mãe.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTWKEtYI6PLBfg-Ey4NJpspgUqX4SHbcLOUVeKZfFDo9-oXtsXzMN-PX0i4qOJWyw/pub?start=true&loop=false&delayms=3000)
 >> - [Instalação de Hardware.pdf](https://drive.google.com/file/d/1eHpXpqeI8s4uvExVrM9IHNdlLYtHag8z/view?usp=sharing)
+>> - [Todos os Processadores Intel Explicados em 8 Minutos - YouTube](https://www.youtube.com/watch?v=JGQMW7tTbmQ)
+>> - [Todos os Processadores AMD Explicados em 8 Minutos - YouTube](https://www.youtube.com/watch?v=mJu5R7AK0FU)
 >>>[!todo] 🖥️ Atividade:
 >>> - [Modelo de lista peças do computador](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >>> - [Questionário sobre as peças do computador](https://forms.gle/nYuKC46Jr59SfELD6)
@@ -349,6 +358,7 @@ gantt
 > - [➕ Create - Modelos gratuitos para mídia social, documentos e designs](https://create.microsoft.com/pt-br)
 > - [🌐Conectividade de redes - Biblioteca digital](https://bibliotecadigitalsenac.com.br/?from=busca%3FcontentInfo%3D2932%26term%3Dredes#/legacy/epub/2932)
 > - [📶INFRAESTRUTURA DE REDES | Jocile](https://jocile.github.io/aulas/categories/infraestrutura-de-redes/)
+> - [Manutenção - YouTube](https://www.youtube.com/playlist?list=PLfGUiQzB80EA9rW1e3EDeG3pON_pnr6hD)
 >>>[!todo] [Biblioteca Digital SENAC](https://bibliotecadigitalsenac.com.br): 
 >>> - [💻 Windows 10](https://bibliotecadigitalsenac.com.br/#/content/uid/0d8d48a0-17d8-ee11-85fa-00224821b803/detail) 
 >>> - [📄 Word](https://bibliotecadigitalsenac.com.br/#/content/uid/168d48a0-17d8-ee11-85fa-00224821b803/detail) | [📄 atividades Word](https://www.editorasenacsp.com.br/informatica/word2019/atividades.zip)

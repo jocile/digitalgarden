@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/estacao-de-trabalho/","title":"Estação de trabalho","metatags":{"description":"trata-se de um conjuntos de equipamentos mecânicos e eletrônicos adequados e capazes de processar dados afim de que estes se tornem informação"},"tags":["Aulas","Assistente-de-TI"],"noteIcon":"1","updated":"2025-05-17T20:54:29.800-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/estacao-de-trabalho/","title":"Estação de trabalho","metatags":{"description":"trata-se de um conjuntos de equipamentos mecânicos e eletrônicos adequados e capazes de processar dados afim de que estes se tornem informação"},"noteIcon":"1","updated":"2025-11-06T11:00:02.913-03:00"}
 ---
 
-#Aulas
+#Aulas #Assistente-de-TI 
+
 ## Estação de trabalho
 
 Um Sistema Informático trata-se de um conjuntos de equipamentos mecânicos e eletrônicos adequados e capazes de processar dados afim de que estes se tornem informação, de forma automática.
@@ -200,6 +201,7 @@ Esses dispositivos, juntos, permitem a interação do usuário, tornando a exper
 
 ### Referências
 
+- [AULA 07 – MANUTENÇÃO DE COMPUTADORES II NOVO (PROEJA) – Site Professor Carlos Fernandes](https://cecead.com/assuntos/disciplinas/manutencao-de-computadores-ii-novo-proeja/aula-06-manutencao-de-computadores-ii-novo-proeja/)
 - [Arquitetura de von Neumann - Wikipédia](https://pt.wikipedia.org/wiki/Arquitetura_de_von_Neumann)
 - [Apresentação sobre Sistemas Informáticos](https://drive.google.com/file/d/1bi_GMsgJ93DbNpZjLDh_vIMtlwr_vNqK/view)
 - [Monte seu PC - meupc.net](https://meupc.net/)
