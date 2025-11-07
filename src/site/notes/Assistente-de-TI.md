@@ -318,20 +318,21 @@ gantt
 >>> - Modelo de [planilha para levantamento de carga instalada.xls](https://www.fecoergs.com.br/anexos/anexo_1_planilha_para_levantamento_de_carga_instalada_e_calculo_do_tipo_de_fornecimento.xls)
 >>> - [enel.com.br - Descrição de carga.pdf](https://www.enel.com.br/content/dam/enel-br/documentos/megamenu/informativos/imobili%C3%A1rias/Descri%C3%A7%C3%A3o%20de%20carga.pdf)
 >
->>[!note] Aula 2.3 - Componentes de Hardware - placa mãe
+>>[!note]- Aula 2.3 - Componentes de Hardware - placa mãe
 >>- [x] Aula 2.3 - 2025.11.06 - Componentes de Hardware
 >>- [Partes do Computador.ppt - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vScIJZntmXRw-YLkSd6oQ45r2avd_Vp9mt44B3YDZ_58rSzgs_wJHTVerjmdEVuUg/pub?start=true&loop=false&delayms=3000)
 >> - [Apresentação sobre gabinetes e conexões](https://docs.google.com/presentation/d/e/2PACX-1vTsgRf0APpdSQcmGqju49KaVhLoVFxjhYNUWWvYUu-dI0r96NkSn2GyLEaPrzsLXA/pub?start=true&loop=false&delayms=3000)
 >> - Componentes do Hardware de uma [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]: placa-mãe, processador, memória RAM, cooler, fonte de alimentação, gabinetes e placas de expansão- [Todas as Peças de Computador Explicadas em 8 Minutos - YouTube](https://www.youtube.com/watch?v=pFTgWgb5wiM)
 >> - Conhecendo os [[Tecnico/Assistente-de-TI/Chipsets de Placas-Mae\|Chipsets de Placas-Mae]]
 >> - Guia para a escolha da [[Tecnico/Assistente-de-TI/Placa-Mae\|Placa-Mae]]
+>> - [[Tecnico/Assistente-de-TI/Concurso da UFC 2025\|Concurso da UFC 2025]]
 >>>[!todo] 🖥️ Atividade: 
 >>> - Criar uma planilha de inventário de peças de um computador.
 >>> - [Calculadora de Autonomia Nobreaks Intelbras](https://calculadora-nobreaks.intelbras.com.br/)
 >>> - [Modelo de lista peças do computador](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >
->>[!note]- Aula 2.4 - Componentes de Hardware - processadores
->>- [ ] Aula 2.4 - 2025.11.07 - Componentes de Hardware
+>>[!note] Aula 2.4 - Componentes de Hardware - processadores
+>>- [x] Aula 2.4 - 2025.11.07 - Componentes de Hardware
 >> - Componentes do Hardware: [Processadores.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vRx8cvvDeinPIWpHX22yGBxuhvSEDix4lth4Ru9U9dJZVVPUI7VRIGdFLwttrzhKw/pub?start=true&loop=false&delayms=3000)
 >> - [Memória.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vSPuWVYJSM7wXvxL9d2MRZht-k3Iz2UUrBqIG2_4KBqzTfnptAs3Tky7-OggDYwfA/pub?start=true&loop=false&delayms=3000)
 >> - [Placa-mãe.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTWKEtYI6PLBfg-Ey4NJpspgUqX4SHbcLOUVeKZfFDo9-oXtsXzMN-PX0i4qOJWyw/pub?start=true&loop=false&delayms=3000)
