@@ -331,18 +331,27 @@ gantt
 >>> - [Calculadora de Autonomia Nobreaks Intelbras](https://calculadora-nobreaks.intelbras.com.br/)
 >>> - [Modelo de lista peças do computador](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >
->>[!note] Aula 2.4 - Componentes de Hardware - processadores
->>- [x] Aula 2.4 - 2025.11.07 - Componentes de Hardware
->> - Componentes do Hardware: [Processadores.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vRx8cvvDeinPIWpHX22yGBxuhvSEDix4lth4Ru9U9dJZVVPUI7VRIGdFLwttrzhKw/pub?start=true&loop=false&delayms=3000)
+>>[!note]- Aula 2.4 - Componentes de Hardware - ferramentas e EPI
+>>- [x] Aula 2.4 - 2025.11.07 - Ferramentas e EPI para manutenção
 >> - [Memória.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vSPuWVYJSM7wXvxL9d2MRZht-k3Iz2UUrBqIG2_4KBqzTfnptAs3Tky7-OggDYwfA/pub?start=true&loop=false&delayms=3000)
 >> - [Placa-mãe.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTWKEtYI6PLBfg-Ey4NJpspgUqX4SHbcLOUVeKZfFDo9-oXtsXzMN-PX0i4qOJWyw/pub?start=true&loop=false&delayms=3000)
 >> - [Instalação de Hardware.pdf](https://drive.google.com/file/d/1eHpXpqeI8s4uvExVrM9IHNdlLYtHag8z/view?usp=sharing)
->> - [Todos os Processadores Intel Explicados em 8 Minutos - YouTube](https://www.youtube.com/watch?v=JGQMW7tTbmQ)
->> - [Todos os Processadores AMD Explicados em 8 Minutos - YouTube](https://www.youtube.com/watch?v=mJu5R7AK0FU)
 >>>[!todo] 🖥️ Atividade:
+>>> - Criar uma planilha com uma lista de ferramentas com item, preço e link;
 >>> - [Modelo de lista peças do computador](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>>> - Desmontagem e montagem assistida de um computador.
+>
+>>[!note] Aula em 2.05 - Componentes de Hardware - processadores e memória
+>>- [x] Aula 2.5 - 2025.11.10 - [[Tecnico/Assistente-de-TI/Processadores\|Processadores]] e memória
+>> - Componentes do Hardware: [Processadores.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vRx8cvvDeinPIWpHX22yGBxuhvSEDix4lth4Ru9U9dJZVVPUI7VRIGdFLwttrzhKw/pub?start=true&loop=false&delayms=3000)
+>> - [Guia de Processadores 2025 - Primeiro Semestre - Adrenaline](https://www.adrenaline.com.br/artigos/guia-de-processadores-atualizado-primeiro-semestre-2025-1/)
+>> - [Todas as Memórias DDR Explicadas em 8 Minutos - YouTube](https://www.youtube.com/watch?v=6ZotxnvGNTQ)
+>> - Componentes do Hardware: [[Tecnico/Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]]
+>>>[!todo] 🖥️ Atividade:
 >>> - [Questionário sobre as peças do computador](https://forms.gle/nYuKC46Jr59SfELD6)
 >>> - [PRALET de Instalação de Hardware.docx](https://docs.google.com/document/d/e/2PACX-1vRsI5aKkqN3PlhJkaR9AOAS54HreKqYXWBtrIjnxjFV2NGC4-V0-lj2rengIdsIbg/pub)
+>>> - Realizar a montagem de um computador usando simulador.
+>>> - Criar um relatório no Word descrevendo a configuração das peças utilizadas.
 
 
 
