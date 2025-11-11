@@ -341,17 +341,25 @@ gantt
 >>> - [Modelo de lista peças do computador](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >>> - Desmontagem e montagem assistida de um computador.
 >
->>[!note] Aula em 2.05 - Componentes de Hardware - processadores e memória
->>- [x] Aula 2.5 - 2025.11.10 - [[Tecnico/Assistente-de-TI/Processadores\|Processadores]] e memória
+>>[!note]- Aula 2.05 - Componentes de Hardware - processadores e memória
+>>- [x] Aula 2.5 - 2025.11.10 - [[Tecnico/Assistente-de-TI/Processadores\|Processadores]]
 >> - Componentes do Hardware: [Processadores.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vRx8cvvDeinPIWpHX22yGBxuhvSEDix4lth4Ru9U9dJZVVPUI7VRIGdFLwttrzhKw/pub?start=true&loop=false&delayms=3000)
 >> - [Guia de Processadores 2025 - Primeiro Semestre - Adrenaline](https://www.adrenaline.com.br/artigos/guia-de-processadores-atualizado-primeiro-semestre-2025-1/)
->> - [Todas as Memórias DDR Explicadas em 8 Minutos - YouTube](https://www.youtube.com/watch?v=6ZotxnvGNTQ)
->> - Componentes do Hardware: [[Tecnico/Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]]
 >>>[!todo] 🖥️ Atividade:
->>> - [Questionário sobre as peças do computador](https://forms.gle/nYuKC46Jr59SfELD6)
->>> - [PRALET de Instalação de Hardware.docx](https://docs.google.com/document/d/e/2PACX-1vRsI5aKkqN3PlhJkaR9AOAS54HreKqYXWBtrIjnxjFV2NGC4-V0-lj2rengIdsIbg/pub)
->>> - Realizar a montagem de um computador usando simulador.
+>>> - Realizar a montagem de um computador usando [[Tecnico/Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]].
 >>> - Criar um relatório no Word descrevendo a configuração das peças utilizadas.
+>
+>>[!note] Aula 2.06 - Componentes de Hardware - memória e armazenamento
+>>- [x] Aula 2.6 - 2025.11.11 - [[Tecnico/Assistente-de-TI/Memória RAM\|Memória RAM]]
+>> - [Todas as Memórias DDR Explicadas em 8 Minutos - YouTube](https://www.youtube.com/watch?v=6ZotxnvGNTQ)
+>> - Problemas do Hardware: [[Tecnico/Assistente-de-TI/Resolucao-de-problemas\|Resolucao-de-problemas]]
+>> - [Problemas no pc.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTLFM-wvV_MYSuyQDNaZFaHAr-Nl58wzKxQSm5wv04rE_9mvCdI8eyWLr-SAN88wA/pub?start=true&loop=false&delayms=3000)
+>> - [Diagnosticando Defeitos.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vQHGR3mqvjiU3pQ95GaFxNCkKtw-FF7cQ-mxaL3UI4uuZGl-mSY7QFTpVccK5Latg/pub?start=true&loop=false&delayms=3000)
+>>>[!todo] 🖥️ Atividade:
+>>> - [PRALET de Instalação de Hardware.docx](https://docs.google.com/document/d/e/2PACX-1vRsI5aKkqN3PlhJkaR9AOAS54HreKqYXWBtrIjnxjFV2NGC4-V0-lj2rengIdsIbg/pub)
+>>> - [Questionário sobre as peças do computador](https://forms.gle/nYuKC46Jr59SfELD6)
+>>> - Realizar a solução de problemas de um computador usando: [Intel - Simulador de Defeitos](https://archive.org/details/intel_simuladordefeitos)
+>>> - Criar um relatório no Word descrevendo os problema resolvidos.
 
 
 
