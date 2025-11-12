@@ -349,7 +349,7 @@ gantt
 >>> - Realizar a montagem de um computador usando [[Tecnico/Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]].
 >>> - Criar um relatório no Word descrevendo a configuração das peças utilizadas.
 >
->>[!note] Aula 2.06 - Componentes de Hardware - memória e armazenamento
+>>[!note]- Aula 2.06 - Componentes de Hardware - memória e armazenamento
 >>- [x] Aula 2.6 - 2025.11.11 - [[Tecnico/Assistente-de-TI/Memória RAM\|Memória RAM]]
 >> - [Todas as Memórias DDR Explicadas em 8 Minutos - YouTube](https://www.youtube.com/watch?v=6ZotxnvGNTQ)
 >> - Problemas do Hardware: [[Tecnico/Assistente-de-TI/Resolucao-de-problemas\|Resolucao-de-problemas]]
@@ -357,9 +357,17 @@ gantt
 >> - [Diagnosticando Defeitos.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vQHGR3mqvjiU3pQ95GaFxNCkKtw-FF7cQ-mxaL3UI4uuZGl-mSY7QFTpVccK5Latg/pub?start=true&loop=false&delayms=3000)
 >>>[!todo] 🖥️ Atividade:
 >>> - [PRALET de Instalação de Hardware.docx](https://docs.google.com/document/d/e/2PACX-1vRsI5aKkqN3PlhJkaR9AOAS54HreKqYXWBtrIjnxjFV2NGC4-V0-lj2rengIdsIbg/pub)
->>> - [Questionário sobre as peças do computador](https://forms.gle/nYuKC46Jr59SfELD6)
 >>> - Realizar a solução de problemas de um computador usando: [Intel - Simulador de Defeitos](https://archive.org/details/intel_simuladordefeitos)
 >>> - Criar um relatório no Word descrevendo os problema resolvidos.
+>
+>>[!note] Aula 2.07 - Componentes de Hardware - GPU
+>>- [x] Aula 2.6 - 2025.11.12 - [[Tecnico/Assistente-de-TI/Placa de video\|Placa de video]]
+>>- [O que é placa de vídeo e como funciona? - Adrenaline](https://www.adrenaline.com.br/hardware/o-que-e-placa-de-video/)
+>>- [Guia de Placas de Vídeo 2025 - segundo semestre - Adrenaline](https://www.adrenaline.com.br/hardware/guia-de-placas-de-video-2025-segundo-semestre/)
+>>>[!todo] 🖥️ Atividade:
+>>> - [Questionário sobre as peças do computador](https://forms.gle/nYuKC46Jr59SfELD6)
+>> - [[Tecnico/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
+>> - Avaliação de criação de planilha interativa de orçamentos de peças.
 
 
 

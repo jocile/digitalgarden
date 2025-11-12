@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/memoria-ram/","title":"Chipsets de Placas-Mãe","metatags":{"description":"é um local de acesso rápido para arquivos e aplicações em uso durante uma sessão ativa"},"noteIcon":"1","updated":"2025-11-11T12:49:43.375-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/memoria-ram/","title":"Chipsets de Placas-Mãe","metatags":{"description":"é um local de acesso rápido para arquivos e aplicações em uso durante uma sessão ativa"},"noteIcon":"1","updated":"2025-11-11T13:51:32.356-03:00"}
 ---
 
 #Aulas #Hardware #Assistente-de-TI
@@ -202,6 +202,39 @@ Essa trajetória demonstra uma tendência clara: **cada nova geração DDR busca
 
 Apesar do aumento teórico de velocidade, é importante notar que o ganho de performance em jogos ou em usos gerais nem sempre é proporcional ao salto tecnológico, pois outros componentes, como a arquitetura do processador e as latências (CL), também influenciam o desempenho final.
 
+##  7.0 Perfil de performance XMP e EXPO
+
+XMP (Extreme Memory Profile) e EXPO são tecnologias de perfis de memória que permitem que os módulos de RAM operem em suas **velocidades e configurações corretas/máximas**, conforme anunciado pelo fabricante.
+
+Em essência, a memória RAM não funciona sozinha na frequência máxima que está escrita na caixa. Se você não ativar o perfil apropriado, sua memória pode rodar em uma frequência muito mais baixa (por exemplo, 2400 MHz ou 4800 MHz), o que penaliza o desempenho do sistema.
+
+Os perfis contêm **conjuntos de ajustes de frequência e _timings_** (latências) que você ativa na BIOS para liberar a velocidade pela qual você pagou.
+
+### 7.1. XMP (Extreme Memory Profile)
+
+O XMP é o perfil historicamente utilizado, principalmente, em plataformas **Intel**.
+
+- **Significado:** XMP significa **Extreme Memory Profile**.
+- **Compatibilidade:** Originalmente projetado para placas Intel, o XMP também pode funcionar em sistemas AMD, especialmente em plataformas mais antigas.
+- **Variações:** Algumas placas-mãe, como as da ASUS para AMD, podem se referir ao perfil XMP como **DOCP (DRAM Overclocking Profile)**. Há também o perfil **AMP (AMD Memory Profile)**, que é a versão para placas AMD. Os módulos podem, inclusive, oferecer diferentes perfis (Perfil 1, Perfil 2, Perfil 3) com clocks e latências variadas.
+
+### 7.2. EXPO
+
+O EXPO é o perfil mais recente e foi desenvolvido especificamente para **plataformas AMD**.
+
+- **Uso:** É o perfil padrão para os sistemas AMD mais modernos, como aqueles que utilizam o **socket AM5** (Ryzen 7000 e posteriores).
+- **Função:** Assim como o XMP, ele permite que o usuário ative os ajustes necessários para que a memória DDR5 atinja seu "ponto ideal" (Sweet Spot), como, por exemplo, 6000 MHz com latência CL30 nas plataformas AM5.
+
+### 7.3 Ativação e Implicações
+
+A ativação desses perfis é considerada **essencial** para garantir que você aproveite toda a _performance_ da memória que adquiriu.
+
+1. **Como Ativar:** A ativação é feita diretamente na **BIOS** (ou UEFI) da placa-mãe.
+2. **Localização:** Você geralmente encontra a opção nas seções de _overclock_ ou "AI Twicker". Em placas-mãe mais modernas, a opção para selecionar o perfil XMP ou EXPO pode estar disponível logo na página inicial da BIOS, exigindo apenas alguns cliques.
+3. **Garantia:** Embora tecnicamente a ativação do XMP/EXPO seja considerada um _overclock_, o uso desses perfis **não costuma anular a garantia** da memória ou do processador. Isso porque os componentes são certificados para operar nessas frequências, e o fabricante da placa-mãe geralmente lista as memórias compatíveis (QVL - Qualified Vendor List) que foram testadas nesses clocks.
+
+Em resumo, se você comprar uma memória que anuncia, por exemplo, 6000 MHz, você **precisa** ir na BIOS e ligar o perfil XMP, EXPO, ou DOCP para que ela pare de rodar no _clock_ base mais baixo e entregue a velocidade total.
+
 ---
 
 ## Referências
@@ -222,7 +255,8 @@ Apesar do aumento teórico de velocidade, é importante notar que o ganho de per
 > - [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]
 > - [[Tecnico/Assistente-de-TI/Placa-Mae\|Placa-Mae]]
 > - [[Tecnico/Assistente-de-TI/Processadores\|Processadores]]
-> - [[Tecnico/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
 > - [[Tecnico/Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]]
+> - [[Tecnico/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
+> - [[Tecnico/Assistente-de-TI/Placa de video\|Placa de video]]
 > 
 { .block-language-dataview}
