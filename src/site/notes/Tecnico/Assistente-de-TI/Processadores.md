@@ -130,7 +130,7 @@ Em suma, a escolha de um processador eficiente não se resume a comparar especif
 > - [[Tecnico/Assistente-de-TI/Memória RAM\|Memória RAM]]
 > - [[Tecnico/Assistente-de-TI/Placa de video\|Placa de video]]
 > - [[Tecnico/Assistente-de-TI/Placa-Mae\|Placa-Mae]]
-> - [[Tecnico/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
 > - [[Tecnico/Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]]
+> - [[Tecnico/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
 > 
 { .block-language-dataview}

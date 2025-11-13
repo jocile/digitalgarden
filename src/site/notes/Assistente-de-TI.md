@@ -369,7 +369,10 @@ gantt
 >
 >>[!note] Aula 2.08 - Relatórios técnicos
 >>- [x] Aula 2.8 - 2025.11.13 - Avaliação com relatórios técnicos
->>- Pesquisa de orçamento com [PC Build Wizard](https://pcbuildwizard.com/), [MEUPC.NET](https://meupc.net/)
+>>- Pesquisa de orçamento de peças com: [PC Build Wizard](https://pcbuildwizard.com/), [MEUPC.NET](https://meupc.net/),
+>>- Montagem de configuração de Computador com: [Pichau](https://www.pichau.com.br/monte-seu-pc), [KaBuM!](https://www.kabum.com.br/monte-seu-pc), [Terabyte](https://www.terabyteshop.com.br/pc-gamer/full-custom)
+>>- [Tudo sobre HD, SSD E NVME - YouTube](https://www.youtube.com/watch?v=UtNsLJ0ffGw)
+>>- [Todas as Peças de Computador Explicadas em 8 Minutos - YouTube](https://www.youtube.com/watch?v=pFTgWgb5wiM)
 >>>[!todo] 🖥️ Atividade:
 >>> - [Questionário sobre as peças do computador](https://forms.gle/nYuKC46Jr59SfELD6)
 >>> - [[Tecnico/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
