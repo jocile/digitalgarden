@@ -360,16 +360,20 @@ gantt
 >>> - Realizar a solução de problemas de um computador usando: [Intel - Simulador de Defeitos](https://archive.org/details/intel_simuladordefeitos)
 >>> - Criar um relatório no Word descrevendo os problema resolvidos.
 >
->>[!note] Aula 2.07 - Componentes de Hardware - GPU
->>- [x] Aula 2.6 - 2025.11.12 - [[Tecnico/Assistente-de-TI/Placa de video\|Placa de video]]
+>>[!note]- Aula 2.07 - Componentes de Hardware - GPU
+>>- [x] Aula 2.7 - 2025.11.12 - [[Tecnico/Assistente-de-TI/Placa de video\|Placa de video]]
 >>- [O que é placa de vídeo e como funciona? - Adrenaline](https://www.adrenaline.com.br/hardware/o-que-e-placa-de-video/)
 >>- [Guia de Placas de Vídeo 2025 - segundo semestre - Adrenaline](https://www.adrenaline.com.br/hardware/guia-de-placas-de-video-2025-segundo-semestre/)
 >>>[!todo] 🖥️ Atividade:
+>>> - [[Tecnico/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
+>
+>>[!note] Aula 2.08 - Relatórios técnicos
+>>- [x] Aula 2.8 - 2025.11.13 - Avaliação com relatórios técnicos
+>>- Pesquisa de orçamento com [PC Build Wizard](https://pcbuildwizard.com/), [MEUPC.NET](https://meupc.net/)
+>>>[!todo] 🖥️ Atividade:
 >>> - [Questionário sobre as peças do computador](https://forms.gle/nYuKC46Jr59SfELD6)
->> - [[Tecnico/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
->> - Avaliação de criação de planilha interativa de orçamentos de peças.
-
-
+>>> - [[Tecnico/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
+>>> - Criação de planilha interativa de orçamentos de peças.
 
 
 </div></div>
