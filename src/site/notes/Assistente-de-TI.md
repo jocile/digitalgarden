@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":"default","updated":"2025-11-06T13:27:47.181-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":"default","updated":"2025-11-14T10:26:30.734-03:00"}
 ---
 
 
@@ -38,10 +38,10 @@ gantt
      section UC1
          UC1 :a1, 06:10, 21d
      section UC2,3
-         UC2 :a2,after a1, 9d
-         UC3 :a3, after a2, 6d
+         UC2 :a2,after a1, 8d
+         UC3 :a3, after a2, 8d
      section UC4, 5
-         UC4 :a4, after a3, 9d
+         UC4 :a4, after a3, 8d
          UC5 :a5, after a4, 4d
 ```
 
@@ -136,17 +136,19 @@ gantt
 >>   - [📑Apostila][apostila] a partir da pg. 83: Processador de Textos Word: Manipulação com arquivo de texto e formatação e estilos de fonte e parágrafos; Copiar, recortar e colar texto; estilos de texto, reverter texto, histórico de desfaz e refaz ações;
 >>>[!todo] 🖥️ Atividade:
 >>> - Criando um portifólio no [Google Sites](https://sites.google.com/new/).
->>   - Compartilhamento de arquivos no [Drive](https://drive.google.com/) e [Google Sites](https://sites.google.com/view/informaticasenac/assistente-de-ti-2024)
+>>>  - Compartilhamento de arquivos no [Drive](https://drive.google.com/) e [Google Sites](https://sites.google.com/view/informaticasenac/assistente-de-ti-2024)
 >>> - Conhecendo estilos de texto no Word Criando os textos Responsabilidade Social e Teoria da música;
 >
 >>[!note]- Aula 1.8 - Word - ortografia e gramática, correção, tabulação, cabeçalho
 >>  - [x] Aula 1.8 - 2025.10.15- [📑Apostila][apostila] a partir da pg. 88: Processador de Textos Word: ortografia e gramática, layout de visualização
+>>
 >>>[!todo] 🖥️ Atividade:
 >>> - No Word Criando os textos Teoria da música, Menu com tabulação, Sumário manual.
 >>> - No Word Criando o texto Soneto de Fidelidade, sumários e capas em trabalho.
 >
 >>[!note]- Aula 1.9 - Word - elementos, marcadores, símbolos e ilustrações, design de bordas e imagens
 >>  - [x] Aula 1.9 - 2025.10.16 - Word - [📑Apostila][apostila] a partir da pg. 97: Processador de Textos Word: cabeçalho e rodapé, objetos e imagens, bordas de parágrafo e de páginas, design de documentos.
+>>
 >>>[!todo] 🖥️ Atividades:
 >>>  - [📑Apostila][apostila] a partir da pg. 118: Boletim escolar, recibo comercial, textos formatados e cardápio.
 >>> - No Word Criando os certificados e papel de carta estilizados.
@@ -155,8 +157,8 @@ gantt
 >
 >>[!note]- Aula 1.10 - [📑Apostila][apostila] Processador de Textos Word:  inserindo símbolos, figuras, tabelas e objetos.
 >> - [x]  Aula 1.10 - 2025.10.17 - Word - elementos da página, cabeçalho e rodapé, tabelas e listas.
->>   - [📑Apostila][apostila] a partir da pg. 105: Processador de Textos Word: Operações com figuras, símbolos e ilustrações; Inserir e formatar Tabelas; Revisor ortográfico; Configuração de página e de impressão; tabelas e listas, impressão. formatação de textos (fonte e parágrafo), ortografia e gramática, cabeçalho e rodapé, objetos e imagens, tabelas e listas, impressão.
->>   - [Atualizações do Windows 11 25H2](https://www.youtube.com/watch?v=QCHn_1WDSX0)
+>> - [📑Apostila][apostila] a partir da pg. 105: Processador de Textos Word: Operações com figuras, símbolos e ilustrações; Inserir e formatar Tabelas; Revisor ortográfico; Configuração de página e de impressão; tabelas e listas, impressão. formatação de textos (fonte e parágrafo), ortografia e gramática, cabeçalho e rodapé, objetos e imagens, tabelas e listas, impressão.
+>> - [Atualizações do Windows 11 25H2](https://www.youtube.com/watch?v=QCHn_1WDSX0)
 >>>[!todo] 🖥️ Atividades:
 >>> - Criando a tabela boletim;
 >>> - Criando o relatório de vendas com tabulação;
@@ -164,10 +166,10 @@ gantt
 >
 >>[!note]- Aula 1.11 - Introdução a planilhas com o Excel
 >> - [x]  Aula 1.11 - 2025.10.20 - [📑Apostila][apostila] a partir da pg. 121, editor de planilhas Excel: 
->>    - Conceito de Planilha eletrônica;
->>    - Principais elementos do espaço de trabalho (Pasta, planilha, célula, barras, menus);
->>    - Navegação; Edição de dados nas células;
->>    - Seleção de célula, intervalo(s), coluna(s), linha(s), toda planilha;
+>> - Conceito de Planilha eletrônica;
+>> - Principais elementos do espaço de trabalho (Pasta, planilha, célula, barras, menus);
+>> - Navegação; Edição de dados nas células;
+>> - Seleção de célula, intervalo(s), coluna(s), linha(s), toda planilha;
 >>
 >>>[!todo] 🖥️ Atividades no Excel:
 >>> - Criando e formatando a planilha de orçamento doméstico.
@@ -244,18 +246,18 @@ gantt
 >
 >>[!note]- Aula 1.20 - Introdução ao Power Point
 >> - [x]  Aula 1.20 - 2025.10.31 - Power Point
->>   - [📸Livro da Biblioteca Virtual SENAC do Power Point][powerpoint] cap. 1 e 2:
->>     - Conhecendo a interface do Power Point - [[Tecnico/Assistente-de-TI/PowerPoint/PowerPoint2019-cap1\|PowerPoint2019-cap1]];
->>     - Criando slides, adicionando e formatando elementos, como tabelas, formas e gráficos - [[Tecnico/Assistente-de-TI/PowerPoint/PowerPoint2019-cap2\|PowerPoint2019-cap2]].
+>> - [📸Livro da Biblioteca Virtual SENAC do Power Point][powerpoint] cap. 1 e 2:
+>> - Conhecendo a interface do Power Point - [[Tecnico/Assistente-de-TI/PowerPoint/PowerPoint2019-cap1\|PowerPoint2019-cap1]];
+>> - Criando slides, adicionando e formatando elementos, como tabelas, formas e gráficos - [[Tecnico/Assistente-de-TI/PowerPoint/PowerPoint2019-cap2\|PowerPoint2019-cap2]].
 >>>[!todo] 🖥️ Atividades no PowerPoint:
 >>> - Criando slides sobre um relatório de vendas.
 >>> - Criando slides de controle de vídeos com tabelas e gráficos.
 >
 >>[!note]- Aula 1.21 - Estilos em Slides no Power Point
 >> - [x]  Aula 1.21 - 2025.11.03 - Power Point com transições e animações.
->>   - [📸Livro da Biblioteca Virtual SENAC do Power Point][powerpoint] cap. 3 e 4:
->>     - Criando slides com transições e animações - [[Tecnico/Assistente-de-TI/PowerPoint/PowerPoint2019-cap3\|PowerPoint2019-cap3]].
->>     - Criando infografos com [Canva](https://www.canva.com/templates)
+>> - [📸Livro da Biblioteca Virtual SENAC do Power Point][powerpoint] cap. 3 e 4:
+>> - Criando slides com transições e animações - [[Tecnico/Assistente-de-TI/PowerPoint/PowerPoint2019-cap3\|PowerPoint2019-cap3]].
+>> - Criando infografos com [Canva](https://www.canva.com/templates)
 >>>[!todo] 🖥️ Atividades no PowerPoint:
 >>> - Aplicando efeitos em vários modelos de slides.
 
@@ -286,7 +288,7 @@ gantt
 
 ### Cronograma da UC2
 
->[!done] Cronograma da Unidade Curricular 2
+>[!done]- Cronograma da Unidade Curricular 2
 >
 >>[!note]- Aula 2.1 - Instalações elétricas e proteção 
 >> - [x] Aula 2.1 - 2025.11.04 - Eletricidade e equipamentos elétricos
@@ -367,7 +369,7 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> - [[Tecnico/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
 >
->>[!note] Aula 2.08 - Relatórios técnicos
+>>[!note]- Aula 2.08 - Relatórios técnicos
 >>- [x] Aula 2.8 - 2025.11.13 - Avaliação com relatórios técnicos
 >>- Pesquisa de orçamento de peças com: [PC Build Wizard](https://pcbuildwizard.com/), [MEUPC.NET](https://meupc.net/),
 >>- Montagem de configuração de Computador com: [Pichau](https://www.pichau.com.br/monte-seu-pc), [KaBuM!](https://www.kabum.com.br/monte-seu-pc), [Terabyte](https://www.terabyteshop.com.br/pc-gamer/full-custom)
@@ -377,6 +379,41 @@ gantt
 >>> - [Questionário sobre as peças do computador](https://forms.gle/nYuKC46Jr59SfELD6)
 >>> - [[Tecnico/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
 >>> - Criação de planilha interativa de orçamentos de peças.
+
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+## UC3 - Instalar e configurar sistemas operacionais cliente e softwares
+
+> [!success]- 🖥️ Habilidades
+> 1. Elaborar cronograma de planejamento do processo de instalação e configuração.
+> 2. Identificar compatibilidade entre o hardware e o software.
+> 3. Identificar necessidades de atualização de softwares.
+> 4. Interpretar documentos e manuais técnicos.
+> 5. Desinstalar softwares.
+> 6. Utilizar termos técnicos nas rotinas de trabalho.
+> 7. Administrar tempo e atividades de trabalho.
+> 8. Pesquisar e organizar dados e informações.
+> 9. Realizar backup e restaurar dados.
+
+### Cronograma da UC3
+
+>[!done] Cronograma da Unidade Curricular 3
+>
+>>[!note] Aula 3.1 - Sistema Operacional Windows
+>>- [x] Aula 3.1 - 2025.11.14 - Instalando o Windows
+>> - [Instalando Windows - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTVB8pCdIE-NgehNyVa04vIXzceb8NG2oOTqDyfM6r0MK15l7E4UcmAECWWsWJRnw/pub?start=true&loop=false&delayms=3000)
+>> - [[Tecnico/Assistente-de-TI/Instalando-o-windows\|Instalando-o-windows]]
+>>
+>>>[!todo] 🖥️ Atividade: 
+>>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows.
+
 
 
 </div></div>
