@@ -38,10 +38,10 @@ gantt
      section UC1
          UC1 :a1, 06:10, 21d
      section UC2,3
-         UC2 :a2,after a1, 8d
+         UC2 :a2,after a1, 9d
          UC3 :a3, after a2, 8d
      section UC4, 5
-         UC4 :a4, after a3, 8d
+         UC4 :a4, after a3, 7d
          UC5 :a5, after a4, 4d
 ```
 
@@ -372,11 +372,17 @@ gantt
 >>[!note]- Aula 2.08 - Relatórios técnicos
 >>- [x] Aula 2.8 - 2025.11.13 - Avaliação com relatórios técnicos
 >>- Pesquisa de orçamento de peças com: [PC Build Wizard](https://pcbuildwizard.com/), [MEUPC.NET](https://meupc.net/),
->>- Montagem de configuração de Computador com: [Pichau](https://www.pichau.com.br/monte-seu-pc), [KaBuM!](https://www.kabum.com.br/monte-seu-pc), [Terabyte](https://www.terabyteshop.com.br/pc-gamer/full-custom)
 >>- [Tudo sobre HD, SSD E NVME - YouTube](https://www.youtube.com/watch?v=UtNsLJ0ffGw)
 >>- [Todas as Peças de Computador Explicadas em 8 Minutos - YouTube](https://www.youtube.com/watch?v=pFTgWgb5wiM)
 >>>[!todo] 🖥️ Atividade:
 >>> - [Questionário sobre as peças do computador](https://forms.gle/nYuKC46Jr59SfELD6)
+>>> - [[Tecnico/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
+>>> - Criação de planilha interativa de orçamentos de peças.
+>
+>>[!note]- Aula 2.09 - Relatórios técnicos
+>>- [x] Aula 2.9 - 2025.11.14 - Avaliação com relatórios técnicos
+>>- Montagem de configuração de Computador com: [Pichau](https://www.pichau.com.br/monte-seu-pc), [KaBuM!](https://www.kabum.com.br/monte-seu-pc), [Terabyte](https://www.terabyteshop.com.br/pc-gamer/full-custom)
+>>>[!todo] 🖥️ Atividade:
 >>> - [[Tecnico/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
 >>> - Criação de planilha interativa de orçamentos de peças.
 
@@ -407,10 +413,8 @@ gantt
 >[!done] Cronograma da Unidade Curricular 3
 >
 >>[!note] Aula 3.1 - Sistema Operacional Windows
->>- [x] Aula 3.1 - 2025.11.14 - Instalando o Windows
+>>- [x] Aula 3.1 - 2025.11.17 - [[Tecnico/Assistente-de-TI/Instalando-o-windows\|Instalando-o-windows]]
 >> - [Instalando Windows - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTVB8pCdIE-NgehNyVa04vIXzceb8NG2oOTqDyfM6r0MK15l7E4UcmAECWWsWJRnw/pub?start=true&loop=false&delayms=3000)
->> - [[Tecnico/Assistente-de-TI/Instalando-o-windows\|Instalando-o-windows]]
->>
 >>>[!todo] 🖥️ Atividade: 
 >>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows.
 
