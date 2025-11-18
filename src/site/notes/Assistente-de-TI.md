@@ -412,11 +412,17 @@ gantt
 
 >[!done] Cronograma da Unidade Curricular 3
 >
->>[!note] Aula 3.1 - Sistema Operacional Windows
+>>[!note] Aula 3.1 - Instalando o Sistema Operacional Windows
 >>- [x] Aula 3.1 - 2025.11.17 - [[Tecnico/Assistente-de-TI/Instalando-o-windows\|Instalando-o-windows]]
 >> - [Instalando Windows - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTVB8pCdIE-NgehNyVa04vIXzceb8NG2oOTqDyfM6r0MK15l7E4UcmAECWWsWJRnw/pub?start=true&loop=false&delayms=3000)
 >>>[!todo] 🖥️ Atividade: 
 >>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows.
+>
+>>[!note] Aula 3.2 - Otimizando o Sistema Operacional Windows
+>>- [x] Aula 3.2 - 2025.11.18 - [[Tecnico/Assistente-de-TI/Otimizacao do Windows\|Otimizacao do Windows]]
+>> - [Instalando Windows - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTVB8pCdIE-NgehNyVa04vIXzceb8NG2oOTqDyfM6r0MK15l7E4UcmAECWWsWJRnw/pub?start=true&loop=false&delayms=3000)
+>>>[!todo] 🖥️ Atividade: 
+>>> - Utilizar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e otimizar o Windows.
 
 
 
