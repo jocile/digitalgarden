@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/otimizacao-do-windows/","metatags":{"description":"como configurar o sistema de forma segura e de alto desempenho para o ambiente corporativo"},"noteIcon":2,"updated":"2025-11-18T13:01:03.360-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/otimizacao-do-windows/","metatags":{"description":"como configurar o sistema de forma segura e de alto desempenho para o ambiente corporativo"},"noteIcon":2,"updated":"2025-11-18T21:11:54.603-03:00"}
 ---
 
 #aula #Windows
@@ -162,11 +162,7 @@ Ao concluir este procedimento, a estação de trabalho estará padronizada de ac
 
 Para implantações em larga escala ou para administradores que preferem automatizar os processos de otimização, existem ferramentas de script que consolidam muitas das ações descritas neste manual em uma interface única ou em um script executável.
 
-### 6.1 Win Pilot
-
-O [**Win Pilot**][Winpilot] (Bloatynosy) é uma aplicação que automatiza a remoção de bloatware e a aplicação de diversos ajustes de configuração do Windows. Desenvolvida por "belbibe" e disponível no GitHub, a ferramenta oferece uma interface gráfica para selecionar e executar ações como desinstalar a impressora de Fax, o XPS Writer, e remover ícones da barra de tarefas, como o de chat.
-
-### 6.2 WinScript
+### WinScript
 
 O [**WinScript**][Winscript] é um poderoso script de otimização que permite uma limpeza profunda e customizada do sistema. Disponível em seu site oficial e repositório no GitHub, a ferramenta organiza suas funcionalidades em abas:
 
@@ -177,16 +173,23 @@ O [**WinScript**][Winscript] é um poderoso script de otimização que permite u
 
 Após a seleção das otimizações desejadas, o programa gera um arquivo de script (`.PS1`) que pode ser executado via PowerShell para aplicar todas as mudanças de uma só vez.
 
-### 6.3 Nota de Advertência
+>[!tip] Outras opções: [Winaero Tweaker][Winaero] e o [**Win Pilot**][Winpilot] (atual Bloatynosy).
+
+
+
+### Nota de Advertência
 
 É fundamental baixar essas ferramentas de automação **exclusivamente de suas fontes oficiais**, como o repositório do desenvolvedor no GitHub. O download de versões modificadas de fontes não confiáveis apresenta um risco de segurança significativo, podendo conter malware ou outras modificações maliciosas que comprometam a integridade do sistema.
 
 ## Referências
 
+- [18 Coisas que você PRECISA fazer depois de Instalar o Windows 11 - YouTube](https://www.youtube.com/watch?v=S953FlN2g8o&list=PLfGUiQzB80EA9rW1e3EDeG3pON_pnr6hD)
 - [Desbostificando o Windows! - YouTube](https://www.youtube.com/watch?v=SzDhV_PLHvw)
 - [GitHub - builtbybel/Bloatynosy: The Bloaty and the Nosy: No Bloat, No Problem!][Winpilot]
 - [🔥DEIXE SEU WINDOWS MAIS RÁPIDO e eficiente com o WinScript 2025! - YouTube](https://www.youtube.com/watch?v=IL5K1Jt446E)
 - [GitHub - flick9000/winscript: Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.][Winscript]
+- [😱 Essa FERRAMENTA GRÁTIS vai MUDAR o seu PC para SEMPRE! - YouTube](https://www.youtube.com/watch?v=oZOGyZNFzQI)
+- [🎨⚙️ Winaero Tweaker no Windows 11 👉 Personalize rapidamente seu Windows 🔧💻✨ - YouTube](https://www.youtube.com/watch?v=1UhyZjtmpSA)
 - [GitHub - builtbybel/SuperMSConfig: MSConfig of our dreams...](https://github.com/builtbybel/SuperMSConfig)
 
 
@@ -199,3 +202,4 @@ Após a seleção das otimizações desejadas, o programa gera um arquivo de scr
 
 [Winpilot]: https://github.com/builtbybel/Bloatynosy
 [Winscript]: https://github.com/flick9000/winscript
+[Winaero]: https://winaerotweaker.com/

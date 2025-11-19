@@ -412,17 +412,28 @@ gantt
 
 >[!done] Cronograma da Unidade Curricular 3
 >
->>[!note] Aula 3.1 - Instalando o Sistema Operacional Windows
+>>[!note]- Aula 3.1 - Instalando o Sistema Operacional Windows
 >>- [x] Aula 3.1 - 2025.11.17 - [[Tecnico/Assistente-de-TI/Instalando-o-windows\|Instalando-o-windows]]
 >> - [Instalando Windows - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTVB8pCdIE-NgehNyVa04vIXzceb8NG2oOTqDyfM6r0MK15l7E4UcmAECWWsWJRnw/pub?start=true&loop=false&delayms=3000)
 >>>[!todo] 🖥️ Atividade: 
 >>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows.
 >
->>[!note] Aula 3.2 - Otimizando o Sistema Operacional Windows
+>>[!note]- Aula 3.2 - Otimizando o Sistema Operacional Windows
 >>- [x] Aula 3.2 - 2025.11.18 - [[Tecnico/Assistente-de-TI/Otimizacao do Windows\|Otimizacao do Windows]]
 >> - [Instalando Windows - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTVB8pCdIE-NgehNyVa04vIXzceb8NG2oOTqDyfM6r0MK15l7E4UcmAECWWsWJRnw/pub?start=true&loop=false&delayms=3000)
 >>>[!todo] 🖥️ Atividade: 
 >>> - Utilizar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e otimizar o Windows.
+>
+>>[!note] Aula 3.3 - Instalando aplicativos
+>>- [x] Aula 3.3 - 2025.11.19 - Instalando aplicativos
+>> - [Pacote office 2024 ultima versão atualizada oficial baixar e instalar - YouTube](https://www.youtube.com/watch?v=cLrheCNZjrc)
+>> - [2 opções do Windows OBRIGATÓRIAS que voce deveria ativar PRA ONTEM! - YouTube](https://www.youtube.com/watch?v=yVa-oQL7620)
+>> - [Recuperação Rápida do Computador - Microsoft Learn](https://learn.microsoft.com/pt-br/windows/configuration/quick-machine-recovery/?tabs=intune)
+>>>[!todo] 🖥️ Atividade:
+>>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows 11 e pacote Office.
+>>> - Personalizar o Windows para empresa: [System Product Name](https://winaero.com/how-to-change-system-product-name-in-windows-11/), [OEM Info](https://winaero.com/how-to-add-oem-info-in-windows-11/), [Fundos do Ambiente de Trabalho e do Ecrã de Bloqueio](https://learn.microsoft.com/pt-br/windows/configuration/background/?tabs=intune&pivots=windows-11), [Customizar a logo do boot](https://www.youtube.com/watch?v=zrw_zzIygEs)
+>
+>>[!info] FERIADO - 20.11 - Dia da Consciência Negra 
 
 
 

@@ -55,9 +55,9 @@ Após completar os passos acima, vocês terão uma planilha detalhada com o cust
 
 > [!help] Páginas semelhantes
 > Talvez estas páginas também interessem:
->  - [[Tecnico/Assistente-de-TI/Chipsets de Placas-Mae\|Chipsets de Placas-Mae]]
-> - [[Tecnico/Assistente-de-TI/Concurso da UFC 2025\|Concurso da UFC 2025]]
+>  - [[Tecnico/Assistente-de-TI/Concurso da UFC 2025\|Concurso da UFC 2025]]
 > - [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]
+> - [[Tecnico/Assistente-de-TI/Chipsets de Placas-Mae\|Chipsets de Placas-Mae]]
 > - [[Tecnico/Assistente-de-TI/Memória RAM\|Memória RAM]]
 > - [[Tecnico/Assistente-de-TI/Placa de video\|Placa de video]]
 > - [[Tecnico/Assistente-de-TI/Placa-Mae\|Placa-Mae]]
