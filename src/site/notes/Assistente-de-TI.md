@@ -424,16 +424,21 @@ gantt
 >>>[!todo] 🖥️ Atividade: 
 >>> - Utilizar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e otimizar o Windows.
 >
->>[!note] Aula 3.3 - Instalando aplicativos
->>- [x] Aula 3.3 - 2025.11.19 - Instalando aplicativos
->> - [Pacote office 2024 ultima versão atualizada oficial baixar e instalar - YouTube](https://www.youtube.com/watch?v=cLrheCNZjrc)
+>>[!note]- Aula 3.3 - Personalizando Windows para empresa
+>>- [x] Aula 3.3 - 2025.11.19 - Personalizando Windows para empresa
 >> - [2 opções do Windows OBRIGATÓRIAS que voce deveria ativar PRA ONTEM! - YouTube](https://www.youtube.com/watch?v=yVa-oQL7620)
 >> - [Recuperação Rápida do Computador - Microsoft Learn](https://learn.microsoft.com/pt-br/windows/configuration/quick-machine-recovery/?tabs=intune)
 >>>[!todo] 🖥️ Atividade:
->>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows 11 e pacote Office.
->>> - Personalizar o Windows para empresa: [System Product Name](https://winaero.com/how-to-change-system-product-name-in-windows-11/), [OEM Info](https://winaero.com/how-to-add-oem-info-in-windows-11/), [Fundos do Ambiente de Trabalho e do Ecrã de Bloqueio](https://learn.microsoft.com/pt-br/windows/configuration/background/?tabs=intune&pivots=windows-11), [Customizar a logo do boot](https://www.youtube.com/watch?v=zrw_zzIygEs)
+>>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows 11 e personalizar para empresa, mudando a tela de bloqueio, tela de fundo: [System Product Name](https://winaero.com/how-to-change-system-product-name-in-windows-11/), [OEM Info](https://winaero.com/how-to-add-oem-info-in-windows-11/), [Fundos do Ambiente de Trabalho e do Ecrã de Bloqueio](https://learn.microsoft.com/pt-br/windows/configuration/background/?tabs=intune&pivots=windows-11), [Customizar a logo do boot](https://www.youtube.com/watch?v=zrw_zzIygEs)
 >
 >>[!info] FERIADO - 20.11 - Dia da Consciência Negra 
+>
+>>[!note] Aula 3.4 - Instalando aplicativos e pacote Office
+>>- [x] Aula 3.4 - 2025.11.21 - Instalando aplicativos e pacote Office
+>> - [Pacote office 2024 ultima versão atualizada oficial baixar e instalar - YouTube](https://www.youtube.com/watch?v=cLrheCNZjrc)
+>> - [Winscript: Ferramenta para otimizar o Windows - debloat, privacy, performance & app installing scripts.](https://github.com/flick9000/winscript)
+>>>[!todo] 🖥️ Atividade:
+>>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows 11, realizar o debloat e instalar pacote Office, navegador Chrome, descompactador Winrar.
 
 
 
