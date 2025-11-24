@@ -439,6 +439,11 @@ gantt
 >> - [Winscript: Ferramenta para otimizar o Windows - debloat, privacy, performance & app installing scripts.](https://github.com/flick9000/winscript)
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows 11, realizar o debloat e instalar pacote Office, navegador Chrome, descompactador Winrar.
+>
+>>[!note] Aula 3.5 - Manutenção do Windows
+>>- [x] Aula 3.5 - 2025.11.24 - [[Tecnico/Assistente-de-TI/Manutencao do Windows\|Manutencao do Windows]]
+>>>[!todo] 🖥️ Atividade:
+>>> - Utilizar uma máquina virtual com o Windows 11, realizar o debloat e manutenção preventiva: criar um ponto de restauração, limpeza de arquivos temporários, acessar o modo de recuperação e realizar procedimentos de restauração.
 
 
 
