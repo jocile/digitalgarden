@@ -433,17 +433,22 @@ gantt
 >
 >>[!info] FERIADO - 20.11 - Dia da Consciência Negra 
 >
->>[!note] Aula 3.4 - Instalando aplicativos e pacote Office
+>>[!note]- Aula 3.4 - Instalando aplicativos e pacote Office
 >>- [x] Aula 3.4 - 2025.11.21 - Instalando aplicativos e pacote Office
 >> - [Pacote office 2024 ultima versão atualizada oficial baixar e instalar - YouTube](https://www.youtube.com/watch?v=cLrheCNZjrc)
 >> - [Winscript: Ferramenta para otimizar o Windows - debloat, privacy, performance & app installing scripts.](https://github.com/flick9000/winscript)
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows 11, realizar o debloat e instalar pacote Office, navegador Chrome, descompactador Winrar.
 >
->>[!note] Aula 3.5 - Manutenção do Windows
+>>[!note]- Aula 3.5 - Manutenção do Windows
 >>- [x] Aula 3.5 - 2025.11.24 - [[Tecnico/Assistente-de-TI/Manutencao do Windows\|Manutencao do Windows]]
 >>>[!todo] 🖥️ Atividade:
 >>> - Utilizar uma máquina virtual com o Windows 11, realizar o debloat e manutenção preventiva: criar um ponto de restauração, limpeza de arquivos temporários, acessar o modo de recuperação e realizar procedimentos de restauração.
+>
+>>[!note] Aula 3.6 - Manutenção do Windows, backup e proteção
+>>- [x] Aula 3.6 - 2025.11.25 - [[Tecnico/Assistente-de-TI/Manutencao do Windows\|Manutencao do Windows]], backup e proteção
+>>>[!todo] 🖥️ Atividade:
+>>> - Utilizar uma máquina virtual com o Windows 11, realizar a manutenção preventiva: configurar o backup e partição para dados.
 
 
 

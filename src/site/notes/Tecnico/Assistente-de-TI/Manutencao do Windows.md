@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/manutencao-do-windows/","metatags":{"description":"como resolver problemas do Windows e utilizar ferramentas técnicas"},"noteIcon":2,"updated":"2025-11-24T08:48:22.599-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/manutencao-do-windows/","metatags":{"description":"como resolver problemas do Windows e utilizar ferramentas técnicas"},"noteIcon":2,"updated":"2025-11-25T10:18:48.153-03:00"}
 ---
 
 #aula #Windows
@@ -104,31 +104,7 @@ bootrec /fixboot
 
 >[!info] Caso nenhum desses comandos não resolva o problema, procure a opção **restaurar o PC** na solução de problemas do modo de recuperação, mas não esqueça de fazer o [backup dos arquivos](https://www.youtube.com/watch?v=B83Xf-VCitk), pois a restauração vai reinstalar o Windows!
 
-### Redefinir a senha: 
 
-- Acesse o prompt no modo de recuperação:
-
-```shell
-cd windows\system32
-ren utilman.exe utilman_backup.exe
-ren cmd.exe utilman.exe
-```
-
-- Feche o prompt e clique em continuar para reiniciar, quando iniciar a tela de login, clique no ícone ao lado do botão de reiniciar que vai ativar novamente o prompt de comando, entre com o comando para abrir o gerenciador de contas:
-
-```shell
-control userpasswords2
-```
-
->[!warning] Não clique em remover, somente em redefinir!
-
-- Acesse novamente o prompt no modo de segurança e restaure os arquivos originais:
-
-```shell
-cd windows\system32
-ren utilman.exe cmd.exe
-ren utilman_backup.exe utilman.exe 
-```
 
 ### Manutenção de rede
 
