@@ -442,13 +442,28 @@ gantt
 >
 >>[!note]- Aula 3.5 - Manutenção do Windows
 >>- [x] Aula 3.5 - 2025.11.24 - [[Tecnico/Assistente-de-TI/Manutencao do Windows\|Manutencao do Windows]]
+>>
 >>>[!todo] 🖥️ Atividade:
 >>> - Utilizar uma máquina virtual com o Windows 11, realizar o debloat e manutenção preventiva: criar um ponto de restauração, limpeza de arquivos temporários, acessar o modo de recuperação e realizar procedimentos de restauração.
 >
->>[!note] Aula 3.6 - Manutenção do Windows, backup e proteção
+>>[!note]- Aula 3.6 - Manutenção do Windows, backup e proteção
 >>- [x] Aula 3.6 - 2025.11.25 - [[Tecnico/Assistente-de-TI/Manutencao do Windows\|Manutencao do Windows]], backup e proteção
+>>
 >>>[!todo] 🖥️ Atividade:
 >>> - Utilizar uma máquina virtual com o Windows 11, realizar a manutenção preventiva: configurar o backup e partição para dados.
+>
+>>[!note]- Aula 3.7 - Instalação do Linux
+>>- [x] Aula 3.6 - 2025.11.26 - Introdução e instalação do Linux
+>>
+>>>[!todo] 🖥️ Atividade:
+>>> - Criação de máquina virtual com instalação de várias versões do [Ubuntu](https://ubuntu.com/desktop/flavors)
+>
+>>[!note] Aula 3.8 - Instalação do Linux
+>>- [x] Aula 3.6 - 2025.11.26 - Versões e distribuições do Linux.
+>>- [DistroWatch.com. Use Linux, BSD.](https://distrowatch.com/)
+>>
+>>>[!todo] 🖥️ Atividade:
+>>> - Criação de máquina virtual com instalação de várias versões do [Ubuntu](https://ubuntu.com/desktop/flavors)
 
 
 
