@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":"default","updated":"2025-11-14T10:26:30.734-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":"default","updated":"2025-12-01T11:03:03.239-03:00"}
 ---
 
 
@@ -32,16 +32,16 @@
 gantt
      title Assistente de TI
      tickInterval 1week
-     excludes Saturday, Sunday, 19:03, 25:03, 17:04, 18:04, 21:04, 01:05, 02:05, 07:05, 14:05, 26:05, 29:05, 30:05
+     excludes Saturday, Sunday, 19:03, 25:03, 17:04, 18:04, 21:04, 01:05, 02:05, 07:05, 14:05, 26:05, 29:05, 30:05, 20:11, 08:12
      dateFormat DD:MM
      axisFormat %d.%m
      section UC1
          UC1 :a1, 06:10, 21d
      section UC2,3
          UC2 :a2,after a1, 9d
-         UC3 :a3, after a2, 8d
+         UC3 :a3, after a2, 9d
      section UC4, 5
-         UC4 :a4, after a3, 7d
+         UC4 :a4, after a3, 8d
          UC5 :a5, after a4, 4d
 ```
 
@@ -410,7 +410,7 @@ gantt
 
 ### Cronograma da UC3
 
->[!done] Cronograma da Unidade Curricular 3
+>[!done]- Cronograma da Unidade Curricular 3
 >
 >>[!note]- Aula 3.1 - Instalando o Sistema Operacional Windows
 >>- [x] Aula 3.1 - 2025.11.17 - [[Tecnico/Assistente-de-TI/Instalando-o-windows\|Instalando-o-windows]]
@@ -453,17 +453,52 @@ gantt
 >>> - Utilizar uma máquina virtual com o Windows 11, realizar a manutenção preventiva: configurar o backup e partição para dados.
 >
 >>[!note]- Aula 3.7 - Instalação do Linux
->>- [x] Aula 3.6 - 2025.11.26 - Introdução e instalação do Linux
+>>- [x] Aula 3.7 - 2025.11.26 - Introdução e instalação do Linux
 >>
 >>>[!todo] 🖥️ Atividade:
 >>> - Criação de máquina virtual com instalação de várias versões do [Ubuntu](https://ubuntu.com/desktop/flavors)
 >
->>[!note] Aula 3.8 - Instalação do Linux
->>- [x] Aula 3.6 - 2025.11.26 - Versões e distribuições do Linux.
+>>[!note]- Aula 3.8 - Instalação do Linux
+>>- [x] Aula 3.8 - 2025.11.27 - Versões e distribuições do Linux.
 >>- [DistroWatch.com. Use Linux, BSD.](https://distrowatch.com/)
 >>
 >>>[!todo] 🖥️ Atividade:
 >>> - Criação de máquina virtual com instalação de várias versões do [Ubuntu](https://ubuntu.com/desktop/flavors)
+>
+>>[!note]- Aula 3.9 - Comandos do Linux
+>>- [x] Aula 3.9 - 2025.11.28 - Utilizando [Comandos no terminal do linux \| Jocile](https://jocile.github.io/aulas/posts/Comandos-no-terminal-linux/).
+>>
+>>>[!todo] 🖥️ Atividade:
+>>> - Utilizar o terminal de comandos de uma máquina virtual com instalação de várias versões do [Ubuntu](https://ubuntu.com/desktop/flavors)
+
+
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+## UC4 - Instalar e configurar rede local de computadores
+
+> [!success]- 🖥️ Habilidades
+> 1. Identificar falhas e ameaças na rede.
+> 2. Utilizar ferramentas para conexões e testes.
+> 3. Organizar o ambiente de trabalho.
+
+### Cronograma da UC4
+
+>[!done] Cronograma da Unidade Curricular 4
+>
+>>[!note] Aula 4.1 - Conceitos básicos de redes
+>> - [x] Aula 4.1 - 2025.12.01 - Conceitos básicos de redes: componentes e tipos de conexões de redes.
+>> - Endereçamento [[Tecnico/Assistente-de-TI/IPV4\|IPV4]]
+>> - [Cisco Networking Academy](https://www.netacad.com/pt/catalogs/learn/networking)
+>>
+>>>[!todo] 🖥️ Atividade: 
+>>> - Instalar o [[Tecnico/Assistente-de-TI/Simulador-de-redes\|Simulador-de-redes]] e criar uma rede local entre 3 computadores.
 
 
 
