@@ -492,13 +492,24 @@ gantt
 
 >[!done] Cronograma da Unidade Curricular 4
 >
->>[!note] Aula 4.1 - Conceitos básicos de redes
+>>[!note]- Aula 4.1 - Conceitos básicos de redes
 >> - [x] Aula 4.1 - 2025.12.01 - Conceitos básicos de redes: componentes e tipos de conexões de redes.
 >> - Endereçamento [[Tecnico/Assistente-de-TI/IPV4\|IPV4]]
 >> - [Cisco Networking Academy](https://www.netacad.com/pt/catalogs/learn/networking)
 >>
 >>>[!todo] 🖥️ Atividade: 
 >>> - Instalar o [[Tecnico/Assistente-de-TI/Simulador-de-redes\|Simulador-de-redes]] e criar uma rede local entre 3 computadores.
+>
+>>[!note] Aula 4.2 - Equipamentos de rede
+>> - [x] Aula 4.2 - 2025.12.02 - Configuração de equipamentos para a montagem de uma rede local.
+>> - [Topologia e arquitetura de redes](https://jocile.github.io/aulas/posts/topologia-e-arquitetura-de-redes/)
+>> - [Componentes principais de uma rede](https://jocile.github.io/aulas/posts/componentes-de-redes/)
+>> - [Características principais da rede](https://jocile.github.io/aulas/posts/caracteristicas-da-rede/)
+>> - [Curso conceitos básicos de redes Cisco](https://www.netacad.com/courses/networking-basics?courseLang=pt-BR&instance_id=6ffce963-916e-4e7e-92e1-c0258fb94931)
+>> - [Panorama do tráfego da internet no Brasil](https://redeipe.rnp.br/panorama)
+>>
+>>>[!todo] 🖥️ Atividade: 
+>>> - Instalar o [[Tecnico/Assistente-de-TI/Simulador-de-redes\|Simulador-de-redes]] e criar uma rede local configurando o endereçamento IP dos computadores e um roteador.
 
 
 
