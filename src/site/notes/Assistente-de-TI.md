@@ -511,13 +511,22 @@ gantt
 >>>[!todo] 🖥️ Atividade: 
 >>> - Instalar o [[Tecnico/Assistente-de-TI/Simulador-de-redes\|Simulador-de-redes]] e criar uma rede local configurando o endereçamento IP dos computadores e um roteador.
 >
->>[!note] Aula 4.3 Configurando roteadores
->> - [x] Aula 4.2 - 2025.12.02 - Configuração de equipamentos para a montagem de uma rede local: roteadores.
+>>[!note]- Aula 4.3 Configurando roteadores
+>> - [x] Aula 4.3 - 2025.12.03 - Configuração de equipamentos para a montagem de uma rede local: roteadores.
 >> - [As camadas OSI e seus protocolos \| Jocile](https://jocile.github.io/aulas/posts/camadas-osi-e-protocolos/)
 >> - [O funcionamento da Internet - YouTube](https://www.youtube.com/watch?v=RAbDF2yDDAU)
 >>
 >>>[!todo] 🖥️ Atividade: 
 >>> - [Prática Montando uma rede local](https://jocile.github.io/aulas/posts/pratica-montando-uma-rede-local/)
+>>> - Parte 1: Conectar os Dispositivos
+>>> - Parte 2: Configurar o roteador sem fio
+>>> - Parte 3: Configurar o endereçamento IP e testar a conectividade
+>
+>>[!note]- Aula 4.4 - Seguranaça de rede
+>> - [x] Aula 4.4 - 2025.12.04 - Configuração de equipamentos para a montagem de uma rede local com segurança: roteadores WiFi.
+>>
+>>>[!todo] 🖥️ Atividade: 
+>>> - [Prática Montando uma rede local WiFi](https://jocile.github.io/aulas/posts/pratica-montando-uma-rede-local-wifi/)
 >>> - Parte 1: Conectar os Dispositivos
 >>> - Parte 2: Configurar o roteador sem fio
 >>> - Parte 3: Configurar o endereçamento IP e testar a conectividade
