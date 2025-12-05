@@ -522,11 +522,20 @@ gantt
 >>> - Parte 2: Configurar o roteador sem fio
 >>> - Parte 3: Configurar o endereçamento IP e testar a conectividade
 >
->>[!note]- Aula 4.4 - Seguranaça de rede
+>>[!note]- Aula 4.4 - Segurança de rede
 >> - [x] Aula 4.4 - 2025.12.04 - Configuração de equipamentos para a montagem de uma rede local com segurança: roteadores WiFi.
 >>
 >>>[!todo] 🖥️ Atividade: 
 >>> - [Prática Montando uma rede local WiFi](https://jocile.github.io/aulas/posts/pratica-montando-uma-rede-local-wifi/)
+>>> - Parte 1: Conectar os Dispositivos
+>>> - Parte 2: Configurar o roteador sem fio
+>>> - Parte 3: Configurar o endereçamento IP e testar a conectividade
+>
+>>[!note] Aula 4.5 - Endereçamento de Redes
+>> - [x] Aula 4.5 - 2025.12.055 - Endereçamento de equipamentos para a uma rede local: [Funcionamento do IP v4 e v6 \| Jocile](https://jocile.github.io/aulas/posts/funcionamento-do-ip-v4-e-v6/).
+>>
+>>>[!todo] 🖥️ Atividade: 
+>>> - [Prática Montando uma rede local com servidor de DHCP](https://jocile.github.io/aulas/posts/pratica-montando-uma-rede-local-com-dhcp/)
 >>> - Parte 1: Conectar os Dispositivos
 >>> - Parte 2: Configurar o roteador sem fio
 >>> - Parte 3: Configurar o endereçamento IP e testar a conectividade
