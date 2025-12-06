@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-logica/","title":"Formação em Lógica","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-24T20:21:55.807-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-logica/","title":"Formação em Lógica","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T22:46:03.563-03:00"}
 ---
 
-#JavaScript #mapa #Lógica #Formação #web-developer 
+#JavaScript #Formação #mapa #Lógica #web-developer 
 
 # Formação em Lógica de programação
 
 **Status**:: concluído 
-**Horas aula**:: 41:00
+**Horas-aula**:: 41:00
 **Habilidades**:: Lógica, JavaScript
 **Link**:: [Trilha DIO - Formação em Lógica de programação](https://web.dio.me/track/formacao-logica-de-programacao)
 

@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-webdesign/","title":"Formação em Webdesign","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-06T21:53:56.489-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-webdesign/","title":"Formação em Webdesign","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T22:48:38.333-03:00"}
 ---
 
-#Webdesign #CSS #mapa #Formação
+#Webdesign #Formação #CSS #mapa
 
 # Formações em WEB Designer
 
 **Status**:: concluído 
-**Horas aula**:: 160:00, 21:00, 43:00
+**Horas-aula**:: 160:00, 21:00, 43:00
 **Habilidades**:: HTML5, CSS3, Webdesigner
 
 ## Senac Web Designer

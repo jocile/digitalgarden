@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ux-design/briefing/","title":"Briefing","metatags":{"description":"é uma apresentação concisa das informações necessárias para iniciar um projeto com clareza e direção certa."},"noteIcon":2,"updated":"2025-07-08T20:32:26.379-03:00"}
+{"dg-publish":true,"permalink":"/formacao/ux-design/briefing/","title":"Briefing","metatags":{"description":"é uma apresentação concisa das informações necessárias para iniciar um projeto com clareza e direção certa."},"noteIcon":2,"updated":"2025-11-22T10:45:10.588-03:00"}
 ---
 
 #Projeto 
@@ -216,7 +216,7 @@ A equipe deve focar em:
 
 ### 5. Fundamentação Estética
 *   **Estilo:** Minimalista, moderno, com foco em espaçamento generoso.
-*   **Paleta de Cores:** Utilizar cores primárias definidas pela marca (vermelho #XXYYZZ, azul #AAABBB). Cores secundárias neutras (branco, cinza claro).
+*   **Paleta de Cores:** Utilizar cores primárias definidas pela marca (vermelho `#XXYYZZ`, azul `#AAABBB`). Cores secundárias neutras (branco, cinza claro).
 *   **Tipografia:** Fonte principal: 'Inter', sans-serif. Tamanho do texto legível em todos os dispositivos.
 *   **Imagens:** Fotografias de pessoas diversas representando o público-alvo.
 

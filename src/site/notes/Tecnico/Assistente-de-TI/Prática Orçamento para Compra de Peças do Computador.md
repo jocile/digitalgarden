@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/pratica-orcamento-para-compra-de-pecas-do-computador/","title":"Prática Orçamento para Compra de Peças do Computador","metatags":{"description":"Prática de orçamento de peças para montagem de computadores"},"noteIcon":2,"updated":"2025-05-11T22:16:23.917-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/pratica-orcamento-para-compra-de-pecas-do-computador/","title":"Prática Orçamento para Compra de Peças do Computador","metatags":{"description":"Prática de orçamento de peças para montagem de computadores"},"noteIcon":2,"updated":"2025-11-10T10:49:32.381-03:00"}
 ---
 
 #Hardware 
@@ -46,14 +46,22 @@ Após completar os passos acima, vocês terão uma planilha detalhada com o cust
 
 ### Referências
 
+- [Guia do PC Gamer 2025 - Primeiro semestre - Adrenaline](https://www.adrenaline.com.br/noticias/guia-do-pc-gamer-2025-primeiro-semestre/)
 - [Monte seu PC - meupc.net](https://meupc.net/)
 - [MONTAGEM E INSTALAÇÃO DE SISTEMAS | Jocile](https://jocile.github.io/aulas/categories/montagem-e-instala%C3%A7%C3%A3o-de-sistemas/)
 - [SOUZA, Janaina. Montagem e Manutenção de Computadores PDF. Curso técnico de manutenção e Suporte de Informática. Editora E-Tec Brasil.](https://redeetec.mec.gov.br/images/stories/pdf/eixo_infor_comun/tec_man_sup/081112_manut_mont.pdf)
+- [Todas as Peças de Computador Explicadas em 8 Minutos - YouTube](https://www.youtube.com/watch?v=pFTgWgb5wiM&list=PLfGUiQzB80EA9rW1e3EDeG3pON_pnr6hD)
 
 
 > [!help] Páginas semelhantes
 > Talvez estas páginas também interessem:
->  - [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]
+>  - [[Tecnico/Assistente-de-TI/Chipsets de Placas-Mae\|Chipsets de Placas-Mae]]
+> - [[Tecnico/Assistente-de-TI/Concurso da UFC 2025\|Concurso da UFC 2025]]
+> - [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]
+> - [[Tecnico/Assistente-de-TI/Memória RAM\|Memória RAM]]
+> - [[Tecnico/Assistente-de-TI/Placa de video\|Placa de video]]
+> - [[Tecnico/Assistente-de-TI/Placa-Mae\|Placa-Mae]]
+> - [[Tecnico/Assistente-de-TI/Processadores\|Processadores]]
 > - [[Tecnico/Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]]
 > - [[Tecnico/Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]]
 > 

@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-ux-designer/","title":"Formação em UX Designer","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-06T21:59:09.404-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-ux-designer/","title":"Formação em UX Designer","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T22:48:28.913-03:00"}
 ---
 
-#Webdesign #Projeto  #mapa #Formação
+#Webdesign #Formação #Projeto  #mapa
 
 # Formação em UX Designer
 
 **Status**:: em andamento
-**Horas aula**:: 30:00
+**Horas-aula**:: 30:00
 **Habilidades**:: UX, Figma, Designer
 **Link**:: [DIO - Formação UI e UX Designer](https://web.dio.me/track/formacao-uiux-designer/)
 

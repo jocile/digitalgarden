@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2025-08-04T22:36:47.793-03:00"}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2025-10-06T11:03:31.460-03:00"}
 ---
 
 ## Olá 👋
@@ -9,13 +9,15 @@
 ## Aulas
 
 <span>
+<a class="internal-link" href="/assistente-de-ti/"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Assistente de TI</button></a>
 <a class="internal-link" href="/programador-web/"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Programador WEB</button></a>
-<a class="internal-link" href="/informatica-basica-sabado/#cronograma-da-unidade-curricular"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Informática Básica aos Sábados</button></a>
+<a class="internal-link" href="/informatica-basica-sabado/#cronograma-da-unidade-curricular"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Informática Básica</button></a>
 </span>
 
 Pretendo reunir aqui 📑notas de aulas e 📚estudos diversos sobre:
- - 👨‍💻[[Programador Web\|Programador Web]] (atual)
- - 💻 [[Informatica basica sabado\|Curso de Informática Básica aos Sábados]] (atual)
+ - 💻[[Assistente-de-TI\|Assistente de TI]] (atual)
+ - 👨‍💻[[Programador Web\|Programador Web]]
+ - 💻 [[Informatica basica sabado\|Curso de Informática Básica]] 
  - 📖 [[Teologia\|Teologia]] e [[Teologia/Escatologia\|Escatologia]] (em revisão)
  - 🤖 [[Inteligencia Artificial\|Inteligência Artificial]] (em revisão)
  - 🎨 [[Webdesign\|Webdesign]] (em revisão)
@@ -33,20 +35,20 @@ Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de t
 <!-- QueryToSerialize: TABLE dg-metatags.description AS "📄 Descrição" WHERE dg-publish SORT file.cday DESC LIMIT 12 -->
 <!-- SerializedQuery: TABLE dg-metatags.description AS "📄 Descrição" WHERE dg-publish SORT file.cday DESC LIMIT 12 -->
 
-| File                                                                                               | 📄 Descrição                                                                 |
-| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| [[Formacao/PHP/Exercicios com listas\|Exercicios com listas]]                                   | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/PHP/Condicionais em PHP\|Condicionais em PHP]]                                       | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]]                                       | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/PHP/Classes em PHP\|Classes em PHP]]                                                 | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/PHP/Cadastrando nome e curso com PHP\|Cadastrando nome e curso com PHP]]             | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/PHP/Cadastrando alunos com PHP\|Cadastrando alunos com PHP]]                         | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/PHP/Metodos com PHP\|Metodos com PHP]]                                               | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/PHP/POO com PHP\|POO com PHP]]                                                       | exemplos de códigos de desenvolvimento web                                   |
-| [[Formacao/PHP/Repeticao com PHP\|Repeticao com PHP]]                                           | exemplos de códigos de desenvolvimento web                                   |
-| [[Teologia/Historia dos Hebreus/Historia do povo Hebreu\|Historia do povo Hebreu]]              | suas origens genealógicas até os grandes eventos que moldaram sua trajetória |
-| [[Teologia/Escatologia/Diferencas entre Israel e a Igreja\|Diferencas entre Israel e a Igreja]] | o plano de Deus para Israel e o seu plano para a Igreja.                     |
-| [[Formacao/PHP/Exemplos em PHP\|Exemplos em PHP]]                                               | exemplos de códigos de desenvolvimento web                                   |
+| File                                                                                                                                    | 📄 Descrição                                                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [[Formacao/Excel e Power BI Dashboards\|Excel e Power BI Dashboards]]                                                                | Lista de disciplinas da formação                                                                                        |
+| [[Formacao/Formação React Developer\|Formação React Developer]]                                                                      | Lista de disciplinas da formação                                                                                        |
+| [[Formacao/PHP/login com php e mysql\|login com php e mysql]]                                                                        | exemplos de códigos de desenvolvimento web                                                                              |
+| [[Teologia/Historia dos Hebreus/Alianças de Deus com os Hebreus\|Alianças de Deus com os Hebreus]]                                   | tema central na história do povo hebreu, demonstrando o relacionamento de Deus com a humanidade e Seu plano de salvação |
+| [[Teologia/Historia dos Hebreus/Eva oferecendo a fruta e Sara oferecendo a serva\|Eva oferecendo a fruta e Sara oferecendo a serva]] | Comparação do fato de Sara oferecer a serva para Abraão com Eva oferecendo a fruta para Adão                            |
+| [[Teologia/Historia dos Hebreus/Linha do tempo dos Hebreus\|Linha do tempo dos Hebreus]]                                             | suas origens genealógicas até os grandes eventos que moldaram sua trajetória                                            |
+| [[Formacao/PHP/Exercicios com listas\|Exercicios com listas]]                                                                        | exemplos de códigos de desenvolvimento web                                                                              |
+| [[Formacao/PHP/Cadastrando alunos com PHP\|Cadastrando alunos com PHP]]                                                              | exemplos de códigos de desenvolvimento web                                                                              |
+| [[Formacao/PHP/Classes em PHP\|Classes em PHP]]                                                                                      | exemplos de códigos de desenvolvimento web                                                                              |
+| [[Formacao/PHP/Cadastrando nome e curso com PHP\|Cadastrando nome e curso com PHP]]                                                  | exemplos de códigos de desenvolvimento web                                                                              |
+| [[Formacao/PHP/Condicionais em PHP\|Condicionais em PHP]]                                                                            | exemplos de códigos de desenvolvimento web                                                                              |
+| [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]]                                                                            | exemplos de códigos de desenvolvimento web                                                                              |
 <!-- SerializedQuery END -->
 
 
@@ -84,30 +86,42 @@ Este site é um "[jardim digital](https://obsidian.rocks/maps-of-content-effortl
 
 
 
->[!note]- Cabeleireiro - 400H👩🏻
-> O segmento de beleza no Brasil é um dos três maiores do mundo. Para ganhar destaque dentro de um setor dinâmico e competitivo, é preciso ser um profissional completo. Neste curso com 400 horas de treinamento, você aprenderá as técnicas mais modernas de beleza capilar, tratamento, corte, escova, penteado, coloração, descoloração, ondulação e alisamento com perfeição e habilidade. O Senac é referência na área e você poderá tornar-se um profissional de excelência.
+>[!note]- 📢  Recepcionista de Eventos 👩🏻 (gratuito)
+> Curso voltado à formação de profissionais qualificados para atuar na recepção de eventos, com foco em atendimento ao público, orientação de participantes e execução de procedimentos operacionais. O participante será capacitado para prestar informações com clareza, acolher os convidados com cordialidade e garantir uma recepção eficiente e bem organizada.
 > 
-> - Investimento : 12x R$199,17 no cartão 
-> - Período : 11/08/2025 a 04/12/2025
-> - Horário : 08h às 11h30
-> - Requisitos : A partir de 18 anos e ensino fundamental completo
+> - 🗓️ Período: 06/10/2025 a 01/12/2025
+> - 📝 Segunda a Sexta
+> - ⏰ 18h às 21h10  
+> - 📍 Local: Senac Sobral
 >
 >>[!info] Inscrições presenciais ou link ⬇️
->> https://cursos.ce.senac.br/produto/cabeleireiro-sobral-noite-2025-12-122/
+>> - [Senac PSG](https://psg.ce.senac.br/oportunidade/recepcionista-de-eventos-2/)
 
->[!note]- Aperfeiçoamento para garçom- 40h (gratuito)
+>[!note]- 📢  Massagista 💆🏻‍♂️(gratuito)
 >
-> Propiciar ao participante conhecimentos sobre as técnicas no atendimento em negócios de alimentação.
+> Curso voltado à capacitação de profissionais na aplicação de técnicas de massagem e terapias corporais. O participante será preparado para atuar com segurança e eficiência, promovendo o bem-estar físico e emocional por meio de manobras adequadas às diferentes regiões do corpo, respeitando os princípios da anatomia, higiene e ética profissional.
 >
-> - 🗓️ Período: 04/08/2025 a 15/08/2025 
+> - 🗓️ Período: 13/10/2025 a 06/01/2025 
 > - 📝 Segunda a Sexta
-> - ⏰ 08h às 11h30  
+> - ⏰ 13h30 às 17h  
 > - 📍 Local: Senac Sobral
 >
 >>[!info] Inscrições via link ⬇️
->> https://psg.ce.senac.br/oportunidade/aperfeicoamento-para-garcom/
+>> - [Senac PSG](https://psg.ce.senac.br/oportunidade/massagista-2/)
 
->[!info]- Maiores informações
+>[!note]- 📢  Organizador de Eventos 👩🏻‍💼
+>
+> Curso destinado à qualificação de profissionais para planejar, organizar e executar eventos de pequeno e médio porte. O participante será capacitado para atuar em todas as etapas do processo, utilizando estratégias eficazes de elaboração de projetos, captação de recursos, marketing, logística e coordenação operacional, garantindo a realização de eventos bem-sucedidos e alinhados aos objetivos do cliente.
+>
+> - 🗓️ Período: 06/10/2025 a 08/12/2025 
+> -📝 Segunda a Sexta
+> -⏰ 13h30 às 17h  
+> -📍 Local: Senac Sobral
+>
+>>[!info] Inscrições via link ⬇️
+>> - [Senac PSG](https://psg.ce.senac.br/oportunidade/organizador-de-eventos-3/)
+
+>[!info]- Maiores informações de cursos no Senac
 >
 > - ☎ 88 3677 8700
 > - 📱 88 99468 928
@@ -117,6 +131,17 @@ Este site é um "[jardim digital](https://obsidian.rocks/maps-of-content-effortl
 >> - [Cursos Senac Sobral-Ceará](https://cursos.ce.senac.br/unidade/senac-sobral/)
 >> - [Senac EAD - Cursos On-line livres, Técnicos, Graduação e Pós-graduação](https://www.ead.senac.br/)
 >> - [SENAC - PORTAL DO ALUNO](https://cloud.plataforma.senac.br/senacportalaluno/#/login)
+
+>[!tip]- Cursos online de tecnologia
+> - [Guia de carreira: techguide.sh](https://techguide.sh/)
+> - [Digital Inovatio One - DIO](https://dio.me/sign-up?ref=XXNHOX4TYB)
+> - [Academia da Cisco - netacad.com](https://netacad.com/)
+> - [Bootcamp SpringBoot DevSuperior](https://devsuperior.com.br/)
+> - [Rocketseat](https://www.rocketseat.com.br/)
+> - [Alura treinamentos](https://www.alura.com.br/)
+> - [Treinamento na nuvem Google](https://www.cloudskillsboost.google/?locale=pt_BR)
+> - [Treinamento Microsoft](https://learn.microsoft.com/pt-br/training/)
+> - [Treinamento Amazon AWS](https://explore.skillbuilder.aws/learn)
 
 
 

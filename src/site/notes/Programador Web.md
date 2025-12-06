@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-09-11T09:29:26.201-03:00"}
+{"dg-publish":true,"permalink":"/programador-web/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2025-09-24T07:47:33.324-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -74,7 +74,7 @@
 gantt
      title Programador WEB
      tickInterval 1week
-     excludes Saturday, Sunday, 31:07, 01:08, 05:08
+     excludes Saturday, Sunday, 31:07, 01:08, 05:08, 19:09, 22:09
      dateFormat DD:MM
      axisFormat %d.%m
      section Inicio
@@ -523,7 +523,7 @@ gantt
 
 
 
-## UC4 - Publicar aplicações web.*
+## UC4 - Publicar aplicações web
 
 > [!success]- 🖥️ Habilidades da UC4
 > - Hospedar *websites*. 
@@ -535,32 +535,71 @@ gantt
 >> 2. Formata e exporta arquivos do projeto local para servidor web, de acordo com as tecnologias disponíveis. 
 >> 3. Verifica compatibilidade e performance do *website*, de acordo com as normas e exigências do mercado.
 
->[!done] Cronograma das aulas da UC4
+>[!done]- Cronograma das aulas da UC4
 >
 >>[!note]- Aula 4.1
 >> - [x] Aula 4.01 - 2025-09-11 - Introdução aos Servidores de hospedagem.
 >> - [8 Hospedagem PHP Gratuitos para o Brasil 2025](https://www.bitcatcha.com/br/melhor-hospedagem-de-site/php-gratuita/)
 >>>[!todo] 🖥️ Atividade:
->>> - Configurar um servidor de hospedagem online em [Free Web Hosting with PHP and MySQL - InfinityFree](https://www.infinityfree.com/)
->>> - Copiar o Sistema Acadêmico usando o painel de controle e o gerenciador de arquivos, exemplo: [sisacad.page.gd](https://sisacad.page.gd/)
+>>> - Configurar um servidor de hospedagem online em [Free Web Hosting with PHP and MySQL - InfinityFree][sevidorfree]
+>>> - Copiar o Sistema Acadêmico usando o painel de controle e o gerenciador de arquivos, exemplo: [sisacad.page.gd][sisacad]
 >
->>[!note] Aula 4.2
->> - [x] Aula 4.02 - 2025-09-12 - Introdução a segurança de sistemas, cookies e session para [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
+>>[!note]- Aula 4.2
+>> - [x] Aula 4.02 - 2025-09-12 - Introdução a segurança de sistemas, Middlewares cookies e session para [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
 >> - [Aprenda a criar controle de acesso com PHP e MySQL - DevMedia - DevMedia](https://www.devmedia.com.br/criando-controle-de-acesso-com-php-e-mysql/28123)
 >> - [PHP Cookies](https://www.w3schools.com/php/php_cookies.asp)
 >> - [PHP Sessions](https://www.w3schools.com/php/php_sessions.asp)
 >> - [Sistema de Login com PHP e MySQL - YouTube](https://www.youtube.com/watch?v=Ln7lqyWJPUE)
 >>>[!todo] 🖥️ Atividade:
->>> - Configurar um sistema de login para o Sistema Acadêmico com usuário e senha para acessar o sistema acadêmico, exemplo: [sisacad.page.gd](https://sisacad.page.gd/)
+>>> - Configurar um sistema de login para o Sistema Acadêmico com usuário e senha para acessar o sistema acadêmico, exemplo: [sisacad.page.gd][sisacad]
 >
 >>[!note]- Aula 4.3
->> - [ ] Aula 4.03 - 2025-09-15 - Introdução ao carregamento dinâmico de páginas com AJAX.
->> - [AJAX - W3Schools](https://www.w3schools.com/php/php_ajax_intro.asp)
+>> - [x] Aula 4.03 - 2025-09-15 - Criando Middlewares com variáveis de sessão para [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
+>> - [Middleware - Docs Brasil - Laravel](https://laravel.docsbrasil.dev/fundamentos/middleware)
+>> - [PHP Sessions](https://www.w3schools.com/php/php_sessions.asp)
 >>>[!todo] 🖥️ Atividade:
->>> - [Criando um cadastro com PHP, Ajax e jQuery - DevMedia](https://www.devmedia.com.br/criando-um-cadastro-com-php-ajax-e-jquery/28046)
+>>> - Configurar um sistema de login com usuário e senha para acessar páginas restritas, exemplo: [login em · jocile/php-exercicios · GitHub][php-login]
 >
 >>[!note]- Aula 4.4
->> - [ ] Aula 4.04 - 2025-09-16 - Configurar o sistema acadêmico com AJAX.
+>> - [x] Aula 4.04 - 2025-09-16 - Publicando página com [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
+>> -  [Free Web Hosting with PHP and MySQL - InfinityFree][sevidorfree]
+>>>[!todo] 🖥️ Atividade:
+>>> - Configurar um sistema de login com usuário e senha para acessar páginas restritas on-line: [login em · jocile/php-exercicios · GitHub][php-login]
+>
+>>[!note]- Aula 4.5
+>> - [x] Aula 4.05 - 2025-09-17 - [Publicando o Sistema Acadêmico][sisacad] com [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
+>> - [Free Web Hosting with PHP and MySQL - InfinityFree][sevidorfree]
+>>>[!todo] 🖥️ Atividade:
+>>> - Configurar o [Sistema Acadêmico][formCadAlunos] no cap. 6 do [Ebook-programador][ebook-programador] com sistema de login com usuário e senha para acessar páginas restritas on-line: [login em · jocile/php-exercicios · GitHub][php-login]
+>
+>>[!note]- Aula 4.6
+>> - [x] Aula 4.06 - 2025-09-18 - Otimizando [Sistema Acadêmico][gitsisacad] com [[Formacao/PHP/login com php e mysql\|login com php e mysql]].
+>> - [Free Web Hosting with PHP and MySQL - InfinityFree][sevidorfree]
+>>>[!todo] 🖥️ Atividade:
+>>> - Otimizando o [Sistema Acadêmico][gitsisacad] com cadastros e consultas conforme o passo a passo do cap. 6 do [Ebook-programador][ebook-programador].
+>
+>>[!note]- Aula 4.7
+>> - [x] Aula 4.07 - 2025-09-23 - Transferência de Arquivos via FTP.
+>>>[!todo] 🖥️ Atividade:
+>>> - Configurando o [Sistema Acadêmico][gitsisacad] com cadastros e consultas conforme o passo a passo do cap. 6 do [Ebook-programador][ebook-programador].
+>
+>>[!note]- Aula 4.8
+>> - [x] Aula 4.08 - 2025-09-24 - Testes de Compatibilidade e Performance
+>> - Introdução a ferramentas de teste de performance como Google PageSpeed Insights e GTmetrix.
+>>>[!todo] 🖥️ Atividade:
+>>> - Configurando o [Sistema Acadêmico][gitsisacad] com cadastros e consultas conforme o passo a passo do cap. 6 do [Ebook-programador][ebook-programador].
+>
+>>[!note] Aula 4.9
+>> - [x] Aula 4.09 - 2025-09-25 - Apresentação dos projetos publicados.
+>>>[!todo] 🖥️ Atividade:
+>>> - Cada aluno fará uma breve apresentação do seu projeto final, explicando as etapas de publicação e otimização. A avaliação será baseada na funcionalidade do site online e nos testes de performance realizados.
+
+[ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
+[sevidorfree]: https://www.infinityfree.com/
+[formCadAlunos]: https://jocile.github.io/controle-academico/
+[gitsisacad]: https://github.com/jocile/controle-academico/tree/main/sis_academico
+[php-login]: https://github.com/jocile/php-exercicios/tree/main/login
+[sisacad]: https://sisacad.page.gd/
 
 
 </div></div>
@@ -587,6 +626,18 @@ gantt
 >
 >>[!note]- Aula 5.1
 >> - [x] Aula 5.01 - 2025-08-05 - Front-end do projeto integrador.
+>
+>>[!note]- Aula 5.2
+>> - [x] Aula 5.02 - 2025-09-26 - Front-end do projeto integrador.
+>
+>>[!note] Aula 5.3
+>> - [x] Aula 5.03 - 2025-09-29 - Back-end do projeto integrador.
+>
+>>[!note]- Aula 5.4
+>> - [ ] Aula 5.04 - 2025-09-30 - Apresentação do projeto integrador.
+>
+>>[!note]- Aula 5.5
+>> - [ ] Aula 5.04 - 2025-10-01 - Apresentação do projeto integrador.
 
 
 </div></div>

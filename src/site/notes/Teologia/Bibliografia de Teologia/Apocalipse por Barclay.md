@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/bibliografia-de-teologia/apocalipse-por-barclay/","title":"Apocalipse por Barclay","metatags":{"description":"O texto explora a estrutura, temas e contexto histórico do Apocalipse"},"tags":["Escatologia","Bibliografia"],"noteIcon":"1","updated":"2025-02-23T12:53:18.749-03:00"}
+{"dg-publish":true,"permalink":"/teologia/bibliografia-de-teologia/apocalipse-por-barclay/","metatags":{"description":"O texto explora a estrutura, temas e contexto histórico do Apocalipse"},"noteIcon":"1","updated":"2025-09-26T09:21:05.445-03:00"}
 ---
 
+#Teologia #livro #Escatologia 
 
 ## Apocalipse por Barclay
 

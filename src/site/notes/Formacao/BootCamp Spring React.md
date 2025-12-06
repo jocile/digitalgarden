@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/boot-camp-spring-react/","title":"BootCamp Spring React","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-08-24T20:22:39.867-03:00"}
+{"dg-publish":true,"permalink":"/formacao/boot-camp-spring-react/","title":"BootCamp Spring React","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T22:47:05.888-03:00"}
 ---
 
-#Formação #mapa #Java 
+#Formação #mapa #Java #React 
 
 # BootCamp Spring React
 
 **Status**:: concluído 
-**Horas aula**:: 160:00, 160:00
+**Horas-aula**:: 160:00, 160:00
 **Habilidades**:: Java, SpringBoot, React, TDD, JUnit, Webdesigner,
 **Link**:: [Prof. Nelio Alves - Devsuperior: Escola de Programação](https://devsuperior.com.br/)
 
