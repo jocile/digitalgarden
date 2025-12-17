@@ -1,15 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-react-developer/","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-10-19T16:35:03.321-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-react-developer/","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-12-17T13:22:40.371-03:00"}
 ---
 
 #React #Formação #mapa
 
 # Formação React Developer
 
-**Status**:: em andamento 
+**Status**:: concluído
 **Horas-aula**:: 34:00
 **Habilidades**:: React, JavaScript, Webdesign
 **Link**:: [DIO - Formação React Developer](https://web.dio.me/track/formacao-react-developers)
+
+![Formação React Developer-1765988454655.png](/img/user/Formacao/Forma%C3%A7%C3%A3o%20React%20Developer-1765988454655.png)
 
 [[Formacao/BootCamp Spring React#BrootCamp React\|BootCamp Spring React#BrootCamp React]]
 
@@ -18,7 +20,7 @@
 > - [x] [Criando Uma Wiki de Repositórios do GitHub Com React](https://github.com/jocile/wiki-git)
 > - [x] [Desenvolvendo a Tela de Cadastro da Plataforma Dio com React](https://github.com/jocile/clonedio)
 > - [x] [Implementando Uma Tela de Login Com Validação Usando TypeScript](https://github.com/jocile/login-typescript)
-> - [ ] Criando o Seu Blog Pessoal Com Next.js
+> - [x] [Criando o Seu Blog Pessoal Com Next.js](https://github.com/jocile/trilha-react-desafio-5)
 
 > [!summary]- Fundamentos do React
 > - Configuração de Ambiente React
