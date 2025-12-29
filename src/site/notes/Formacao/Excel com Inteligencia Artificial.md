@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/excel-com-inteligencia-artificial/","metatags":{"description":"Entendendo as principais fórmulas e dominando as principais práticas do mercado para tratar e exibir dados em relatórios com eficiência e o apoio da IA"},"noteIcon":"default","updated":"2025-10-23T13:38:46.035-03:00"}
+{"dg-publish":true,"permalink":"/formacao/excel-com-inteligencia-artificial/","metatags":{"description":"Entendendo as principais fórmulas e dominando as principais práticas do mercado para tratar e exibir dados em relatórios com eficiência e o apoio da IA"},"noteIcon":"default","updated":"2025-12-20T21:05:28.682-03:00"}
 ---
 
 #Excel #Formação #mapa #Powerbi #Dashboard
@@ -12,8 +12,8 @@
 **Link**:: [DIO - Santander - Excel com Inteligência Artificial - 2º Semestre](https://web.dio.me/track/santander-excel-com-inteligencia-artificial)
 
 >[!check]- Desafios de projeto:
-> - [ ] Crie Um Portfólio Vencedor
-> - [ ] Criando uma Ferramenta de Controle de Investimentos com Excel
+> - [x] Crie Um Portfólio Vencedor
+> - [x] [Criando uma Ferramenta de Controle de Investimentos com Excel](https://github.com/jocile/simulainvest)
 > - [ ] Criando Um Organizador de Declaração de Imposto de Renda
 > - [ ] Criando um Dashboard de Vendas do Xbox com Excel
 

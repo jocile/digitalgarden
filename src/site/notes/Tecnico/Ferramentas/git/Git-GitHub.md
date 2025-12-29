@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/git/git-git-hub/","title":"Git e GitHub","metatags":{"description":"conceitos de controle de versões."},"noteIcon":2,"updated":"2025-06-20T21:35:05.758-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/git/git-git-hub/","title":"Git e GitHub","metatags":{"description":"conceitos de controle de versões."},"noteIcon":2,"updated":"2025-12-17T17:54:47.853-03:00"}
 ---
 
 #Ferramentas #github
@@ -99,5 +99,8 @@ O vídeo "Como usar Git e GitHub da Forma mais Fácil Possível" demonstra um fl
 
 ### Referências
 
+- [GitHub Docs](https://docs.github.com/pt)
 - [Documentação de introdução ao GitHub - GitHub Docs](https://docs.github.com/pt/get-started)
+- [Glossário do Curso \| Fundamentos do Github](https://aline-antunes.gitbook.io/formacao-fundamentos-github)
 - [Como usar Git e GitHub da Forma mais Fácil Possível - YouTube](https://www.youtube.com/watch?v=EGmzAs1G0z0)
+- [GitHub - digitalinnovationone/github-quickstart: inicio rápido de github](https://github.com/digitalinnovationone/github-quickstart)
