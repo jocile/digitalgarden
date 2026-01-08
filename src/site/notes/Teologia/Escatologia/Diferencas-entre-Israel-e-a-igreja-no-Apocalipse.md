@@ -135,7 +135,7 @@ A tabela abaixo compara as diferenças entre Israel e a Igreja, com base nas Esc
 
 ### Referências
 
-![3º AULA ESCATOLOGIA (TRIBULAÇÃO) - YouTube](https://youtu.be/-b7coQ_em90?t=943)
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/-b7coQ_em90" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - [[Teologia/Escatologia/Diferencas entre Israel e a Igreja\|Diferencas entre Israel e a Igreja]]
 - [[Teologia\|Teologia]]
