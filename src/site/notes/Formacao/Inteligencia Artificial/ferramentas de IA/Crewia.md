@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/crewia/","metatags":{"description":"permite a criação de equipes de agentes de Inteligência Artificial."},"noteIcon":"1","updated":"2025-11-24T22:33:22.161-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/crewia/","metatags":{"description":"permite a criação de equipes de agentes de Inteligência Artificial."},"noteIcon":"1","updated":"2026-01-08T17:11:38.719-03:00"}
 ---
 
 #Inteligencia-artificial #Ferramentas 
@@ -112,5 +112,8 @@ Esta flexibilidade permite que desenvolvedores escolham a combinação de modelo
 ## Referências
 
 - [CrewAI Documentação - CrewAI](https://docs.crewai.com/pt-BR)
+- [[Formacao/Inteligencia Artificial/ferramentas de IA/Instalando Crewia\|Instalando Crewia]]
 - [[Formacao/Inteligencia Artificial/Cursos de Inteligência Artificial\|Cursos de Inteligência Artificial]]
 - [GitHub - digitalinnovationone/estrutura-projetos-crewai: Curso "Estrutura de Projetos com CrewAI"](https://github.com/digitalinnovationone/estrutura-projetos-crewai/)
+- [GitHub - digitalinnovationone/instalacao-configuracao-crewai: Curso "Instalação e Configuração do CrewAI"](https://github.com/digitalinnovationone/instalacao-configuracao-crewai)
+- [Repository search results · GitHub](https://github.com/search?q=org%3Adigitalinnovationone+crewai&type=repositories)
