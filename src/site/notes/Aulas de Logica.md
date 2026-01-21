@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-01-20T23:49:23.071-03:00"}
+{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-01-21T11:16:52.840-03:00"}
 ---
 
 #Lógica #Aulas #Senac
@@ -43,8 +43,8 @@ gantt
 >>  - [[Formacao/Logica/logica de programacao\|Conhecendo a Lógica de programação]]
 >>  - [[Formacao/Formacao em Logica\|Formação em Lógica]]
 >>  - [[Tecnico/Programador/Lógica/Introdução aos algoritmos\|Introdução aos algoritmos]]
->>  - [[Tecnico/Programador/Lógica/Aprendendo Lógica com blocos\|Aprendendo Lógica com blocos]]
->>  - [[Formacao/Python/Python com Colab\|Python com Colab]]
+>>  - [[Tecnico/Programador/Lógica/Aprendendo Lógica com blocos\|Aprendendo Lógica com blocos]]: [Code.org](https://studio.code.org/hoc/1), [Blockly](https://blockly.games/?lang=pt-br), [Scratch](https://scratch.mit.edu/)
+>>  - [[Formacao/Python/Python com Colab\|Python com Colab]]: [Meu primeiro programa no Google Colab](https://colab.research.google.com/drive/129p3MJB4ypp0pPzJd6dnwCflU285HT-Z?usp=sharing)
 
 ## Referências
 
