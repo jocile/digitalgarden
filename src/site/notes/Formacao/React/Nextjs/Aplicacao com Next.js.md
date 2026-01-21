@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/react/nextjs/aplicacao-com-next-js/","metatags":{"description":"Como transformar uma ideia em uma aplicação web funcional, moderna e pronta."},"noteIcon":2,"updated":"2025-09-26T15:56:13.462-03:00"}
+{"dg-publish":true,"permalink":"/formacao/react/nextjs/aplicacao-com-next-js/","metatags":{"description":"Como transformar uma ideia em uma aplicação web funcional, moderna e pronta."},"noteIcon":2,"updated":"2026-01-10T15:03:54.655-03:00"}
 ---
 
 #JavaScript #Webdesign #React #Nextjs
@@ -18,9 +18,8 @@ O Next.js resolve esses problemas com uma arquitetura que renderiza o conteúdo 
 
 A tabela abaixo resume as diferenças fundamentais:
 
-|   |   |   |
-|---|---|---|
 |Característica|SPA (Ex: Create React App)|Next.js (SSR/SSG)|
+|---|---|---|
 |**Renderização Inicial**|O cliente baixa um JavaScript pesado e executa para ver o conteúdo.|O servidor envia um HTML já com o conteúdo, melhorando a percepção de velocidade.|
 |**SEO (Otimização para Buscadores)**|Ruim por padrão, pois os buscadores precisam executar JavaScript para indexar o conteúdo.|Excelente, pois o conteúdo já está no HTML inicial, facilitando a indexação.|
 |**Complexidade de Código**|Todo o código (frontend e backend) fica em um único arquivo JavaScript massivo.|Permite a criação de componentes que rodam no servidor (Server Components), mantendo lógica sensível e acesso a banco de dados fora do cliente.|
@@ -244,3 +243,5 @@ O "Dragon Runner" é um ponto de partida. Sinta-se à vontade para expandi-lo, a
 ### Referências
 
 - [Construir uma Aplicação React do Zero – React](https://pt-br.react.dev/learn/build-a-react-app-from-scratch)
+- [Aplicação Completa com NextJS (React, TypeScript, NextJS, Tailwind, Autenticação, PostgreSQL) - YouTube](https://www.youtube.com/watch?v=wds8l3F1Yfw)
+- [The Foundation for your Design System - shadcn/ui](https://ui.shadcn.com/)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2025-10-06T11:03:31.460-03:00"}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-01-21T00:05:24.872-03:00"}
 ---
 
 ## Olá 👋
@@ -8,21 +8,17 @@
 
 ## Aulas
 
-<span>
-<a class="internal-link" href="/assistente-de-ti/"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Assistente de TI</button></a>
-<a class="internal-link" href="/programador-web/"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Programador WEB</button></a>
-<a class="internal-link" href="/informatica-basica-sabado/#cronograma-da-unidade-curricular"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Informática Básica</button></a>
-</span>
 
 Pretendo reunir aqui 📑notas de aulas e 📚estudos diversos sobre:
- - 💻[[Assistente-de-TI\|Assistente de TI]] (atual)
- - 👨‍💻[[Programador Web\|Programador Web]]
+ - 💻[[Aulas de Logica\|Lógica de programação]]
+ - 💻[[Assistente-de-TI\|Assistente de TI]]
  - 💻 [[Informatica basica sabado\|Curso de Informática Básica]] 
- - 📖 [[Teologia\|Teologia]] e [[Teologia/Escatologia\|Escatologia]] (em revisão)
- - 🤖 [[Inteligencia Artificial\|Inteligência Artificial]] (em revisão)
- - 🎨 [[Webdesign\|Webdesign]] (em revisão)
- - 💻[[Formacao/Python/Linguagem Python\|Linguagem Python]] (em revisão)
- - 🎓[[Formacao/Formacao Overview\|Minhas formações]] (novo)
+ - 👨‍💻[[Programador Web\|Programador Web]]
+ - 📖 [[Teologia\|Teologia]] e [[Teologia/Escatologia\|Escatologia]] 
+ - 🤖 [[Inteligencia Artificial\|Inteligência Artificial]] 
+ - 🎨 [[Webdesign\|Webdesign]] 
+ - 💻[[Formacao/Python/Linguagem Python\|Linguagem Python]]
+ - 🎓[[Formacao/Formacao Overview\|Minhas formações]]
 
 Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de tópicos]]
 
@@ -35,20 +31,20 @@ Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de t
 <!-- QueryToSerialize: TABLE dg-metatags.description AS "📄 Descrição" WHERE dg-publish SORT file.cday DESC LIMIT 12 -->
 <!-- SerializedQuery: TABLE dg-metatags.description AS "📄 Descrição" WHERE dg-publish SORT file.cday DESC LIMIT 12 -->
 
-| File                                                                                                                                    | 📄 Descrição                                                                                                            |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| [[Formacao/Excel e Power BI Dashboards\|Excel e Power BI Dashboards]]                                                                | Lista de disciplinas da formação                                                                                        |
-| [[Formacao/Formação React Developer\|Formação React Developer]]                                                                      | Lista de disciplinas da formação                                                                                        |
-| [[Formacao/PHP/login com php e mysql\|login com php e mysql]]                                                                        | exemplos de códigos de desenvolvimento web                                                                              |
-| [[Teologia/Historia dos Hebreus/Alianças de Deus com os Hebreus\|Alianças de Deus com os Hebreus]]                                   | tema central na história do povo hebreu, demonstrando o relacionamento de Deus com a humanidade e Seu plano de salvação |
-| [[Teologia/Historia dos Hebreus/Eva oferecendo a fruta e Sara oferecendo a serva\|Eva oferecendo a fruta e Sara oferecendo a serva]] | Comparação do fato de Sara oferecer a serva para Abraão com Eva oferecendo a fruta para Adão                            |
-| [[Teologia/Historia dos Hebreus/Linha do tempo dos Hebreus\|Linha do tempo dos Hebreus]]                                             | suas origens genealógicas até os grandes eventos que moldaram sua trajetória                                            |
-| [[Formacao/PHP/Exercicios com listas\|Exercicios com listas]]                                                                        | exemplos de códigos de desenvolvimento web                                                                              |
-| [[Formacao/PHP/Cadastrando alunos com PHP\|Cadastrando alunos com PHP]]                                                              | exemplos de códigos de desenvolvimento web                                                                              |
-| [[Formacao/PHP/Classes em PHP\|Classes em PHP]]                                                                                      | exemplos de códigos de desenvolvimento web                                                                              |
-| [[Formacao/PHP/Cadastrando nome e curso com PHP\|Cadastrando nome e curso com PHP]]                                                  | exemplos de códigos de desenvolvimento web                                                                              |
-| [[Formacao/PHP/Condicionais em PHP\|Condicionais em PHP]]                                                                            | exemplos de códigos de desenvolvimento web                                                                              |
-| [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]]                                                                            | exemplos de códigos de desenvolvimento web                                                                              |
+| File                                                                                                     | 📄 Descrição                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Aulas de Logica\|Aulas de Logica]]                                                                  | Curso Lógica de Programação                                                                                                                       |
+| [[Formacao/Inteligencia Artificial/ferramentas de IA/Links de agentes de ia\|Links de agentes de ia]] | podem interagir com o ambiente, coletar dados, tomar decisões e realizar ações para atingir um objetivo específico.                               |
+| [[Formacao/Inteligencia Artificial/ferramentas de IA/Instalando Crewia\|Instalando Crewia]]           | preparar o ambiente, instalar dependências e validar a configuração inicial do CrewAI.                                                            |
+| [[Formacao/Inteligencia Artificial/ferramentas de IA/Crewia\|Crewia]]                                 | permite a criação de equipes de agentes de Inteligência Artificial.                                                                               |
+| [[Tecnico/Assistente-de-TI/Manutencao do Windows\|Manutencao do Windows]]                             | como resolver problemas do Windows e utilizar ferramentas técnicas                                                                                |
+| [[Tecnico/Assistente-de-TI/Otimizacao do Windows\|Otimizacao do Windows]]                             | como configurar o sistema de forma segura e de alto desempenho para o ambiente corporativo                                                        |
+| [[Tecnico/Assistente-de-TI/Placa de video\|Placa de video]]                                           | é um local de acesso rápido para arquivos e aplicações em uso durante uma sessão ativa                                                            |
+| [[Tecnico/Assistente-de-TI/Memória RAM\|Memória RAM]]                                                 | é um local de acesso rápido para arquivos e aplicações em uso durante uma sessão ativa                                                            |
+| [[Tecnico/Assistente-de-TI/Processadores\|Processadores]]                                             | responsável pela execução de cálculos e instruções dos programas                                                                                  |
+| [[Tecnico/Assistente-de-TI/Concurso da UFC 2025\|Concurso da UFC 2025]]                               | Concurso da UFC 2025                                                                                                                              |
+| [[Tecnico/Assistente-de-TI/Chipsets de Placas-Mae\|Chipsets de Placas-Mae]]                           | é um circuito integrado fundamental, soldado diretamente na placa, que atua como o centro de controle para a comunicação e os recursos do sistema |
+| [[Tecnico/Assistente-de-TI/Placa-Mae\|Placa-Mae]]                                                     | funciona como o sistema nervoso central que interliga todos os componentes                                                                        |
 <!-- SerializedQuery END -->
 
 
