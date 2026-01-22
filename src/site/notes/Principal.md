@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-01-21T00:05:24.872-03:00"}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-01-21T22:34:31.325-03:00"}
 ---
 
 ## Olá 👋
@@ -7,6 +7,11 @@
 🔭 Sou o professor 🎓 [[Jocile\|Jocilé]] e atualmente sou instrutor de informática e desenvolvimento de Sistemas no 🏫 [SENAC CE](https://www.ce.senac.br/);
 
 ## Aulas
+
+<span>
+<a class="internal-link" href="/aulas-de-logica/"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Lógica de programação</button></a>
+</span>
+
 
 
 Pretendo reunir aqui 📑notas de aulas e 📚estudos diversos sobre:
