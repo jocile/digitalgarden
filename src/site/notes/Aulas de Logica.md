@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-01-21T22:09:43.357-03:00"}
+{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-01-22T07:24:45.950-03:00"}
 ---
 
 #Lógica #Aulas #Senac
@@ -43,7 +43,7 @@ gantt
 >> - [[Formacao/Logica/logica de programacao\|Conhecendo a Lógica de programação]]
 >> - [[Formacao/Formacao em Logica\|Formação em Lógica]]
 >> - [[Tecnico/Programador/Lógica/Introdução aos algoritmos\|Introdução aos algoritmos]]
->> - [[Tecnico/Programador/Lógica/Aprendendo Lógica com blocos\|Aprendendo Lógica com blocos]]: [Code.org](https://studio.code.org/hoc/1), [Blockly](https://blockly.games/?lang=pt-br), [Scratch](https://scratch.mit.edu/)
+>> - [[Tecnico/Programador/Lógica/Aprendendo Lógica com blocos\|Aprendendo Lógica com blocos]]: [Code.org](https://studio.code.org/courses/express-2021/units/1), [Blockly](https://blockly.games/?lang=pt-br), [Scratch](https://scratch.mit.edu/)
 >> - [Variáveis e constantes - Google Slides](https://docs.google.com/presentation/d/19obsTYpucf1e19y6CGrdZi4Ml6RfLVnRiSC7rXiFRpE/edit?usp=sharing)
 >> - [Editor online de Python](https://www.online-python.com/)
 >> - [[Formacao/Python/Python com Colab\|Python com Colab]]
@@ -59,7 +59,7 @@ gantt
 >> - [Operadores lógicos.pptx - Google Slides](https://docs.google.com/presentation/d/1axYf3Xdq7XrC4YHZxop-xMHsl5PXs2w_/)
 >> - [Estruturas condicionais.pptx - Google Slides](https://docs.google.com/presentation/d/19r7ajj8mXjV8PmGHDdh23HbURkSwSlEo/)
 >>>[!todo] 🖥️ Atividades:
->>> - [[Tecnico/Programador/Lógica/Exercicio-de-logica-condicional\|Exercicio-de-logica-condicional]]
+>>> - [[Tecnico/Programador/Lógica/Exercícios de Lógica condicional\|Exercícios de Lógica condicional]]
 
 ## Referências
 
