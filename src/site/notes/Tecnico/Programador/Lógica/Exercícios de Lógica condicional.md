@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/programador/logica/exercicios-de-logica-condicional/","metatags":{"description":"criando algoritmos para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-01-22T07:16:53.923-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/programador/logica/exercicios-de-logica-condicional/","metatags":{"description":"criando algoritmos para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-01-22T16:03:56.120-03:00"}
 ---
 
 #Lógica #exercícios 
@@ -9,7 +9,7 @@
 >[!note] Condição
 > É uma expressão lógica que, quando inspecionada, pode gerar um resultado falso ou verdadeiro. Se < condição > for verdadeira a cláusula que está entre o “início do se” e o “fim do se” será executada. Se < condição > for falsa a cláusula que está entre o “início do se” e o “fim do se” não será executada.
 
-1. Faça um algoritmo para ler dois números e imprimir o maior, o menor ou então dizer se são iguais.
+1. Faça um algoritmo para ler dois números e imprimir o maior, o menor ou então dizer se são iguais. [[Tecnico/Programador/Lógica/Segundo Algoritmo\|Solução]]
 2. Faça um algoritmo para ler um número inteiro e dizer se o número lido é par ou impar.
 3. Faça um algoritmo para ler dois números A e B e dizer se A é divisível por B.
 4. Faça um algoritmo para ler dois números e imprimi-los em ordem crescente.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-01-22T07:24:45.950-03:00"}
+{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-01-23T07:28:40.870-03:00"}
 ---
 
 #Lógica #Aulas #Senac
@@ -51,15 +51,21 @@ gantt
 >>> - Resolver desafios simples de lógica usando blocos:  [Code.org](https://studio.code.org/hoc/1)
 >>> - Criar um algoritmo com entrada de nome e idade e mostrar a saída: [Meu primeiro programa no Google Colab](https://colab.research.google.com/drive/129p3MJB4ypp0pPzJd6dnwCflU285HT-Z?usp=sharing)
 >
->>[!note] Aula 2 - Expressões aritméticas e condicionais
+>>[!note]- Aula 2 - Expressões aritméticas e lógicas
 >> - [x] Aula 2 - 2026.01.22 - expressões aritméticas e expressões lógicas
 >> - [Operadores aritméticos.pptx - Google Slides](https://docs.google.com/presentation/d/1XGp5aqvnrOSbwe-yUxUHtL8Dp7YjbXpZ/)
 >> - [Operadores de comparação.pptx - Google Slides](https://docs.google.com/presentation/d/1dny1GNkpgzqRRxmSRsxMSUK5Ph1JKmHZ/)
+>>>[!todo] 🖥️ Atividades:
+>>> - [[Tecnico/Programador/Lógica/Exercícios de Lógica condicional\|Exercícios de Lógica condicional]]
+>>> - [[Tecnico/Programador/Lógica/Segundo Algoritmo\|Segundo Algoritmo]]
+>
+>>[!note] Aula 3 - Expressões aritméticas e condicionais
+>> - [x] Aula 3 - 2026.01.23 - exercícios aritméticos e condicionais
 >> - [Operadores de atribuição.pptx - Google Slides](https://docs.google.com/presentation/d/1DJma1qAlQuRRXvGvw1V8zI21U9NualXW/)
 >> - [Operadores lógicos.pptx - Google Slides](https://docs.google.com/presentation/d/1axYf3Xdq7XrC4YHZxop-xMHsl5PXs2w_/)
 >> - [Estruturas condicionais.pptx - Google Slides](https://docs.google.com/presentation/d/19r7ajj8mXjV8PmGHDdh23HbURkSwSlEo/)
 >>>[!todo] 🖥️ Atividades:
->>> - [[Tecnico/Programador/Lógica/Exercícios de Lógica condicional\|Exercícios de Lógica condicional]]
+>>> - [[Tecnico/Programador/Lógica/Exercícios de Lógica condicional\|Exercícios de Lógica condicional]] - [Editor online: Colab](https://colab.research.google.com/)
 
 ## Referências
 

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/programador/logica/segundo-algoritmo/","metatags":{"description":"criando algoritmos para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-01-22T11:00:56.397-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/programador/logica/segundo-algoritmo/","metatags":{"description":"criando algoritmos para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-01-22T16:13:55.086-03:00"}
 ---
 
 #Lógica #exercícios
 
-```
+```js
 // Faça um algoritmo para ler dois números
 // e imprimir o maior, o menor 
 // ou então dizer se são iguais
@@ -53,3 +53,5 @@ if(x < y):
 if(x == y):
     print("Os números são iguais")
 ```
+
+[[Tecnico/Programador/Lógica/Exercícios de Lógica condicional\|Exercícios de Lógica condicional]]
