@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/programador/logica/exercicios-de-logica-condicional/","metatags":{"description":"criando algoritmos para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-01-22T16:03:56.120-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/programador/logica/exercicios-de-logica-condicional/","metatags":{"description":"criando algoritmos para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-01-23T11:02:54.958-03:00"}
 ---
 
 #Lógica #exercícios 
@@ -28,3 +28,5 @@ Observação - Para formar os lados de um triângulo cada um dos valores tem que
 Observação - A média para aprovação é 5.0 e o limite de faltas é 17.
 
 Referência: [Expressões condicionais | Jocile](https://jocile.github.io/aulas/posts/expressoes-condicionais/)
+
+[Solução no Colab](https://colab.research.google.com/drive/1LHpQpi4ta0ljOJKXZX3uwsN4QmjPtBhG?usp=sharing)

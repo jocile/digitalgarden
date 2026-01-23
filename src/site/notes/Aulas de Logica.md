@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-01-23T07:28:40.870-03:00"}
+{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-01-23T11:02:28.801-03:00"}
 ---
 
 #Lógica #Aulas #Senac
@@ -65,7 +65,9 @@ gantt
 >> - [Operadores lógicos.pptx - Google Slides](https://docs.google.com/presentation/d/1axYf3Xdq7XrC4YHZxop-xMHsl5PXs2w_/)
 >> - [Estruturas condicionais.pptx - Google Slides](https://docs.google.com/presentation/d/19r7ajj8mXjV8PmGHDdh23HbURkSwSlEo/)
 >>>[!todo] 🖥️ Atividades:
->>> - [[Tecnico/Programador/Lógica/Exercícios de Lógica condicional\|Exercícios de Lógica condicional]] - [Editor online: Colab](https://colab.research.google.com/)
+>>> - [[Tecnico/Programador/Lógica/Exercícios de Lógica condicional\|Exercícios de Lógica condicional]] - [Solução no Colab](https://colab.research.google.com/drive/1LHpQpi4ta0ljOJKXZX3uwsN4QmjPtBhG?usp=sharing)
+>>> - [Editor online: Colab](https://colab.research.google.com/)
+>>> - [Exercicios.ipynb - Colab](https://colab.research.google.com/drive/1LHpQpi4ta0ljOJKXZX3uwsN4QmjPtBhG?usp=sharing)
 
 ## Referências
 
