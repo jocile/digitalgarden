@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-01-21T22:34:31.325-03:00"}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-01-25T10:18:31.608-03:00"}
 ---
 
 ## Olá 👋
@@ -17,8 +17,6 @@
 Pretendo reunir aqui 📑notas de aulas e 📚estudos diversos sobre:
  - 💻[[Aulas de Logica\|Lógica de programação]]
  - 💻[[Assistente-de-TI\|Assistente de TI]]
- - 💻 [[Informatica basica sabado\|Curso de Informática Básica]] 
- - 👨‍💻[[Programador Web\|Programador Web]]
  - 📖 [[Teologia\|Teologia]] e [[Teologia/Escatologia\|Escatologia]] 
  - 🤖 [[Inteligencia Artificial\|Inteligência Artificial]] 
  - 🎨 [[Webdesign\|Webdesign]] 
