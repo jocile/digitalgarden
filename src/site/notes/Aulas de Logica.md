@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-01-26T07:21:05.010-03:00"}
+{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-01-26T10:18:03.454-03:00"}
 ---
 
 #Lógica #Aulas #Senac
@@ -72,7 +72,9 @@ gantt
 >> - [x] Aula 4 - 2026.01.26 - Conjunto de dados - listas
 >> - [01 - Listas.pptx - Google Slides](https://docs.google.com/presentation/d/1I4ruiC5KZnOiYZMoRgQcTf8z1eGCQ8YF/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> - [Proposicoes.ipynb - Colab](https://colab.research.google.com/drive/1aY0VipUg6mtrDrOaSUqeWik-XAEM96B4?usp=sharing)
+>> - [A HISTÓRIA NÃO CONTADA DO DESASTRE DO ARIANE 5 - YouTube](https://www.youtube.com/watch?v=fybymNqbzLg)
 >>>[!todo] 🖥️ Atividades:
+>>> - [Google Colab](https://colab.research.google.com/drive/1wjYNQ9bD5Cy_jg86NfWxKe9w5qi3J3Ag?usp=sharing)
 >>> - Criar um algoritmo para receber várias notas e calcular a média, e mostrar o resultado com aprovado se a média for maior ou igual a 7.
 
 ## Referências
