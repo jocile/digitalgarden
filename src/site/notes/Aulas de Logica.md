@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-01-26T10:18:03.454-03:00"}
+{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-01-28T07:23:00.064-03:00"}
 ---
 
 #Lógica #Aulas #Senac
@@ -68,7 +68,7 @@ gantt
 >>> - [[Tecnico/Programador/Lógica/Exercícios de Lógica condicional\|Exercícios de Lógica condicional]] - [Solução no Colab](https://colab.research.google.com/drive/1LHpQpi4ta0ljOJKXZX3uwsN4QmjPtBhG?usp=sharing)
 >>> - [Exercicios.ipynb - Colab](https://colab.research.google.com/drive/1LHpQpi4ta0ljOJKXZX3uwsN4QmjPtBhG?usp=sharing)
 >
->>[!note] Aula 4 - Conjuntos de dados - listas
+>>[!note]- Aula 4 - Conjuntos de dados - listas
 >> - [x] Aula 4 - 2026.01.26 - Conjunto de dados - listas
 >> - [01 - Listas.pptx - Google Slides](https://docs.google.com/presentation/d/1I4ruiC5KZnOiYZMoRgQcTf8z1eGCQ8YF/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> - [Proposicoes.ipynb - Colab](https://colab.research.google.com/drive/1aY0VipUg6mtrDrOaSUqeWik-XAEM96B4?usp=sharing)
@@ -76,6 +76,20 @@ gantt
 >>>[!todo] 🖥️ Atividades:
 >>> - [Google Colab](https://colab.research.google.com/drive/1wjYNQ9bD5Cy_jg86NfWxKe9w5qi3J3Ag?usp=sharing)
 >>> - Criar um algoritmo para receber várias notas e calcular a média, e mostrar o resultado com aprovado se a média for maior ou igual a 7.
+>
+>>[!note]- Aula 5 - Conjuntos de dados - listas
+>> - [x] Aula 5 - 2026.01.27 - Conjunto de dados - listas
+>> - [01 - Listas.pptx - Google Slides](https://docs.google.com/presentation/d/1I4ruiC5KZnOiYZMoRgQcTf8z1eGCQ8YF/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>>>[!todo] 🖥️ Atividades:
+>>> - Criar um algoritmo para receber várias notas e calcular a média, e mostrar o resultado com aprovado se a média for maior ou igual a 7.
+>>> - [Exercicio-com-listas.ipynb - Colab](https://colab.research.google.com/drive/1wXAxvaW1j8mBbUfY_2qzzIGC1qmu9XnD?usp=sharing)
+>
+>>[!note] Aula 6 - Conjuntos de dados - tuplas
+>> - [x] Aula 6 - 2026.01.28 - Conjunto de dados -tuplas
+>> - [02 - Tuplas.pptx - Google Slides](https://docs.google.com/presentation/d/1_eJMXBocRLqn4yq8-qtUvdcyIjJXZEMa/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>> - [03 - Conjuntos.pptx - Google Slides](https://docs.google.com/presentation/d/1sXaLZgmji3O8Nk4kSW-KLct8p6QRGBbE/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>>>[!todo] 🖥️ Atividades:
+>>> - [[Tecnico/Programador/Lógica/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]]
 
 ## Referências
 
