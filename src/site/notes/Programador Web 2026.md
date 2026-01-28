@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-01-28T07:36:13.156-03:00"}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-01-28T13:36:28.657-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -89,19 +89,45 @@ gantt
 
 
 
+## Cronograma de aulas
+
+> [!success]- 🖥️ Habilidades da UC2
+> - Organizar conteúdo visual e textual para *web*. 
+>
+>>[!check]
+>> 1. Manipula imagens, layouts e animações otimizadas para *website* de acordo com os princípios de comunicação visual, normas e tendências de mercado. 
+>> 2. Utiliza linguagem de marcação de conteúdo e estilo, de acordo com as normas e padrões tecnológicos. 
+>> 3. Testa padrões de acessibilidade e usabilidade do *website* de acordo com as normas
+
+>[!done] Cronograma das aulas da UC2
+>
+>>[!note]- Aula 2.1
+>> - [x] Aula 2.1 - 2026-01-26 - Introdução e [[Formacao/Webdesign/Estrutura HTML5\|Estrutura HTML5]] e suas tags básicas;
+>> 
+>>>[!todo] 🖥️ Atividade:
+>>> - Criando a primeira página HTML com tags básicas.
+>
+>>[!note]- Aula 2.2
+>> - [x] Aula 2.2 - 2026-01-27 - Formulários, tabelas, listas
+>> 
+>>>[!todo] 🖥️ Atividade:
+>>> - Criar uma página de formulário.
+>
+>>[!note] Aula 2.3
+>> - [x] Aula 2.3 - 2026-01-28 - tags de imagens, links e formulários com HTML
+>>
+>>>[!todo] 🖥️ Atividade:
+>>> - Criar um repositório do projeto e salvar os arquivos no [GitHub][github]
+
 ## Referências
 
-- [Ebook Projetos em UX Designe - Editora Senac](https://bibliotecadigitalsenac.com.br/#/content/uid/c4ced701-627f-ef11-8473-000d3a15d325/detail)
-- [Ebook Fundamentos das linguagens web (HTML e CSS) - Editora Senac](https://bibliotecadigitalsenac.com.br/#/content/uid/e009d4fe-16d8-ee11-85fa-00224821b803/detail)
-- [Ebook Algoritmos e programação - Editora Senac](https://bibliotecadigitalsenac.com.br/#/content/uid/aac9b699-16d8-ee11-85fa-00224821b803/detail)
-- [Ebook Programador WEB - Editora Senac][ebook-programador]
 - [📚 HTML Tutorial - W3 Schools](https://www.w3schools.com/html/default.asp)
 - [📁github.com/jocile/webdesigner](https://github.com/jocile/webdesigner)
+- [Ebook de HTML5 e CSS3](https://drive.google.com/file/d/1m_uftVZ1YHoABiwQhPw1_L3i5kpDI1yD/view?usp=sharing)
 - [[Formacao/Formacao em Webdesign\|Formacao em Webdesign]]
 - [[Formacao/Webdesign/editores HTML online\|editores HTML online]]
 
 [[Principal\|Principal]]
 
-[ebook-programador]: https://bibliotecadigitalsenac.com.br/#/content/uid/dfc3ed6f-17d8-ee11-85fa-00224821b803/detail
 [github]: https://github.com/
 [figma]: https://www.figma.com/pt-br/

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/programador/logica/exercicios-de-logica-aritmetica/","metatags":{"description":"criando algoritmos para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-01-22T07:23:50.999-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/programador/logica/exercicios-de-logica-aritmetica/","metatags":{"description":"criando algoritmos para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-01-28T10:52:39.828-03:00"}
 ---
 
 #Lógica #exercícios
@@ -259,4 +259,5 @@ fim.
 - [Programação em blocos com code.org](https://studio.code.org/s/express-2021)
 - [Programação em blocos com Scratch](https://scratch.mit.edu/)
 - [Portugol Webstudio editor online](https://dgadelha.github.io/Portugol-Webstudio/)
+- [Resolução no Google Colab](https://colab.research.google.com/drive/1UfD8tLOFLZp3ITW_qrpN1bw-2tLN0VRh?usp=sharing)
 - [[Tecnico/Programador/Lógica/Exercícios de Lógica condicional solucao\|Exercícios de Lógica condicional solucao]]
