@@ -170,12 +170,12 @@ Por fim, o mercado de hardware é dinâmico, especialmente no Brasil. Portanto, 
 > [!help] Páginas semelhantes
 > Talvez estas páginas também interessem:
 >  - [[Tecnico/Assistente-de-TI/Chipsets de Placas-Mae\|Chipsets de Placas-Mae]]
-> - [[Tecnico/Assistente-de-TI/Concurso da UFC 2025\|Concurso da UFC 2025]]
 > - [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]
+> - [[Tecnico/Assistente-de-TI/Concurso da UFC 2025\|Concurso da UFC 2025]]
 > - [[Tecnico/Assistente-de-TI/Memória RAM\|Memória RAM]]
 > - [[Tecnico/Assistente-de-TI/Placa-Mae\|Placa-Mae]]
 > - [[Tecnico/Assistente-de-TI/Processadores\|Processadores]]
-> - [[Tecnico/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
 > - [[Tecnico/Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]]
+> - [[Tecnico/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
 > 
 { .block-language-dataview}

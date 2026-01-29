@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/css/perfil-com-html-e-css/","metatags":{"description":"como personalizar elementos da sua página web"},"noteIcon":2,"updated":"2025-07-23T20:15:59.681-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/css/perfil-com-html-e-css/","metatags":{"description":"como personalizar elementos da sua página web"},"noteIcon":2,"updated":"2026-01-29T13:31:18.631-03:00"}
 ---
 
 #Webdesign #CSS 
@@ -62,6 +62,14 @@ Aqui está um exemplo completo de estrutura HTML:
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap" rel="stylesheet">
+
+    <!-- Os estilos CSS ficam aqui -->
+    <style>
+    body {
+      font-family: 'Ubuntu', sans-serif;
+    }
+    </style>
+
 </head>
 <body>
     <!-- Área de cabeçalho com título e avatar -->

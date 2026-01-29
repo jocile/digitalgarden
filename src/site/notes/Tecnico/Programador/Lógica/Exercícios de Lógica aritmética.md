@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/programador/logica/exercicios-de-logica-aritmetica/","metatags":{"description":"criando algoritmos para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-01-28T10:52:39.828-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/programador/logica/exercicios-de-logica-aritmetica/","metatags":{"description":"criando algoritmos para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-01-29T08:52:30.050-03:00"}
 ---
 
 #Lógica #exercícios
@@ -9,7 +9,7 @@ Resolva os exercícios usando a linguagem Portugol ou VisuAlg.
 1. Construa um algoritmo que calcule a média aritmética entre quatro notas quaisquer fornecidas pelo usuário.
 2. Faça um algoritmo para ler nove número inteiros quaisquer. Tirar a média aritmética dos três primeiros, depois a média dos outros três e por fim a média dos três últimos. Escreva as três médias e a média das três médias.
 3. Faça um algoritmo para calcular o peso ideal de uma pessoa sabendo sua altura.
-4. Faça um algoritmo para ler o raio e calcular o comprimento, a área e o volume de uma esfera. DADOS: comprimento =  P = 2πR; área = A = πR2;  volume = V = πR3;
+4. Faça um algoritmo para ler o raio e calcular o comprimento, a área e o volume de uma esfera. DADOS: comprimento =  P = 2πR; área da superfície = A = 4πR^2;  volume = V = (4/3) πR^3;
 5. Faça um algoritmo para ler duas variáveis caracter e concatená-las em uma terceira.
 6. Faça um algoritmo para ler duas variáveis inteiras e trocar o conteúdo lido de uma pela outra.
 

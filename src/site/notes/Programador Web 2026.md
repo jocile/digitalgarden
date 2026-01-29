@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-01-28T17:18:02.961-03:00"}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-01-29T13:33:31.252-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -101,24 +101,33 @@ gantt
 
 >[!done] Cronograma das aulas da UC2
 >
->>[!note]- Aula 2.1
+>>[!note]- Aula 2.1 - Estrutura base HTML5
 >> - [x] Aula 2.1 - 2026-01-26 - Introdução e [[Formacao/Webdesign/Estrutura HTML5\|Estrutura HTML5]] e suas tags básicas;
 >> 
 >>>[!todo] 🖥️ Atividade:
 >>> - Criando a primeira página HTML com tags básicas.
 >
->>[!note]- Aula 2.2
+>>[!note]- Aula 2.2 - Formulários em HTML
 >> - [x] Aula 2.2 - 2026-01-27 - [[Formacao/Webdesign/Formulários\|Formulários]], tabelas, listas
 >>
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar uma página de formulário.
 >>> - Criar um repositório do projeto e salvar os arquivos no [GitHub][github]
 >
->>[!note] Aula 2.3
->> - [x] Aula 2.3 - 2026-01-28 - tags de imagens, links e formulários com HTML
+>>[!note] Aula 2.3 - Estilizando uma página
+>> - [x] Aula 2.3 - 2026-01-28 - Bordas, espaçamentos e estilos com HTML
+>> - [[Formacao/Webdesign/CSS/Perfil com HTML e CSS\|Perfil com HTML e CSS]]
 >>
 >>>[!todo] 🖥️ Atividade:
->>> - Criar uma página inicial estilizada com CSS - [programadorweb2026/livro](https://github.com/jocile/programadorweb2026/tree/main/livro)
+>>> - Criar uma página inicial estilizada com CSS (cap. 1 e 2) - [programadorweb2026/livro][livrohtml]
+>
+>>[!note] Aula 2.4 - Estilos Box Model com CSS3
+>> - [x] Aula 2.4 - 2026-01-29 - Estilos Box Model com CSS3
+>> - [[Formacao/Webdesign/CSS/Unidades de medida do css\|Unidades de medida do css]]
+>>
+>> - [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+>>>[!todo] 🖥️ Atividade:
+>>> - Refatorando a página inicial estilizada com CSS (cap. 3 e 4) - [programadorweb2026/livro][livrohtml]
 
 ## Referências
 
@@ -132,4 +141,5 @@ gantt
 [[Principal\|Principal]]
 
 [github]: https://github.com/
+[livrohtml]: https://github.com/jocile/programadorweb2026/tree/main/livro
 [figma]: https://www.figma.com/pt-br/
