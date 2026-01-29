@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-01-28T13:36:28.657-03:00"}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-01-28T17:18:02.961-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -108,21 +108,23 @@ gantt
 >>> - Criando a primeira página HTML com tags básicas.
 >
 >>[!note]- Aula 2.2
->> - [x] Aula 2.2 - 2026-01-27 - Formulários, tabelas, listas
->> 
+>> - [x] Aula 2.2 - 2026-01-27 - [[Formacao/Webdesign/Formulários\|Formulários]], tabelas, listas
+>>
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar uma página de formulário.
+>>> - Criar um repositório do projeto e salvar os arquivos no [GitHub][github]
 >
 >>[!note] Aula 2.3
 >> - [x] Aula 2.3 - 2026-01-28 - tags de imagens, links e formulários com HTML
 >>
 >>>[!todo] 🖥️ Atividade:
->>> - Criar um repositório do projeto e salvar os arquivos no [GitHub][github]
+>>> - Criar uma página inicial estilizada com CSS - [programadorweb2026/livro](https://github.com/jocile/programadorweb2026/tree/main/livro)
 
 ## Referências
 
 - [📚 HTML Tutorial - W3 Schools](https://www.w3schools.com/html/default.asp)
-- [📁github.com/jocile/webdesigner](https://github.com/jocile/webdesigner)
+- [📁 github.com/jocile/programadorweb2026: Exercícios do curso de Programador Web do Senac 2026](https://github.com/jocile/programadorweb2026/)
+- [📁 github.com/jocile/webdesigner](https://github.com/jocile/webdesigner)
 - [Ebook de HTML5 e CSS3](https://drive.google.com/file/d/1m_uftVZ1YHoABiwQhPw1_L3i5kpDI1yD/view?usp=sharing)
 - [[Formacao/Formacao em Webdesign\|Formacao em Webdesign]]
 - [[Formacao/Webdesign/editores HTML online\|editores HTML online]]

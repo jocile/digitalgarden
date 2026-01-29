@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-01-28T10:52:18.064-03:00"}
+{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-01-29T07:28:57.957-03:00"}
 ---
 
 #Lógica #Aulas #Senac
@@ -91,6 +91,13 @@ gantt
 >>>[!todo] 🖥️ Atividades:
 >>> - [[Tecnico/Programador/Lógica/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]]
 >>> - [Resolução no Google Colab](https://colab.research.google.com/drive/1UfD8tLOFLZp3ITW_qrpN1bw-2tLN0VRh?usp=sharing)
+>
+>>[!note] Aula 7 - Conjuntos de dados - dicionários
+>> - [x] Aula  - 2026.01.29 - Conjunto de dados -dicionários
+>> - [04 - Dicionários.pptx - Google Slides](https://docs.google.com/presentation/d/11GeGam4hs0jVmSGYtxWukAjpJ-GpKE6O/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>> - [17 - Estruturas de repetição.pptx - Google Slides](https://docs.google.com/presentation/d/1LoNm2TPTwqRpCORjKMJCCzs91XJvk2W_/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>>>[!todo] 🖥️ Atividades:
+>>> - [[Tecnico/Programador/Lógica/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]]
 
 ## Referências
 

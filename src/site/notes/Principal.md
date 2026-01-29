@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-01-25T10:18:31.608-03:00"}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-01-28T15:16:57.540-03:00"}
 ---
 
 ## Olá 👋
@@ -10,6 +10,7 @@
 
 <span>
 <a class="internal-link" href="/aulas-de-logica/"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Lógica de programação</button></a>
+<a class="internal-link" href="/programador-web-2026/"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Programador WEB</button></a>
 </span>
 
 
