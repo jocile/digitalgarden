@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-01-29T07:28:57.957-03:00"}
+{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-01-29T10:31:32.187-03:00"}
 ---
 
 #Lógica #Aulas #Senac
@@ -84,7 +84,7 @@ gantt
 >>> - Criar um algoritmo para receber várias notas e calcular a média, e mostrar o resultado com aprovado se a média for maior ou igual a 7.
 >>> - [Exercicio-com-listas.ipynb - Colab](https://colab.research.google.com/drive/1wXAxvaW1j8mBbUfY_2qzzIGC1qmu9XnD?usp=sharing)
 >
->>[!note] Aula 6 - Conjuntos de dados - tuplas
+>>[!note]- Aula 6 - Conjuntos de dados - tuplas
 >> - [x] Aula 6 - 2026.01.28 - Conjunto de dados -tuplas
 >> - [02 - Tuplas.pptx - Google Slides](https://docs.google.com/presentation/d/1_eJMXBocRLqn4yq8-qtUvdcyIjJXZEMa/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> - [03 - Conjuntos.pptx - Google Slides](https://docs.google.com/presentation/d/1sXaLZgmji3O8Nk4kSW-KLct8p6QRGBbE/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
@@ -98,6 +98,7 @@ gantt
 >> - [17 - Estruturas de repetição.pptx - Google Slides](https://docs.google.com/presentation/d/1LoNm2TPTwqRpCORjKMJCCzs91XJvk2W_/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >>>[!todo] 🖥️ Atividades:
 >>> - [[Tecnico/Programador/Lógica/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]]
+>>> - [Repetições no Google Colab](https://colab.research.google.com/drive/1-6obBB916QdUx_dWtabamSpiJNTwkOSx?usp=sharing)
 
 ## Referências
 
