@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/chipsets-de-placas-mae/","title":"Chipsets de Placas-Mãe","metatags":{"description":"é um circuito integrado fundamental, soldado diretamente na placa, que atua como o centro de controle para a comunicação e os recursos do sistema"},"noteIcon":"1","updated":"2025-11-11T12:25:08.334-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/chipsets-de-placas-mae/","title":"Chipsets de Placas-Mãe","metatags":{"description":"é um circuito integrado fundamental, soldado diretamente na placa, que atua como o centro de controle para a comunicação e os recursos do sistema"},"noteIcon":"1","updated":"2026-01-30T07:25:24.317-03:00"}
 ---
 
 #Aulas #Hardware #Assistente-de-TI 
@@ -141,15 +141,3 @@ A compatibilidade de um processador não depende apenas do soquete físico e do 
 >[!info] Para saber mais acesse: [COMO COMPRAR A PLACA MÃE CERTA, O SIGNIFICADO DOS NÚMEROS E CHIPSETS! - YouTube](https://www.youtube.com/watch?v=mz2tEvtPpQU)
 
 
-> [!help] Páginas semelhantes
-> Talvez estas páginas também interessem:
->  - [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]
-> - [[Tecnico/Assistente-de-TI/Concurso da UFC 2025\|Concurso da UFC 2025]]
-> - [[Tecnico/Assistente-de-TI/Memória RAM\|Memória RAM]]
-> - [[Tecnico/Assistente-de-TI/Placa de video\|Placa de video]]
-> - [[Tecnico/Assistente-de-TI/Placa-Mae\|Placa-Mae]]
-> - [[Tecnico/Assistente-de-TI/Processadores\|Processadores]]
-> - [[Tecnico/Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]]
-> - [[Tecnico/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
-> 
-{ .block-language-dataview}

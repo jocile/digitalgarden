@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-01-29T13:33:31.252-03:00"}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-01-29T17:02:27.285-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -128,6 +128,7 @@ gantt
 >> - [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 >>>[!todo] 🖥️ Atividade:
 >>> - Refatorando a página inicial estilizada com CSS (cap. 3 e 4) - [programadorweb2026/livro][livrohtml]
+>>> - [Estudos HTML5 e CSS3 - Kauan](https://kauanallyson.github.io/livro-html-css/)
 
 ## Referências
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/pratica-orcamento-para-compra-de-pecas-do-computador/","title":"Prática Orçamento para Compra de Peças do Computador","metatags":{"description":"Prática de orçamento de peças para montagem de computadores"},"noteIcon":2,"updated":"2025-11-10T10:49:32.381-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/pratica-orcamento-para-compra-de-pecas-do-computador/","title":"Prática Orçamento para Compra de Peças do Computador","metatags":{"description":"Prática de orçamento de peças para montagem de computadores"},"noteIcon":2,"updated":"2026-01-30T07:26:53.880-03:00"}
 ---
 
 #Hardware 
@@ -53,16 +53,3 @@ Após completar os passos acima, vocês terão uma planilha detalhada com o cust
 - [Todas as Peças de Computador Explicadas em 8 Minutos - YouTube](https://www.youtube.com/watch?v=pFTgWgb5wiM&list=PLfGUiQzB80EA9rW1e3EDeG3pON_pnr6hD)
 
 
-> [!help] Páginas semelhantes
-> Talvez estas páginas também interessem:
->  - [[Tecnico/Assistente-de-TI/Chipsets de Placas-Mae\|Chipsets de Placas-Mae]]
-> - [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]
-> - [[Tecnico/Assistente-de-TI/Concurso da UFC 2025\|Concurso da UFC 2025]]
-> - [[Tecnico/Assistente-de-TI/Memória RAM\|Memória RAM]]
-> - [[Tecnico/Assistente-de-TI/Placa de video\|Placa de video]]
-> - [[Tecnico/Assistente-de-TI/Placa-Mae\|Placa-Mae]]
-> - [[Tecnico/Assistente-de-TI/Processadores\|Processadores]]
-> - [[Tecnico/Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]]
-> - [[Tecnico/Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]]
-> 
-{ .block-language-dataview}

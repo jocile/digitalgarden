@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/processadores/","metatags":{"description":"responsável pela execução de cálculos e instruções dos programas"},"noteIcon":"1","updated":"2025-11-10T10:44:12.830-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/processadores/","metatags":{"description":"responsável pela execução de cálculos e instruções dos programas"},"noteIcon":"1","updated":"2026-01-30T07:27:15.456-03:00"}
 ---
 
 #Aulas #Hardware #Assistente-de-TI
@@ -122,15 +122,3 @@ Em suma, a escolha de um processador eficiente não se resume a comparar especif
 - [Processadores - Escola de Hardware - Episódio 2 - YouTube](https://www.youtube.com/watch?v=YE7-H_w2GAY)
 
 
-> [!help] Páginas semelhantes
-> Talvez estas páginas também interessem:
->  - [[Tecnico/Assistente-de-TI/Chipsets de Placas-Mae\|Chipsets de Placas-Mae]]
-> - [[Tecnico/Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]
-> - [[Tecnico/Assistente-de-TI/Concurso da UFC 2025\|Concurso da UFC 2025]]
-> - [[Tecnico/Assistente-de-TI/Memória RAM\|Memória RAM]]
-> - [[Tecnico/Assistente-de-TI/Placa de video\|Placa de video]]
-> - [[Tecnico/Assistente-de-TI/Placa-Mae\|Placa-Mae]]
-> - [[Tecnico/Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]]
-> - [[Tecnico/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
-> 
-{ .block-language-dataview}
