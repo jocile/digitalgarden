@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-01-30T07:17:22.505-03:00"}
+{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-01-30T09:05:26.275-03:00"}
 ---
 
 #Lógica #Aulas #Senac
@@ -105,7 +105,7 @@ gantt
 >> - [[Tecnico/Programador/Lógica/listas-em-python\|listas-em-python]]
 >> - [[Tecnico/Programador/Lógica/repeticoes-em-python\|repeticoes-em-python]]
 >>>[!todo] 🖥️ Atividades:
->>> - [Repetições no Google Colab](https://colab.research.google.com/drive/1-6obBB916QdUx_dWtabamSpiJNTwkOSx?usp=sharing)
+>>> - [Exercicios-de-logica-aula8.ipynb - Colab](https://colab.research.google.com/drive/1P-1BqChybzxH8EdZtamNFK-MEqtIOVHt?usp=sharing)
 
 ## Referências
 
