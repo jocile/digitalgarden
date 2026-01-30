@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-01-29T17:02:27.285-03:00"}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-01-30T13:42:31.851-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -114,17 +114,26 @@ gantt
 >>> - Criar uma página de formulário.
 >>> - Criar um repositório do projeto e salvar os arquivos no [GitHub][github]
 >
->>[!note] Aula 2.3 - Estilizando uma página
+>>[!note]- Aula 2.3 - Estilizando uma página
 >> - [x] Aula 2.3 - 2026-01-28 - Bordas, espaçamentos e estilos com HTML
 >> - [[Formacao/Webdesign/CSS/Perfil com HTML e CSS\|Perfil com HTML e CSS]]
 >>
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar uma página inicial estilizada com CSS (cap. 1 e 2) - [programadorweb2026/livro][livrohtml]
 >
->>[!note] Aula 2.4 - Estilos Box Model com CSS3
+>>[!note]- Aula 2.4 - Estilos Box Model com CSS3
 >> - [x] Aula 2.4 - 2026-01-29 - Estilos Box Model com CSS3
 >> - [[Formacao/Webdesign/CSS/Unidades de medida do css\|Unidades de medida do css]]
->>
+>> - [[Formacao/Webdesign/Proposta de site\|Proposta de site]]
+>> - [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+>>>[!todo] 🖥️ Atividade:
+>>> - Refatorando a página inicial estilizada com CSS (cap. 3 e 4) - [programadorweb2026/livro][livrohtml]
+>>> - [Estudos HTML5 e CSS3 - Kauan](https://kauanallyson.github.io/livro-html-css/)
+>
+>>[!note] Aula 2.5 - Estilos avançados com CSS3
+>> - [x] Aula 2.5 - 2026-01-30 - Estilos avançados com CSS3
+>> - [[Formacao/Webdesign/Novidaddes do html5\|Novidaddes do html5]]
+>> - [[Formacao/Webdesign/Proposta de site2\|Proposta de site2]]
 >> - [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 >>>[!todo] 🖥️ Atividade:
 >>> - Refatorando a página inicial estilizada com CSS (cap. 3 e 4) - [programadorweb2026/livro][livrohtml]
