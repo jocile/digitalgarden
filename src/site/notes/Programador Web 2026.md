@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-01-30T13:42:31.851-03:00"}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-01T22:20:33.767-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -119,7 +119,7 @@ gantt
 >> - [[Formacao/Webdesign/CSS/Perfil com HTML e CSS\|Perfil com HTML e CSS]]
 >>
 >>>[!todo] 🖥️ Atividade:
->>> - Criar uma página inicial estilizada com CSS (cap. 1 e 2) - [programadorweb2026/livro][livrohtml]
+>>> - Criar uma página inicial estilizada com CSS (cap. 1 e 2) - [programadorweb2026/livro][livrohtml] - [Visualizar](https://jocile.github.io/programadorweb2026/livro/cap2.html)
 >
 >>[!note]- Aula 2.4 - Estilos Box Model com CSS3
 >> - [x] Aula 2.4 - 2026-01-29 - Estilos Box Model com CSS3
@@ -127,17 +127,25 @@ gantt
 >> - [[Formacao/Webdesign/Proposta de site\|Proposta de site]]
 >> - [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 >>>[!todo] 🖥️ Atividade:
->>> - Refatorando a página inicial estilizada com CSS (cap. 3 e 4) - [programadorweb2026/livro][livrohtml]
+>>> - Refatorando a página inicial estilizada com CSS (cap. 3 e 4) - [programadorweb2026/livro][livrohtml] - [Visualizar](https://jocile.github.io/programadorweb2026/livro/cap4.html)
 >>> - [Estudos HTML5 e CSS3 - Kauan](https://kauanallyson.github.io/livro-html-css/)
 >
->>[!note] Aula 2.5 - Estilos avançados com CSS3
->> - [x] Aula 2.5 - 2026-01-30 - Estilos avançados com CSS3
->> - [[Formacao/Webdesign/Novidaddes do html5\|Novidaddes do html5]]
+>>[!note]- Aula 2.5 - Estilos avançados com CSS3
+>> - [x] Aula 2.5 - 2026-01-30 - Estilos avançados com CSS3 - pseudo elementos
+>> - [[Formacao/Webdesign/Novidades do html5\|Novidades do html5]]
 >> - [[Formacao/Webdesign/Proposta de site2\|Proposta de site2]]
 >> - [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 >>>[!todo] 🖥️ Atividade:
->>> - Refatorando a página inicial estilizada com CSS (cap. 3 e 4) - [programadorweb2026/livro][livrohtml]
+>>> - Refatorando a página inicial estilizada com CSS (cap. 5 e 6) - [programadorweb2026/livro][livrohtml]
 >>> - [Estudos HTML5 e CSS3 - Kauan](https://kauanallyson.github.io/livro-html-css/)
+>
+>>[!note] Aula 2.6 - Estilos avançados com CSS3
+>> - [x] Aula 2.2 - 2026-02-02 - Estilos avançados com CSS3 - display, position e float
+>> - [[Formacao/Webdesign/CSS/Display com css\|Display com css]]
+>> - [[Formacao/Webdesign/CSS/Posicionando elementos com CSS\|Posicionando elementos com CSS]]
+>> - [CSS The display Property](https://www.w3schools.com/css/css_display_visibility.asp)
+>>>[!todo] 🖥️ Atividade:
+>>> - Refatorando a página inicial estilizada com CSS (cap. 6) - [programadorweb2026/livro][livrohtml]
 
 ## Referências
 

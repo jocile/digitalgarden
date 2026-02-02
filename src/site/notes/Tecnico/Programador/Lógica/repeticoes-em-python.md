@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/programador/logica/repeticoes-em-python/","metatags":{"description":"criando algoritmos com repetições para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-01-30T07:18:51.617-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/programador/logica/repeticoes-em-python/","metatags":{"description":"criando algoritmos com repetições para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-02-01T21:55:06.356-03:00"}
 ---
 
 #Lógica #exercícios #Python
@@ -126,6 +126,120 @@ for num in numbers:
 8. Escreva um programa que peça ao usuário para digitar uma palavra e verifique se ela é um palíndromo (ou seja, se a palavra é igual quando lida de trás para frente).
 
 
+## Solução em Python
+
+### 1. números pares
+
+Escreva um programa que imprima todos os números pares de 0 a 20.
+
+```python
+for i in range(0, 21, 2):
+    print(i)
+
+```
+
+### 2. cálculos com números
+
+Escreva um programa que peça ao usuário para digitar um número inteiro positivo e calcule a soma de todos os números ímpares de 1 até esse número.
+
+```python
+n = int(input("Digite um número inteiro positivo: "))
+soma = 0
+for i in range(1, n+1, 2):
+    soma += i
+print("A soma dos números ímpares de 1 a", n, "é", soma)
+
+```
+
+### 3. contando as vogais
+
+Escreva um programa que peça ao usuário para digitar uma frase e conte quantas vogais (a, e, i, o, u) ela possui.
+
+```python
+frase = input("Digite uma frase: ")
+vogais = "aeiou"
+contagem = 0
+for letra in frase:
+    if letra.lower() in vogais:
+        contagem += 1
+print("A frase digitada possui", contagem, "vogais.")
+
+```
+
+### 4. o maior número
+
+Escreva um programa que peça ao usuário para digitar uma lista de números e imprima o maior número da lista.
+
+```python
+numeros = input("Digite uma lista de números separados por vírgulas: ")
+numeros = numeros.split(",")
+maior = int(numeros[0])
+for numero in numeros:
+    if int(numero) > maior:
+        maior = int(numero)
+print("O maior número da lista é", maior)
+
+```
+
+### 5. palavra invertida
+
+Escreva um programa que peça ao usuário para digitar uma palavra e imprima a palavra invertida.
+
+```python
+palavra = input("Digite uma palavra: ")
+inversa = ""
+for letra in palavra:
+    inversa = letra + inversa
+print("A palavra invertida é", inversa)
+
+```
+
+### 6. calculando a média
+
+Escreva um programa que calcule a média aritmética de uma lista de números.
+
+```python
+palavra = input("Digite uma palavra: ")
+inversa = ""
+for letra in palavra:
+    inversa = letra + inversa
+print("A palavra invertida é", inversa)
+
+```
+
+### 7. número primo
+
+Escreva um programa que peça ao usuário para digitar um número inteiro e verifique se ele é um número primo.
+
+```python
+numero = int(input("Digite um número inteiro: "))
+primo = True
+for i in range(2, numero):
+    if numero % i == 0:
+        primo = False
+        break
+if primo:
+    print(numero, "é um número primo.")
+else:
+    print(numero, "não é um número primo.")
+
+```
+
+### 8. palíndromo
+
+Escreva um programa que peça ao usuário para digitar uma palavra e verifique se ela é um palíndromo (ou seja, se a palavra é igual quando lida de trás para frente).
+
+```python
+palavra = input("Digite uma palavra: ")
+inversa = ""
+for letra in palavra:
+    inversa = letra + inversa
+if palavra == inversa:
+    print("A palavra é um palíndromo.")
+else:
+    print("A palavra não é um palíndromo.")
+
+```
 
 ## Referências
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/proposta-de-site/","metatags":{"description":"como personalizar elementos da sua página web"},"noteIcon":2,"updated":"2026-01-30T13:40:07.218-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/proposta-de-site/","metatags":{"description":"como personalizar elementos da sua página web"},"noteIcon":2,"updated":"2026-01-30T14:02:20.751-03:00"}
 ---
 
 #Webdesign #CSS
@@ -136,5 +136,7 @@ Ao final dessas fases, você terá um site de página única organizado, com uma
 
 ## Referências
 
-- [[Formacao/Webdesign/Proposta de site\|Proposta de site]]
+- [[Formacao/Webdesign/Proposta de site2\|Proposta de site2]]
 - [[Programador Web 2026\|Programador Web 2026]]
+- [Estudos HTML5 e CSS3 - Mirror Fashion](https://kauanallyson.github.io/livro-html-css/)
+- [Arquivos do livro html5-css3-lucas-mazza: Estudos práticos do livro "HTML5 e CSS3: Domine a web do futuro" de Lucas Mazza (Editora Casa do Código).](https://github.com/jocile/html5-css3-lucas-mazza)

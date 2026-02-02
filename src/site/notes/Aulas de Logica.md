@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-01-30T09:05:26.275-03:00"}
+{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-02-01T22:21:51.509-03:00"}
 ---
 
 #Lógica #Aulas #Senac
@@ -12,7 +12,7 @@
 > Eixo tecnológico: Informação e Comunicação
 > Segmento: Tecnologia da Informação
 > Unidade Curricular: algoritmos estruturados em lógica de programação
-> Carga horária: 60 horas
+> Carga horária: 60 horas (15 aulas)
 > Período: 21/01/2026 à 10/02/2026
 
 ```mermaid
@@ -93,19 +93,26 @@ gantt
 >>> - [Resolução no Google Colab](https://colab.research.google.com/drive/1UfD8tLOFLZp3ITW_qrpN1bw-2tLN0VRh?usp=sharing)
 >
 >>[!note]- Aula 7 - Conjuntos de dados - dicionários
->> - [x] Aula  - 2026.01.29 - Conjunto de dados -dicionários
+>> - [x] Aula 7  - 2026.01.29 - Conjunto de dados -dicionários
 >> - [04 - Dicionários.pptx - Google Slides](https://docs.google.com/presentation/d/11GeGam4hs0jVmSGYtxWukAjpJ-GpKE6O/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> - [17 - Estruturas de repetição.pptx - Google Slides](https://docs.google.com/presentation/d/1LoNm2TPTwqRpCORjKMJCCzs91XJvk2W_/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >>>[!todo] 🖥️ Atividades:
 >>> - [[Tecnico/Programador/Lógica/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]]
 >>> - [Repetições no Google Colab](https://colab.research.google.com/drive/1-6obBB916QdUx_dWtabamSpiJNTwkOSx?usp=sharing)
 >
->>[!note] Aula 8 - Resolução de exercícios com repetições e listas
->> - [x] Aula  - 2026.01.30 - Resolução de exercícios com repetições e listas
+>>[!note]- Aula 8 - Resolução de exercícios com repetições e listas
+>> - [x] Aula 8  - 2026.01.30 - Resolução de exercícios com repetições e listas
 >> - [[Tecnico/Programador/Lógica/listas-em-python\|listas-em-python]]
 >> - [[Tecnico/Programador/Lógica/repeticoes-em-python\|repeticoes-em-python]]
 >>>[!todo] 🖥️ Atividades:
 >>> - [Exercicios-de-logica-aula8.ipynb - Colab](https://colab.research.google.com/drive/1P-1BqChybzxH8EdZtamNFK-MEqtIOVHt?usp=sharing)
+>
+>>[!note] Aula 9 - Estruturando a lógica com funções
+>> - [x] Aula 9  - 2026.02.02 - Estruturando a lógica com funções
+>> - [05 - Funções.pptx - Google Slides](https://docs.google.com/presentation/d/13AW3U70G0OVsvloO0oFTN5n22KxRG7v9/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>> - [[Formacao/Python/Estruturas/Diagrama de estruturas de dados com Python\|Diagrama de estruturas de dados com Python]]
+>>>[!todo] 🖥️ Atividades:
+>>> - Resolvendo exercícios com funções [[Tecnico/Programador/Lógica/Condicionais-em-python\|Condicionais-em-python]]
 
 ## Referências
 
