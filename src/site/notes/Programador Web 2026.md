@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-03T09:41:21.662-03:00"}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-03T13:32:10.002-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -152,7 +152,7 @@ gantt
 >> - [JavaScript Introduction](https://www.w3schools.com/js/js_intro.asp)
 >> - [[Formacao/JavaScript/Manipulando elementos com JavaScript\|Manipulando elementos com JavaScript]]
 >>>[!todo] 🖥️ Atividade:
->>> - [[Formacao/Webdesign/Exercicio cap6\|Exercicio cap6]] - [programadorweb2026/livro][livrohtml]
+>>> - [[Formacao/Webdesign/Exercicio JavaSript cap6\|Exercicio JavaSript cap6]] - [programadorweb2026/livro][livrohtml]
 
 ## Referências
 
