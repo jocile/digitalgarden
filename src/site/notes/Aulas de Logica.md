@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-02-03T07:38:06.988-03:00"}
+{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-02-03T08:03:33.266-03:00"}
 ---
 
 #Lógica #Aulas #Senac
@@ -120,6 +120,7 @@ gantt
 >> - [19 - Desafio sistema bancario.pptx - Google Slides](https://docs.google.com/presentation/d/1O2QQllmG6TsjYR0oRK7TyBSwG8eGNwMW/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >>>[!todo] 🖥️ Atividades:
 >>> - Resolver o desafio: [[Tecnico/Programador/Desafios/Desafios Python/Saldo de Transacoes Bancarias\|Saldo de Transacoes Bancarias]]
+>>> - [Desafio Sistema Bancário - Google Colab](https://colab.research.google.com/drive/1DFPg5VakbWUVJ1RYquyTBBKTE9MKWSJX?usp=sharing)
 
 ## Referências
 

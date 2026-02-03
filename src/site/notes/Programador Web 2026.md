@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-01T22:20:33.767-03:00"}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-03T09:41:21.662-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -139,13 +139,20 @@ gantt
 >>> - Refatorando a página inicial estilizada com CSS (cap. 5 e 6) - [programadorweb2026/livro][livrohtml]
 >>> - [Estudos HTML5 e CSS3 - Kauan](https://kauanallyson.github.io/livro-html-css/)
 >
->>[!note] Aula 2.6 - Estilos avançados com CSS3
+>>[!note]- Aula 2.6 - Estilos avançados com CSS3
 >> - [x] Aula 2.2 - 2026-02-02 - Estilos avançados com CSS3 - display, position e float
 >> - [[Formacao/Webdesign/CSS/Display com css\|Display com css]]
 >> - [[Formacao/Webdesign/CSS/Posicionando elementos com CSS\|Posicionando elementos com CSS]]
 >> - [CSS The display Property](https://www.w3schools.com/css/css_display_visibility.asp)
 >>>[!todo] 🖥️ Atividade:
 >>> - Refatorando a página inicial estilizada com CSS (cap. 6) - [programadorweb2026/livro][livrohtml]
+>
+>>[!note] Aula 2.7 - Introdução ao JavaScript
+>> - [x] Aula 2.7 - 2026-02-03 - Introdução ao JavaScript
+>> - [JavaScript Introduction](https://www.w3schools.com/js/js_intro.asp)
+>> - [[Formacao/JavaScript/Manipulando elementos com JavaScript\|Manipulando elementos com JavaScript]]
+>>>[!todo] 🖥️ Atividade:
+>>> - [[Formacao/Webdesign/Exercicio cap6\|Exercicio cap6]] - [programadorweb2026/livro][livrohtml]
 
 ## Referências
 
