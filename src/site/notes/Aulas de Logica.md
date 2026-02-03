@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-02-02T09:20:50.417-03:00"}
+{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-02-03T07:38:06.988-03:00"}
 ---
 
 #Lógica #Aulas #Senac
@@ -107,13 +107,19 @@ gantt
 >>>[!todo] 🖥️ Atividades:
 >>> - [Exercicios-de-logica-aula8.ipynb - Colab](https://colab.research.google.com/drive/1P-1BqChybzxH8EdZtamNFK-MEqtIOVHt?usp=sharing)
 >
->>[!note] Aula 9 - Estruturando a lógica com funções
+>>[!note]- Aula 9 - Estruturando a lógica com funções
 >> - [x] Aula 9  - 2026.02.02 - Estruturando a lógica com funções
 >> - [05 - Funções.pptx - Google Slides](https://docs.google.com/presentation/d/13AW3U70G0OVsvloO0oFTN5n22KxRG7v9/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> - [[Formacao/Python/Estruturas/Diagrama de estruturas de dados com Python\|Diagrama de estruturas de dados com Python]]
 >> - [[Tecnico/Programador/Lógica/Condicionais-em-python\|Condicionais-em-python]]
 >>>[!todo] 🖥️ Atividades:
 >>> - [Resolvendo exercícios com funções](https://colab.research.google.com/drive/1kAqEGXCAv6-9kgBkrwm_jY7WzGtE7Sec?usp=sharing)
+>
+>>[!note] Aula 10 - Desafio conta bancária
+>> - [x] Aula 10  - 2026.02.03 - Desafio conta bancária com funções
+>> - [19 - Desafio sistema bancario.pptx - Google Slides](https://docs.google.com/presentation/d/1O2QQllmG6TsjYR0oRK7TyBSwG8eGNwMW/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>>>[!todo] 🖥️ Atividades:
+>>> - Resolver o desafio: [[Tecnico/Programador/Desafios/Desafios Python/Saldo de Transacoes Bancarias\|Saldo de Transacoes Bancarias]]
 
 ## Referências
 
