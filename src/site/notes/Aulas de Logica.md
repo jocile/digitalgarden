@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-02-03T08:03:33.266-03:00"}
+{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-02-04T07:41:02.918-03:00"}
 ---
 
 #Lógica #Aulas #Senac
@@ -115,9 +115,16 @@ gantt
 >>>[!todo] 🖥️ Atividades:
 >>> - [Resolvendo exercícios com funções](https://colab.research.google.com/drive/1kAqEGXCAv6-9kgBkrwm_jY7WzGtE7Sec?usp=sharing)
 >
->>[!note] Aula 10 - Desafio conta bancária
+>>[!note]- Aula 10 - Desafio conta bancária
 >> - [x] Aula 10  - 2026.02.03 - Desafio conta bancária com funções
 >> - [19 - Desafio sistema bancario.pptx - Google Slides](https://docs.google.com/presentation/d/1O2QQllmG6TsjYR0oRK7TyBSwG8eGNwMW/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>>>[!todo] 🖥️ Atividades:
+>>> - Resolver o desafio: [[Tecnico/Programador/Desafios/Desafios Python/Saldo de Transacoes Bancarias\|Saldo de Transacoes Bancarias]]
+>>> - [Desafio Sistema Bancário - Google Colab](https://colab.research.google.com/drive/1DFPg5VakbWUVJ1RYquyTBBKTE9MKWSJX?usp=sharing)
+>
+>>[!note] Aula 11 - Desafio criando conta bancária
+>> - [x] Aula 10  - 2026.02.04 - [[Tecnico/Programador/Desafios/sistema bancario/Desafio bancario criando contas\|Desafio bancario criando contas]]
+>> - [[Formacao/Python/Estruturas/Dicionarios em Python\|Dicionarios em Python]]
 >>>[!todo] 🖥️ Atividades:
 >>> - Resolver o desafio: [[Tecnico/Programador/Desafios/Desafios Python/Saldo de Transacoes Bancarias\|Saldo de Transacoes Bancarias]]
 >>> - [Desafio Sistema Bancário - Google Colab](https://colab.research.google.com/drive/1DFPg5VakbWUVJ1RYquyTBBKTE9MKWSJX?usp=sharing)

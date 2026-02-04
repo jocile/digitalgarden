@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/css/flexbox/","title":"Flexbox","metatags":{"description":"permite a criação de layouts flexíveis de forma dinâmica e responsiva"},"tags":["Webdesign","Flexbox","CSS","editor"],"noteIcon":"1","updated":"2025-07-26T20:49:34.361-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/css/flexbox/","title":"Flexbox","metatags":{"description":"permite a criação de layouts flexíveis de forma dinâmica e responsiva"},"tags":["Webdesign","Flexbox","CSS","editor"],"noteIcon":"1","updated":"2026-02-03T22:46:47.048-03:00"}
 ---
 
-# Flexbox
+
 # Layouts Flexbox com CSS
 
 <iframe src="https://jocile.github.io/webdesigner/formacao-css/2-Trabalhando-com-layouts-no-css/flexbox.html" style="height: 1050px; width: 90%;"></iframe>
@@ -11,10 +11,27 @@ O CSS Flexbox é um recurso do CSS (Cascading Style Sheets) que permite a criaç
 
 ## **Como funciona o Flexbox**
 
+O Flexbox é um módulo que introduz regras de **posicionamento e alinhamento relativas**. Em um container flexível, os elementos são organizados automaticamente pelo navegador de acordo com as definições estabelecidas, sem que o desenvolvedor precise fixar tamanhos manualmente ou "forçar" alinhamentos com técnicas antigas.
+
+A lógica do Flexbox baseia-se em dois níveis:
+
+- **Flex Container:** O elemento pai que envolve os itens.
+- **Flex Items:** Os elementos filhos que se tornam flexíveis.
+
+Tudo começa com a propriedade `display`. Ao definir `display: flex` (ou `flexbox`, dependendo da versão da especificação utilizada) em um container, todos os seus filhos diretos passam a seguir as regras do módulo:
+
 1. **Contêiner**: Um elemento pai que deseja alinhar seus filhos.
 2. **Filhos**: Os elementos filho do contêiner que precisam ser alinhados.
 3. **Direção**: O flexbox pode trabalhar em duas direções: horizontal (row) ou vertical (column).
 4. **Flex items**: Os filhos do contêiner são chamados de "flex items".
+
+## Principais Funcionalidades
+
+Diferente dos métodos tradicionais, o Flexbox permite:
+
+- **Orientação Fluida:** É possível forçar uma orientação vertical ou horizontal sem recorrer ao `float`.
+- **Distribuição de Espaço:** O navegador consegue distribuir a largura do container entre seus filhos de forma proporcional.
+- **Ordem de Exibição:** Você pode alterar a ordem em que os elementos aparecem na tela sem mexer no HTML
 
 ## **Propriedades básicas do Flexbox**
 

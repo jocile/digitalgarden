@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-03T13:42:03.824-03:00"}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-03T22:59:01.717-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -147,12 +147,23 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> - Refatorando a página inicial estilizada com CSS (cap. 6) - [programadorweb2026/livro][livrohtml]
 >
->>[!note] Aula 2.7 - Introdução ao JavaScript
+>>[!note]- Aula 2.7 - Introdução ao JavaScript
 >> - [x] Aula 2.7 - 2026-02-03 - Introdução ao JavaScript
 >> - [JavaScript Introduction](https://www.w3schools.com/js/js_intro.asp)
 >> - [[Formacao/JavaScript/Manipulando elementos com JavaScript\|Manipulando elementos com JavaScript]]
 >>>[!todo] 🖥️ Atividade:
->>> - [[Formacao/Webdesign/Exercicio JavaSript cap6\|Exercicio JavaSript cap6]] conforme o exemplo do livro - [programadorweb2026/livro][livrohtml]
+>>> - [[Formacao/Webdesign/Exercicio JavaSript cap6\|Exercicio JavaSript cap6]] conforme o exemplo do livro 
+>>> - [programadorweb2026/livro][livrohtml] - [Visualizar exemplo do capítulo 6](https://jocile.github.io/programadorweb2026/livro/cap6.html)
+>
+>>[!note] Aula 2.8 - Layout responsivo com Flexbox
+>> - [x] Aula 2.8 - 2026-02-04 - Layout responsivo com Flexbox
+>> - [Flexbox - Aprendendo desenvolvimento web](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/CSS_layout/Flexbox)
+>> - [CSS Flexbox (Flexible Box Layout)](https://www.w3schools.com/css/css3_flexbox.asp)
+>> - [Guia completo de Flexbox - CSS - display: flex;](https://origamid.com/projetos/flexbox-guia-completo/)
+>> - [[Formacao/Webdesign/CSS/Flexbox\|Flexbox]]
+>>>[!todo] 🖥️ Atividade:
+>>> - [[Formacao/JavaScript/Girar formulario com javascript\|Girar formulario com javascript]]
+>>> - [programadorweb2026/livro][livrohtml] - [Visualizar exemplo do capítulo 6](https://jocile.github.io/programadorweb2026/livro/cap6.html)
 
 ## Referências
 
