@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-02-04T08:19:47.531-03:00"}
+{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-02-05T07:20:28.642-03:00"}
 ---
 
 #Lógica #Aulas #Senac
@@ -122,8 +122,15 @@ gantt
 >>> - Resolver o desafio: [[Tecnico/Programador/Desafios/Desafios Python/Saldo de Transacoes Bancarias\|Saldo de Transacoes Bancarias]]
 >>> - [Desafio Sistema Bancário - Google Colab](https://colab.research.google.com/drive/1DFPg5VakbWUVJ1RYquyTBBKTE9MKWSJX?usp=sharing)
 >
->>[!note] Aula 11 - Registros de dados
->> - [x] Aula 10  - 2026.02.04 - Registros com [[Formacao/Python/Estruturas/Dicionarios em Python\|Dicionarios em Python]]
+>>[!note]- Aula 11 - Registros de dados
+>> - [x] Aula 11  - 2026.02.04 - Registros com [[Formacao/Python/Estruturas/Dicionarios em Python\|Dicionarios em Python]]
+>> 
+>>>[!todo] 🖥️ Atividades:
+>>> - Resolver o desafio: [[Tecnico/Programador/Desafios/sistema bancario/Desafio bancario criando contas\|Desafio bancario criando contas]]
+>>> - [Criando conta bancaria - Colab](https://colab.research.google.com/drive/1cKVNTaS8JBTD6AylCWATbzfswfJvZDrp?usp=sharing)
+>
+>>[!note] Aula 12 - Registros de dados
+>> - [x] Aula 12  - 2026.02.02 - Registros com [[Formacao/Python/Estruturas/Dicionarios em Python\|Dicionarios em Python]]
 >> 
 >>>[!todo] 🖥️ Atividades:
 >>> - Resolver o desafio: [[Tecnico/Programador/Desafios/sistema bancario/Desafio bancario criando contas\|Desafio bancario criando contas]]
