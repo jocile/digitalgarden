@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/logica/matriz/","metatags":{"description":"essencialmente, uma coleção de dados organizada em linhas e colunas"},"noteIcon":"default","updated":"2026-02-05T07:39:53.757-03:00"}
+{"dg-publish":true,"permalink":"/formacao/logica/matriz/","metatags":{"description":"essencialmente, uma coleção de dados organizada em linhas e colunas"},"noteIcon":"default","updated":"2026-02-05T08:02:50.400-03:00"}
 ---
 
 #Lógica #Aulas #Lógica 
@@ -17,9 +17,9 @@ Para criar uma matriz manualmente, você deve agrupar várias listas dentro de u
 - **Exemplo de uma matriz 3x3:**
     
     ```
-    matriz = [,  # Linha 0
-             ,  # Linha 1
-             ]  # Linha 2
+    matriz = [[1,2,3],  # Linha 0
+              [4,5,6],  # Linha 1
+              [7,8,9]]  # Linha 2
     ```
     
 
@@ -30,14 +30,14 @@ Em contextos mais avançados e profissionais, utiliza-se a biblioteca **NumPy** 
 Para manipular uma matriz, é fundamental saber quantas linhas e colunas ela possui. No Python, utiliza-se a função **`len()`**:
 
 - **Quantidade de linhas:** `len(matriz)` retorna o número de sublistas (linhas).
-- **Quantidade de colunas:** `len(matriz)` retorna o tamanho da primeira linha, indicando o número de colunas.
+- **Quantidade de colunas:** `len(matriz[0])` retorna o tamanho da primeira linha, indicando o número de colunas.
 
 ## 3. Acesso e Atribuição de Valores
 
 O acesso aos elementos é feito através de **índices (coordenadas)** informados entre colchetes: o primeiro índice indica a **linha** e o segundo a **coluna**. Lembre-se que, em Python, a contagem sempre inicia no **zero**.
 
-- **Acessar o valor 6 (Linha 1, Coluna 2):** `valor = matriz`.
-- **Alterar um valor (ex: dobrar o valor da posição):** `matriz = matriz * 2`.
+- **Acessar o valor 6 (Linha 1, Coluna 2):** `valor[1][2] = matriz`.
+- **Alterar um valor (ex: dobrar o valor da posição):** `valor[1][2] = matriz * 2`.
 
 ## 4. Percorrendo a Matriz (Iteração)
 
@@ -47,7 +47,7 @@ A forma mais eficaz de processar todos os elementos de uma matriz é utilizando 
     
     ```
     linhas = len(matriz)
-    colunas = len(matriz)
+    colunas = len(matriz[0])
     
     for i in range(linhas):          # Percorre cada linha
         for j in range(colunas):     # Percorre cada coluna daquela linha
