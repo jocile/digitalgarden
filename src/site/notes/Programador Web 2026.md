@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-03T22:59:01.717-03:00"}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-05T13:33:41.919-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -155,7 +155,7 @@ gantt
 >>> - [[Formacao/Webdesign/Exercicio JavaSript cap6\|Exercicio JavaSript cap6]] conforme o exemplo do livro 
 >>> - [programadorweb2026/livro][livrohtml] - [Visualizar exemplo do capítulo 6](https://jocile.github.io/programadorweb2026/livro/cap6.html)
 >
->>[!note] Aula 2.8 - Layout responsivo com Flexbox
+>>[!note]- Aula 2.8 - Layout responsivo com Flexbox
 >> - [x] Aula 2.8 - 2026-02-04 - Layout responsivo com Flexbox
 >> - [Flexbox - Aprendendo desenvolvimento web](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/CSS_layout/Flexbox)
 >> - [CSS Flexbox (Flexible Box Layout)](https://www.w3schools.com/css/css3_flexbox.asp)
@@ -164,13 +164,21 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> - [[Formacao/JavaScript/Girar formulario com javascript\|Girar formulario com javascript]]
 >>> - [programadorweb2026/livro][livrohtml] - [Visualizar exemplo do capítulo 6](https://jocile.github.io/programadorweb2026/livro/cap6.html)
+>
+>>[!note] Aula 2.9 - Manipulando elementos visuais com JavaScript
+>> - [x] Aula 2.9 - 2026-02-05 - Manipulando elementos visuais com JavaScript
+>> - [JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
+>> - [JavaScript HTML DOM Examples](https://www.w3schools.com/js/js_dom_examples.asp)
+>>>[!todo] 🖥️ Atividade:
+>>> - Criar uma página HTML e mudar o tamanho e a cor dos títulos, adicionar uma imagem e cria um botão de zoom.
 
 ## Referências
 
 - [📚 HTML Tutorial - W3 Schools](https://www.w3schools.com/html/default.asp)
 - [📁 github.com/jocile/programadorweb2026: Exercícios do curso de Programador Web do Senac 2026](https://github.com/jocile/programadorweb2026/)
 - [📁 github.com/jocile/webdesigner](https://github.com/jocile/webdesigner)
-- [Ebook de HTML5 e CSS3](https://drive.google.com/file/d/1m_uftVZ1YHoABiwQhPw1_L3i5kpDI1yD/view?usp=sharing)
+- [📘 Ebook de HTML5 e CSS3](https://drive.google.com/file/d/1m_uftVZ1YHoABiwQhPw1_L3i5kpDI1yD/view?usp=sharing)
+- [📙 Ebook JavaScript com JQuery](https://drive.google.com/file/d/1b6FP0oD_IR6u2nC6andoQfmxDruUKYem/view?usp=sharing)
 - [[Formacao/Formacao em Webdesign\|Formacao em Webdesign]]
 - [[Formacao/Webdesign/editores HTML online\|editores HTML online]]
 
