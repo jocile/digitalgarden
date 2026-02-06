@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-02-05T08:14:53.929-03:00"}
+{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-02-06T07:53:44.106-03:00"}
 ---
 
 #Lógica #Aulas #Senac
@@ -129,11 +129,17 @@ gantt
 >>> - Resolver o desafio: [[Tecnico/Programador/Desafios/sistema bancario/Desafio bancario criando contas\|Desafio bancario criando contas]]
 >>> - [Criando conta bancaria - Colab](https://colab.research.google.com/drive/1cKVNTaS8JBTD6AylCWATbzfswfJvZDrp?usp=sharing)
 >
->>[!note] Aula 12 - Matiz
->> - [x] Aula 12  - 2026.02.02 - [[Formacao/Logica/Matriz\|Matriz]]
+>>[!note]- Aula 12 - Matiz
+>> - [x] Aula 12  - 2026.02.05 - [[Formacao/Logica/Matriz\|Matriz]]
 >> 
 >>>[!todo] 🖥️ Atividades:
 >>> - [Criando matrizes - Google Colab](https://colab.research.google.com/drive/1gQ5mokSwH3BRc5vBiQ5Lcfjc4FTXgdb1?usp=sharing)
+>
+>>[!note] Aula 13 - Testes e debug
+>> - [x] Aula 13  - 2026.02.06 - Testes e debug
+>> 
+>>>[!todo] 🖥️ Atividades:
+>>> - [Testes - Google Colab](https://colab.research.google.com/drive/1kguL7vtDrP4U7JUf4XAAMX-lyj83fPsU?usp=sharing)
 
 ## Referências
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-05T13:33:41.919-03:00"}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-05T18:31:32.662-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -170,7 +170,7 @@ gantt
 >> - [JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
 >> - [JavaScript HTML DOM Examples](https://www.w3schools.com/js/js_dom_examples.asp)
 >>>[!todo] 🖥️ Atividade:
->>> - Criar uma página HTML e mudar o tamanho e a cor dos títulos, adicionar uma imagem e cria um botão de zoom.
+>>> - Criar uma [página HTML](https://github.com/jocile/programadorweb2026/blob/main/exercicios/exercicio1.html) e mudar o tamanho e a cor dos títulos, adicionar uma imagem e cria um botão de zoom. [Visualizar o exemplo](https://jocile.github.io/programadorweb2026/exercicios/exercicio1.html)
 
 ## Referências
 
