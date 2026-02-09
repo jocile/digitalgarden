@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-09T07:23:15.322-03:00"}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-09T07:32:04.291-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -178,7 +178,7 @@ gantt
 >
 >>[!note] Aula 2.11 - Lógica com JavaScript
 >> - [x] Aula 2.11 - 2026-02-09 - Lógica com JavaScript
->> - [JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
+>> - [Sintaxe e tipos - JavaScript \| MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types)
 >> - [[Formacao/JavaScript/Manipulando elementos com JavaScript\|Manipulando elementos com JavaScript]]
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar um formulário para entrada de dados e resolver [[Tecnico/Programador/Lógica/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]] com a saída na mesma página.
