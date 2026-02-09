@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-02-06T07:53:44.106-03:00"}
+{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-02-09T07:29:04.648-03:00"}
 ---
 
 #Lógica #Aulas #Senac
@@ -135,11 +135,18 @@ gantt
 >>>[!todo] 🖥️ Atividades:
 >>> - [Criando matrizes - Google Colab](https://colab.research.google.com/drive/1gQ5mokSwH3BRc5vBiQ5Lcfjc4FTXgdb1?usp=sharing)
 >
->>[!note] Aula 13 - Testes e debug
+>>[!note]- Aula 13 - Testes e debug
 >> - [x] Aula 13  - 2026.02.06 - Testes e debug
 >> 
 >>>[!todo] 🖥️ Atividades:
 >>> - [Testes - Google Colab](https://colab.research.google.com/drive/1kguL7vtDrP4U7JUf4XAAMX-lyj83fPsU?usp=sharing)
+>
+>>[!note] Aula 14 - Programação Orientada a Objetos
+>> - [x] Aula 14  - 2026.02.09 - [[Tecnico/Programador/Lógica/Logica da Programação Orientada a Objetos\|Logica da Programação Orientada a Objetos]]
+>> - [Programação Orientada a Objetos Com Python.pptx - Google Slides](https://docs.google.com/presentation/d/1kEnmWOIfKRnsmXrI80GXq9WeZLq7IcfJ/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
+>> 
+>>>[!todo] 🖥️ Atividades:
+>>> - Criar um cadastro de cliente de banco do [[Tecnico/Programador/Desafios/sistema bancario/Sistema bancário com POO\|Sistema bancário com POO]]
 
 ## Referências
 

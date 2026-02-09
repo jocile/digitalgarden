@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-05T18:31:32.662-03:00"}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-09T07:23:15.322-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -165,12 +165,23 @@ gantt
 >>> - [[Formacao/JavaScript/Girar formulario com javascript\|Girar formulario com javascript]]
 >>> - [programadorweb2026/livro][livrohtml] - [Visualizar exemplo do capítulo 6](https://jocile.github.io/programadorweb2026/livro/cap6.html)
 >
->>[!note] Aula 2.9 - Manipulando elementos visuais com JavaScript
+>>[!note]- Aula 2.9 - Manipulando elementos visuais com JavaScript
 >> - [x] Aula 2.9 - 2026-02-05 - Manipulando elementos visuais com JavaScript
 >> - [JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
 >> - [JavaScript HTML DOM Examples](https://www.w3schools.com/js/js_dom_examples.asp)
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar uma [página HTML](https://github.com/jocile/programadorweb2026/blob/main/exercicios/exercicio1.html) e mudar o tamanho e a cor dos títulos, adicionar uma imagem e cria um botão de zoom. [Visualizar o exemplo](https://jocile.github.io/programadorweb2026/exercicios/exercicio1.html)
+>
+>>[!note]- Aula 2.10 - Palestra sobre Programador Web
+>> - [x] Aula 2.10 - 2026-02-06 - Palestra sobre o mercado de trabalho do Programador Web
+>> - [linkedin.com/in/joelson-costa-170990240/](https://www.linkedin.com/in/joelson-costa-170990240/)
+>
+>>[!note] Aula 2.11 - Lógica com JavaScript
+>> - [x] Aula 2.11 - 2026-02-09 - Lógica com JavaScript
+>> - [JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
+>> - [[Formacao/JavaScript/Manipulando elementos com JavaScript\|Manipulando elementos com JavaScript]]
+>>>[!todo] 🖥️ Atividade:
+>>> - Criar um formulário para entrada de dados e resolver [[Tecnico/Programador/Lógica/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]] com a saída na mesma página.
 
 ## Referências
 
@@ -178,7 +189,9 @@ gantt
 - [📁 github.com/jocile/programadorweb2026: Exercícios do curso de Programador Web do Senac 2026](https://github.com/jocile/programadorweb2026/)
 - [📁 github.com/jocile/webdesigner](https://github.com/jocile/webdesigner)
 - [📘 Ebook de HTML5 e CSS3](https://drive.google.com/file/d/1m_uftVZ1YHoABiwQhPw1_L3i5kpDI1yD/view?usp=sharing)
+- [📙 Ebook Lógica com JavaScript](https://drive.google.com/file/d/17Y7pJYqA7hOptjr2Y8erGLdQ29IXvhUo/view?usp=sharing)
 - [📙 Ebook JavaScript com JQuery](https://drive.google.com/file/d/1b6FP0oD_IR6u2nC6andoQfmxDruUKYem/view?usp=sharing)
+- [JavaScript - MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [[Formacao/Formacao em Webdesign\|Formacao em Webdesign]]
 - [[Formacao/Webdesign/editores HTML online\|editores HTML online]]
 
