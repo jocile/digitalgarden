@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-09T07:32:04.291-03:00"}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-10T07:39:38.616-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -176,12 +176,21 @@ gantt
 >> - [x] Aula 2.10 - 2026-02-06 - Palestra sobre o mercado de trabalho do Programador Web
 >> - [linkedin.com/in/joelson-costa-170990240/](https://www.linkedin.com/in/joelson-costa-170990240/)
 >
->>[!note] Aula 2.11 - Lógica com JavaScript
+>>[!note]- Aula 2.11 - Lógica com JavaScript
 >> - [x] Aula 2.11 - 2026-02-09 - Lógica com JavaScript
 >> - [Sintaxe e tipos - JavaScript \| MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types)
 >> - [[Formacao/JavaScript/Manipulando elementos com JavaScript\|Manipulando elementos com JavaScript]]
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar um formulário para entrada de dados e resolver [[Tecnico/Programador/Lógica/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]] com a saída na mesma página.
+>>> - Exercícios cap. 2 do livro Lógica com JavaScript - [Exercícios resolvidos no GitHub][exercicios]
+>
+>>[!note] Aula 3.01 - Lógica com JavaScript - condicionais
+>> - [x] Aula 3.01 - 2026-02-10 - Lógica com JavaScript - condicionais
+>> - [Controle de Fluxo e Manipulação de Erro - JavaScript \| MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
+>> - [JavaScript Conditionals](https://www.w3schools.com/js/js_conditionals.asp)
+>>>[!todo] 🖥️ Atividade:
+>>> - Criar um formulário para entrada de dados e resolver [[Tecnico/Programador/Lógica/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]] com a saída na mesma página.
+>>> - Exercícios cap. 3 do livro Lógica com JavaScript - [Exercícios resolvidos no GitHub][exercicios]
 
 ## Referências
 
@@ -199,4 +208,5 @@ gantt
 
 [github]: https://github.com/
 [livrohtml]: https://github.com/jocile/programadorweb2026/tree/main/livro
+[exercicios]: https://github.com/jocile/programadorweb2026/tree/main/exercicios
 [figma]: https://www.figma.com/pt-br/

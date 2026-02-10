@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-02-09T09:01:24.637-03:00"}
+{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-02-10T07:26:58.088-03:00"}
 ---
 
 #Lógica #Aulas #Senac
@@ -148,6 +148,12 @@ gantt
 >>>[!todo] 🖥️ Atividades:
 >>> - Criar um cadastro de cliente de banco do [[Tecnico/Programador/Desafios/sistema bancario/Sistema bancário com POO\|Sistema bancário com POO]]
 >>> - [Lógica-POO.ipynb - Colab](https://colab.research.google.com/drive/1JGKfZmweFa0bsoSIVNnB0ojj5_HwMyx_?usp=sharing)
+>
+>>[!note] Aula 15 - Revisão e avaliação
+>> - [x] Aula 15  - 2026.02.10 - Revisão e avaliação
+>> 
+>>>[!todo] 🖥️ Atividades:
+>>> - Resolver o desafio: [[Tecnico/Programador/Desafios/sistema bancario/Desafio bancario criando contas\|Desafio bancario criando contas]]
 
 ## Referências
 
