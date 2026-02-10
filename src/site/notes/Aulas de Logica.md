@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-02-10T07:26:58.088-03:00"}
+{"dg-publish":true,"permalink":"/aulas-de-logica/","title":"Lógica","metatags":{"description":"Curso Lógica de Programação"},"noteIcon":"default","updated":"2026-02-10T07:49:43.605-03:00"}
 ---
 
 #Lógica #Aulas #Senac
@@ -141,7 +141,7 @@ gantt
 >>>[!todo] 🖥️ Atividades:
 >>> - [Testes - Google Colab](https://colab.research.google.com/drive/1kguL7vtDrP4U7JUf4XAAMX-lyj83fPsU?usp=sharing)
 >
->>[!note] Aula 14 - Programação Orientada a Objetos
+>>[!note]- Aula 14 - Programação Orientada a Objetos
 >> - [x] Aula 14  - 2026.02.09 - [[Tecnico/Programador/Lógica/Logica da Programação Orientada a Objetos\|Logica da Programação Orientada a Objetos]]
 >> - [Programação Orientada a Objetos Com Python.pptx - Google Slides](https://docs.google.com/presentation/d/1kEnmWOIfKRnsmXrI80GXq9WeZLq7IcfJ/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> 
