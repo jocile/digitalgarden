@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-11T13:31:47.812-03:00"}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-11T16:53:03.579-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -194,21 +194,20 @@ gantt
 >
 >>[!note] Aula 3.02 - Loja virtual
 >> - [x] Aula 3.02 - 2026-02-11 - Loja virtual
->> - Criando uma loja virtual com JavaScript cap. 2 e 3 [📙 Ebook JavaScript com JQuery](https://drive.google.com/file/d/1b6FP0oD_IR6u2nC6andoQfmxDruUKYem/view?usp=sharing)
+>> - Criando uma loja virtual com JavaScript cap. 2 e 3
 >>>[!todo] 🖥️ Atividade:
->>> - Exercícios cap. 3 do livro JavaScript com JQuery - [Exercícios resolvidos no GitHub][exercicios]
+>>> - Exercícios cap. 3 do livro JavaScript com JQuery - [Exercícios resolvidos no GitHub](https://github.com/jocile/programadorweb2026/tree/main/livro-jsjquery/cap3) - [Visualizar Rogus - carrinho de compras](https://jocile.github.io/programadorweb2026/livro-jsjquery/cap3/cart.html)
 
 ## Referências
 
 - [📚 HTML Tutorial - W3 Schools](https://www.w3schools.com/html/default.asp)
 - [📁 github.com/jocile/programadorweb2026: Exercícios do curso de Programador Web do Senac 2026](https://github.com/jocile/programadorweb2026/)
-- [📁 github.com/jocile/webdesigner](https://github.com/jocile/webdesigner)
+- [📁 github.com/jocile/webdesigner](https://github.com/jocile/webdesigner) - [Visualizar WebDesigner](https://jocile.github.io/webdesigner/)
 - [JavaScript - MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [[Formacao/Formacao em Webdesign\|Formacao em Webdesign]]
 - [[Formacao/Webdesign/editores HTML online\|editores HTML online]]
-- [📘 Ebook de HTML5 e CSS3](https://drive.google.com/file/d/1m_uftVZ1YHoABiwQhPw1_L3i5kpDI1yD/view?usp=sharing)
-- [📙 Ebook Lógica com JavaScript](https://drive.google.com/file/d/17Y7pJYqA7hOptjr2Y8erGLdQ29IXvhUo/view?usp=sharing)
-- 
+
+
 
 [github]: https://github.com/
 [livrohtml]: https://github.com/jocile/programadorweb2026/tree/main/livro
