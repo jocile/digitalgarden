@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-10T16:52:33.266-03:00"}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-11T13:31:47.812-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -184,13 +184,19 @@ gantt
 >>> - Criar um formulário para entrada de dados e resolver [[Tecnico/Programador/Lógica/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]] com a saída na mesma página.
 >>> - Exercícios cap. 2 do livro Lógica com JavaScript - [Exercícios resolvidos no GitHub][exercicios]
 >
->>[!note] Aula 3.01 - Lógica com JavaScript - condicionais
+>>[!note]- Aula 3.01 - Lógica com JavaScript - condicionais
 >> - [x] Aula 3.01 - 2026-02-10 - Lógica com JavaScript - condicionais
 >> - [Controle de Fluxo e Manipulação de Erro - JavaScript \| MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
 >> - [JavaScript Conditionals](https://www.w3schools.com/js/js_conditionals.asp)
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar um formulário para entrada de dados e resolver [[Tecnico/Programador/Lógica/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]] com a saída na mesma página.
 >>> - Exercícios cap. 3 do livro Lógica com JavaScript - [Exercícios resolvidos no GitHub][exercicios]
+>
+>>[!note] Aula 3.02 - Loja virtual
+>> - [x] Aula 3.02 - 2026-02-11 - Loja virtual
+>> - Criando uma loja virtual com JavaScript cap. 2 e 3 [📙 Ebook JavaScript com JQuery](https://drive.google.com/file/d/1b6FP0oD_IR6u2nC6andoQfmxDruUKYem/view?usp=sharing)
+>>>[!todo] 🖥️ Atividade:
+>>> - Exercícios cap. 3 do livro JavaScript com JQuery - [Exercícios resolvidos no GitHub][exercicios]
 
 ## Referências
 
@@ -200,8 +206,9 @@ gantt
 - [JavaScript - MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [[Formacao/Formacao em Webdesign\|Formacao em Webdesign]]
 - [[Formacao/Webdesign/editores HTML online\|editores HTML online]]
-
-
+- [📘 Ebook de HTML5 e CSS3](https://drive.google.com/file/d/1m_uftVZ1YHoABiwQhPw1_L3i5kpDI1yD/view?usp=sharing)
+- [📙 Ebook Lógica com JavaScript](https://drive.google.com/file/d/17Y7pJYqA7hOptjr2Y8erGLdQ29IXvhUo/view?usp=sharing)
+- 
 
 [github]: https://github.com/
 [livrohtml]: https://github.com/jocile/programadorweb2026/tree/main/livro
