@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-11T16:53:03.579-03:00"}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-12T13:08:55.895-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -193,10 +193,19 @@ gantt
 >>> - Exercícios cap. 3 do livro Lógica com JavaScript - [Exercícios resolvidos no GitHub][exercicios]
 >
 >>[!note] Aula 3.02 - Loja virtual
->> - [x] Aula 3.02 - 2026-02-11 - Loja virtual
+>> - [x] Aula 3.02 - 2026-02-11 - Loja virtual com JavaScript
 >> - Criando uma loja virtual com JavaScript cap. 2 e 3
 >>>[!todo] 🖥️ Atividade:
 >>> - Exercícios cap. 3 do livro JavaScript com JQuery - [Exercícios resolvidos no GitHub](https://github.com/jocile/programadorweb2026/tree/main/livro-jsjquery/cap3) - [Visualizar Rogus - carrinho de compras](https://jocile.github.io/programadorweb2026/livro-jsjquery/cap3/cart.html)
+>>> - [📙 Ebook JavaScript com JQuery](https://drive.google.com/file/d/1b6FP0oD_IR6u2nC6andoQfmxDruUKYem/view?usp=sharing)
+>
+>>[!note] Aula 3.03 - Introdução ao JQuery
+>> - [x] Aula 3.03 - 2026-02-12 Introdução ao [[Formacao/JavaScript/JQuery\|JQuery]] e ao [[Formacao/JavaScript/json\|json]]
+>> - [JQuery](https://api.jquery.com/)
+>> - [jQuery Introduction](https://www.w3schools.com/jquery/jquery_intro.asp)
+>> - [Getting Started with jQuery UI - jQuery Learning Center](https://learn.jquery.com/jquery-ui/getting-started/)
+>>>[!todo] 🖥️ Atividade:
+>>> - Exercícios cap. 5 do livro JavaScript com JQuery - [Exercícios resolvidos no GitHub](https://github.com/jocile/programadorweb2026/tree/main/livro-jsjquery/cap3) - [Visualizar Rogus - carrinho de compras](https://jocile.github.io/programadorweb2026/livro-jsjquery/cap3/cart.html)
 
 ## Referências
 

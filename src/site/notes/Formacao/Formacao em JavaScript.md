@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-java-script/","title":"Formação em JavaScript","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T22:48:05.325-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-java-script/","title":"Formação em JavaScript","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2026-02-12T10:25:27.756-03:00"}
 ---
 
 #JavaScript #mapa #Lógica #Formação #web-developer
@@ -20,7 +20,7 @@
 > - Primeiros Passos Com JavaScript
 > - Conhecendo Funções JavaScript
 > - Criando Objetos e Classes em JavaScript
-> - Arrays e Estruturas de Repetição em javascript
+> - Arrays e Estruturas de [[Formacao/JavaScript/Repeticoes com JavaScript\|Repeticoes com JavaScript]]
 > - Importação e Exportação com JavaScript
 > - Consolide Seu Conhecimento com Desafios de Código JavaScript
 > - Desafios de Código - Formação JavaScript Developer
@@ -41,4 +41,7 @@
 > - Criando e Estilizando uma Página de Portfólio Profissional com CSS e
 > - Desafio de projeto - Publicando Seu Portfólio Profissional no GitHub Pages
 
-[[Formacao/Formacao Overview\|Formacao Overview]]
+## Referências
+
+- [[Formacao/Formacao Overview\|Formacao Overview]]
+- [[Programador Web 2026\|Programador Web 2026]]
