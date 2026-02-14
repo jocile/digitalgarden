@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-13T13:32:38.651-03:00"}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-13T22:11:26.227-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -191,13 +191,13 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar um formulário para entrada de dados e resolver [[Tecnico/Programador/Lógica/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]] com a saída na mesma página.
 >>> - Exercícios cap. 3 do livro Lógica com JavaScript - [Exercícios resolvidos no GitHub][exercicios]
+>>> - [[Formacao/JavaScript/Calculo do IMC com JavaScript\|Calculo do IMC com JavaScript]]
 >
 >>[!note]- Aula 3.02 - Loja virtual
 >> - [x] Aula 3.02 - 2026-02-11 - Loja virtual com JavaScript
 >> - Criando uma loja virtual com JavaScript cap. 2 e 3
 >>>[!todo] 🖥️ Atividade:
 >>> - Exercícios cap. 3 do livro JavaScript com JQuery - [Exercícios resolvidos no GitHub](https://github.com/jocile/programadorweb2026/tree/main/livro-jsjquery/cap3) - [Visualizar Rogus - carrinho de compras](https://jocile.github.io/programadorweb2026/livro-jsjquery/cap3/cart.html)
->>> - [📙 Ebook JavaScript com JQuery](https://drive.google.com/file/d/1b6FP0oD_IR6u2nC6andoQfmxDruUKYem/view?usp=sharing)
 >
 >>[!note]- Aula 3.03 - Introdução ao JQuery
 >> - [x] Aula 3.03 - 2026-02-12 Introdução ao [[Formacao/JavaScript/JQuery\|JQuery]] e ao [[Formacao/JavaScript/json\|json]]
@@ -208,12 +208,10 @@ gantt
 >>> - Exercícios cap. 5 do livro JavaScript com JQuery - [Exercícios resolvidos no GitHub](https://github.com/jocile/programadorweb2026/tree/main/livro-jsjquery/cap5) - [Visualizar Rogus - carrinho de compras com JQuery](https://jocile.github.io/programadorweb2026/livro-jsjquery/cap5/cart.html)
 >
 >>[!note] Aula 3.04 - Introdução a APIs Web
->> - [x] Aula 3.04 - 2026-02-13 Introdução a APIs Web, [[Formacao/JavaScript/Fetch API\|Fetch API]], Ajax e ao [[Formacao/JavaScript/json\|json]]
->> - [Web APIs](https://www.w3schools.com/js/js_api_intro.asp)
->> - [Ajax - jQuery Learning Center](https://learn.jquery.com/ajax/)
+>> - [x] Aula 3.04 - 2026-02-13 Introdução a  [Web APIs](https://www.w3schools.com/js/js_api_intro.asp), [[Formacao/JavaScript/Fetch API\|Fetch API]], Ajax e ao [[Formacao/JavaScript/json\|json]]
+>>
 >>>[!todo] 🖥️ Atividade:
->>> - [[Formacao/JavaScript/Calculo do IMC com JavaScript\|Calculo do IMC com JavaScript]]
->>> - [[Formacao/JavaScript/Exemplo api ibge\|Exemplo api ibge]]
+>>> - [[Formacao/JavaScript/Exemplo api ibge\|Exemplo api ibge]] - [Código no GitHub](https://github.com/jocile/programadorweb2026/blob/main/exercicios/ibge.html) - [Visualizar Cidades do Ceará](https://jocile.github.io/programadorweb2026/exercicios/ibge.html)
 >>> - [JSFiddle - Code Playground](https://jsfiddle.net/)
 
 ## Referências
