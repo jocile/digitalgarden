@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-php/","title":"Formação em PHP","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T22:48:19.096-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-php/","title":"Formação em PHP","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2026-02-14T00:41:47.459-03:00"}
 ---
 
 #PHP #mapa #Lógica #Formação #web-developer
@@ -14,8 +14,8 @@
 ![Formacao em PHP-1758579358036.png](/img/user/Formacao/Formacao%20em%20PHP-1758579358036.png)
 
 
->[!check]- Desafios de projeto:
-> - [ ] Laravel: Construindo uma API do Zero
+>[!check] Desafios de projeto:
+> - [x] [Laravel: Construindo uma API do Zero](https://github.com/jocile/laravel-api) 
 
 > [!summary]- Fundamentos de Desenvolvimento de Software com PHP
 > - Introdução ao Desenvolvimento Moderno de Software
@@ -36,5 +36,28 @@
 > - Introdução a APIs e REST com PHP
 > - Desenvolvimento Avançado em PHP
 > - Desafio de projeto - Laravel: Construindo uma API do Zero
+
+## SPTech Desenvolvimento Back-end
+
+**Horas-aula**:: 73:00
+**Habilidades**:: Lógica, PHP, Git, Arquitetura, Scrum
+**Link**:: [SPTech Desenvolvimento Back-end](https://web.dio.me/track/sp-tech-desenvolvimento-back-end)
+
+> [!summary]- Conteúdo
+> - Lógica de Programação Essencial
+> - Introdução ao Git e ao GitHub
+> - Fundamentos de Arquitetura de Sistemas
+> - Introdução ao domain driven design e padrões de arquitetura
+> - Programação para internet com HTML5 e CSS3
+> - Construindo páginas para internet com Bootstrap
+> - Arquitetura de Sistemas Avançado
+> - Expert Lesson: Arquitetura Hexagonal: mantendo aplicações saudáveis
+> - Projetos ágeis com SCRUM
+> - Introdução ao PHP
+> - Formulários com condicionais e sessões com PHP
+> - Conhecendo funções e validação de dados com PHP
+> - Conceitos e Melhores Práticas com Bancos de Dados PostgreSQL
+> - Orientação a Objetos, Exceções e Banco de Dados com PHP
+> - Desenvolvimento Avançado em PHP
 
 [[Formacao/Formacao Overview\|Formacao Overview]]

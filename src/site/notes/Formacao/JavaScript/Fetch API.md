@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/java-script/fetch-api/","metatags":{"description":"permite que uma página web se comunique com servidores para buscar ou enviar dados sem a necessidade de recarregar"},"noteIcon":2,"updated":"2026-02-13T09:48:06.930-03:00"}
+{"dg-publish":true,"permalink":"/formacao/java-script/fetch-api/","metatags":{"description":"permite que uma página web se comunique com servidores para buscar ou enviar dados sem a necessidade de recarregar"},"noteIcon":2,"updated":"2026-02-14T01:22:31.424-03:00"}
 ---
 
 #JavaScript #Webdesign
@@ -33,7 +33,6 @@ Abaixo estão os pontos principais sobre o funcionamento e a utilização desta 
 - **Interface Padronizada:** Diferente de abordagens anteriores que exigiam códigos diferentes para navegadores distintos, a Fetch API oferece uma estrutura padronizada para lidar com o intercâmbio de dados.
 - **Integração com o DOM:** Os dados recebidos via `fetch` podem ser iterados (usando loops como `for`) para criar dinamicamente novos elementos HTML, como preencher uma lista de seleção (`<select>`) com opções vindas de um serviço externo.
 
-
 ## Diferença entre o Ajax e Fetch
 
 A principal diferença entre os dois reside na sua natureza: o **fetch** é uma interface moderna e **nativa** do JavaScript para realizar requisições de rede assíncronas, enquanto o **$.ajax** é um método pertencente à **biblioteca de terceiros jQuery**.
@@ -53,7 +52,7 @@ Abaixo estão detalhadas as principais distinções técnicas e contextuais:
 ### 3. Performance e Peso
 
 - **Peso da Biblioteca:** Para usar o `$.ajax`, é necessário carregar a biblioteca jQuery, que adiciona entre **30KB e 90KB** ao peso da página, o que pode ser prejudicial em conexões móveis ou redes lentas. O `fetch`, por ser nativo, tem "peso zero" de carregamento.
-- **Velocidade:** Em navegadores modernos, a utilização de métodos nativos (JavaScript puro) pode ser significativamente mais rápida — em alguns casos de leitura e modificação de elementos, até **11 vezes mais rápida** que o jQuery.
+- **Velocidade:** Em navegadores modernos, a utilização de métodos nativos (JavaScript puro) pode be significativamente mais rápida — em alguns casos de leitura e modificação de elementos, até **11 vezes mais rápida** que o jQuery.
 
 ### 4. Compatibilidade
 
@@ -71,7 +70,7 @@ Neste cenário, quando um usuário escolhe um estado em um formulário (evento `
 
 **2. Manipulação do DOM com os Dados:** Após receber o JSON, o código percorre a lista de cidades usando um laço `for`. Para cada item, o JavaScript cria dinamicamente um novo elemento HTML do tipo **`<option>`**, preenche seu valor com o ID da cidade e seu texto visível com o nome, adicionando-o em seguida a um campo de seleção (`<select>`) na página,.
 
-A **Estrutura da Requisição (GET)** utilizando a **Fetch API** é o método moderno e padronizado para solicitar informações de um servidor de forma assíncrona, garantindo que o site continue funcional enquanto os dados são carregados.
+A **Estrutura da Requisição (GET)** utilizando a **Fetch API** é o método moderno e padronizado para solicitar informações de um servidor de forma assíncrona, garantindo que o site continue funcional enquanto os dados are carregados.
 
 Diferente de métodos antigos ou bibliotecas como jQuery, a Fetch API utiliza uma estrutura baseada em **Promessas (Promises)** para gerenciar o tempo de espera da resposta do servidor. Abaixo, detalhamos os componentes dessa estrutura:
 
@@ -82,17 +81,51 @@ A requisição começa com a função `fetch()`, que recebe como parâmetro obri
 - **Exemplo Prático (IBGE):** Para buscar cidades, a URL é composta por um endereço base somado à sigla do estado escolhido pelo usuário (ex: `.../estados/SP/municipios`).
 - **Natureza Assíncrona:** Ao disparar o `fetch()`, o navegador inicia a conexão em "segundo plano", permitindo que o usuário continue interagindo com a página (rolando a tela ou clicando em outros botões) sem travamentos.
 
-Exemplo html:
-
-![Fetch API-1770986080061.png](/img/user/Formacao/JavaScript/Fetch%20API-1770986080061.png)
-
-Exemplo css:
-
-![Fetch API-1770986365213.png](/img/user/Formacao/JavaScript/Fetch%20API-1770986365213.png)
-
 Exemplo JavaScript:
 
+```javascript
+// 1. URL para obter os estados ordenados por nome
+const urlEstados = 'https://servicodados.ibge.gov.br/api/v1/localidades/estados?orderBy=nome';
 
+const ufSelect = document.getElementById('uf');
+const municipioSelect = document.getElementById('municipios');
+
+// 2. Preencher o select de estados assim que a página carregar
+fetch(urlEstados)
+  .then(response => response.json())
+  .then(data => {
+    let itens = '<option value="">Selecione o Estado</option>';
+    data.forEach(val => {
+      itens += `<option value="${val.sigla}">${val.sigla} - ${val.nome}</option>`;
+    });
+    ufSelect.innerHTML = itens;
+  })
+  .catch(error => {
+    console.error("Erro ao carregar estados:", error);
+    ufSelect.innerHTML = '<option>Erro ao carregar</option>';
+  });
+
+// 3. Carregar os municípios quando um estado for selecionado
+ufSelect.addEventListener('change', function () {
+  let uf = this.value;
+  if (!uf) return;
+  let url = `https://servicodados.ibge.gov.br/api/v1/localidades/estados/${uf}/municipios`;
+
+  fetch(url)
+    .then(response => response.json())
+    .then(data => {
+      let conteudo = '<option value="">Selecione o Município</option>';
+      data.forEach(val => {
+        conteudo += `<option value="${val.id}">${val.nome}</option>`;
+      });
+      municipioSelect.innerHTML = conteudo;
+    })
+    .catch(error => {
+      console.error("Erro ao carregar municípios:", error);
+      municipioSelect.innerHTML = '<option>Erro ao carregar</option>';
+    });
+});
+```
 
 ### 2. O Primeiro Contato: O Objeto `response`
 
@@ -101,6 +134,23 @@ Como a rede pode demorar, o `fetch()` retorna uma "promessa" de resposta. Quando
 - **Metadados:** Este primeiro estágio recebe um objeto de resposta bruto, que contém não apenas os dados solicitados, mas também informações de controle, como o **status da conexão** (se deu certo ou se houve erro 404) e os cabeçalhos de configuração.
 - **Extração do Conteúdo:** Para chegar aos dados reais (como a lista de cidades), é necessário extrair a parte textual da resposta. O comando mais comum é o **`response.json()`**, que transforma o texto recebido em um objeto JavaScript manipulável.
 
+Exemplo:
+
+```javascript
+fetch('https://servicodados.ibge.gov.br/api/v1/localidades/estados')
+  .then(response => {
+    // O objeto 'response' contém detalhes da resposta do servidor
+    console.log('Status HTTP:', response.status); // Ex: 200
+    console.log('Sucesso (ok):', response.ok);   // true se status entre 200-299
+    
+    // Verificando um cabeçalho específico
+    console.log('Tipo do conteúdo:', response.headers.get('Content-Type'));
+
+    // Extraindo o corpo da resposta como JSON para o próximo .then()
+    return response.json();
+  });
+```
+
 ### 3. O Recebimento dos Dados: O Segundo `.then()`
 
 Uma vez que o processamento do JSON é concluído (o que também leva um tempo mínimo), um **segundo `.then()`** é executado.
@@ -108,23 +158,110 @@ Uma vez que o processamento do JSON é concluído (o que também leva um tempo m
 - **Manipulação Real:** É dentro deste bloco que a lógica de programação ganha vida. Aqui, os dados já estão convertidos e prontos para serem usados, por exemplo, para preencher um campo de seleção (`<select>`) ou exibir uma mensagem na tela.
 - **Registro de Ações:** Este estágio funciona como um registro: o programador define o que _será feito_ assim que os dados estiverem disponíveis, sem interromper o fluxo do código principal.
 
+Exemplo:
+
+```javascript
+fetch('https://servicodados.ibge.gov.br/api/v1/localidades/estados')
+  .then(response => response.json()) // Primeiro .then(): extrai o JSON
+  .then(data => {
+    // Segundo .then(): os dados estão prontos!
+    // 'data' é o array de objetos que o servidor enviou
+    console.log('Dados recebidos:', data);
+
+    // Exemplo de uso: listando os nomes dos estados no console
+    data.forEach(estado => {
+      console.log(`Estado: ${estado.nome} - Sigla: ${estado.sigla}`);
+    });
+
+    // Aqui você poderia atualizar elementos HTML com os dados
+  });
+```
+
+O exemplo demonstra como os dados (já convertidos para objeto JavaScript no primeiro `.then()`) são manipulados no segundo bloco, utilizando um `forEach` para listar estados no console.
+
 ### 4. Tratamento de Falhas: O Método `.catch()`
 
 Embora a estrutura básica foque no sucesso, uma requisição profissional deve prever falhas (como queda de internet ou servidor fora do ar). Para isso, utiliza-se o método **`.catch()`** ao final da corrente, que captura qualquer erro ocorrido em qualquer uma das etapas anteriores.
 
 Essa estrutura em "cascata" (encadeamento) torna o código mais limpo e fácil de ler do que as abordagens antigas baseadas em múltiplos _callbacks_ aninhados.
 
+Exemplo:
+
+```javascript
+fetch('https://api.exemplo.com/dados')
+  .then(response => {
+    // Importante: o fetch não rejeita automaticamente erros HTTP (como 404 ou 500)
+    // O .catch só é disparado sozinho em falhas de rede (ex: sem internet).
+    // Por isso, verificamos a propriedade .ok e lançamos um erro manualmente se necessário.
+    if (!response.ok) {
+      throw new Error(`Erro HTTP! Status: ${response.status}`);
+    }
+    return response.json();
+  })
+  .then(data => {
+    console.log('Dados recebidos:', data);
+  })
+  .catch(error => {
+    // Este bloco captura:
+    // 1. Falhas de conexão/rede
+    // 2. Erros lançados manualmente com 'throw new Error' no .then anterior
+    // 3. Erros de sintaxe ou processamento dentro dos .then()
+    console.error('Ocorreu um erro na requisição:', error.message);
+  });
+```
+
+
 ## Envio de Dados (POST)
 
-Além de buscar informações, a Fetch API também pode ser configurada para **enviar dados** a um banco de dados,.
+Além de buscar informações, a Fetch API também pode ser configurada para **enviar dados** a um banco de dados.
 
 - Nesse caso, a função `fetch()` recebe um segundo parâmetro de configuração.
 - Deve-se especificar o **`method: 'POST'`** e o **`body`**, que contém as informações do formulário (como comentários ou cadastros) que serão gravadas no servidor.
 
-Essa abordagem garante uma experiência de usuário fluida, pois o navegador continua operacional enquanto o JavaScript realiza o intercâmbio de dados em "segundo plano",.
+Essa abordagem garante uma experiênciade usuário fluida, pois o navegador continua operacional enquanto o JavaScript realiza o intercâmbio de dados em "segundo plano".
+
+Exemplo:
+
+```javascript
+const url = 'https://jsonplaceholder.typicode.com/posts'; // Exemplo de API pública para testes
+
+// Dados que serão enviados
+const novoPost = {
+  title: 'Aprendendo Fetch API',
+  body: 'Este é um exemplo de envio de dados usando o método POST.',
+  userId: 1
+};
+
+fetch(url, {
+  method: 'POST', // Define o método como POST
+  headers: {
+    'Content-Type': 'application/json' // Indica que o conteúdo é um JSON
+  },
+  body: JSON.stringify(novoPost) // Converte o objeto JS em string JSON
+})
+  .then(response => {
+    if (!response.ok) {
+      throw new Error('Erro na rede ou no servidor');
+    }
+    return response.json();
+  })
+  .then(data => {
+    console.log('Sucesso! Resposta do servidor:', data);
+    // Aqui você pode atualizar a interface para confirmar o envio
+  })
+  .catch(error => {
+    console.error('Houve um problema com a requisição:', error);
+  });
+```
+
+**Principais detalhes do exemplo:**
+1.  **`method`**: Define que a operação é de criação/envio de dados.
+2.  **`headers`**: O cabeçalho `Content-Type: application/json` é essencial para que o servidor saiba como interpretar os dados recebidos.
+3.  **`body`**: Os dados devem ser enviados como uma string. O método `JSON.stringify()` faz essa conversão automaticamente para nós.
 
 ## Referências
 
+- [[Formacao/JavaScript/Exemplo api ibge\|Exemplo api ibge]]
 - [Realizando requisições Ajax em diferentes sistemas com a Fetch API do JavaScript - YouTube](https://www.youtube.com/watch?v=XHLb3yCIhdc)
 - [API IBGE - Listando municípios por UF - Javascript - YouTube](https://www.youtube.com/watch?v=_mD8JKi5YCE)
 - [JavaScript Fetch API](https://www.w3schools.com/js/js_api_fetch.asp)

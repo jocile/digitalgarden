@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-java-script/","title":"Formação em JavaScript","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2026-02-12T10:25:27.756-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-java-script/","title":"Formação em JavaScript","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2026-02-14T00:19:02.667-03:00"}
 ---
 
 #JavaScript #mapa #Lógica #Formação #web-developer
@@ -43,5 +43,6 @@
 
 ## Referências
 
+- [Repositório de Referência da Trilha "JavaScript Developer".](https://github.com/digitalinnovationone/javascript-developer-m1)
 - [[Formacao/Formacao Overview\|Formacao Overview]]
 - [[Programador Web 2026\|Programador Web 2026]]

@@ -1,42 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cursos/","title":"Cursos","metatags":{"description":"Programação de Cursos no Senac Ceará em Sobral"},"contentClasses":"cards cards-cols-3 cards-cover","tags":["curso","Senac","mapa"],"noteIcon":"default","updated":"2025-09-29T08:03:24.367-03:00"}
+{"dg-publish":true,"permalink":"/cursos/","title":"Cursos","metatags":{"description":"Programação de Cursos no Senac Ceará em Sobral"},"contentClasses":"cards cards-cols-3 cards-cover","tags":["curso","Senac","mapa"],"noteIcon":"default","updated":"2026-02-14T08:50:49.316-03:00"}
 ---
 
 
->[!note]- 📢  Recepcionista de Eventos 👩🏻 (gratuito)
-> Curso voltado à formação de profissionais qualificados para atuar na recepção de eventos, com foco em atendimento ao público, orientação de participantes e execução de procedimentos operacionais. O participante será capacitado para prestar informações com clareza, acolher os convidados com cordialidade e garantir uma recepção eficiente e bem organizada.
-> 
-> - 🗓️ Período: 06/10/2025 a 01/12/2025
-> - 📝 Segunda a Sexta
-> - ⏰ 18h às 21h10  
-> - 📍 Local: Senac Sobral
->
->>[!info] Inscrições presenciais ou link ⬇️
->> - [Senac PSG](https://psg.ce.senac.br/oportunidade/recepcionista-de-eventos-2/)
 
->[!note]- 📢  Massagista 💆🏻‍♂️(gratuito)
->
-> Curso voltado à capacitação de profissionais na aplicação de técnicas de massagem e terapias corporais. O participante será preparado para atuar com segurança e eficiência, promovendo o bem-estar físico e emocional por meio de manobras adequadas às diferentes regiões do corpo, respeitando os princípios da anatomia, higiene e ética profissional.
->
-> - 🗓️ Período: 13/10/2025 a 06/01/2025 
-> - 📝 Segunda a Sexta
-> - ⏰ 13h30 às 17h  
-> - 📍 Local: Senac Sobral
->
->>[!info] Inscrições via link ⬇️
->> - [Senac PSG](https://psg.ce.senac.br/oportunidade/massagista-2/)
-
->[!note]- 📢  Organizador de Eventos 👩🏻‍💼
->
-> Curso destinado à qualificação de profissionais para planejar, organizar e executar eventos de pequeno e médio porte. O participante será capacitado para atuar em todas as etapas do processo, utilizando estratégias eficazes de elaboração de projetos, captação de recursos, marketing, logística e coordenação operacional, garantindo a realização de eventos bem-sucedidos e alinhados aos objetivos do cliente.
->
-> - 🗓️ Período: 06/10/2025 a 08/12/2025 
-> -📝 Segunda a Sexta
-> -⏰ 13h30 às 17h  
-> -📍 Local: Senac Sobral
->
->>[!info] Inscrições via link ⬇️
->> - [Senac PSG](https://psg.ce.senac.br/oportunidade/organizador-de-eventos-3/)
 
 >[!info]- Maiores informações de cursos no Senac
 >

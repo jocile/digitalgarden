@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-01-28T15:16:57.540-03:00"}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-02-14T09:11:34.654-03:00"}
 ---
 
 ## Olá 👋
@@ -37,8 +37,11 @@ Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de t
 
 | File                                                                                                                   | 📄 Descrição                                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| [[Formacao/JavaScript/JQuery\|JQuery]]                                                                              | é uma biblioteca JavaScript poderosa e amplamente adotada                                                                          |
+| [[Formacao/JavaScript/Calculo do IMC com JavaScript\|Calculo do IMC com JavaScript]]                                | é uma biblioteca JavaScript poderosa e amplamente adotada                                                                          |
+| [[Formacao/JavaScript/Exemplo api ibge\|Exemplo api ibge]]                                                          | utilizando a API do IBGE com JavaScript                                                                                            |
+| [[Formacao/JavaScript/Fetch API\|Fetch API]]                                                                        | permite que uma página web se comunique com servidores para buscar ou enviar dados sem a necessidade de recarregar                 |
 | [[Formacao/JavaScript/json\|json]]                                                                                  | é um formato leve de intercâmbio de dados                                                                                          |
+| [[Formacao/JavaScript/JQuery\|JQuery]]                                                                              | é uma biblioteca JavaScript poderosa e amplamente adotada                                                                          |
 | [[Tecnico/Programador/Lógica/Logica da Programação Orientada a Objetos\|Logica da Programação Orientada a Objetos]] | plataforma gratuita baseada em nuvem que permite aos usuários escrever e executar código Python diretamente em um navegador da web |
 | [[Formacao/Logica/Matriz\|Matriz]]                                                                                  | essencialmente, uma coleção de dados organizada em linhas e colunas                                                                |
 | [[Formacao/Python/Estruturas/Dicionarios em Python\|Dicionarios em Python]]                                         | criação de as coleções de dados                                                                                                    |
@@ -46,9 +49,6 @@ Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de t
 | [[Formacao/JavaScript/Girar formulario com javascript\|Girar formulario com javascript]]                            | Exemplos de animação de formunlário com JavaScript                                                                                 |
 | [[Formacao/Webdesign/Exercicio JavaSript cap6\|Exercicio JavaSript cap6]]                                           | Exemplos de manipulação de posicionamento do CSS                                                                                   |
 | [[Formacao/Webdesign/Novidades do html5\|Novidades do html5]]                                                       | possui campos para coletar informações dos usuários                                                                                |
-| [[Formacao/Webdesign/Proposta de site\|Proposta de site]]                                                           | como personalizar elementos da sua página web                                                                                      |
-| [[Formacao/Webdesign/Proposta de site2\|Proposta de site2]]                                                         | como personalizar elementos da sua página web                                                                                      |
-| [[Programador Web 2026\|Programador Web 2026]]                                                                      | Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB                                                      |
 
 <!-- SerializedQuery END -->
 
@@ -67,12 +67,56 @@ Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de t
 
 Alguns dizem que existem três tipos diferentes de anotadores: o arquiteto, o jardineiro, e o bibliotecário. Em poucas palavras, arquitetos gostam de planejar, jardineiros gostam de cultivar e bibliotecários gostam de colecionar.
 
-Este site é um "[jardim digital](https://obsidian.rocks/maps-of-content-effortless-organization-for-notes/#What-is-a-digital-garden)", onde as notas são "cultivadas", e seu nível de maturidade é representado por ícones de plantas que representam o seu crescimento:
+>[!note]- Jardim digital
+> Este site é um "[jardim digital](https://obsidian.rocks/maps-of-content-effortless-organization-for-notes/#What-is-a-digital-garden)", onde as notas são "cultivadas", e seu nível de maturidade é representado por ícones de plantas que representam o seu crescimento:
+>
+> - Mudas ( ![Maturity Level: 1|14](https://jocile.com/img/tree-1.svg) ) são pensamentos que mal começaram. Talvez tenham sido anotados às pressas ou simplesmente tenham mostrado apenas uma breve amostra do que pensei sobre elas.
+> - Plantas ( ![Maturity Level: 2|14](https://jocile.com/img/tree-2.svg) ) têm uma quantidade substancial de conteúdo, mas ainda há muito trabalho a ser feito. Coerência e padrões estão apenas emergindo.
+> - Árvores ( ![Maturity Level: 3|14](https://jocile.com/img/tree-3.svg) ) são pedaços coerentes de pensamento/ensaio/expressão que não devem mudar muito, exceto por alguns aprimoramentos editoriais.
+> - Mapas de conteúdo ( ![Maturity Level: 4|14](https://jocile.com/img/default-note-icon.svg) ) são pontos de referência informativos sobre o caminho, geralmente contendo links.
 
-- Mudas ( ![Maturity Level: 1|14](https://jocile.com/img/tree-1.svg) ) são pensamentos que mal começaram. Talvez tenham sido anotados às pressas ou simplesmente tenham mostrado apenas uma breve amostra do que pensei sobre elas.
-- Plantas ( ![Maturity Level: 2|14](https://jocile.com/img/tree-2.svg) ) têm uma quantidade substancial de conteúdo, mas ainda há muito trabalho a ser feito. Coerência e padrões estão apenas emergindo.
-- Árvores ( ![Maturity Level: 3|14](https://jocile.com/img/tree-3.svg) ) são pedaços coerentes de pensamento/ensaio/expressão que não devem mudar muito, exceto por alguns aprimoramentos editoriais.
-- Mapas de conteúdo ( ![Maturity Level: 4|14](https://jocile.com/img/default-note-icon.svg) ) são pontos de referência informativos sobre o caminho, geralmente contendo links.
+
+</div></div>
+
+
+---
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/about/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+>[!note]- A organização
+> A organização do site é altamente estruturada e categorizada por domínios de conhecimento e aplicação prática, utilizando uma hierarquia clara de pastas:
+> - **Formacao/**: Centraliza o aprendizado técnico, subdividido por linguagens (Python, JS, PHP) e áreas modernas como Inteligência Artificial e UX Design.
+> - **Tecnico/ e Senac/**: Pastas dedicadas ao exercício da docência, contendo planos de aula, cronogramas, listas de alunos e materiais de apoio pedagógico.
+> - **[[Teologia\|Teologia]]/**: Uma seção extensa e bem organizada dedicada a estudos bíblicos, com divisões por temas como [[Teologia/Escatologia\|Escatologia]], [[Teologia/Cristologia/Introducao da Cristologia\|Cristologia]] e Bibliografia específica.
+> - **ia/**: Uma seção dedicada à integração de IA, armazenando [[Formacao/Inteligencia Artificial/Prompts\|Prompts]] customizados e históricos de conversas, indicando um fluxo de trabalho assistido por inteligência artificial.
+
+>[!note]- Preferências
+>- A preferência é por notas estruturadas e modulares, valorizando a aplicação prática do conhecimento.
+>- O uso frequente de pastas como 'Desafios', 'Prática' e 'Projetos' tem um foco em exemplos acionáveis, tutoriais passo a passo e exercícios.
+>- O estilo de escrita tende a ser técnico e instrutivo, mantendo a clareza necessária para o ensino. Há um forte uso de ferramentas visuais (Excalidraw, Canvas) e automação (Copilot, [[Formacao/Inteligencia Artificial/Prompts\|Prompts]] customizados), que inclui o uso de [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]], precisos e capazes de lidar com contextos técnicos complexos, mantendo a organização rigorosa do site.
+
+>[!note]- Ferramentas utilizadas
+> - As notas são escritas em [[Formacao/Webdesign/markdown\|markdown]];
+> - Organizadas com [[Tecnico/Ferramentas/Obsidian\|Obsidian]] e seus poderosos [[Tecnico/Ferramentas/Plugins do Obsidian\|plugins]];
+> - O conteúdo é enriquecido por [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]] como [[Formacao/Inteligencia Artificial/ferramentas de IA/Notebooklm\|Notebooklm]], [Copilot](https://www.obsidiancopilot.com/en), [Gemini](https://github.com/allenhutchison/obsidian-gemini), e local com [[Formacao/Inteligencia Artificial/ferramentas de IA/Ollama\|Ollama]]
+> - O código fonte é salvo no [GitHub - jocile/digitalgarden](https://github.com/jocile/digitalgarden) e publicado na [Vercel](https://vercel.com/), usando o plugin [Digital-garden](https://github.com/oleeskild/obsidian-digital-garden)
+> - Recomendações ou problemas podem ser relatados em [issues](https://github.com/jocile/digitalgarden/issues).
+
+>[!note]- Tópicos
+> - Desenvolvimento de Software (Python, JavaScript, PHP, React)
+> - Inteligência Artificial (Engenharia de [[Formacao/Inteligencia Artificial/Prompts\|Prompts]], [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]], LLMs, [[Formacao/Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]])
+> - Educação e Didática Técnica (Metodologias de ensino, Planejamento de aulas para o Senac)
+> - Cibersegurança e Redes (CyberOps, Protocolos IP, Administração de sistemas [[Tecnico/Assistente-de-TI/Linux\|Linux]]/Windows)
+> - [[Teologia\|Teologia]] Sistêmica ([[Teologia/Escatologia\|Escatologia]], Cristologia, História dos Hebreus)
+> - Design e [[Webdesign\|Webdesign]] (UX Design, [[Formacao/Webdesign/CSS/CSS\|CSS]], [[Formacao/Webdesign/Bootstrap\|Bootstrap]], Ferramentas visuais)
+> - Gestão de Conhecimento (Uso avançado de [[Tecnico/Ferramentas/Obsidian\|Obsidian]], Canvas, Excalidraw)
+
+[[Lista de topicos\|🔍 Lista de tópicos]]
 
 
 </div></div>
@@ -87,40 +131,7 @@ Este site é um "[jardim digital](https://obsidian.rocks/maps-of-content-effortl
 
 
 
->[!note]- 📢  Recepcionista de Eventos 👩🏻 (gratuito)
-> Curso voltado à formação de profissionais qualificados para atuar na recepção de eventos, com foco em atendimento ao público, orientação de participantes e execução de procedimentos operacionais. O participante será capacitado para prestar informações com clareza, acolher os convidados com cordialidade e garantir uma recepção eficiente e bem organizada.
-> 
-> - 🗓️ Período: 06/10/2025 a 01/12/2025
-> - 📝 Segunda a Sexta
-> - ⏰ 18h às 21h10  
-> - 📍 Local: Senac Sobral
->
->>[!info] Inscrições presenciais ou link ⬇️
->> - [Senac PSG](https://psg.ce.senac.br/oportunidade/recepcionista-de-eventos-2/)
 
->[!note]- 📢  Massagista 💆🏻‍♂️(gratuito)
->
-> Curso voltado à capacitação de profissionais na aplicação de técnicas de massagem e terapias corporais. O participante será preparado para atuar com segurança e eficiência, promovendo o bem-estar físico e emocional por meio de manobras adequadas às diferentes regiões do corpo, respeitando os princípios da anatomia, higiene e ética profissional.
->
-> - 🗓️ Período: 13/10/2025 a 06/01/2025 
-> - 📝 Segunda a Sexta
-> - ⏰ 13h30 às 17h  
-> - 📍 Local: Senac Sobral
->
->>[!info] Inscrições via link ⬇️
->> - [Senac PSG](https://psg.ce.senac.br/oportunidade/massagista-2/)
-
->[!note]- 📢  Organizador de Eventos 👩🏻‍💼
->
-> Curso destinado à qualificação de profissionais para planejar, organizar e executar eventos de pequeno e médio porte. O participante será capacitado para atuar em todas as etapas do processo, utilizando estratégias eficazes de elaboração de projetos, captação de recursos, marketing, logística e coordenação operacional, garantindo a realização de eventos bem-sucedidos e alinhados aos objetivos do cliente.
->
-> - 🗓️ Período: 06/10/2025 a 08/12/2025 
-> -📝 Segunda a Sexta
-> -⏰ 13h30 às 17h  
-> -📍 Local: Senac Sobral
->
->>[!info] Inscrições via link ⬇️
->> - [Senac PSG](https://psg.ce.senac.br/oportunidade/organizador-de-eventos-3/)
 
 >[!info]- Maiores informações de cursos no Senac
 >

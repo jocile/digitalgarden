@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-logica/","title":"Formação em Lógica","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2026-01-20T22:38:16.961-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-logica/","title":"Formação em Lógica","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2026-02-14T00:04:24.967-03:00"}
 ---
 
 #JavaScript #Formação #mapa #Lógica #web-developer 
@@ -63,11 +63,29 @@
 > - Combinando Nomes de Pokémons
 > - Gerenciamento de Itens Mágicos
 
-> [!summary]- Esturas de Dados e Objetos
+> [!summary]- Estruturas de Dados e Objetos
 > - Introdução Ao Mundo Dos Objetos
 > - Estrutura de Dados JSON
 > - O Que São Classes e Objetos 
 > - Desafio de projeto: Escrevendo as Classes de Um Jogo
 > - Parabéns Por Dominar as Estruturas de Dados
+
+## Santander 2025 - Fundamentos de Lógica de Programação
+
+**Horas-aula**:: 29:00
+**Habilidades**:: Lógica, JavaScript
+**Link**:: [Santander 2025 - Fundamentos de Lógica de Programação](https://web.dio.me/track/santander-2025-fundamentos-de-logica-de-programacao)
+
+![Formacao em Logica-1771037486531.png](/img/user/Formacao/Formacao%20em%20Logica-1771037486531.png)
+
+- 22 cursos
+- 3 desafios de projeto
+- 2 desafios de código
+
+> [!summary] Iniciando a Jornada: Pensando e estruturando
+> - Trabalhando com Operações no Código
+> - Executando Decisões e Repetições no Código
+> - Dominando Funções: Reutilizando Código com Eficiência
+> - Modelando Estruturas com Objetos em Código
 
 [[Formacao/Formacao Overview\|Formacao Overview]]
