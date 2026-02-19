@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/php/exemplos-em-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-22T08:14:27.667-03:00"}
+{"dg-publish":true,"permalink":"/formacao/php/exemplos-em-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2026-02-18T16:27:20.003-03:00"}
 ---
 
 #PHP
@@ -309,7 +309,8 @@ echo ($a+3)*4+(5*$b); // resultado = 40
 
 Conversão de tipos automática:
 
-```php<?php
+```php
+<?php
 // declaração de uma string contendo 10
 $a = '10';
 // soma + 5
@@ -328,13 +329,14 @@ echo $a + 5; // resultado = 15
 |            > | Maior que.                                                                                  |
 |           <= | Menor ou igual.                                                                             |
 |           >= | Maior ou igual.                                                                             |
+Comparando valores:
 
 ```php
 <?php
 $a = 1234;
 $b = '1234';
 if ($a == $b)
-}
+{
 	echo '$a e $b são iguais';
 }
 else if ($a != $b)
@@ -344,6 +346,7 @@ else if ($a != $b)
 ?>
 ```
 
+Comparando tipos de variáveis:
 
 ```php
 <?php
@@ -364,15 +367,16 @@ if ($c !== $d)
 
 Operadores lógicos são utilizados para combinar expressões lógicas entre si, agrupando testes condicionais.
 
-```
-| Operador   | Descrição 
-| ($a and $b)| E: Verdadeiro (TRUE) se tanto $a quanto $b forem verdadeiros.
-| ($a or $b) | OU: Verdadeiro (TRUE) se $a ou $b forem verdadeiros.
-| ($a xor $b)| XOR: Verdadeiro (TRUE) se $a ou $b forem verdadeiros, de forma exclusiva.
-| (! $a)     | NOT: Verdadeiro (TRUE) se $a for FALSE.
-| ($a && $b) | E: Verdadeiro (TRUE) se tanto $a quanto $b forem verdadeiros.
-| ($a || $b) | OU: Verdadeiro (TRUE) se $a ou $b forem verdadeiros.
-```
+
+| Operador   | Descrição |
+| --- | ---- |
+| (`$a and $b`)| E: Verdadeiro (TRUE) se tanto $a quanto $b forem verdadeiros.|
+| (`$a or $b`) | OU: Verdadeiro (TRUE) se $a ou $b forem verdadeiros.|
+| (`$a xor $b`)| XOR: Verdadeiro (TRUE) se $a ou $b forem verdadeiros, de forma exclusiva.|
+| (`! $a`)     | NOT: Verdadeiro (TRUE) se $a for FALSE.|
+| (`$a && $b`) | E: Verdadeiro (TRUE) se tanto $a quanto $b forem verdadeiros.|
+| (`$a` &vert;&vert; `$b`) | OU: Verdadeiro (TRUE) se $a ou $b forem verdadeiros. |
+
 
 ```php
 <?php

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-13T22:11:26.227-03:00"}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-19T08:36:23.592-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -207,12 +207,20 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> - Exercícios cap. 5 do livro JavaScript com JQuery - [Exercícios resolvidos no GitHub](https://github.com/jocile/programadorweb2026/tree/main/livro-jsjquery/cap5) - [Visualizar Rogus - carrinho de compras com JQuery](https://jocile.github.io/programadorweb2026/livro-jsjquery/cap5/cart.html)
 >
->>[!note] Aula 3.04 - Introdução a APIs Web
->> - [x] Aula 3.04 - 2026-02-13 Introdução a  [Web APIs](https://www.w3schools.com/js/js_api_intro.asp), [[Formacao/JavaScript/Fetch API\|Fetch API]], Ajax e ao [[Formacao/JavaScript/json\|json]]
+>>[!note]- Aula 3.04 - Introdução a APIs Web
+>> - [x] Aula 3.04 - 2026-02-19 Introdução a  [Web APIs](https://www.w3schools.com/js/js_api_intro.asp), [[Formacao/JavaScript/Fetch API\|Fetch API]], Ajax e ao [[Formacao/JavaScript/json\|json]]
 >>
 >>>[!todo] 🖥️ Atividade:
 >>> - [[Formacao/JavaScript/Exemplo api ibge\|Exemplo api ibge]] - [Código no GitHub](https://github.com/jocile/programadorweb2026/blob/main/exercicios/ibge.html) - [Visualizar Cidades do Ceará](https://jocile.github.io/programadorweb2026/exercicios/ibge.html)
 >>> - [JSFiddle - Code Playground](https://jsfiddle.net/)
+>
+>>[!note] Aula 3.05 - Introdução ao PHP com banco de dados
+>> - [x] Aula 3.05 - 2026-02-13 Introdução ao [[Formacao/PHP/Exemplos em PHP\|PHP]] com banco de dados
+>> - [Instalando o pacote XAMPP](https://www.apachefriends.org/pt_br/index.html)
+>> - [PHP MySQL Conectando ao banco de dados](https://www.w3schools.com/php/php_mysql_connect.asp)
+>> - [Estilos de formulários com Bootstrap](https://www.w3schools.com/bootstrap5/bootstrap_forms.php)
+>>>[!todo] 🖥️ Atividade:
+>>> - Criar um formulário de cadastro de alunos com PHP - [PHP Form Validation](https://www.w3schools.com/php/php_form_validation.asp)
 
 ## Referências
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/obsidian/","title":"Editor Obsidian","metatags":{"description":"Editor Markdown utilizado para este site."},"noteIcon":2,"updated":"2025-06-20T21:22:38.334-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/obsidian/","title":"Editor Obsidian","metatags":{"description":"Editor Markdown utilizado para este site."},"noteIcon":2,"updated":"2026-02-14T11:02:19.606-03:00"}
 ---
 
 
@@ -66,7 +66,7 @@ Em resumo, o Obsidian se destaca como uma ferramenta poderosa para a organizaç�
 
 O Obsidian oferece diversos plugins que permitem criar e visualizar gráficos, desde mapas mentais e diagramas até fluxogramas e gráficos de diferentes tipos. Entre os plugins mais populares para essa finalidade, podemos destacar:
 
-### **1. Excalidraw**
+### 1. Excalidraw
 
 - **Crie diagramas, desenhos e fluxogramas:** O Excalidraw ([excalidraw.com](https://excalidraw.com/)) é um plugin de desenho e diagramação que pode ser integrado ao Obsidian. que permite criar diversos tipos de gráficos com uma interface simples e intuitiva. Você pode desenhar livremente, usar ferramentas pré-definidas e até mesmo importar imagens. Ele permite que os usuários criem rapidamente diagramas, gráficos e desenhos diretamente dentro do ambiente de notas do Obsidian.
     
@@ -75,16 +75,16 @@ O Obsidian oferece diversos plugins que permitem criar e visualizar gráficos, d
     - **Versatilidade:** Crie diversos tipos de diagramas, desde mapas mentais até fluxogramas e organogramas.
     - **Integração com Obsidian:** Funciona perfeitamente com links e backlinks do Obsidian.
 
-### **2. Mermaid**
+### 2. Mermaid
 
-- **Crie diagramas de texto:** O Mermaid é um plugin que permite criar diagramas de texto usando uma sintaxe simples e marcadora. Você pode criar diagramas UML, diagramas de fluxo, organogramas e muito mais.
+- **Crie diagramas de texto:** O [Mermaid](https://github.com/dartungar/obsidian-mermaid) é um plugin que permite criar diagramas de texto usando uma sintaxe simples e marcadora. Você pode criar diagramas UML, diagramas de fluxo, organogramas e muito mais.
     
 - **Destaques:**
     - **Simplicidade:** Crie diagramas rapidamente usando comandos de texto.
     - **Variedade de diagramas:** Suporta diversos tipos de diagramas, como UML, fluxo, Gantt e ER.
     - **Personalização:** Personalize a aparência dos seus diagramas com opções de cores, estilos e temas.
 
-### **3. Obsidian Kanban**
+### 3. Obsidian Kanban
 
 - **Organize suas tarefas e projetos:** O Obsidian Kanban é um plugin que transforma o Obsidian em um quadro Kanban, permitindo organizar tarefas, projetos e ideias de forma visual.
     
@@ -93,7 +93,7 @@ O Obsidian oferece diversos plugins que permitem criar e visualizar gráficos, d
     - **Gerenciamento de tarefas:** Mova tarefas entre colunas para acompanhar o progresso.
     - **Priorização:** Priorize tarefas e visualize gargalos no seu fluxo de trabalho.
 
-### **4. Mind Map**
+### 4. Mind Map
 
 - **Crie mapas mentais:** O Mind Map é um plugin simples que permite criar mapas mentais no Obsidian.
     
@@ -102,7 +102,7 @@ O Obsidian oferece diversos plugins que permitem criar e visualizar gráficos, d
     - **Organização:** Organize suas ideias de forma hierárquica e visual.
     - **Brainstorming:** Utilize mapas mentais para brainstorming e geração de ideias.
 
-### **5. Gráfico de Gantt **
+### 5. Gráfico de Gantt
 
 - **Crie cronogramas de projetos:** O Gantt Chart é um plugin que permite criar cronogramas de projetos no Obsidian.
     
@@ -117,7 +117,7 @@ O Obsidian oferece diversos plugins que permitem criar e visualizar gráficos, d
 - **Combinação de plugins:** Você também pode combinar diferentes plugins para obter mais funcionalidade. Por exemplo, você pode usar o Excalidraw para criar diagramas e o Obsidian Kanban para organizá-los em um quadro Kanban.
 - **Curva de aprendizado:** Alguns plugins podem ter uma curva de aprendizado mais acentuada. Explore os tutoriais e documentações disponíveis para se familiarizar com as ferramentas.
 
-**Explorar outros plugins:**
+**Explorar outros plugins:** [[Tecnico/Ferramentas/Plugins do Obsidian\|Plugins do Obsidian]]
 
 Além dos plugins mencionados acima, existem diversos outros plugins disponíveis para criar gráficos no Obsidian. Explore a loja de plugins do Obsidian para encontrar outras opções que atendam às suas necessidades.
 
@@ -130,7 +130,7 @@ Além dos plugins mencionados acima, existem diversos outros plugins disponívei
 
 ## Excalidraw no Obsidian
 
-Algumas das principais características e benefícios da integração do Excalidraw ao Obsidian incluem:
+Algumas das principais características e benefícios da integração do [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin) ao Obsidian incluem:[[GitHub - dartungar/obsidian-mermaid: Tools for improved Mermaid.js experience in Obsidian.md](https://github.com/dartungar/obsidian-mermaid)](https://github.com/dartungar/obsidian-mermaid)
 
 1. Edição Integrada: Os usuários podem criar e editar diagramas e desenhos sem sair do Obsidian, mantendo o fluxo de trabalho unificado.
 2. Vinculação de Notas: Os diagramas criados no Excalidraw podem ser diretamente vinculados a notas relevantes no Obsidian, mantendo a contextualização do conhecimento.
@@ -140,6 +140,7 @@ Algumas das principais características e benefícios da integração do Excalid
 ## Referências
 
 - [Ajuda - Obsidian Publish](https://publish.obsidian.md/help-pt-br/Home)
+- [[Tecnico/Ferramentas/Plugins do Obsidian\|Plugins do Obsidian]]
 - [Site oficial: obsidian.md](https://obsidian.md/)
 - [A ferramenta que pode mudar a forma que você aprende](https://www.dio.me/articles/a-ferramenta-que-pode-mudar-a-forma-que-voce-aprende)
 - [Obsidian - O aplicativo de anotações que é um segundo cérebro](https://diolinux.com.br/video/obsidian-aplicativo-de-anotacoes-cerebro.html)
