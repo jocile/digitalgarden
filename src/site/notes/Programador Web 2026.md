@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-19T08:36:23.592-03:00"}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-20T13:32:45.640-03:00"}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -214,13 +214,21 @@ gantt
 >>> - [[Formacao/JavaScript/Exemplo api ibge\|Exemplo api ibge]] - [Código no GitHub](https://github.com/jocile/programadorweb2026/blob/main/exercicios/ibge.html) - [Visualizar Cidades do Ceará](https://jocile.github.io/programadorweb2026/exercicios/ibge.html)
 >>> - [JSFiddle - Code Playground](https://jsfiddle.net/)
 >
->>[!note] Aula 3.05 - Introdução ao PHP com banco de dados
->> - [x] Aula 3.05 - 2026-02-13 Introdução ao [[Formacao/PHP/Exemplos em PHP\|PHP]] com banco de dados
+>>[!note]- Aula 3.05 - Introdução ao PHP
+>> - [x] Aula 3.05 - 2026-02-19 Introdução ao [[Formacao/PHP/Exemplos em PHP\|PHP]]
+>> - [Instalando o pacote XAMPP](https://www.apachefriends.org/pt_br/index.html)
+>> - [[Formacao/PHP/Ecossistema PHP\|Ecossistema PHP]]
+>>>[!todo] 🖥️ Atividade:
+>>> - [[Formacao/PHP/Exercicios com listas\|Exercicios com listas]]
+>
+>>[!note] Aula 3.06 - Introdução ao PHP com banco de dados
+>> - [x] Aula 3.06 - 2026-02-20 Introdução ao [[Formacao/PHP/Exemplos em PHP\|PHP]] com banco de dados
 >> - [Instalando o pacote XAMPP](https://www.apachefriends.org/pt_br/index.html)
 >> - [PHP MySQL Conectando ao banco de dados](https://www.w3schools.com/php/php_mysql_connect.asp)
 >> - [Estilos de formulários com Bootstrap](https://www.w3schools.com/bootstrap5/bootstrap_forms.php)
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar um formulário de cadastro de alunos com PHP - [PHP Form Validation](https://www.w3schools.com/php/php_form_validation.asp)
+>>> - [[Formacao/PHP/login com php e mysql\|login com php e mysql]]
 
 ## Referências
 
