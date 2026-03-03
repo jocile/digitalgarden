@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/perplexity/","title":"Perplexity","metatags":{"description":"capaz de compreender e processar linguagem natural, oferecendo respostas mais precisas e contextuais do que outras ferramentas de IA. Ele pode ser usado para: Pesquisas, Assistência educacional, Resolução de problemas complexos."},"tags":["Inteligencia-artificial","Ferramentas"],"noteIcon":"1","updated":"2025-01-20T16:39:57.269-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/perplexity/","title":"Perplexity","metatags":{"description":"capaz de compreender e processar linguagem natural, oferecendo respostas mais precisas e contextuais do que outras ferramentas de IA. Ele pode ser usado para: Pesquisas, Assistência educacional, Resolução de problemas complexos."},"noteIcon":"1","updated":"2026-02-26T14:31:47.322-03:00"}
 ---
 
-# Perplexity
+#ia 
+#Ferramentas
+
 ## IA de pesquisa Perplexity
 
 Perplexity AI ==é uma ferramenta de inteligência artificial (IA) que funciona como um mecanismo de busca e chat, permitindo que os usuários obtenham informações e resolvam dúvidas==. 

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/instalando-crewia/","metatags":{"description":"preparar o ambiente, instalar dependências e validar a configuração inicial do CrewAI."},"noteIcon":"1","updated":"2026-01-08T17:19:01.525-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/instalando-crewia/","metatags":{"description":"preparar o ambiente, instalar dependências e validar a configuração inicial do CrewAI."},"noteIcon":"1","updated":"2026-02-26T14:31:01.463-03:00"}
 ---
 
-#Inteligencia-artificial #Ferramentas
+#ia 
+#Ferramentas
 
 Repository: [GitHub - digitalinnovationone/instalacao-configuracao-crewai: Curso "Instalação e Configuração do CrewAI"](https://github.com/digitalinnovationone/instalacao-configuracao-crewai) 
 Files analyzed: 6

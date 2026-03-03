@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/gpt4all/","title":"Gpt4all","metatags":{"description":"é um projeto de código aberto que permite a execução de modelos de linguagem grandes localmente em dispositivos pessoais"},"tags":["Inteligencia-artificial","Ferramentas","Modelos"],"noteIcon":"1","updated":"2025-01-30T20:29:33.832-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/gpt4all/","title":"Gpt4all","metatags":{"description":"é um projeto de código aberto que permite a execução de modelos de linguagem grandes localmente em dispositivos pessoais"},"noteIcon":"1","updated":"2026-02-26T14:30:55.096-03:00"}
 ---
 
+#ia 
+#Ferramentas
+
 # Gpt4all
+
 ## O que é o GPT4All?
 
 O [**GPT4All**](https://docs.gpt4all.io/index.html) é um projeto de código aberto que permite a execução de modelos de linguagem grandes (LLMs) localmente em dispositivos pessoais, como computadores desktop e laptops. Desenvolvido pela Nomic, o GPT4All se destaca por sua ênfase na **privacidade**, pois não requer conexão à internet e não envia dados para servidores externos. 

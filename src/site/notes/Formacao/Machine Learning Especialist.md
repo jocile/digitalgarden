@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/machine-learning-especialist/","title":"Machine Learning Especialist","metatags":{"description":"Gráfico das disciplinas do cursos de Escpecialista em Machine Learning"},"contentClasses":"ex-pageheight","tags":["excalidraw","Inteligencia-artificial","Machine-Learning","Curso","mapa","Formação"],"noteIcon":"default","updated":"2025-09-24T22:49:15.057-03:00"}
+{"dg-publish":true,"permalink":"/formacao/machine-learning-especialist/","title":"Machine Learning Especialist","metatags":{"description":"Gráfico das disciplinas do cursos de Escpecialista em Machine Learning"},"contentClasses":"ex-pageheight","tags":["excalidraw","Inteligencia-artificial","Machine-Learning","Curso","mapa","Formação"],"noteIcon":"default","updated":"2026-03-01T11:37:04.120-03:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 **Status**:: em andamento 
 **Horas-aula**:: 92:00
-**Habilidades**:: Python, Copilot, [[Formacao/Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]], Algoritmos, [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]]
+**Habilidades**:: Python, Copilot, Machine Learning, Algoritmos, agentes de ia
 **Link**:: [Formação Machine Learning Especialist](https://web.dio.me/track/formacao-machine-learning-specialist)
 
 #Formação
@@ -46,7 +46,7 @@ Introdução
 { #hrZO0naO}
 
 
-3. Redes neurais artificiais
+3. Redes Neurais Artificiais
 { #Wjpvmr9J}
 
 
@@ -172,15 +172,15 @@ Deep Learning Frameworks
 { #0OFD9ixi}
 
 
-1. Bibliotecas de Machine Learning
+1. Bibliotecas de [[Formacao/Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]]
 { #jExyyufP}
 
 
-2. Bibliotecas Pandas e Scikit-Learning
+2. Bibliotecas [[Formacao/Python/manipulando arquivos/Pandas\|Pandas]] e Scikit-Learning
 { #TG4xV0iO}
 
 
-3. Frameworks de Machine Learning
+3. Frameworks de [[Formacao/Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]]
 { #LSzanhLg}
 
 
@@ -226,7 +226,7 @@ Processamento de imagens
 
 
 Módulo 8
-Visão computacional com Machine Learning
+Visão computacional com [[Formacao/Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]]
 { #TbLx6xJV}
 
 

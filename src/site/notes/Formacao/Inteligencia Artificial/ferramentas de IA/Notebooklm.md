@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/notebooklm/","title":"Notebooklm","metatags":{"description":"é projetada para ajudar os usuários a organizar e analisar informações extraídas de documentos, sites, vídeos do YouTube, etc."},"tags":["Inteligencia-artificial","Ferramentas"],"noteIcon":"1","updated":"2025-01-20T16:27:24.435-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/notebooklm/","title":"Notebooklm","metatags":{"description":"é projetada para ajudar os usuários a organizar e analisar informações extraídas de documentos, sites, vídeos do YouTube, etc."},"noteIcon":"1","updated":"2026-02-26T14:30:06.644-03:00"}
 ---
 
-# Notebooklm
+#ia 
+#Ferramentas 
+
 ## Google NotebookLM
 
 >[!summary] NotebookLM é uma ferramenta baseada em inteligência artificial que é projetada para ajudar os usuários a organizar e analisar informações extraídas de documentos, sites, vídeos do YouTube, etc., permitindo delimitar o escopo da  pesquisa para a fonte escolhida.

@@ -1,0 +1,53 @@
+---
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/workflows/","noteIcon":2,"updated":"2026-03-02T17:47:03.879-03:00"}
+---
+
+#ia #Projeto #Antigravity
+
+# Fluxo de trabalho
+
+## Conceitos
+
+No ecossistema de ferramentas como **Google [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]**, **Cursor** e **Cloud Code**, a **automação de workflows** (fluxos de trabalho) é o processo de transformar checklists mentais e tarefas repetitivas em instruções estruturadas que a IA pode executar com consistência. Diferente das regras, que são passivas e permanentes, os workflows funcionam como **macros manuais ou "receitas"** disparadas sob demanda pelo usuário.
+
+Abaixo, detalho como essa automação funciona, sua estrutura e os benefícios estratégicos:
+
+### 1. Definição e Diferenciação
+
+Para automatizar com eficácia, é preciso distinguir os workflows de outras funcionalidades de customização:
+
+- **Workflows:** São acionados manualmente pelo usuário (geralmente digitando `/` no chat) para realizar tarefas complexas e sequenciais.
+- **[[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Rules\|Rules]] (Regras):** São "guardrails" passivos, sempre ativos no prompt de sistema, que definem a personalidade e os padrões arquitetônicos globais do projeto.
+- **[[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Skills\|Skills]] (Habilidades):** São pacotes de conhecimento especializado que o agente decide "equipar" automaticamente quando detecta que a tarefa exige aquela expertise.
+
+### 2. Anatomia de um Workflow de Automação
+
+Um arquivo de workflow (geralmente em [[Formacao/Webdesign/markdown\|markdown]], como `.md`) deve seguir uma estrutura lógica para que o agente performe corretamente:
+
+- **Nome e Descrição:** Identifica o workflow e ajuda o usuário a escolher o comando certo.
+- **Guard Rails:** Instruções de segurança que o agente deve observar antes de começar (ex: "nunca assuma o framework, detecte-o primeiro").
+- **Passos Sequenciais (Steps):** Uma lista numerada de ações que a IA deve seguir, como analisar [[Formacao/UX design/requisitos\|requisitos]], gerar código e validar no terminal.
+
+### 3. Exemplos Práticos de Automação
+
+Os workflows são ideais para tarefas realizadas mais de três vezes por semana ou que possuam mais de três etapas sequenciais. Exemplos comuns incluem:
+
+- **Code Review Automático:** O agente revisa o código focando em segurança (segredos expostos), lógica (loops infinitos) e performance.
+- **Git Commit Inteligente:** A IA analisa as mudanças feitas e gera mensagens de commit seguindo padrões como _Conventional Commits_.
+- **Genesis/SAS Builder:** Workflow para iniciar projetos do zero, capturando [[Formacao/UX design/requisitos\|requisitos]] com o usuário para gerar Documentos de [[Formacao/UX design/requisitos\|requisitos]] de Produto (PRD) e planos de implementação detalhados.
+- **Deploy Automatizado:** Fluxos que sincronizam o código com o GitHub e realizam o deploy automático em servidores como **Vercel** ou **Hostinger (via Coolify)** com um único comando.
+
+### 4. Vantagens Estratégicas
+
+- **Economia de Tokens:** Como os workflows só são carregados quando disparados, eles evitam a "saturação de contexto" que ocorreria se todas essas instruções estivessem permanentemente nas regras.
+- **Consistência Profissional:** Garante que o agente siga os mesmos passos de arquitetura e segurança em todas as funcionalidades, evitando o "código espaguete" gerado por [[Formacao/Inteligencia Artificial/Prompts\|Prompts]] genéricos.
+- **Redução de Erros e Retrabalho:** Um planejamento automatizado (como um workflow de descoberta) de 10 minutos pode evitar 10 horas de correções futuras.
+- **Independência Técnica:** Permite que pessoas sem profundo conhecimento em infraestrutura ou DevOps publiquem aplicações robustas seguindo trilhos pré-configurados.
+
+Em resumo, a automação de workflows permite que o desenvolvedor mude seu papel de um "digitador de código" para um **orquestrador estratégico**, delegando a execução técnica pesada para agentes autônomos que operam sob processos rigorosos e verificáveis.
+
+## Referências
+
+- [Antigravity Workflows: Transforme o Agente no Dev Sênior do seu Time - YouTube](https://www.youtube.com/watch?v=8IOirhpAgYI)
+- [Google Antigravity Documentation](https://antigravity.google/docs/rules-workflows)
+- [antigravity-awesome-skills/docs/WORKFLOWS.md at main · sickn33/antigravity-awesome-skills · GitHub](https://github.com/sickn33/antigravity-awesome-skills/blob/main/docs/WORKFLOWS.md)

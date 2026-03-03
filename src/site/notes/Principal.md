@@ -35,20 +35,20 @@ Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de t
 <!-- QueryToSerialize: TABLE dg-metatags.description AS "📄 Descrição" WHERE dg-publish SORT file.cday DESC LIMIT 12 -->
 <!-- SerializedQuery: TABLE dg-metatags.description AS "📄 Descrição" WHERE dg-publish SORT file.cday DESC LIMIT 12 -->
 
-| File                                                                                                                   | 📄 Descrição                                                                                                                       |
-| ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| [[Formacao/JavaScript/Calculo do IMC com JavaScript\|Calculo do IMC com JavaScript]]                                | é uma biblioteca JavaScript poderosa e amplamente adotada                                                                          |
-| [[Formacao/JavaScript/Exemplo api ibge\|Exemplo api ibge]]                                                          | utilizando a API do IBGE com JavaScript                                                                                            |
-| [[Formacao/JavaScript/Fetch API\|Fetch API]]                                                                        | permite que uma página web se comunique com servidores para buscar ou enviar dados sem a necessidade de recarregar                 |
-| [[Formacao/JavaScript/json\|json]]                                                                                  | é um formato leve de intercâmbio de dados                                                                                          |
-| [[Formacao/JavaScript/JQuery\|JQuery]]                                                                              | é uma biblioteca JavaScript poderosa e amplamente adotada                                                                          |
-| [[Tecnico/Programador/Lógica/Logica da Programação Orientada a Objetos\|Logica da Programação Orientada a Objetos]] | plataforma gratuita baseada em nuvem que permite aos usuários escrever e executar código Python diretamente em um navegador da web |
-| [[Formacao/Logica/Matriz\|Matriz]]                                                                                  | essencialmente, uma coleção de dados organizada em linhas e colunas                                                                |
-| [[Formacao/Python/Estruturas/Dicionarios em Python\|Dicionarios em Python]]                                         | criação de as coleções de dados                                                                                                    |
-| [[Tecnico/Programador/Desafios/sistema bancario/Desafio bancario criando contas\|Desafio bancario criando contas]]  | criação de contas bancárias utilizando funções e um menu interativo                                                                |
-| [[Formacao/JavaScript/Girar formulario com javascript\|Girar formulario com javascript]]                            | Exemplos de animação de formunlário com JavaScript                                                                                 |
-| [[Formacao/Webdesign/Exercicio JavaSript cap6\|Exercicio JavaSript cap6]]                                           | Exemplos de manipulação de posicionamento do CSS                                                                                   |
-| [[Formacao/Webdesign/Novidades do html5\|Novidades do html5]]                                                       | possui campos para coletar informações dos usuários                                                                                |
+| File                                                                                                                 | 📄 Descrição                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Rules\|Rules]]                                   | \-                                                                                                                 |
+| [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Workflows\|Workflows]]                           | \-                                                                                                                 |
+| [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Documentação Semântica\|Documentação Semântica]] | \-                                                                                                                 |
+| [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Model Context Protocol\|Model Context Protocol]] | \-                                                                                                                 |
+| [[Formacao/Inteligencia Artificial/Engenharia de contexto\|Engenharia de contexto]]                               | \-                                                                                                                 |
+| [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Skills\|Skills]]                                 | \-                                                                                                                 |
+| [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]                       | \-                                                                                                                 |
+| [[about\|about]]                                                                                                  | Sobre este site                                                                                                    |
+| [[Formacao/JavaScript/Calculo do IMC com JavaScript\|Calculo do IMC com JavaScript]]                              | é uma biblioteca JavaScript poderosa e amplamente adotada                                                          |
+| [[Formacao/JavaScript/Exemplo api ibge\|Exemplo api ibge]]                                                        | utilizando a API do IBGE com JavaScript                                                                            |
+| [[Formacao/JavaScript/Fetch API\|Fetch API]]                                                                      | permite que uma página web se comunique com servidores para buscar ou enviar dados sem a necessidade de recarregar |
+| [[Formacao/JavaScript/json\|json]]                                                                                | é um formato leve de intercâmbio de dados                                                                          |
 
 <!-- SerializedQuery END -->
 
@@ -102,7 +102,7 @@ Alguns dizem que existem três tipos diferentes de anotadores: o arquiteto, o ja
 
 >[!note]- Ferramentas utilizadas
 > - As notas são escritas em [[Formacao/Webdesign/markdown\|markdown]];
-> - Organizadas com [[Tecnico/Ferramentas/Obsidian\|Obsidian]] e seus poderosos [[Tecnico/Ferramentas/Plugins do Obsidian\|plugins]];
+> - Organizadas com [[Tecnico/Ferramentas/Obsidian/Obsidian\|Obsidian]] e seus poderosos [[Tecnico/Ferramentas/Obsidian/Plugins do Obsidian\|plugins]];
 > - O conteúdo é enriquecido por [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]] como [[Formacao/Inteligencia Artificial/ferramentas de IA/Notebooklm\|Notebooklm]], [Copilot](https://www.obsidiancopilot.com/en), [Gemini](https://github.com/allenhutchison/obsidian-gemini), e local com [[Formacao/Inteligencia Artificial/ferramentas de IA/Ollama\|Ollama]]
 > - O código fonte é salvo no [GitHub - jocile/digitalgarden](https://github.com/jocile/digitalgarden) e publicado na [Vercel](https://vercel.com/), usando o plugin [Digital-garden](https://github.com/oleeskild/obsidian-digital-garden)
 > - Recomendações ou problemas podem ser relatados em [issues](https://github.com/jocile/digitalgarden/issues).
@@ -114,7 +114,7 @@ Alguns dizem que existem três tipos diferentes de anotadores: o arquiteto, o ja
 > - Cibersegurança e Redes (CyberOps, Protocolos IP, Administração de sistemas [[Tecnico/Assistente-de-TI/Linux\|Linux]]/Windows)
 > - [[Teologia\|Teologia]] Sistêmica ([[Teologia/Escatologia\|Escatologia]], Cristologia, História dos Hebreus)
 > - Design e [[Webdesign\|Webdesign]] (UX Design, [[Formacao/Webdesign/CSS/CSS\|CSS]], [[Formacao/Webdesign/Bootstrap\|Bootstrap]], Ferramentas visuais)
-> - Gestão de Conhecimento (Uso avançado de [[Tecnico/Ferramentas/Obsidian\|Obsidian]], Canvas, Excalidraw)
+> - Gestão de Conhecimento (Uso avançado de [[Tecnico/Ferramentas/Obsidian/Obsidian\|Obsidian]], Canvas, Excalidraw)
 
 [[Lista de topicos\|🔍 Lista de tópicos]]
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/agentes-de-ia/","title":"Agentes de IA","metatags":{"description":"podem interagir com o ambiente, coletar dados, tomar decisões e realizar ações para atingir um objetivo específico."},"noteIcon":"1","updated":"2026-01-09T11:03:52.030-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/agentes-de-ia/","title":"Agentes de IA","metatags":{"description":"podem interagir com o ambiente, coletar dados, tomar decisões e realizar ações para atingir um objetivo específico."},"noteIcon":"1","updated":"2026-02-26T13:57:03.512-03:00"}
 ---
 
 #ia #Agentes #Prompt 
@@ -99,3 +99,4 @@ Os tutoriais de [[Formacao/Inteligencia Artificial/Langchain\|Langchain]] demons
 
 - [Python e Agentes de IA - YouTube](https://www.youtube.com/watch?v=PzwP-BFkLoY)
 - [[Formacao/Inteligencia Artificial/ferramentas de IA/Links de agentes de ia\|Links de agentes de ia]]
+- [Using Agents - Mastra Docs](https://mastra.ai/docs/agents/overview)

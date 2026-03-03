@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/plataformas-de-agentes-de-ia/","title":"Plataformas de agentes de ia","metatags":{"description":"plataformas para a criação de agentes de IA, cada uma com suas particularidades e níveis de complexidade. Segue uma lista categorizada para melhor compreensão"},"tags":["Inteligencia-artificial","Agentes","Ferramentas","LLM"],"noteIcon":"1","updated":"2025-01-20T21:31:25.843-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/plataformas-de-agentes-de-ia/","title":"Plataformas de agentes de ia","metatags":{"description":"plataformas para a criação de agentes de IA, cada uma com suas particularidades e níveis de complexidade. Segue uma lista categorizada para melhor compreensão"},"noteIcon":"1","updated":"2026-02-26T14:38:15.240-03:00"}
 ---
 
+#ia 
+#Ferramentas
 
 ## Plataformas de agentes de ia
 
@@ -36,3 +38,5 @@ Existem diversas ferramentas e plataformas para a criação de [[Formacao/Inteli
 - **[[Formacao/Inteligencia Artificial/parametros de LLM/System Prompt\|System Prompt]]:** Instruções que definem como o agente deve se comportar.
 
 Embora existam diversas ferramentas, os conceitos básicos para a criação de agentes de IA são similares entre elas. É recomendado experimentar várias plataformas para entender os conceitos e escolher aquela que melhor se adapta às suas necessidades. Além disso, algumas ferramentas open source como Defy e n8n são recomendadas para quem busca maior personalização e controle. O **AutoGen** é uma ferramenta para quem busca flexibilidade na criação de aplicações com múltiplos agentes.
+
+- [[Formacao/Inteligencia Artificial/ferramentas de IA/Lista de ferramentas de IA\|Lista de ferramentas de IA]]

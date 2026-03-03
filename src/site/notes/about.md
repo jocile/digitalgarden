@@ -17,7 +17,7 @@
 
 >[!note]- Ferramentas utilizadas
 > - As notas são escritas em [[Formacao/Webdesign/markdown\|markdown]];
-> - Organizadas com [[Tecnico/Ferramentas/Obsidian\|Obsidian]] e seus poderosos [[Tecnico/Ferramentas/Plugins do Obsidian\|plugins]];
+> - Organizadas com [[Tecnico/Ferramentas/Obsidian/Obsidian\|Obsidian]] e seus poderosos [[Tecnico/Ferramentas/Obsidian/Plugins do Obsidian\|plugins]];
 > - O conteúdo é enriquecido por [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]] como [[Formacao/Inteligencia Artificial/ferramentas de IA/Notebooklm\|Notebooklm]], [Copilot](https://www.obsidiancopilot.com/en), [Gemini](https://github.com/allenhutchison/obsidian-gemini), e local com [[Formacao/Inteligencia Artificial/ferramentas de IA/Ollama\|Ollama]]
 > - O código fonte é salvo no [GitHub - jocile/digitalgarden](https://github.com/jocile/digitalgarden) e publicado na [Vercel](https://vercel.com/), usando o plugin [Digital-garden](https://github.com/oleeskild/obsidian-digital-garden)
 > - Recomendações ou problemas podem ser relatados em [issues](https://github.com/jocile/digitalgarden/issues).
@@ -29,6 +29,6 @@
 > - Cibersegurança e Redes (CyberOps, Protocolos IP, Administração de sistemas [[Tecnico/Assistente-de-TI/Linux\|Linux]]/Windows)
 > - [[Teologia\|Teologia]] Sistêmica ([[Teologia/Escatologia\|Escatologia]], Cristologia, História dos Hebreus)
 > - Design e [[Webdesign\|Webdesign]] (UX Design, [[Formacao/Webdesign/CSS/CSS\|CSS]], [[Formacao/Webdesign/Bootstrap\|Bootstrap]], Ferramentas visuais)
-> - Gestão de Conhecimento (Uso avançado de [[Tecnico/Ferramentas/Obsidian\|Obsidian]], Canvas, Excalidraw)
+> - Gestão de Conhecimento (Uso avançado de [[Tecnico/Ferramentas/Obsidian/Obsidian\|Obsidian]], Canvas, Excalidraw)
 
 [[Lista de topicos\|🔍 Lista de tópicos]]

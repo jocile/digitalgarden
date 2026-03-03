@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-overview/","title":"Minhas Formações","pinned":true,"contentClasses":"cards cards-cols-3","noteIcon":"default","updated":"2026-02-14T00:05:34.259-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-overview/","title":"Minhas Formações","pinned":true,"contentClasses":"cards cards-cols-3","noteIcon":"default","updated":"2026-03-01T11:40:03.627-03:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 | [[Formacao/Excel e Power BI Dashboards\|Excel e Power BI Dashboards]]                 | Horas aula: 90:00                      | <ul><li>Excel</li><li>PowerBI</li><li>Dashboards</li></ul>                                                    |
 | [[Formacao/Formacao em JavaScript\|Formacao em JavaScript]]                           | Horas aula: 39:00                      | <ul><li>Formação em programação</li><li>Lógica de programação</li><li>JavaScript</li><li>Algoritmos</li></ul> |
 | [[Formacao/Formacao em Logica\|Formacao em Logica]]                                   | Horas aula: 41:00, 29:00               | <ul><li>Lógica de programação</li><li>JavaScript</li><li>Algoritmos</li><li>Formação em programação</li></ul> |
-| [[Formacao/Formacao em PHP\|Formacao em PHP]]                                         | Horas aula: 40:00                      | <ul><li>Lógica de programação</li><li>Formação em programação</li><li>Algoritmos</li></ul>                    |
+| [[Formacao/Formacao em PHP\|Formacao em PHP]]                                         | Horas aula: 40:00, 73:00               | <ul><li>Lógica de programação</li><li>Formação em programação</li><li>Algoritmos</li></ul>                    |
 | [[Formacao/Formacao em UX Designer\|Formacao em UX Designer]]                         | Horas aula: 30:00                      | <ul><li>Design</li><li>Projetos de interface de usuário</li><li>Projetos de aplicativos</li></ul>             |
 | [[Formacao/Formacao em Webdesign\|Formacao em Webdesign]]                             | Horas aula: 160:00, 21:00, 43:00       | <ul><li>Webdesign</li><li>HTML5</li><li>CSS3</li><li>WebSites</li><li>FrontEnd</li></ul>                      |
 | [[Formacao/Formacao Python\|Formacao Python]]                                         | Horas aula: 26:00, 57:00, 64:00, 35:00 | <ul><li>Lógica de programação</li><li>Linguagem de Programação</li></ul>                                      |

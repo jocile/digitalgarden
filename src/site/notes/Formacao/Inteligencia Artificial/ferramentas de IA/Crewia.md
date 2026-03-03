@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/crewia/","metatags":{"description":"permite a criação de equipes de agentes de Inteligência Artificial."},"noteIcon":"1","updated":"2026-01-08T17:11:38.719-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/crewia/","metatags":{"description":"permite a criação de equipes de agentes de Inteligência Artificial."},"noteIcon":"1","updated":"2026-02-26T14:30:36.264-03:00"}
 ---
 
-#Inteligencia-artificial #Ferramentas 
+#ia 
+#Ferramentas
 
 # CrewIA
 

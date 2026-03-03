@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/ollama/","title":"Ollama","metatags":{"description":"simplifica o uso de modelos de linguagem natural (LLMs) localmente, eliminando a necessidade de configurações complexas ou dependência de servidores externos."},"tags":["Inteligencia-artificial","Ferramentas","Ollama","Modelos"],"noteIcon":"1","updated":"2025-01-20T20:43:43.939-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/ollama/","title":"Ollama","metatags":{"description":"simplifica o uso de modelos de linguagem natural (LLMs) localmente, eliminando a necessidade de configurações complexas ou dependência de servidores externos."},"noteIcon":"1","updated":"2026-02-26T14:31:23.757-03:00"}
 ---
 
+#ia 
+#Ferramentas
 
 ## Executando Inteligências Artificais localmente
 
