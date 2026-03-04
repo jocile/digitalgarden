@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/inspiracao-de-design/","noteIcon":2,"updated":"2026-03-02T21:24:53.963-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/inspiracao-de-design/","metatags":{"description":"permite a comunicação direta e padronizada entre diferentes ferramentas de software e agentes de ia"},"noteIcon":2,"updated":"2026-03-03T09:37:31.535-03:00"}
 ---
 
 #ia #Projeto #Antigravity #Webdesign #Ferramentas 

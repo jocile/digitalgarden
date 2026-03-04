@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/skills/","noteIcon":2,"updated":"2026-03-02T16:07:44.294-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/skills/","metatags":{"description":"são como playbooks que a IA lê para executar tarefas específicas, tornando-se especialista no seu negócio"},"noteIcon":2,"updated":"2026-03-04T09:46:48.292-03:00"}
 ---
 
 #ia #Projeto #Antigravity
@@ -72,4 +72,5 @@ Habilidades poderosas disponíveis para o ecossistema:
 - [Agente de IA é coisa do passado. Agora eu só uso SKILLS. - YouTube](https://www.youtube.com/watch?v=h_l8wCr7M2Q)
 - [Antigravity Skills: A novidade MAIS INSANA (vai te dar superpoderes) - YouTube](https://www.youtube.com/watch?v=xhlSi0Sc6dc)
 - [GitHub - sickn33/antigravity-awesome-skills: The Ultimate Collection of 900+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.](https://github.com/sickn33/antigravity-awesome-skills)
+- [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Antigravity Awesome Skills\|Antigravity Awesome Skills]]
   

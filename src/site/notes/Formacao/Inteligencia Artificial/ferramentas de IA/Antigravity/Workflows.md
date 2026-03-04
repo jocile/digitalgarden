@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/workflows/","noteIcon":2,"updated":"2026-03-02T17:47:03.879-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/workflows/","metatags":{"description":"é o processo de transformar checklists mentais e tarefas repetitivas em instruções estruturadas que a IA pode executar com consistência"},"noteIcon":2,"updated":"2026-03-04T09:45:52.164-03:00"}
 ---
 
 #ia #Projeto #Antigravity
@@ -51,3 +51,13 @@ Em resumo, a automação de workflows permite que o desenvolvedor mude seu papel
 - [Antigravity Workflows: Transforme o Agente no Dev Sênior do seu Time - YouTube](https://www.youtube.com/watch?v=8IOirhpAgYI)
 - [Google Antigravity Documentation](https://antigravity.google/docs/rules-workflows)
 - [antigravity-awesome-skills/docs/WORKFLOWS.md at main · sickn33/antigravity-awesome-skills · GitHub](https://github.com/sickn33/antigravity-awesome-skills/blob/main/docs/WORKFLOWS.md)
+- [Conheça a estratégia de workflow e saiba como aplicar! Argo Solutions](https://useargo.com/workflow/)
+- [Intelligent Workflow Automation Techniques \| NiCE](https://www.nice.com/ai-automation-platform/intelligent-workflow-automation)
+- [Tipos de workflow: quais são e como escolher o melhor?](https://www.trinapse.com.br/blog/tipos-de-workflow/)
+- [O que é um Workflow automatizado? Um guia completo.](https://holmes.app/blog/o-que-%C3%A9-um-workflow-automatizado-um-guia-completo)
+- [O que é Workflow: conceito, como mapear e exemplos](https://zeev.it/blog/o-que-e-workflow/)
+- [Como Criar Workflows Automatizados com IA? -](https://quiker.com.br/como-criar-workflows-automatizados/)
+- [Workflow em vendas: o que é + 5 etapas para criar o seu! \| Blog Agendor](https://www.agendor.com.br/blog/workflow-em-vendas)
+- [Workflow: o que é, importância e como agilizar os processos? – Insights para te ajudar na carreira em tecnologia \| Blog da Trybe](https://blog.betrybe.com/carreira/workflow/)
+- [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Product Requirement Document\|Product Requirement Document]]
+- [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Antigravity Kit\|Antigravity Kit]]

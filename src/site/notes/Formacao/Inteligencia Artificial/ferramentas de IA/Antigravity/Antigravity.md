@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/antigravity/","noteIcon":2,"updated":"2026-03-02T21:30:53.494-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/antigravity/","metatags":{"description":"permite que agentes de IA ajam de forma proativa no código, terminal e navegador, enquanto o desenvolvedor atua como um supervisor ou regente."},"noteIcon":2,"updated":"2026-03-04T10:38:44.581-03:00"}
 ---
 
 #Antigravity
@@ -101,3 +101,5 @@ Capacidades modulares que podem ser adicionadas. Exemplo: a skill **Remotion**, 
 - [Como Publicar seus Apps e Automações (Antigravity + Hostinger VPS) - YouTube](https://www.youtube.com/watch?v=2wxI6U-PxEo)
 - [Do Design ao Deploy: Construindo um App 100% com Google + Supabase + Vercel - YouTube](https://www.youtube.com/watch?v=qVHbvibm2kY)
 - [NotebookLM e Antigravity criam qualquer coisa! (projeto completo) - YouTube](https://www.youtube.com/watch?v=8ddBzjJdMbI)
+- [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Antigravity Kit\|Antigravity Kit]]
+- [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Antigravity Awesome Skills\|Antigravity Awesome Skills]]

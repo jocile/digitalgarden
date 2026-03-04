@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/documentacao-semantica/","noteIcon":2,"updated":"2026-03-01T11:30:05.533-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/documentacao-semantica/","metatags":{"description":"Sua função principal é traduzir ativos técnicos complexos em uma linguagem que tanto humanos quanto IAs compreendam"},"noteIcon":2,"updated":"2026-03-03T09:38:31.510-03:00"}
 ---
 
 #ia #Projeto #Antigravity
