@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/live-coding/videos-sobre-antigravity/","metatags":{"description":"Vídeos sobre vibe coding"},"noteIcon":2,"updated":"2026-03-04T10:30:43.848-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/live-coding/videos-sobre-antigravity/","metatags":{"description":"Vídeos sobre vibe coding"},"noteIcon":2,"updated":"2026-03-06T07:09:35.064-03:00"}
 ---
 
 #ia #Antigravity
@@ -15,6 +15,8 @@
 | [Matheus Battisti - Hora de Codar](https://www.youtube.com/@MatheusBattisti/videos) | [Google Antigravity IDE: Crie Projeto com IA do ZERO ao Deploy - YouTube](https://www.youtube.com/watch?v=mKmuEaRndO8&list=PLnDvRpP8Bnew9OB-dofSPBsbK_gB7SPv6) |
 | [Waldemar Neto - Dev Lab](https://www.youtube.com/@WaldemarNetoDevLab/videos)       | [Refatoração com IA + Skills, Subagentes e Times de Agentes - YouTube](https://www.youtube.com/watch?v=KROGqmSUeTw&list=PLz_YTBuxtxt5K3yoxWKjbx81nXbiTPMkr)    |
 | [Well Pires](https://www.youtube.com/@WellPiresAI/videos)                           | [Como dominar Skills do Antigravity melhor que 99% das pessoas - YouTube](https://www.youtube.com/watch?v=2Zi3rGxWxDk)                                         |
+| [Empreendedor Serial - YouTube](https://www.youtube.com/@empreendedorserial/videos) | [Como usar o Google Antigravity melhor que 99% das pessoas! (4 hacks) - YouTube](https://www.youtube.com/watch?v=LnOhoJ6GDqw)                                  |
+| [Sandeco - YouTube](https://www.youtube.com/@canalsandeco/videos)                   | [Agora a Anthropic revolucionou TUDO de novo! - YouTube](https://www.youtube.com/watch?v=yPoSJbLxbS8)                                                          |
 
 - [IA - YouTube](https://www.youtube.com/playlist?list=PLfGUiQzB80EBEaXdYnsb-wgLx2H5ep4_a)
 - [Desenvolvimento web - YouTube](https://www.youtube.com/playlist?list=PLfGUiQzB80EBr5v2SoYVR3SHpPkQuRapR)

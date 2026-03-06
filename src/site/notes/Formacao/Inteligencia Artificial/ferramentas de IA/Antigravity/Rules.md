@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/rules/","metatags":{"description":"são pacotes de conhecimento sob demanda, as regras funcionam como um código de conduta ou uma placa arquitetônica que o agente consulta antes e durante a escrita de código"},"noteIcon":2,"updated":"2026-03-03T09:39:01.634-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/rules/","metatags":{"description":"são pacotes de conhecimento sob demanda, as regras funcionam como um código de conduta ou uma placa arquitetônica que o agente consulta antes e durante a escrita de código"},"noteIcon":2,"updated":"2026-03-05T10:48:37.259-03:00"}
 ---
 
 #ia #Projeto #Antigravity
 
 # Regras
 
-No ecossistema do Google [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Antigravity\|Antigravity]] e Cursor, as **rules (regras)** são definidas como **guardrails (trilhos de proteção) passivos e sempre ativos** que residem no prompt de sistema do agente. Diferente das _skills_, que são pacotes de conhecimento sob demanda, as regras funcionam como um código de conduta ou uma placa arquitetônica que o agente consulta antes e durante a escrita de código para garantir que nenhum padrão do projeto seja violado.
+No ecossistema do Google [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Antigravity\|Antigravity]] e Cursor, as **rules (regras, preferências, [[Formacao/UX design/requisitos\|requisitos]])** são definidas como **guardrails (trilhos de proteção) passivos e sempre ativos** que residem no prompt de sistema do agente. Diferente das [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Skills\|Skills]], que são pacotes de conhecimento sob demanda, as regras funcionam como um código de conduta ou uma placa arquitetônica que o agente consulta antes e durante a escrita de código para garantir que nenhum padrão do projeto seja violado.
 
 ## Definições
 
@@ -15,9 +15,9 @@ No ecossistema do Google [[Formacao/Inteligencia Artificial/ferramentas de IA/An
 As regras operam em dois níveis de escopo:
 
 - **Global Rules:** Aplicam-se a todos os projetos desenvolvidos na máquina do usuário e são ideais para definir a persona do agente, o estilo de comunicação e stacks preferenciais (como Next.js ou FastAPI).
-- **Workspace Rules:** São específicas para os [[Formacao/UX design/requisitos\|requisitos]] de um projeto atual, geralmente armazenadas em arquivos como `.wgrad/rules.md` ou na pasta `.agents/rules/` na raiz do projeto.
+- **Workspace Rules:** São específicas para os [[Formacao/UX design/requisitos\|requisitos]] de um projeto atual, geralmente armazenadas em arquivos como `.wgrad/rules.md` ou na pasta `.AGENTS/rules/` na raiz do projeto.
 
-Ao contrário dos _workflows_, que são macros acionadas manualmente pelo usuário via comando `/`, as regras são **acionadas automaticamente por gatilhos de contexto**.
+Ao contrário dos [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Workflows\|Workflows]], que são macros acionadas manualmente pelo usuário via comando `/`, as regras são **acionadas automaticamente por gatilhos de contexto**.
 
 ### Anatomia de uma Regra Eficaz
 

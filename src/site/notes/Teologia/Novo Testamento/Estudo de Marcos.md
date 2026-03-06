@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/novo-testamento/estudo-de-marcos/","title":"Estudo de Marcos","metatags":{"description":"escrito para os cristãos romanos, como um registro das pregações do apóstolo Pedro, de quem era intérprete, em suas pregações em Roma."},"tags":["Teologia","Evangelho","Novo-Testamento"],"noteIcon":"1","updated":"2025-03-17T08:46:18.600-03:00"}
+{"dg-publish":true,"permalink":"/teologia/novo-testamento/estudo-de-marcos/","title":"Estudo de Marcos","metatags":{"description":"escrito para os cristãos romanos, como um registro das pregações do apóstolo Pedro, de quem era intérprete, em suas pregações em Roma."},"tags":["Teologia","Evangelho","Novo-Testamento"],"noteIcon":"1","updated":"2026-03-06T10:09:36.933-03:00"}
 ---
 
 # Estudo de Marcos
@@ -66,10 +66,40 @@ Marcos apresenta Jesus como o servo sofredor da profecia de [Isaías 52.13](http
   - A cura do surdo mudo ([7.31-37](https://www.bibliaonline.com.br/acf/mc/7/31-37+));
   - A cura progressiva do cego de Betsaida ([8.22-26](https://www.bibliaonline.com.br/acf/mc/8/22-26+)).
 
+## Citações bíblicas sobre João Marcos
+
+- **Atos 12:12-13:** Relata que _Pedro_, ao ser liberto da prisão, foi à casa de _Maria_, mãe de _João Marcos_, onde muitos estavam reunidos orando.
+
+**Parceiro de Viagens Missionárias:**
+
+- **Atos 12:25:** _Paulo_ e _Barnabé_ voltam de _Jerusalém_ trazendo _João Marcos_ consigo.
+- **Atos 13:5:** _João Marcos_ serve como auxiliar de _Paulo_ e _Barnabé_ na **primeira viagem missionária**.
+- **Atos 13:13:** _João Marcos_ abandona a viagem em _Perge_ e volta para _Jerusalém_.
+
+**Desavença e Reconciliação com Paulo:**
+
+- **Atos 15:37-39:** _Paulo_ se recusa a levar _Marcos_ na segunda viagem, gerando uma separação entre _Paulo_ e _Barnabé_.
+- **Colossenses 4:10:** _Paulo_, já preso em _Roma_, menciona _Marcos_ como seu cooperador e primo de _Barnabé_.
+- **2 Timóteo 4:11:** _Paulo_ pede que _Timóteo_ traga _Marcos_, afirmando que ele lhe é **muito útil para o ministério**.
+
+**Relação com Pedro:**
+
+- **1 Pedro 5:13:** _Pedro_ se refere a _Marcos_ carinhosamente como seu **filho espiritual**.
+
+## Escrito para romanos
+
+Marcos escreveu seu evangelho especificamente para os cristãos em _Roma_ por alguns motivos principais:
+
+- **Contexto de Perseguição:** A igreja em Roma estava enfrentando grande perseguição, hostilizada tanto pelos judeus quanto pelos pagãos e pelo Estado romano.
+- **Fortalecimento da Fé:** O objetivo era fortalecer esses crentes, provando que Jesus é o **poderoso Filho de Deus**, mesmo tendo sido crucificado em fraqueza humana.
+- **Linguagem e Explicações:** Marcos explica costumes judaicos e traduz termos em aramaico para o grego (a língua franca da época), o que indica que sua audiência **não era judaica** e precisava de contexto sobre a cultura de Jesus.
+- **Contraposta ao Poder de César:** Em uma sociedade que valorizava o poder bruto e a força de _Roma_ e de seu _Imperador_, Marcos apresenta um Cristo que, embora tenha morrido em fraqueza, ressuscita em poder.
+
 ## Referências
 
 - CABRAL, Alana. **Evangelhos**. Seminário de Teologia das Assembléias de Deus do Ceará - STADEC.
 - **Introdução ao Novo Testamento, o desvendar da Nova Aliança**. Faculdade de Teologia do Ceará - FATECE, Fortaleza, Ceará, 2000. 
+- [Como o Evangelho de Marcos foi escrito \| Rev. Augustus Nicodemus - YouTube](https://www.youtube.com/watch?v=krfToA9Q6WU&list=PLQ__KBt7xtI_dBfaNkilLaRSM-Flg8HmV&index=1)
 
 [^1]: Eusébio de Cesareia. **Wikipédia**. Disponível em <https://pt.wikipedia.org/wiki/Eus%C3%A9bio_de_Cesareia>. Acessado em 18 de junho de 2021.
 

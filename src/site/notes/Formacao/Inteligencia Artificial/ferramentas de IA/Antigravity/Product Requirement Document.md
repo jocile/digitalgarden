@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/product-requirement-document/","metatags":{"description":"documentação central que serve para instruir a inteligência artificial sobre como o projeto deve funcionar"},"noteIcon":2,"updated":"2026-03-04T09:38:14.393-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/product-requirement-document/","metatags":{"description":"documentação central que serve para instruir a inteligência artificial sobre como o projeto deve funcionar"},"noteIcon":2,"updated":"2026-03-04T10:50:40.175-03:00"}
 ---
 
 #ia #Projeto #Antigravity
 
 # Product Requirement Document
 
-O **PRD (Product Requirement Document)** é definido como a documentação central que serve para instruir a inteligência artificial sobre como o projeto deve funcionar, atuando como um guia que transforma o desenvolvedor em um "gerente de projetos" perante a IA. No ecossistema de ferramentas agênticas como o Google [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Antigravity\|Antigravity]], o PRD é o pilar que garante que o software gerado seja robusto, seguro e funcional, evitando resultados genéricos ou o chamado "código espaguete".
+O **PRD (Product Requirement Document)** é definido como a [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Documentação Semântica\|documentação central]]  que serve para instruir a inteligência artificial sobre como o projeto deve funcionar, atuando como um guia que transforma o desenvolvedor em um "gerente de projetos" perante a IA. No ecossistema de ferramentas agênticas como o Google [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Antigravity\|Antigravity]], o PRD é o pilar que garante que o software gerado seja robusto, seguro e funcional, evitando resultados genéricos ou o chamado "código espaguete".
 
 ### Importância e Valor Estratégico
 

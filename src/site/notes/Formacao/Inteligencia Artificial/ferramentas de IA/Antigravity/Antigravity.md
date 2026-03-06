@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/antigravity/","metatags":{"description":"permite que agentes de IA ajam de forma proativa no código, terminal e navegador, enquanto o desenvolvedor atua como um supervisor ou regente."},"noteIcon":2,"updated":"2026-03-04T10:38:44.581-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/antigravity/","metatags":{"description":"permite que agentes de IA ajam de forma proativa no código, terminal e navegador, enquanto o desenvolvedor atua como um supervisor ou regente."},"noteIcon":2,"updated":"2026-03-05T18:32:52.593-03:00"}
 ---
 
 #Antigravity
@@ -97,6 +97,7 @@ Capacidades modulares que podem ser adicionadas. Exemplo: a skill **Remotion**, 
 - [Google Antigravity Documentation](https://antigravity.google/docs/home)
 - [antigravity-awesome-skills/docs/GETTING\_STARTED.md](https://github.com/sickn33/antigravity-awesome-skills/blob/main/docs/GETTING_STARTED.md)
 - [Como usar o AntiGravity melhor que 99% das pessoas - YouTube](https://www.youtube.com/watch?v=DIqLI5Vgacc)
+- [Como usar o Google Antigravity melhor que 99% das pessoas! (4 hacks) - YouTube](https://www.youtube.com/watch?v=LnOhoJ6GDqw)
 - [How to Use AntiGravity Better than 99% of People - YouTube](https://www.youtube.com/watch?v=QZCYFJTv8jI)
 - [Como Publicar seus Apps e Automações (Antigravity + Hostinger VPS) - YouTube](https://www.youtube.com/watch?v=2wxI6U-PxEo)
 - [Do Design ao Deploy: Construindo um App 100% com Google + Supabase + Vercel - YouTube](https://www.youtube.com/watch?v=qVHbvibm2kY)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/antigravity-kit/","metatags":{"description":"funciona como uma camada de ferramentas e inteligência especializada"},"noteIcon":2,"updated":"2026-03-04T09:38:21.777-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/antigravity-kit/","metatags":{"description":"funciona como uma camada de ferramentas e inteligência especializada"},"noteIcon":2,"updated":"2026-03-06T07:54:11.927-03:00"}
 ---
 
 #ia #Projeto #Antigravity
@@ -40,3 +40,4 @@ O kit não se limita a gerar código; ele inclui camadas de **validação e segu
 
 - [Documentation \| Antigravity Kit](https://antigravity-kit.unikorn.vn/docs)
 - [ANTIGRAVITY Criou Meu E-commerce INTEIRO em 28 Minutos (Com UM PROMPT) - YouTube](https://www.youtube.com/watch?v=29IeTSdrWlY)
+- [Antigravity Kit 2.0 é INSANO: você vai criar qualquer projeto 100x mais rápido - YouTube](https://www.youtube.com/watch?v=bgyLUKWeKBU)

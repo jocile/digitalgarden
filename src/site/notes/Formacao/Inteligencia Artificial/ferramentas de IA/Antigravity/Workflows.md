@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/workflows/","metatags":{"description":"é o processo de transformar checklists mentais e tarefas repetitivas em instruções estruturadas que a IA pode executar com consistência"},"noteIcon":2,"updated":"2026-03-04T09:45:52.164-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/workflows/","metatags":{"description":"é o processo de transformar checklists mentais e tarefas repetitivas em instruções estruturadas que a IA pode executar com consistência"},"noteIcon":2,"updated":"2026-03-05T17:45:57.044-03:00"}
 ---
 
 #ia #Projeto #Antigravity
@@ -8,7 +8,12 @@
 
 ## Conceitos
 
-No ecossistema de ferramentas como **Google [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]**, **Cursor** e **Cloud Code**, a **automação de workflows** (fluxos de trabalho) é o processo de transformar checklists mentais e tarefas repetitivas em instruções estruturadas que a IA pode executar com consistência. Diferente das regras, que são passivas e permanentes, os workflows funcionam como **macros manuais ou "receitas"** disparadas sob demanda pelo usuário.
+- Um fluxo de trabalho é um caminho de execução guiado, passo a passo, que combina múltiplas habilidades para um resultado concreto.
+- Os conjuntos de habilidades ([[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Skills\|Skills]]) indicam quais habilidades são relevantes para uma função.
+- Os fluxos de trabalho mostram como usar essas habilidades em sequência para atingir um objetivo real.
+- Se os conjuntos de habilidades são sua caixa de ferramentas, os fluxos de trabalho são seu manual de execução.
+- No ecossistema de ferramentas como **Google [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]**, **Cursor** e **Claude Code**, a **automação de workflows** (fluxos de trabalho) é o processo de transformar checklists mentais e tarefas repetitivas em instruções estruturadas que a IA pode executar com consistência.
+- Diferente das regras ([[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Rules\|Rules]]), que são passivas e permanentes, os workflows funcionam como **macros manuais ou "receitas"** disparadas sob demanda pelo usuário.
 
 Abaixo, detalho como essa automação funciona, sua estrutura e os benefícios estratégicos:
 
@@ -17,7 +22,7 @@ Abaixo, detalho como essa automação funciona, sua estrutura e os benefícios e
 Para automatizar com eficácia, é preciso distinguir os workflows de outras funcionalidades de customização:
 
 - **Workflows:** São acionados manualmente pelo usuário (geralmente digitando `/` no chat) para realizar tarefas complexas e sequenciais.
-- **[[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Rules\|Rules]] (Regras):** São "guardrails" passivos, sempre ativos no prompt de sistema, que definem a personalidade e os padrões arquitetônicos globais do projeto.
+- **[[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Rules\|Rules]] (Regras):** São "guardrails" (salva guarda) passivos, sempre ativos no prompt de sistema, que definem a personalidade e os padrões arquitetônicos globais do projeto.
 - **[[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Skills\|Skills]] (Habilidades):** São pacotes de conhecimento especializado que o agente decide "equipar" automaticamente quando detecta que a tarefa exige aquela expertise.
 
 ### 2. Anatomia de um Workflow de Automação
@@ -61,3 +66,5 @@ Em resumo, a automação de workflows permite que o desenvolvedor mude seu papel
 - [Workflow: o que é, importância e como agilizar os processos? – Insights para te ajudar na carreira em tecnologia \| Blog da Trybe](https://blog.betrybe.com/carreira/workflow/)
 - [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Product Requirement Document\|Product Requirement Document]]
 - [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Antigravity Kit\|Antigravity Kit]]
+- [Workflows \| prompts.chat](https://prompts.chat/workflows)
+- [LangSmith - prompts community hub](https://smith.langchain.com/hub)

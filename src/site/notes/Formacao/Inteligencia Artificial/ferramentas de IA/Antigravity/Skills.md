@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/skills/","metatags":{"description":"são como playbooks que a IA lê para executar tarefas específicas, tornando-se especialista no seu negócio"},"noteIcon":2,"updated":"2026-03-04T09:46:48.292-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/ferramentas-de-ia/antigravity/skills/","metatags":{"description":"são como playbooks que a IA lê para executar tarefas específicas, tornando-se especialista no seu negócio"},"noteIcon":2,"updated":"2026-03-06T07:22:56.242-03:00"}
 ---
 
 #ia #Projeto #Antigravity
 
 # Skills
 
+- As skills são como "playbooks" (manuais) que a IA lê para executar tarefas específicas, tornando-se especialista no seu negócio. 
 - Prometem superar os "agentes" tradicionais, pois se adaptam melhor ao seu estilo de trabalho. 
-- As skills são como "playbooks" que a IA lê para executar tarefas específicas, tornando-se especialista no seu negócio. 
-- São definidas como **pacotes de conhecimento especializado e fluxos de trabalho** que estendem as capacidades dos agentes de IA de forma modular e sob demanda. 
+- São definidas como pacotes de conhecimento especializado que estendem as capacidades dos agentes de IA de forma modular e sob demanda. 
 - Elas atuam como o "cérebro" que direciona as ferramentas, transformando um modelo generalista (como o Gemini 3) em um especialista capaz de seguir padrões rigorosos e executar tarefas complexas
 
 ## Skills x agentes
@@ -17,19 +17,19 @@
     - **Agentes:** Operam de forma autônoma e usam um "system prompt" com todas as instruções.
     - **Skills:** São "playbooks" que a IA lê sob demanda, com um "system prompt" mais enxuto que apenas indica a disponibilidade das skills.
 
-|         | Agentes | Skills |
-| ------- | ------- | ------ |
-| O que é | IAs que agem de forma autónoma | Playbooks que ensinam a IA a agir do seu jeito       |
-| Modelo        |  ✅       | ✅       |
-| [[Formacao/Inteligencia Artificial/parametros de LLM/System Prompt\|System Prompt]] | Todas instruções ficam no System Prompt | System Prompt leve + skills ([[Formacao/Inteligencia Artificial/Prompts\|Prompts]]) carregados sob demanda |
-| Tools | Definidas na arquitetura do agente | Podem estar na skill como scripts |
-| Memória | Requer arquitetura externa (ex: RAG/ banco etc) | Skill é a memória procedural (escrita uma vez, lida sempre) |
-| Manutenção | É mais fixo e difícil de evoluir (requer deploy) | Aprende conforme você usa |
+|                   | Agentes                                          | Skills                                                                          |
+| ----------------- | ------------------------------------------------ | ------------------------------------------------------------------------------- |
+| O que é           | IAs que agem de forma autónoma                   | Playbooks que ensinam a IA a agir do seu jeito                                  |
+| Modelo            | ✅                                                | ✅                                                                               |
+| [[Formacao/Inteligencia Artificial/parametros de LLM/System Prompt\|System Prompt]] | Todas instruções ficam no System Prompt          | System Prompt leve + skills ([[Formacao/Inteligencia Artificial/Prompts\|Prompts]]) carregados [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Workflows\|sob demanda]] |
+| Tools             | Definidas na arquitetura do agente               | Podem estar na skill como scripts                                               |
+| Memória           | Requer arquitetura externa (ex: RAG/ banco etc)  | Skill é a memória procedural (escrita uma vez, lida sempre)                     |
+| Manutenção        | É mais fixo e difícil de evoluir (requer deploy) | Aprende conforme você usa                                                       |
 
 As "skills" superam os "agentes" por várias razões, conforme explicado no vídeo:
 
 - **Conhecimento Personalizado**: As skills resolvem o problema dos agentes que, por mais inteligentes que sejam, não conhecem a sua forma de trabalhar. Elas atuam como manuais que a IA lê antes de operar, tornando-se especialista no seu negócio e melhorando com o uso.
-- **[[Formacao/Inteligencia Artificial/parametros de LLM/System Prompt\|System Prompt]] Mais Enxuto e Eficiente**: Enquanto os agentes tradicionais precisam ter todas as instruções no "[[Formacao/Inteligencia Artificial/parametros de LLM/System Prompt\|System Prompt]]", as skills permitem que o "[[Formacao/Inteligencia Artificial/parametros de LLM/System Prompt\|System Prompt]]" seja mais limpo, apenas indicando a disponibilidade dos "playbooks" externos (as skills). O conteúdo detalhado da skill é carregado apenas quando necessário.
+- **[[Formacao/Inteligencia Artificial/parametros de LLM/System Prompt\|System Prompt]] Mais Enxuto e Eficiente**: Enquanto os agentes tradicionais precisam ter todas as instruções no "[[Formacao/Inteligencia Artificial/parametros de LLM/System Prompt\|System Prompt]]", as skills permitem que o "[[Formacao/Inteligencia Artificial/parametros de LLM/System Prompt\|System Prompt]]" seja mais limpo, apenas indicando a disponibilidade dos "playbooks" externos (as skills). O conteúdo detalhado da skill é carregado apenas quando necessário ([[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Workflows\|Workflows]]).
 - **Memória que Melhora com o Tempo (Retroalimentação)**: As skills têm a capacidade de melhorar com o tempo através da retroalimentação. Conforme você interage com o agente que usa uma skill, você pode pedir para ele registrar o que aprendeu, fazendo com que a skill evolua e se torne mais inteligente. Isso não é uma característica padrão dos agentes sem um banco externo.
 - **Manutenção Simplificada** (3:12-3:36): A manutenção e evolução das skills são mais fáceis. Você pode instruir o agente a registrar novas informações na skill durante a conversa, sem a necessidade de fazer "deploy" (publicar uma nova versão) como é exigido na manutenção de agentes tradicionais.
 - **Progressive Disclosure (Preservação da Janela de Contexto)**: As skills utilizam a janela de contexto de forma mais eficiente. Elas são carregadas apenas quando são necessárias, preservando a janela de contexto e tornando a IA mais efetiva. O "[[Formacao/Inteligencia Artificial/parametros de LLM/System Prompt\|System Prompt]]" do agente apenas lista os nomes e descrições curtas das skills disponíveis, carregando o conteúdo completo de uma skill apenas se ela for solicitada ou ativada. Isso evita lotar a janela de contexto com informações que não são relevantes para a tarefa atual, o que acontece quando todas as instruções estão diretamente no "[[Formacao/Inteligencia Artificial/parametros de LLM/System Prompt\|System Prompt]]" do agente.
@@ -71,6 +71,9 @@ Habilidades poderosas disponíveis para o ecossistema:
 
 - [Agente de IA é coisa do passado. Agora eu só uso SKILLS. - YouTube](https://www.youtube.com/watch?v=h_l8wCr7M2Q)
 - [Antigravity Skills: A novidade MAIS INSANA (vai te dar superpoderes) - YouTube](https://www.youtube.com/watch?v=xhlSi0Sc6dc)
-- [GitHub - sickn33/antigravity-awesome-skills: The Ultimate Collection of 900+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.](https://github.com/sickn33/antigravity-awesome-skills)
 - [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Antigravity Awesome Skills\|Antigravity Awesome Skills]]
-  
+- [GitHub - anthropics/skills: Public repository for Agent Skills · GitHub](https://github.com/anthropics/skills)
+- [Overview - Agent Skills](https://agentskills.io/home)
+- [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Antigravity Kit\|Antigravity Kit]]
+- [GitHub - kepano/obsidian-skills: Agent skills for Obsidian](https://github.com/kepano/obsidian-skills)
+- [Agora a Anthropic revolucionou TUDO de novo! - YouTube](https://www.youtube.com/watch?v=yPoSJbLxbS8)

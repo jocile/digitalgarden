@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/prompts/","title":"Exemplos de Prompts","metatags":{"description":"são instruções ou comandos fornecidos para um sistema"},"tags":["Inteligencia-artificial","LLM","Prompt"],"noteIcon":"1","updated":"2025-05-01T08:53:37.784-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/prompts/","title":"Exemplos de Prompts","metatags":{"description":"são instruções ou comandos fornecidos para um sistema"},"tags":["Inteligencia-artificial","LLM","Prompt"],"noteIcon":"1","updated":"2026-03-05T17:40:08.138-03:00"}
 ---
 
 # Exemplos de Prompts
@@ -62,7 +62,7 @@ estapa - o número da etapa em que você se encontra como descrito nas tags <eta
 - [DIFY AI PARA CHATBOT NO WHATSAPP - YouTube](https://www.youtube.com/watch?v=jFYZ1L-v1ss)
 - [COMO CONECTAR AGENTES DO DIFY NO WHATSAPP EM 2 MINUTOS 🤯 - YouTube](https://www.youtube.com/watch?v=SMsG9ETi5QY)
 
-## Agentes
+## Agentes (personas)
 
 ### Tradutor Bíblico
 
@@ -174,6 +174,9 @@ Responda-me como um professor ministrando uma aula se dirigindo para seus alunos
 
 ## Referências
 
+- [prompts.chat - AI Prompts Community](https://prompts.chat/)
+- [Prompt engineering - Docs by LangChain](https://docs.langchain.com/langsmith/prompt-engineering)
+- [LangSmith - Explore prompts](https://smith.langchain.com/hub)
 - [MSTY Prompts Library](https://msty.app/prompts-library)
 - [Open WebUI](https://openwebui.com/)
 - [Explore GPTs](https://chatgpt.com/gpts)
