@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/eva-oferecendo-a-fruta-e-sara-oferecendo-a-serva/","metatags":{"description":"Comparação do fato de Sara oferecer a serva para Abraão com Eva oferecendo a fruta para Adão"},"noteIcon":2,"updated":"2025-08-27T19:48:22.279-03:00"}
 ---
 
-Este texto foi gerado pela [[Formacao/Inteligencia Artificial/ferramentas de IA/Perplexity\|Perplexity]] usando o prompt: "Compare o fato de Sara oferecer a serva para Abraão com Eva oferecendo a fruta para Adão".
+Este texto foi gerado pela [[Tecnico/Ferramentas/ferramentas de IA/Perplexity\|Perplexity]] usando o prompt: "Compare o fato de Sara oferecer a serva para Abraão com Eva oferecendo a fruta para Adão".
 
 ## Comparação entre Eva e Sara
 

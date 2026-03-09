@@ -6,7 +6,7 @@
 
 ## Breve Histórico do Povo Hebreu: Das Origens Patriarcais à Diáspora
 
-Esse texto foi criado com o [[Formacao/Inteligencia Artificial/ferramentas de IA/Notebooklm\|Notebooklm]] utilizando como fontes diversas videoaulas sobre Teologia, que foram analisadas e resumidas em formato de notas.
+Esse texto foi criado com o [[Tecnico/Ferramentas/ferramentas de IA/Notebooklm\|Notebooklm]] utilizando como fontes diversas videoaulas sobre Teologia, que foram analisadas e resumidas em formato de notas.
 
 Este documento visa sintetizar os principais temas, ideias e fatos apresentados nas aulas sobre a história do povo hebreu, desde suas origens genealógicas até os grandes eventos que moldaram sua trajetória.
 

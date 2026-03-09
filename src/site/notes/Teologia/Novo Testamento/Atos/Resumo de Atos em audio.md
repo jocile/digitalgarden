@@ -16,7 +16,7 @@
 
 
 
-Texto gerado e revisado usando [[Formacao/Inteligencia Artificial/ferramentas de IA/Notebooklm\|Notebooklm]] com as seguintes fontes:
+Texto gerado e revisado usando [[Tecnico/Ferramentas/ferramentas de IA/Notebooklm\|Notebooklm]] com as seguintes fontes:
 
 - [[Teologia/Bibliografia de Teologia/Atos por Barclay\|Atos por Barclay]]
 - Comentário Judaico de Atos;

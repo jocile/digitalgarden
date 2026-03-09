@@ -98,5 +98,5 @@ Os tutoriais de [[Formacao/Inteligencia Artificial/Langchain\|Langchain]] demons
 ### Referências
 
 - [Python e Agentes de IA - YouTube](https://www.youtube.com/watch?v=PzwP-BFkLoY)
-- [[Formacao/Inteligencia Artificial/ferramentas de IA/Links de agentes de ia\|Links de agentes de ia]]
+- [[Tecnico/Ferramentas/ferramentas de IA/Links de agentes de ia\|Links de agentes de ia]]
 - [Using Agents - Mastra Docs](https://mastra.ai/docs/agents/overview)

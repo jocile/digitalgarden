@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-02-14T09:11:34.654-03:00"}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-03-07T08:01:31.627-03:00"}
 ---
 
 ## Olá 👋
@@ -37,43 +37,20 @@ Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de t
 
 | File                                                                                                                                                                             | 📄 Descrição                                                                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Antigravity Awesome Skills\|Antigravity Awesome Skills]]                                                     | funcionam como superpoderes modulares que o agente de IA decide equipar apenas quando detecta que a tarefa                                                                  |
-| [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Live coding/Vídeos sobre Antigravity\|Vídeos sobre Antigravity]]                                             | Vídeos sobre vibe coding                                                                                                                                                    |
-| [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Antigravity Kit\|Antigravity Kit]]                                                                           | funciona como uma camada de ferramentas e inteligência especializada                                                                                                        |
-| [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Product Requirement Document\|Product Requirement Document]]                                                 | documentação central que serve para instruir a inteligência artificial sobre como o projeto deve funcionar                                                                  |
+| [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity Awesome Skills\|Antigravity Awesome Skills]]                                                     | funcionam como superpoderes modulares que o agente de IA decide equipar apenas quando detecta que a tarefa                                                                  |
+| [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Live coding/Vídeos sobre Antigravity\|Vídeos sobre Antigravity]]                                             | Vídeos sobre vibe coding                                                                                                                                                    |
+| [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity Kit\|Antigravity Kit]]                                                                           | funciona como uma camada de ferramentas e inteligência especializada                                                                                                        |
+| [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Product Requirement Document\|Product Requirement Document]]                                                 | documentação central que serve para instruir a inteligência artificial sobre como o projeto deve funcionar                                                                  |
 | [[Formacao/Inteligencia Artificial/Automacao Inteligente de Processos\|Automacao Inteligente de Processos]]                                                                   | A combinação de Workflow (fluxo de trabalho), Skill (habilidade/capacidade) e Rules (regras) compõe a estratégia                                                            |
-| [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Live coding/Comparativo ferramentas gratuitas versus pagas\|Comparativo ferramentas gratuitas versus pagas]] | como criar um aplicativo do zero usando ferramentas gratuitas versus ferramentas pagas                                                                                      |
-| [[Formacao/Inteligencia Artificial/ferramentas de IA/Inspiracao de Design\|Inspiracao de Design]]                                                                             | permite a comunicação direta e padronizada entre diferentes ferramentas de software e agentes de ia                                                                         |
+| [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Live coding/Comparativo ferramentas gratuitas versus pagas\|Comparativo ferramentas gratuitas versus pagas]] | como criar um aplicativo do zero usando ferramentas gratuitas versus ferramentas pagas                                                                                      |
+| [[Tecnico/Ferramentas/ferramentas de IA/Inspiracao de Design\|Inspiracao de Design]]                                                                             | permite a comunicação direta e padronizada entre diferentes ferramentas de software e agentes de ia                                                                         |
 | [[Formacao/Inteligencia Artificial/Engenharia de contexto\|Engenharia de contexto]]                                                                                           | é o processo fundamental de fornecer informações estruturadas e diretrizes claras para uma IA                                                                               |
-| [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Documentação Semântica\|Documentação Semântica]]                                                             | Sua função principal é traduzir ativos técnicos complexos em uma linguagem que tanto humanos quanto IAs compreendam                                                         |
-| [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Live coding/Estruturando projeto BookTalk\|Estruturando projeto BookTalk]]                                   | como criar um aplicativo do zero usando ferramentas gratuitas versus ferramentas pagas                                                                                      |
-| [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Model Context Protocol\|Model Context Protocol]]                                                             | permite a comunicação direta e padronizada entre diferentes ferramentas de software e agentes de ia                                                                         |
-| [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Rules\|Rules]]                                                                                               | são pacotes de conhecimento sob demanda, as regras funcionam como um código de conduta ou uma placa arquitetônica que o agente consulta antes e durante a escrita de código |
+| [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Documentação Semântica\|Documentação Semântica]]                                                             | Sua função principal é traduzir ativos técnicos complexos em uma linguagem que tanto humanos quanto IAs compreendam                                                         |
+| [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Live coding/Estruturando projeto BookTalk\|Estruturando projeto BookTalk]]                                   | como criar um aplicativo do zero usando ferramentas gratuitas versus ferramentas pagas                                                                                      |
+| [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Model Context Protocol\|Model Context Protocol]]                                                             | permite a comunicação direta e padronizada entre diferentes ferramentas de software e agentes de ia                                                                         |
+| [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Rules\|Rules]]                                                                                               | são pacotes de conhecimento sob demanda, as regras funcionam como um código de conduta ou uma placa arquitetônica que o agente consulta antes e durante a escrita de código |
 
 <!-- SerializedQuery END -->
-
-
-</div></div>
-
-
----
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-## Sobre este site
-
-Alguns dizem que existem três tipos diferentes de anotadores: o arquiteto, o jardineiro, e o bibliotecário. Em poucas palavras, arquitetos gostam de planejar, jardineiros gostam de cultivar e bibliotecários gostam de colecionar.
-
->[!note]- Jardim digital
-> Este site é um "[jardim digital](https://obsidian.rocks/maps-of-content-effortless-organization-for-notes/#What-is-a-digital-garden)", onde as notas são "cultivadas", e seu nível de maturidade é representado por ícones de plantas que representam o seu crescimento:
->
-> - Mudas ( ![Maturity Level: 1|14](https://jocile.com/img/tree-1.svg) ) são pensamentos que mal começaram. Talvez tenham sido anotados às pressas ou simplesmente tenham mostrado apenas uma breve amostra do que pensei sobre elas.
-> - Plantas ( ![Maturity Level: 2|14](https://jocile.com/img/tree-2.svg) ) têm uma quantidade substancial de conteúdo, mas ainda há muito trabalho a ser feito. Coerência e padrões estão apenas emergindo.
-> - Árvores ( ![Maturity Level: 3|14](https://jocile.com/img/tree-3.svg) ) são pedaços coerentes de pensamento/ensaio/expressão que não devem mudar muito, exceto por alguns aprimoramentos editoriais.
-> - Mapas de conteúdo ( ![Maturity Level: 4|14](https://jocile.com/img/default-note-icon.svg) ) são pontos de referência informativos sobre o caminho, geralmente contendo links.
 
 
 </div></div>
@@ -88,8 +65,21 @@ Alguns dizem que existem três tipos diferentes de anotadores: o arquiteto, o ja
 
 
 
+## Sobre este site
+
+Alguns dizem que existem três tipos diferentes de anotadores: o arquiteto, o jardineiro, e o bibliotecário. Em poucas palavras, arquitetos gostam de planejar, jardineiros gostam de cultivar e bibliotecários gostam de colecionar.
+
+>[!note]- Jardim digital
+> Este site é um "[jardim digital](https://obsidian.rocks/maps-of-content-effortless-organization-for-notes/#What-is-a-digital-garden)", onde as notas são "cultivadas", e seu nível de maturidade é representado por ícones de plantas que representam o seu crescimento:
+>
+> - Mudas ( ![Maturity Level: 1|14](https://jocile.com/img/tree-1.svg) ) são pensamentos que mal começaram. Talvez tenham sido anotados às pressas ou simplesmente tenham mostrado apenas uma breve amostra do que pensei sobre elas.
+> - Plantas ( ![Maturity Level: 2|14](https://jocile.com/img/tree-2.svg) ) têm uma quantidade substancial de conteúdo, mas ainda há muito trabalho a ser feito. Coerência e padrões estão apenas emergindo.
+> - Árvores ( ![Maturity Level: 3|14](https://jocile.com/img/tree-3.svg) ) são pedaços coerentes de pensamento/ensaio/expressão que não devem mudar muito, exceto por alguns aprimoramentos editoriais.
+> - Guide - Mapas de conteúdo ( ![Maturity Level: 4|14](https://jocile.com/img/default-note-icon.svg) ) são pontos de referência informativos sobre o caminho, geralmente contendo links.
+
+---
 >[!note]- A organização
-> A organização do site é altamente estruturada e categorizada por domínios de conhecimento e aplicação prática, utilizando uma hierarquia clara de pastas:
+> A organização do site é altamente estruturada e categorizada por domínios de conhecimento (know) e aplicação prática, utilizando uma hierarquia clara de pastas:
 > - **Formacao/**: Centraliza o aprendizado técnico, subdividido por linguagens (Python, JS, PHP) e áreas modernas como Inteligência Artificial e UX Design.
 > - **Tecnico/ e Senac/**: Pastas dedicadas ao exercício da docência, contendo planos de aula, cronogramas, listas de alunos e materiais de apoio pedagógico.
 > - **[[Teologia\|Teologia]]/**: Uma seção extensa e bem organizada dedicada a estudos bíblicos, com divisões por temas como [[Teologia/Escatologia\|Escatologia]], [[Teologia/Cristologia/Introducao da Cristologia\|Cristologia]] e Bibliografia específica.
@@ -103,7 +93,7 @@ Alguns dizem que existem três tipos diferentes de anotadores: o arquiteto, o ja
 >[!note]- Ferramentas utilizadas
 > - As notas são escritas em [[Formacao/Webdesign/markdown\|markdown]];
 > - Organizadas com [[Tecnico/Ferramentas/Obsidian/Obsidian\|Obsidian]] e seus poderosos [[Tecnico/Ferramentas/Obsidian/Plugins do Obsidian\|plugins]];
-> - O conteúdo é enriquecido por [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]] como [[Formacao/Inteligencia Artificial/ferramentas de IA/Notebooklm\|Notebooklm]], [Copilot](https://www.obsidiancopilot.com/en), [Gemini](https://github.com/allenhutchison/obsidian-gemini), e local com [[Formacao/Inteligencia Artificial/ferramentas de IA/Ollama\|Ollama]]
+> - O conteúdo é enriquecido por [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]] como [[Tecnico/Ferramentas/ferramentas de IA/Notebooklm\|Notebooklm]], [Copilot](https://www.obsidiancopilot.com/en), [Gemini](https://github.com/allenhutchison/obsidian-gemini), e local com [[Tecnico/Ferramentas/ferramentas de IA/Ollama\|Ollama]]
 > - O código fonte é salvo no [GitHub - jocile/digitalgarden](https://github.com/jocile/digitalgarden) e publicado na [Vercel](https://vercel.com/), usando o plugin [Digital-garden](https://github.com/oleeskild/obsidian-digital-garden)
 > - Recomendações ou problemas podem ser relatados em [issues](https://github.com/jocile/digitalgarden/issues).
 
@@ -130,6 +120,8 @@ Alguns dizem que existem três tipos diferentes de anotadores: o arquiteto, o ja
 
 
 
+
+[[Cursos SENAC Sobral\|Cursos SENAC Sobral]]
 
 
 

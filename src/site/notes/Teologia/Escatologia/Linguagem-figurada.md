@@ -75,4 +75,4 @@ A linguagem figurada presente na escatologia não deve ser vista como um obstác
 
 A interpretação da linguagem figurada na Bíblia é um campo vasto e complexo, que exige cuidado, diligência e, sobretudo, fidelidade ao texto bíblico. As fontes fornecidas oferecem um guia valioso para navegar nesse universo de símbolos, figuras e imagens, auxiliando o leitor a compreender a mensagem que Deus deseja comunicar através de sua Palavra. É crucial lembrar que o objetivo final da interpretação bíblica não é decifrar enigmas ou encontrar sentidos ocultos, mas sim conhecer a Deus, compreender os seus planos e viver em obediência à sua vontade.
 
-Este texto de estudo foi gerado por [[Formacao/Inteligencia Artificial/ferramentas de IA/Notebooklm\|Notebooklm]] utilizando como fonte: [Manual de escatologia j. dwight pentecost | PDF](https://pt.slideshare.net/slideshow/manual-de-escatologia-j-dwight-pentecost/21895842)
+Este texto de estudo foi gerado por [[Tecnico/Ferramentas/ferramentas de IA/Notebooklm\|Notebooklm]] utilizando como fonte: [Manual de escatologia j. dwight pentecost | PDF](https://pt.slideshare.net/slideshow/manual-de-escatologia-j-dwight-pentecost/21895842)

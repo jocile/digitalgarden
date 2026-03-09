@@ -12,7 +12,7 @@ As táticas de automação inteligente são estratégias que combinam inteligên
 - Integre ações orientadas a eventos: Configure sistemas de IA que respondam instantaneamente a gatilhos específicos, para que tarefas como classificar e-mails ou atualizar registros aconteçam exatamente quando necessário, sem que você precise intervir. 
 - Monitore e refine processos: Revise regularmente sua configuração de automação para identificar gargalos ou ineficiências e, em seguida, ajuste suas ferramentas e fluxos de trabalho para manter tudo funcionando perfeitamente à medida que suas necessidades mudam.
 
-A combinação de [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Workflows\|Workflow]] (fluxo de trabalho), [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Skills\|Skill]] (habilidade/capacidade) e [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Rules\|Rules]] (regras) compõe a estratégia de Automação Inteligente de Processos (Intelligent Automation) ou Gestão Avançada de Processos de Negócio (BPM). 
+A combinação de [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Workflows\|Workflow]] (fluxo de trabalho), [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Skills\|Skill]] (habilidade/capacidade) e [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Rules\|Rules]] (regras) compõe a estratégia de Automação Inteligente de Processos (Intelligent Automation) ou Gestão Avançada de Processos de Negócio (BPM). 
 
 Essa abordagem vai além da simples automatização de tarefas repetitivas (RPA), integrando capacidade de decisão (IA), regras de conformidade e orquestração de processos ponta a ponta. 
 
@@ -20,28 +20,28 @@ Aqui está o detalhamento de como esses três pilares funcionam juntos:
 
 ## 1. Os Três Pilares da Estratégia 
 
-- [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Workflows\|Workflow]] (O Fluxo/Orquestração): Define a sequência lógica, as etapas e o movimento de dados/tarefas entre pessoas e sistemas (do início ao fim).
-- [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Rules\|Rules]] (As Regras/Conformidade): Diretrizes estáticas ou dinâmicas que guiam a tomada de decisão (ex: "se valor > 1000, solicitar aprovação do gerente").
-- [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Skills\|Skill]] (A Habilidade/Ação): Capacidades específicas ou ferramentas que executam tarefas especializadas dentro do [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Workflows\|Workflow]], como ler um documento (OCR), enviar e-mail ou consultar um banco de dados. 
+- [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Workflows\|Workflow]] (O Fluxo/Orquestração): Define a sequência lógica, as etapas e o movimento de dados/tarefas entre pessoas e sistemas (do início ao fim).
+- [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Rules\|Rules]] (As Regras/Conformidade): Diretrizes estáticas ou dinâmicas que guiam a tomada de decisão (ex: "se valor > 1000, solicitar aprovação do gerente").
+- [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Skills\|Skill]] (A Habilidade/Ação): Capacidades específicas ou ferramentas que executam tarefas especializadas dentro do [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Workflows\|Workflow]], como ler um documento (OCR), enviar e-mail ou consultar um banco de dados. 
 
 ## 2. A Estratégia em Ação (Exemplo Prático: Aprovação de Crédito)
 
-- [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Workflows\|Workflow]]: O processo inicia quando um formulário de cliente é recebido.
-- [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Skills\|Skill]]: Uma IA lê o documento de identidade (habilidade de IA) e a ferramenta consulta o Serasa (habilidade de sistema).
-- [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Rules\|Rules]]: O sistema aplica regras: se restrição = "não" e renda > 5000, aprovação automática. Caso contrário, envia para análise humana.
-- [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Workflows\|Workflow]] (Finalização): O processo envia o contrato ou o e-mail de recusa. 
+- [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Workflows\|Workflow]]: O processo inicia quando um formulário de cliente é recebido.
+- [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Skills\|Skill]]: Uma IA lê o documento de identidade (habilidade de IA) e a ferramenta consulta o Serasa (habilidade de sistema).
+- [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Rules\|Rules]]: O sistema aplica regras: se restrição = "não" e renda > 5000, aprovação automática. Caso contrário, envia para análise humana.
+- [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Workflows\|Workflow]] (Finalização): O processo envia o contrato ou o e-mail de recusa. 
 
 ## 3. Principais Tipos de Estratégia de Workflow
 
-- [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Workflows\|Workflow]] de Produção: Ideal para processos de alto volume, com regras fixas e bem definidas, focado em alta eficiência e padronização.
-- [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Workflows\|Workflow]] Administrativo: Focado em rotinas de escritório, aprovações e fluxo de documentos (ex: solicitações de férias).
-- [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Workflows\|Workflow]] Ad Hoc: Mais flexível, recomendado quando as regras podem ser alteradas mesmo após o início do processo, permitindo mudanças individuais. 
+- [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Workflows\|Workflow]] de Produção: Ideal para processos de alto volume, com regras fixas e bem definidas, focado em alta eficiência e padronização.
+- [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Workflows\|Workflow]] Administrativo: Focado em rotinas de escritório, aprovações e fluxo de documentos (ex: solicitações de férias).
+- [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Workflows\|Workflow]] Ad Hoc: Mais flexível, recomendado quando as regras podem ser alteradas mesmo após o início do processo, permitindo mudanças individuais. 
 
 ## 4. Vantagens da Abordagem Integrada
 
 - Alta Complexidade: Gerencia processos difíceis com precisão.
-- Conformidade e Controle: [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Rules\|Rules]] garantem que diretrizes de negócio sejam seguidas rigorosamente.
-- Tomada de Decisão Automatizada: [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Skills\|Skills]] de IA permitem que o [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Workflows\|Workflow]] decida caminhos, reduzindo a intervenção humana.
+- Conformidade e Controle: [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Rules\|Rules]] garantem que diretrizes de negócio sejam seguidas rigorosamente.
+- Tomada de Decisão Automatizada: [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Skills\|Skills]] de IA permitem que o [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Workflows\|Workflow]] decida caminhos, reduzindo a intervenção humana.
 - Eficiência e Rastreabilidade: Monitoramento preciso de cada etapa da operação. 
 
 ## Resumo
@@ -55,7 +55,7 @@ Aqui está o detalhamento de como esses três pilares funcionam juntos:
 | Usa dados desestruturados | ❌          | ✅                     | ❌   | ✅       |
 | Ação autônoma             | ❌          | ❌                     | ❌   | ✅       |
 
->[!info] Essa abordagem é comumente encontrada em plataformas de BPM (Business Process Management) e ferramentas de Intelligent Automation (como o [[Formacao/Inteligencia Artificial/ferramentas de IA/Antigravity/Antigravity\|Antigravity]])
+>[!info] Essa abordagem é comumente encontrada em plataformas de BPM (Business Process Management) e ferramentas de Intelligent Automation (como o [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]])
 
 ## Referências
 

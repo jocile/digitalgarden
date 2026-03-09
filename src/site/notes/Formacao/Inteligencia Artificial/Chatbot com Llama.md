@@ -9,7 +9,7 @@
 
 ### Instalando o Llama
 
-Para começar, precisamos instalar o Llama em nosso computador. Isso pode ser feito baixando o aplicativo do [[Formacao/Inteligencia Artificial/ferramentas de IA/Ollama\|Ollama]] e seguindo as instruções de instalação.
+Para começar, precisamos instalar o Llama em nosso computador. Isso pode ser feito baixando o aplicativo do [[Tecnico/Ferramentas/ferramentas de IA/Ollama\|Ollama]] e seguindo as instruções de instalação.
 
 ### Configurando o Ambiente Virtual
 

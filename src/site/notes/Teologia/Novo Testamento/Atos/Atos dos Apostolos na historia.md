@@ -159,7 +159,7 @@ O livro de Atos dos Apóstolos documenta a transição crucial do movimento de J
 
 
 
-Texto gerado e revisado usando [[Formacao/Inteligencia Artificial/ferramentas de IA/Notebooklm\|Notebooklm]] com as seguintes fontes:
+Texto gerado e revisado usando [[Tecnico/Ferramentas/ferramentas de IA/Notebooklm\|Notebooklm]] com as seguintes fontes:
 
 - [[Teologia/Bibliografia de Teologia/Atos por Barclay\|Atos por Barclay]]
 - Comentário Judaico de Atos;
