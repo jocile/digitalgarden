@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/","title":"Teologia","metatags":{"description":"Estudos teológicos da Bíblia"},"contentClasses":"cards","noteIcon":2,"updated":"2026-03-06T10:24:57.279-03:00"}
+{"dg-publish":true,"permalink":"/teologia/","title":"Teologia","metatags":{"description":"Estudos teológicos da Bíblia"},"contentClasses":"cards","noteIcon":2,"updated":"2026-03-09T21:05:18.616-03:00"}
 ---
 
 
@@ -13,7 +13,6 @@
 | 06.03.26 | [[Teologia/Novo Testamento/Estudo de Marcos\|Estudo de Marcos]]                                                                      | escrito para os cristãos romanos, como um registro das pregações do apóstolo Pedro, de quem era intérprete, em suas pregações em Roma.                                                          |
 | 15.11.25 | [[Teologia/Novo Testamento/Atos/Atos o proposito\|Atos o proposito]]                                                                 | mostra como o Evangelho foi difundido e consolidado após a morte, ressurreição e ascensão de Jesus.                                                                                             |
 | 29.10.25 | [[Teologia/Novo Testamento/Pneumatologia\|Pneumatologia]]                                                                            | ciência que estuda a pessoa do Espírito Santo!                                                                                                                                                  |
-| 26.09.25 | [[Teologia/Novo Testamento/Atos/Resumo de Atos em audio\|Resumo de Atos em audio]]                                                   | Áudio podcast com o resumo do livro de Atos dos Apóstolos.                                                                                                                                      |
 | 26.09.25 | [[Teologia/Novo Testamento/Atos/Atos dos Apostolos na historia\|Atos dos Apostolos na historia]]                                     | mostra como o Evangelho foi difundido e consolidado após a morte, ressurreição e ascensão de Jesus.                                                                                             |
 | 26.09.25 | [[Teologia/Bibliografia de Teologia/Atos por Barclay\|Atos por Barclay]]                                                             | O texto explora a estrutura, temas e contexto histórico do Apocalipse                                                                                                                           |
 | 26.09.25 | [[Teologia/Bibliografia de Teologia/Apocalipse por Barclay\|Apocalipse por Barclay]]                                                 | O texto explora a estrutura, temas e contexto histórico do Apocalipse                                                                                                                           |

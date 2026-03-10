@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/metodo-cornell/","metatags":{"description":"organizar informações de forma visual e facilitar a revisão sistemática e a memorização"},"noteIcon":2,"updated":"2026-03-07T09:31:04.907-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/metodo-cornell/","metatags":{"description":"organizar informações de forma visual e facilitar a revisão sistemática e a memorização"},"noteIcon":2,"updated":"2026-03-09T21:08:20.226-03:00"}
 ---
 
 
@@ -28,11 +28,7 @@ O sucesso do método reside no processo de revisão ativa, frequentemente resumi
 4. Reflect (Refletir): Pense em como esse novo conhecimento se conecta com o que você já sabe.
 5. Review (Revisar): Faça revisões rápidas e frequentes para fixar o conteúdo na memória de longo prazo. [^3] [^5] [^13] [^14]
 
-## Dica para o Obsidian
 
-Como você está usando o Obsidian, pode simular essa estrutura usando blocos de notas (Callouts) ou tabelas em Markdown. Uma forma popular é usar o plugin Custom Frames ou simplesmente dividir a nota com cabeçalhos `# Anotações`, `# Perguntas` e `# Resumo`.
-
-Gostaria que eu adaptasse o prompt anterior especificamente para que o ChatGPT transforme textos brutos diretamente no formato de uma nota Cornell em Markdown?
 
 ## Referências
 

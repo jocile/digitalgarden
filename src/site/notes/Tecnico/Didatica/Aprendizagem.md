@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/aprendizagem/","metatags":{"description":"Exerce funções técnicas, como: administração do sistema de banco de dados, desenvolver software, programar rotinas de sistema utilizando linguagens e técnicas de programação, programação de sistemas para desktop e para web, entre outras atividades.","og:image":"curso-tec-sistemas.jpeg"},"tags":["curso"],"noteIcon":"1","updated":"2026-03-07T08:41:53.368-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/aprendizagem/","metatags":{"description":"Exerce funções técnicas para desenvolvimento de aprendizado sistemático."},"noteIcon":2,"updated":"2026-03-10T09:27:09.361-03:00"}
 ---
 
 

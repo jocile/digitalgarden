@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/videos/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"cards","noteIcon":"default","updated":"2026-03-09T20:46:52.806-03:00"}
+{"dg-publish":true,"permalink":"/videos/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"cards","noteIcon":"default","updated":"2026-03-09T21:06:15.102-03:00"}
 ---
 
+
+## Vídeos preferidos
 
 <!-- QueryToSerialize: TABLE WITHOUT ID title, "![thumbnail|50](" + thumbnailUrl + ")" AS "Cover", duration, published, url FROM "clipper/youtube.com" -->
 <!-- SerializedQuery: TABLE WITHOUT ID title, "![thumbnail|50](" + thumbnailUrl + ")" AS "Cover", duration, published, url FROM "clipper/youtube.com" -->
