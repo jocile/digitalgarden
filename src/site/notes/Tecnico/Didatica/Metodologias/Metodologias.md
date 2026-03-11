@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/metodologias/","metatags":{"description":"conjunto de procedimentos didáticos que visam promover a participação ativa do aluno nas situações de aprendizagem."},"noteIcon":2,"updated":"2026-03-10T09:55:58.102-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/metodologias/","metatags":{"description":"conjunto de procedimentos didáticos que visam promover a participação ativa do aluno nas situações de aprendizagem."},"noteIcon":2,"updated":"2026-03-10T10:23:11.711-03:00"}
 ---
 
 
@@ -56,7 +56,7 @@ III. Os professores são estimulados a renovar e a reinventar sua prática educa
 - Brainstorming
 - Trabalho de grupo
 - Apresentação vivencial - Dinâmica
-- [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]] baseada em problemas
+- [[Tecnico/Didatica/Metodologias/Aprendizagem baseada em problemas\|Aprendizagem baseada em problemas]]
 - Seminário
 - Portfólio
 - Debate
@@ -69,7 +69,7 @@ III. Os professores são estimulados a renovar e a reinventar sua prática educa
 
 ### Aprendizagem Baseada em Problemas
 
-A [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]] Baseada em Problemas (ABP) é um método de [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]] que se baseia na apresentação de um problema aos alunos, com o objetivo de mobilizá-los para a busca de possíveis soluções. Nessa abordagem, **a curiosidade é a base** para a elaboração de perguntas acerca dos fenômenos complexos que envolvem o cotidiano do aluno e sua realidade profissional, **buscando despertar o interesse e provocar a reflexão**.
+A [[Tecnico/Didatica/Metodologias/Aprendizagem baseada em problemas\|Aprendizagem baseada em problemas]] (ABP) é um método de [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]] que se baseia na apresentação de um problema aos alunos, com o objetivo de mobilizá-los para a busca de possíveis soluções. Nessa abordagem, **a curiosidade é a base** para a elaboração de perguntas acerca dos fenômenos complexos que envolvem o cotidiano do aluno e sua realidade profissional, **buscando despertar o interesse e provocar a reflexão**.
 
 Apesar de o problema ser a base para o aprendizado, a ideia é enfatizar o processo de [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]] do grupo na busca de uma solução, o que não significa que o problema tenha de ser necessariamente resolvido. A principal contribuição dessa metodologia é a construção do conhecimento em um ambiente de colaboração mútua.
 

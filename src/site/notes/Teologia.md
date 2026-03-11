@@ -1,15 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/","title":"Teologia","metatags":{"description":"Estudos teológicos da Bíblia"},"contentClasses":"cards","noteIcon":2,"updated":"2026-03-09T21:05:18.616-03:00"}
+{"dg-publish":true,"permalink":"/teologia/","title":"Teologia","metatags":{"description":"Estudos teológicos da Bíblia"},"contentClasses":"cards","noteIcon":2,"updated":"2026-03-11T10:21:23.154-03:00"}
 ---
 
 
 #Teologia 📁 [[Teologia/Escatologia\|Escatologia]] - 📁 [[Teologia/Cristologia/Ideias sobre Jesus\|Cristologia]]- 📁 [[Teologia/Doutrina de Deus/O conceito de Deus\|O conceito de Deus]]
 
-<!-- QueryToSerialize: TABLE WITHOUT ID dateformat(file.mtime, "dd.MM.yy") as "Data", file.link AS "📖 Páginas em Teologia", dg-metatags.description AS "📄 Descrição" FROM  "Teologia" WHERE dg-publish AND class!="mapa" SORT file.mtime DESC LIMIT 100 -->
-<!-- SerializedQuery: TABLE WITHOUT ID dateformat(file.mtime, "dd.MM.yy") as "Data", file.link AS "📖 Páginas em Teologia", dg-metatags.description AS "📄 Descrição" FROM  "Teologia" WHERE dg-publish AND class!="mapa" SORT file.mtime DESC LIMIT 100 -->
+<!-- QueryToSerialize: TABLE WITHOUT ID dateformat(file.mtime, "dd.MM.yy") as "Data", file.link AS "📖 Páginas em Teologia", dg-metatags.description AS "📄 Descrição" FROM "Teologia" WHERE dg-publish AND class!="mapa" SORT file.mtime DESC LIMIT 100 -->
+<!-- SerializedQuery: TABLE WITHOUT ID dateformat(file.mtime, "dd.MM.yy") as "Data", file.link AS "📖 Páginas em Teologia", dg-metatags.description AS "📄 Descrição" FROM "Teologia" WHERE dg-publish AND class!="mapa" SORT file.mtime DESC LIMIT 100 -->
 
 | Data     | 📖 Páginas em Teologia                                                                                                                  | 📄 Descrição                                                                                                                                                                                    |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11.03.26 | [[Teologia/Bibliologia/Estrutura bíblica\|Estrutura bíblica]]                                                                        | é o plural de um vocábulo grego biblion, que significa livro. Portanto, uma tradução literal de “Bíblia” poderia ser Os Livros.                                                                 |
+| 11.03.26 | [[Teologia/Bibliologia/Introdução bíblica\|Introdução bíblica]]                                                                      | iniciando o estudo da Bíblia                                                                                                                                                                    |
 | 06.03.26 | [[Teologia/Novo Testamento/Estudo de Marcos\|Estudo de Marcos]]                                                                      | escrito para os cristãos romanos, como um registro das pregações do apóstolo Pedro, de quem era intérprete, em suas pregações em Roma.                                                          |
 | 15.11.25 | [[Teologia/Novo Testamento/Atos/Atos o proposito\|Atos o proposito]]                                                                 | mostra como o Evangelho foi difundido e consolidado após a morte, ressurreição e ascensão de Jesus.                                                                                             |
 | 29.10.25 | [[Teologia/Novo Testamento/Pneumatologia\|Pneumatologia]]                                                                            | ciência que estuda a pessoa do Espírito Santo!                                                                                                                                                  |
