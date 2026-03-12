@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/prompts/","title":"Exemplos de Prompts","metatags":{"description":"são instruções ou comandos fornecidos para um sistema"},"tags":["Inteligencia-artificial","LLM","Prompt"],"noteIcon":"1","updated":"2026-03-05T17:40:08.138-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/prompts/","title":"Exemplos de Prompts","metatags":{"description":"são instruções ou comandos fornecidos para um sistema"},"tags":["Inteligencia-artificial","LLM","Prompt"],"noteIcon":"1","updated":"2026-03-12T19:37:17.287-03:00"}
 ---
 
 # Exemplos de Prompts
