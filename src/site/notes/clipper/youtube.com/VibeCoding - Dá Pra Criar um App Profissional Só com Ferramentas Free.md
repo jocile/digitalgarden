@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/vibe-coding-da-pra-criar-um-app-profissional-so-com-ferramentas-free/","title":"Dá Pra Criar um App Profissional Só com Ferramentas Free?","noteIcon":2,"updated":"2026-03-12T19:24:46.620-03:00"}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/vibe-coding-da-pra-criar-um-app-profissional-so-com-ferramentas-free/","title":"Dá Pra Criar um App Profissional Só com Ferramentas Free?","noteIcon":2,"updated":"2026-03-12T19:49:30.575-03:00"}
 ---
+
+# Dá Pra Criar um App Profissional Só com Ferramentas Free?
+
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/FbS2uEw9GIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Sobre
 
@@ -21,8 +25,6 @@ Neste vídeo, Hélio Arreche demonstra como criar um aplicativo profissional do 
 - Robusteza: A stack paga com Cloud Code e VPS oferece controle total e performance para aplicativos robustos, sem limites de processamento da IA (1:06:24).
 - Segurança: O vídeo destaca o uso da ferramenta TestSprite para verificar a segurança e funcionalidade de ambos os projetos (1:10:32).
 - Conclusão: É possível criar apps profissionais gratuitamente, mas para projetos de alta escala, o investimento em ferramentas pagas evita dores de cabeça e erros complexos (1:23:09).
-
-<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/FbS2uEw9GIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Descrição
 

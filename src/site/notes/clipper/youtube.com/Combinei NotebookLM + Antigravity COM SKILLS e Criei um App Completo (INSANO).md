@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/combinei-notebook-lm-antigravity-com-skills-e-criei-um-app-completo-insano/","title":"Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo (INSANO)","noteIcon":2,"updated":"2026-03-12T19:18:32.284-03:00"}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/combinei-notebook-lm-antigravity-com-skills-e-criei-um-app-completo-insano/","title":"Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo (INSANO)","noteIcon":2,"updated":"2026-03-12T19:47:37.648-03:00"}
 ---
 
-## About
-
-type:: #type/video/youtube/new
+# Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo (INSANO)
 
 <div class="youtube-embed"><iframe src="https://www.youtube.com/embed/A8Q2hJCBop8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/claude-code-guia-completo-para-iniciantes-aprenda-a-usar-a-melhor-ferramenta-de-ia-coding/","title":"Claude Code: Guia completo para iniciantes, aprenda a usar a melhor ferramenta de IA Coding","noteIcon":"2","updated":"2026-03-12T19:12:17.927-03:00"}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/claude-code-guia-completo-para-iniciantes-aprenda-a-usar-a-melhor-ferramenta-de-ia-coding/","title":"Claude Code: Guia completo para iniciantes, aprenda a usar a melhor ferramenta de IA Coding","noteIcon":"2","updated":"2026-03-12T19:47:25.782-03:00"}
 ---
 
-## About
-
-type:: #type/video/youtube/new
+# Claude Code Guia completo para iniciantes, aprenda a usar a melhor ferramenta de IA Coding
 
 <div class="youtube-embed"><iframe src="https://www.youtube.com/embed/ccMr3xfca3Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

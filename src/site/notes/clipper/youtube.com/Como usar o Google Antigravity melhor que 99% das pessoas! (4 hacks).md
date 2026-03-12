@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/como-usar-o-google-antigravity-melhor-que-99-das-pessoas-4-hacks/","title":"Como usar o Google Antigravity melhor que 99% das pessoas! (4 hacks)","noteIcon":2,"updated":"2026-03-12T19:36:11.088-03:00"}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/como-usar-o-google-antigravity-melhor-que-99-das-pessoas-4-hacks/","title":"Como usar o Google Antigravity melhor que 99% das pessoas! (4 hacks)","noteIcon":2,"updated":"2026-03-12T19:48:40.385-03:00"}
 ---
 
-## Empreendedor Serial - Como usar o Google Antigravity melhor que 99% das pessoas
+# Empreendedor Serial - Como usar o Google Antigravity melhor que 99% das pessoas
+
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/LnOhoJ6GDqw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 O vídeo apresenta o Google [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]] (uma ferramenta de desenvolvimento baseada no VS Code) e ensina 4 hacks avançados para aumentar a produtividade e reduzir custos com tokens em projetos de IA.
 
@@ -13,8 +15,6 @@ Principais pontos abordados:
 - Autenticação Profissional (4): Utilização da ferramenta Clerk para gerenciar login e segurança em aplicativos SAS, economizando tempo de desenvolvimento (17:52).
 - Trabalho em Paralelo: O uso do Agent Manager para gerenciar múltiplas tarefas simultâneas (21:29).
 - Dica Bônus: Apresentação da plataforma Horizons da Hostinger para desenvolvimento de sites mais simples (23:12).
-
-<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/LnOhoJ6GDqw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Resumo
 

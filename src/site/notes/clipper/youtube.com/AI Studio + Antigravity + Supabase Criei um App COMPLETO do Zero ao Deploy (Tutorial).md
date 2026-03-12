@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/ai-studio-antigravity-supabase-criei-um-app-completo-do-zero-ao-deploy-tutorial/","title":"AI Studio + Antigravity + Supabase: Criei um App COMPLETO do Zero ao Deploy (Tutorial)","noteIcon":2,"updated":"2026-03-12T19:17:10.657-03:00"}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/ai-studio-antigravity-supabase-criei-um-app-completo-do-zero-ao-deploy-tutorial/","title":"AI Studio + Antigravity + Supabase: Criei um App COMPLETO do Zero ao Deploy (Tutorial)","noteIcon":2,"updated":"2026-03-12T19:47:12.209-03:00"}
 ---
 
-## About
 
-type:: #type/video/youtube/new
+# AI Studio + Antigravity + Supabase Criei um App COMPLETO do Zero ao Deploy (Tutorial)
 
 <div class="youtube-embed"><iframe src="https://www.youtube.com/embed/LW_2JEG3enE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
