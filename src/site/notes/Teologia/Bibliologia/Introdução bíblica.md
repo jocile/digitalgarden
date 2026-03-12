@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/bibliologia/introducao-biblica/","metatags":{"description":"iniciando o estudo da Bíblia"},"noteIcon":2,"updated":"2026-03-11T09:33:37.104-03:00"}
+{"dg-publish":true,"permalink":"/teologia/bibliologia/introducao-biblica/","metatags":{"description":"iniciando o estudo da Bíblia"},"noteIcon":2,"updated":"2026-03-11T10:56:11.928-03:00"}
 ---
 
 #Teologia #Teologia/bibliologia
@@ -52,3 +52,13 @@ O fracasso dos censores deu lugar a um esforço missionário e logístico monume
 O percurso da Bíblia — da escrita em pergaminhos ao formato digital, da proibição clerical à queima em praça pública — demonstra que ela sobreviveu aos seus próprios coveiros. Como afirma a própria Escritura em Isaías 40:8: *"Seca-se a erva, e cai a flor, mas a palavra do nosso Deus subsiste eternamente"*. Sua permanência não é apenas um dado estatístico, mas um testemunho de sua relevância contínua para a fé e a ética da civilização ocidental.
 
 Indubitavelmente esta é a vitória de um Livro que advoga para si mesmo o título de Palavra de Deus. Pode-se, também afirmar que é o cumprimento fiel das palavras de Seu Autor-Inspirador: “Passará o céu e a terra, porém as minhas palavras não passarão.” (Mat. 24:35).
+
+## Referências bíblicas
+
+- Escrituras - Mt 21:42: "Perguntou-lhes Jesus: Nunca lestes nas Escrituras: A pedra que os construtores rejeitaram, essa veio a ser a principal pedra, angular; isto procede do Senhor e é maravilhoso aos nossos olhos?"
+- Sagradas escrituras - Rm 1:2: "o qual foi por Deus, outrora, prometido por intermédio dos seus profetas nas Sagradas Escrituras,"
+- Livro do Senhor - Is 34:16: "Buscai no livro do SENHOR e lede: Nenhuma destas criaturas falhará, nem uma nem outra faltará; porque a boca do SENHOR o ordenou, e o seu Espírito mesmo as ajuntará."
+- A Palavra de Deus 
+  - Mc 7:13: "invalidando a palavra de Deus pela vossa própria tradição, que vós mesmos transmitistes; e fazeis muitas outras coisas semelhantes."
+  - Hb 4:12: "Porque a palavra de Deus é viva, e eficaz, e mais cortante do que qualquer espada de dois gumes, e penetra até ao ponto de dividir alma e espírito, juntas e medulas, e é apta para discernir os pensamentos e propósitos do coração."
+- Os oráculos de Deus - Rm 3:2: "... aos judeus foram confiados os oráculos de Deus."

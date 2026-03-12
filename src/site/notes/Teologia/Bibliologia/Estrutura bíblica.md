@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/bibliologia/estrutura-biblica/","metatags":{"description":"é o plural de um vocábulo grego biblion, que significa livro. Portanto, uma tradução literal de “Bíblia” poderia ser Os Livros."},"noteIcon":2,"updated":"2026-03-11T10:19:54.791-03:00"}
+{"dg-publish":true,"permalink":"/teologia/bibliologia/estrutura-biblica/","metatags":{"description":"é o plural de um vocábulo grego biblion, que significa livro. Portanto, uma tradução literal de “Bíblia” poderia ser Os Livros."},"noteIcon":2,"updated":"2026-03-11T10:58:07.785-03:00"}
 ---
 
 #Teologia #Teologia/bibliologia
@@ -90,7 +90,7 @@ Convém lembrar que a Bíblia católica acrescenta os seguintes livros (sete, ao
 
 | CLASSIFICAÇÃO   | LIVRO             | ABREV. | AUTOR     | DATA (a.C.) |     |
 | --------------- | ----------------- | ------ | --------- | ----------- | --- |
-| NOVO TESTAMENTO |                   |        |           |             |     |
+| Novo Testamento |                   |        |           |             |     |
 | Evangelhos      | Mateus            | Mt     | Mateus    | c. 60-70    |     |
 |                 | Marcos            | Mc     | Marcos    | c. 50-70    |     |
 |                 | Lucas             | Lc     | Lucas     | c. 64-70    |     |

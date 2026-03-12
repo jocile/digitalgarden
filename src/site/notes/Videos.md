@@ -1,17 +1,47 @@
 ---
-{"dg-publish":true,"permalink":"/videos/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"cards","noteIcon":"default","updated":"2026-03-09T21:06:15.102-03:00"}
+{"dg-publish":true,"permalink":"/videos/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"cards","noteIcon":"default","updated":"2026-03-12T10:24:44.354-03:00"}
 ---
 
 
 ## Vídeos preferidos
 
-<!-- QueryToSerialize: TABLE WITHOUT ID title, "![thumbnail|50](" + thumbnailUrl + ")" AS "Cover", duration, published, url FROM "clipper/youtube.com" -->
-<!-- SerializedQuery: TABLE WITHOUT ID title, "![thumbnail|50](" + thumbnailUrl + ")" AS "Cover", duration, published, url FROM "clipper/youtube.com" -->
+<!-- QueryToSerialize: TABLE WITHOUT ID title, "![thumbnail|50](" + thumbnailUrl + ")" AS "Cover", duration, published, related, url FROM "clipper/youtube.com" -->
+<!-- SerializedQuery: TABLE WITHOUT ID title, "![thumbnail|50](" + thumbnailUrl + ")" AS "Cover", duration, published, related, url FROM "clipper/youtube.com" -->
 
-| title                                                                                  | Cover                                                                  | duration | published      | url                                         |
-| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------- | -------------- | ------------------------------------------- |
-| AI Studio + Antigravity + Supabase: Criei um App COMPLETO do Zero ao Deploy (Tutorial) | ![thumbnail\|50](https://i.ytimg.com/vi/LW_2JEG3enE/maxresdefault.jpg) | 2180     | March 06, 2026 | https://www.youtube.com/watch?v=LW_2JEG3enE |
-| Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo (INSANO)          | ![thumbnail\|50](https://i.ytimg.com/vi/A8Q2hJCBop8/maxresdefault.jpg) | 0:22:01  | March 09, 2026 | https://www.youtube.com/watch?v=A8Q2hJCBop8 |
+| title                                                                                  | Cover                                                                  | duration | published        | related                                                                                                                                                                                                                                                                                                                                                                  | url                                         |
+| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- |
+| AI Studio + Antigravity + Supabase: Criei um App COMPLETO do Zero ao Deploy (Tutorial) | ![thumbnail\|50](https://i.ytimg.com/vi/LW_2JEG3enE/maxresdefault.jpg) | 0:36:19  | March 06, 2026   | <ul><li>[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]</li><li>[[Tecnico/Ferramentas/ferramentas de IA/Notebooklm\|Notebooklm]]</li><li>[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity Awesome Skills\|Antigravity Awesome Skills]]</li></ul>                                                               | https://www.youtube.com/watch?v=LW_2JEG3enE |
+| Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo (INSANO)          | ![thumbnail\|50](https://i.ytimg.com/vi/A8Q2hJCBop8/maxresdefault.jpg) | 0:22:01  | March 09, 2026   | <ul><li>[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]</li><li>[[Tecnico/Ferramentas/ferramentas de IA/Notebooklm\|Notebooklm]]</li><li>[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity Awesome Skills\|Antigravity Awesome Skills]]</li></ul>                                                               | https://www.youtube.com/watch?v=A8Q2hJCBop8 |
+| Como usar o Google Antigravity melhor que 99% das pessoas! (4 hacks)                   | ![thumbnail\|50](https://i.ytimg.com/vi/LnOhoJ6GDqw/maxresdefault.jpg) | 0:25:38  | January 23, 2026 | <ul><li>[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]</li><li>[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Skills\|Skills]]</li></ul>                                                                                                                                                                                    | https://www.youtube.com/watch?v=LnOhoJ6GDqw |
+| Dá Pra Criar um App Profissional Só com Ferramentas Free?                              | ![thumbnail\|50](https://i.ytimg.com/vi/FbS2uEw9GIk/maxresdefault.jpg) | 1:26:41  | March 02, 2026   | <ul><li>[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Live coding/Comparativo ferramentas gratuitas versus pagas\|Comparativo ferramentas gratuitas versus pagas]]</li><li>[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]</li><li>[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Workflows\|Workflows]]</li></ul> | https://www.youtube.com/watch?v=FbS2uEw9GIk |
 
 <!-- SerializedQuery END -->
-```
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/tecnico/ferramentas/ferramentas-de-ia/antigravity/live-coding/videos-sobre-antigravity/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+#ia #Antigravity
+
+| Canal                                                                               | lista                                                                                                                                                          |
+| ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Breno Vieira LionLab](https://www.youtube.com/@LionlabvideosIA)                    | [AntiGravity: O Guia DEFINITIVO que ninguém fez - YouTube](https://www.youtube.com/watch?v=rzFDIpP7Qio)                                                        |
+| [Deborah Folloni](https://www.youtube.com/@deborahfolloni/videos)                   | [Agente de IA é coisa do passado. Agora eu só uso SKILLS. - YouTube](https://www.youtube.com/watch?v=h_l8wCr7M2Q)                                              |
+| [Helio Arreche - VibeCoding](https://www.youtube.com/@helioarreche/videos)          | [Dá Pra Criar um App Profissional Só com Ferramentas Free? - YouTube](https://www.youtube.com/watch?v=FbS2uEw9GIk)                                             |
+| [Jack Roberts](https://www.youtube.com/@Itssssss_Jack/videos)                       | [How to Use AntiGravity Better than 99% of People - YouTube](https://www.youtube.com/watch?v=QZCYFJTv8jI&list=PLuT8wfgyV8tjGHAYNHJ9wPES3BEq-TnKN&index=1)      |
+| [Eli Rigobeli - IA](https://www.youtube.com/@EliRigobeliAI/videos)                  | [O Google fez de novo: Crie e Publique um Sistema Completo com IA (100% Grátis) - YouTube](https://www.youtube.com/watch?v=JEESRkJ0fXA)                        |
+| [Enzo Barbatto](https://www.youtube.com/@EnzoSparo)                                 | [Como usar o AntiGravity melhor que 99% das pessoas - YouTube](https://www.youtube.com/watch?v=DIqLI5Vgacc)                                                    |
+| [Matheus Battisti - Hora de Codar](https://www.youtube.com/@MatheusBattisti/videos) | [Google Antigravity IDE: Crie Projeto com IA do ZERO ao Deploy - YouTube](https://www.youtube.com/watch?v=mKmuEaRndO8&list=PLnDvRpP8Bnew9OB-dofSPBsbK_gB7SPv6) |
+| [Waldemar Neto - Dev Lab](https://www.youtube.com/@WaldemarNetoDevLab/videos)       | [Refatoração com IA + Skills, Subagentes e Times de Agentes - YouTube](https://www.youtube.com/watch?v=KROGqmSUeTw&list=PLz_YTBuxtxt5K3yoxWKjbx81nXbiTPMkr)    |
+| [Well Pires](https://www.youtube.com/@WellPiresAI/videos)                           | [Como dominar Skills do Antigravity melhor que 99% das pessoas - YouTube](https://www.youtube.com/watch?v=2Zi3rGxWxDk)                                         |
+| [Empreendedor Serial - YouTube](https://www.youtube.com/@empreendedorserial/videos) | [Como usar o Google Antigravity melhor que 99% das pessoas! (4 hacks) - YouTube](https://www.youtube.com/watch?v=LnOhoJ6GDqw)                                  |
+| [Sandeco - YouTube](https://www.youtube.com/@canalsandeco/videos)                   | [Agora a Anthropic revolucionou TUDO de novo! - YouTube](https://www.youtube.com/watch?v=yPoSJbLxbS8)                                                          |
+
+- [IA - YouTube](https://www.youtube.com/playlist?list=PLfGUiQzB80EBEaXdYnsb-wgLx2H5ep4_a)
+- [Desenvolvimento web - YouTube](https://www.youtube.com/playlist?list=PLfGUiQzB80EBr5v2SoYVR3SHpPkQuRapR)
+
+
+</div></div>
+
