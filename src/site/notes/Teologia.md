@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/","title":"Teologia","metatags":{"description":"Estudos teológicos da Bíblia"},"contentClasses":"cards","noteIcon":2,"updated":"2026-03-13T09:43:21.312-03:00"}
+{"dg-publish":true,"permalink":"/teologia/","title":"Teologia","metatags":{"description":"Estudos teológicos da Bíblia"},"contentClasses":"cards","noteIcon":2,"updated":"2026-03-13T10:18:27.267-03:00"}
 ---
 
 
