@@ -1,16 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/antigravity/","metatags":{"description":"permite que agentes de IA ajam de forma proativa no código, terminal e navegador, enquanto o desenvolvedor atua como um supervisor ou regente."},"noteIcon":2,"updated":"2026-03-05T18:32:52.593-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/antigravity/","metatags":{"description":"permite que agentes de IA ajam de forma proativa no código, terminal e navegador, enquanto o desenvolvedor atua como um supervisor ou regente."},"noteIcon":2,"updated":"2026-03-13T08:26:57.766-03:00"}
 ---
 
-#Antigravity
-#ia 
-#Ferramentas
 
 ## Google Antigravity
 
 O [Antigravity](https://antigravity.google/) é um **IDE Agêntico** (Agentic IDE) desenvolvido pelo Google, projetado como um ambiente de desenvolvimento "agent-first". Diferente de IDEs tradicionais que apenas oferecem assistência de chat, o Antigravity permite que agentes de IA ajam de forma proativa no código, terminal e navegador, enquanto o desenvolvedor atua como um supervisor ou regente.
 
->[!note] Ferramentas como o Antigravity estão democratizando o desenvolvimento, permitindo que o foco mude da sintaxe do código para a arquitetura da solução.*
+> [!note] Ferramentas como o Antigravity estão democratizando o desenvolvimento, permitindo que o foco mude da sintaxe do código para a arquitetura da solução.*
 
 ---
 
@@ -39,16 +36,16 @@ Os agentes do Antigravity possuem controle sincronizado sobre três superfícies
 
 Utiliza o protocolo aberto para conectar a IA a ferramentas externas de forma universal.
 - **Integrações Nativas:** Stripe, PayPal, Supabase, Pinecone, Notion e GitHub.
-- **Extensibilidade:** Conexão com MCPs externos como **n8n** (automação) e **Firecrawl** (scraping).
+- **Extensibilidade:** Conexão com MCPs ([[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Model Context Protocol\|Model Context Protocol]]) externos como **n8n** (automação) e **Firecrawl** (scraping).
 
 #### 4. Customizações: Regras e Workflows
 
-- **Regras (Rules):** Instruções globais ou por workspace que definem o comportamento da IA (ex: "Sempre use Tailwind CSS", "Responda em Português").
-- **Workflows:** Prompts estruturados e salvos que guiam o agente em processos repetitivos, como a criação de uma arquitetura de pastas específica.
+- **Regras ([[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Rules\|Rules]]):** Instruções globais ou por workspace que definem o comportamento da IA (ex: "Sempre use Tailwind CSS", "Responda em Português").
+- **[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Workflows\|Workflows]]:** [[Formacao/Inteligencia Artificial/Prompts\|Prompts]] estruturados e salvos que guiam o agente em processos repetitivos, como a criação de uma arquitetura de pastas específica.
 
 #### 5. Skills (Habilidades)
 
-Capacidades modulares que podem ser adicionadas. Exemplo: a skill **Remotion**, que permite à IA gerar e editar vídeos programaticamente a partir de código.
+Capacidades modulares que podem ser adicionadas. Exemplo: a [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Skills\|Skill]] **Remotion**, que permite à IA gerar e editar vídeos programaticamente a partir de código.
 
 ---
 
@@ -94,10 +91,12 @@ Capacidades modulares que podem ser adicionadas. Exemplo: a skill **Remotion**, 
 
 ### Referências
 
+#Antigravity #ia  #Ferramentas
+
 - [Google Antigravity Documentation](https://antigravity.google/docs/home)
 - [antigravity-awesome-skills/docs/GETTING\_STARTED.md](https://github.com/sickn33/antigravity-awesome-skills/blob/main/docs/GETTING_STARTED.md)
 - [Como usar o AntiGravity melhor que 99% das pessoas - YouTube](https://www.youtube.com/watch?v=DIqLI5Vgacc)
-- [Como usar o Google Antigravity melhor que 99% das pessoas! (4 hacks) - YouTube](https://www.youtube.com/watch?v=LnOhoJ6GDqw)
+- [[clipper/youtube.com/Como usar o Google Antigravity melhor que 99% das pessoas\|Como usar o Google Antigravity melhor que 99% das pessoas]]
 - [How to Use AntiGravity Better than 99% of People - YouTube](https://www.youtube.com/watch?v=QZCYFJTv8jI)
 - [Como Publicar seus Apps e Automações (Antigravity + Hostinger VPS) - YouTube](https://www.youtube.com/watch?v=2wxI6U-PxEo)
 - [Do Design ao Deploy: Construindo um App 100% com Google + Supabase + Vercel - YouTube](https://www.youtube.com/watch?v=qVHbvibm2kY)

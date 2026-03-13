@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/da-pra-criar-um-app-profissional-so-com-ferramentas-free/","title":"Dá Pra Criar um App Profissional Só com Ferramentas Free?","noteIcon":2,"updated":"2026-03-12T22:27:19.436-03:00"}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/da-pra-criar-um-app-profissional-so-com-ferramentas-free/","title":"Dá Pra Criar um App Profissional Só com Ferramentas Free?","metatags":{"description":"O vídeo apresenta um comparativo de como criar um aplicativo profissional do zero ao deploy utilizando duas abordagens distintas para comparação, ferramentas gratuitas e pagas."},"noteIcon":2,"updated":"2026-03-13T09:48:33.598-03:00"}
 ---
 
 # Dá Pra Criar um App Profissional Só com Ferramentas Free?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/como-usar-o-google-antigravity-melhor-que-99-das-pessoas/","title":"Como usar o Google Antigravity melhor que 99% das pessoas! (4 hacks)","noteIcon":2,"updated":"2026-03-12T21:33:06.660-03:00"}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/como-usar-o-google-antigravity-melhor-que-99-das-pessoas/","title":"Como usar o Google Antigravity melhor que 99% das pessoas! (4 hacks)","metatags":{"description":"apresenta o Google Antigravity - uma ferramenta de desenvolvimento baseada no VS Code, e ensina 4 hacks avançados para aumentar a produtividade e reduzir custos com tokens em projetos de IA"},"noteIcon":2,"updated":"2026-03-13T09:52:20.487-03:00"}
 ---
 
 # Empreendedor Serial - Como usar o Google Antigravity melhor que 99% das pessoas

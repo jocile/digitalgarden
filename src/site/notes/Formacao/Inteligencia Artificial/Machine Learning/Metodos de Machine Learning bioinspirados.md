@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/machine-learning/metodos-de-machine-learning-bioinspirados/","title":"Métodos de Machine Learning bioinspirados","metatags":{"description":"são técnicas que se inspiram no funcionamento do cérebro humano e em processos biológicos para desenvolver algoritmos de aprendizado de máquina"},"tags":["Inteligencia-artificial","Machine-Learning"],"noteIcon":"1","updated":"2025-01-20T16:54:14.082-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/machine-learning/metodos-de-machine-learning-bioinspirados/","title":"Métodos de Machine Learning bioinspirados","metatags":{"description":"são técnicas que se inspiram no funcionamento do cérebro humano e em processos biológicos para desenvolver algoritmos de aprendizado de máquina"},"tags":["Inteligencia-artificial","Machine-Learning"],"noteIcon":1,"updated":"2026-03-12T22:54:03.362-03:00"}
 ---
 
 

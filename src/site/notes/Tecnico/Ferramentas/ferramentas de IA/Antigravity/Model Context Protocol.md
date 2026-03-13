@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/model-context-protocol/","metatags":{"description":"permite a comunicação direta e padronizada entre diferentes ferramentas de software e agentes de ia"},"noteIcon":2,"updated":"2026-03-03T09:38:47.215-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/model-context-protocol/","metatags":{"description":"permite a comunicação direta e padronizada entre diferentes ferramentas de software e agentes de ia"},"noteIcon":2,"updated":"2026-03-13T08:13:58.716-03:00"}
 ---
 
 #ia #Projeto #Antigravity

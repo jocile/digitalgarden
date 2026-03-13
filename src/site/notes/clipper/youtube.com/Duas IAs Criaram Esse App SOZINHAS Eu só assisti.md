@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/duas-i-as-criaram-esse-app-sozinhas-eu-so-assisti/","title":"Duas IAs Criaram Esse App SOZINHAS: Eu só assisti (Google Stitch + Antigravity é INSANO)","noteIcon":"2","updated":"2026-03-12T22:14:45.081-03:00"}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/duas-i-as-criaram-esse-app-sozinhas-eu-so-assisti/","title":"Duas IAs Criaram Esse App SOZINHAS: Eu só assisti (Google Stitch + Antigravity é INSANO)","metatags":{"description":"O vídeo apresenta um fluxo de trabalho de ponta a ponta para criar aplicativos usando duas IAs do Google."},"noteIcon":"2","updated":"2026-03-13T09:46:51.701-03:00"}
 ---
 
 # Duas IAs Criaram Esse App SOZINHAS: Eu só assisti (Google Stitch + Antigravity é INSANO)

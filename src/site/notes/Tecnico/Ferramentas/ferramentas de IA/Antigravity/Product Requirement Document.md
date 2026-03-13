@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/product-requirement-document/","metatags":{"description":"documentação central que serve para instruir a inteligência artificial sobre como o projeto deve funcionar"},"noteIcon":2,"updated":"2026-03-04T10:50:40.175-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/product-requirement-document/","metatags":{"description":"documentação central que serve para instruir a inteligência artificial sobre como o projeto deve funcionar"},"noteIcon":2,"updated":"2026-03-13T08:14:46.309-03:00"}
 ---
 
 #ia #Projeto #Antigravity

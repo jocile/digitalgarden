@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/videos/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"cards","noteIcon":"default","updated":"2026-03-12T22:19:51.452-03:00"}
+{"dg-publish":true,"permalink":"/videos/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"cards","noteIcon":"default","updated":"2026-03-12T23:19:06.663-03:00"}
 ---
 
 
@@ -10,6 +10,7 @@
 
 | Data     | ✨ Título                                                                                                                                                                                                          | Cover                                                                  | duration |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------- |
+| 12.03.26 | [[clipper/youtube.com/Lançamento Opensquad Crie seu time de Agentes IA\|Lançamento Opensquad Crie seu time de Agentes IA]]                                                                                     | ![thumbnail\|50](https://i.ytimg.com/vi/CL1ppI4qHeU/maxresdefault.jpg) | 0:26:38  |
 | 09.03.26 | [[clipper/youtube.com/Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo\|Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo]]                                             | ![thumbnail\|50](https://i.ytimg.com/vi/A8Q2hJCBop8/maxresdefault.jpg) | 0:22:01  |
 | 06.03.26 | [[clipper/youtube.com/AI Studio + Antigravity + Supabase Criei um App COMPLETO do Zero ao Deploy\|AI Studio + Antigravity + Supabase Criei um App COMPLETO do Zero ao Deploy]]                                 | ![thumbnail\|50](https://i.ytimg.com/vi/LW_2JEG3enE/maxresdefault.jpg) | 0:36:19  |
 | 02.03.26 | [[clipper/youtube.com/Dá Pra Criar um App Profissional Só com Ferramentas Free\|Dá Pra Criar um App Profissional Só com Ferramentas Free]]                                                                     | ![thumbnail\|50](https://i.ytimg.com/vi/FbS2uEw9GIk/maxresdefault.jpg) | 1:26:41  |

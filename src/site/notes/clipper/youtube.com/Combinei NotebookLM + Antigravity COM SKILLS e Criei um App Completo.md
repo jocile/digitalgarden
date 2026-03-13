@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/combinei-notebook-lm-antigravity-com-skills-e-criei-um-app-completo/","title":"Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo (INSANO)","noteIcon":2,"updated":"2026-03-12T21:33:04.202-03:00"}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/combinei-notebook-lm-antigravity-com-skills-e-criei-um-app-completo/","title":"Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo (INSANO)","metatags":{"description":"criar um app completo de controle financeiro pessoal sem escrever uma linha de código"},"noteIcon":2,"updated":"2026-03-13T09:50:13.629-03:00"}
 ---
 
 # Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo (INSANO)
