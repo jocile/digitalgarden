@@ -1,20 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/videos/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"cards","noteIcon":"default","updated":"2026-03-12T21:21:47.262-03:00"}
+{"dg-publish":true,"permalink":"/videos/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"cards","noteIcon":"default","updated":"2026-03-12T21:31:22.787-03:00"}
 ---
 
 
 ## Vídeos preferidos
 
-<!-- QueryToSerialize: TABLE WITHOUT ID file.name AS "Título", "![thumbnail|50](" + thumbnailUrl + ")" AS "Cover",  duration, published, url FROM "clipper/youtube.com" SORT published DESC -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.name AS "Título", "![thumbnail|50](" + thumbnailUrl + ")" AS "Cover",  duration, published, url FROM "clipper/youtube.com" SORT published DESC -->
+<!-- QueryToSerialize: TABLE WITHOUT ID dateformat(published, "dd.MM.yy") as "Data", file.link AS "✨ Título", "![thumbnail|50](" + thumbnailUrl + ")" AS "Cover",  duration, url FROM "clipper/youtube.com" SORT published DESC -->
+<!-- SerializedQuery: TABLE WITHOUT ID dateformat(published, "dd.MM.yy") as "Data", file.link AS "✨ Título", "![thumbnail|50](" + thumbnailUrl + ")" AS "Cover",  duration, url FROM "clipper/youtube.com" SORT published DESC -->
 
-| Título                                                                                     | Cover                                                                  | duration | published        | url                                         |
-| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | -------- | ---------------- | ------------------------------------------- |
-| Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo (INSANO)              | ![thumbnail\|50](https://i.ytimg.com/vi/A8Q2hJCBop8/maxresdefault.jpg) | 0:22:01  | March 09, 2026   | https://www.youtube.com/watch?v=A8Q2hJCBop8 |
-| AI Studio + Antigravity + Supabase Criei um App COMPLETO do Zero ao Deploy (Tutorial)      | ![thumbnail\|50](https://i.ytimg.com/vi/LW_2JEG3enE/maxresdefault.jpg) | 0:36:19  | March 06, 2026   | https://www.youtube.com/watch?v=LW_2JEG3enE |
-| VibeCoding - Dá Pra Criar um App Profissional Só com Ferramentas Free                      | ![thumbnail\|50](https://i.ytimg.com/vi/FbS2uEw9GIk/maxresdefault.jpg) | 1:26:41  | March 02, 2026   | https://www.youtube.com/watch?v=FbS2uEw9GIk |
-| Como usar o Google Antigravity melhor que 99% das pessoas                                  | ![thumbnail\|50](https://i.ytimg.com/vi/LnOhoJ6GDqw/maxresdefault.jpg) | 0:25:38  | January 23, 2026 | https://www.youtube.com/watch?v=LnOhoJ6GDqw |
-| Claude Code Guia completo para iniciantes, aprenda a usar a melhor ferramenta de IA Coding | ![thumbnail\|50](https://i.ytimg.com/vi/ccMr3xfca3Q/maxresdefault.jpg) | 0:39:19  | July 18, 2025    | https://www.youtube.com/watch?v=ccMr3xfca3Q |
+| Data     | ✨ Título                                                                                                                                                                                                          | Cover                                                                  | duration | url                                         |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------- | ------------------------------------------- |
+| 09.03.26 | [[clipper/youtube.com/Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo\|Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo]]                                             | ![thumbnail\|50](https://i.ytimg.com/vi/A8Q2hJCBop8/maxresdefault.jpg) | 0:22:01  | https://www.youtube.com/watch?v=A8Q2hJCBop8 |
+| 06.03.26 | [[clipper/youtube.com/AI Studio + Antigravity + Supabase Criei um App COMPLETO do Zero ao Deploy\|AI Studio + Antigravity + Supabase Criei um App COMPLETO do Zero ao Deploy]]                                 | ![thumbnail\|50](https://i.ytimg.com/vi/LW_2JEG3enE/maxresdefault.jpg) | 0:36:19  | https://www.youtube.com/watch?v=LW_2JEG3enE |
+| 02.03.26 | [[clipper/youtube.com/VibeCoding - Dá Pra Criar um App Profissional Só com Ferramentas Free\|VibeCoding - Dá Pra Criar um App Profissional Só com Ferramentas Free]]                                           | ![thumbnail\|50](https://i.ytimg.com/vi/FbS2uEw9GIk/maxresdefault.jpg) | 1:26:41  | https://www.youtube.com/watch?v=FbS2uEw9GIk |
+| 23.01.26 | [[clipper/youtube.com/Como usar o Google Antigravity melhor que 99% das pessoas\|Como usar o Google Antigravity melhor que 99% das pessoas]]                                                                   | ![thumbnail\|50](https://i.ytimg.com/vi/LnOhoJ6GDqw/maxresdefault.jpg) | 0:25:38  | https://www.youtube.com/watch?v=LnOhoJ6GDqw |
+| 18.07.25 | [[clipper/youtube.com/Claude Code Guia completo para iniciantes, aprenda a usar a melhor ferramenta de IA Coding\|Claude Code Guia completo para iniciantes, aprenda a usar a melhor ferramenta de IA Coding]] | ![thumbnail\|50](https://i.ytimg.com/vi/ccMr3xfca3Q/maxresdefault.jpg) | 0:39:19  | https://www.youtube.com/watch?v=ccMr3xfca3Q |
 
 <!-- SerializedQuery END -->
 
