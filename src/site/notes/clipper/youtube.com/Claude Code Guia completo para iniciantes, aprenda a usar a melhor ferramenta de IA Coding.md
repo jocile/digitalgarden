@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/claude-code-guia-completo-para-iniciantes-aprenda-a-usar-a-melhor-ferramenta-de-ia-coding/","title":"Claude Code: Guia completo para iniciantes, aprenda a usar a melhor ferramenta de IA Coding","noteIcon":"2","updated":"2026-03-12T21:33:01.338-03:00"}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/claude-code-guia-completo-para-iniciantes-aprenda-a-usar-a-melhor-ferramenta-de-ia-coding/","title":"Claude Code: Guia completo para iniciantes, aprenda a usar a melhor ferramenta de IA Coding","noteIcon":"2","updated":"2026-03-12T21:51:41.283-03:00"}
 ---
 
 # Claude Code Guia completo para iniciantes, aprenda a usar a melhor ferramenta de IA Coding
@@ -8,16 +8,16 @@
 
 ## Resumo
 
-Este vídeo é um guia completo para iniciantes sobre como instalar, configurar e utilizar a ferramenta **Claude Code** (0:00). O criador aborda desde os pré-requisitos técnicos (Node.js, Git, VS Code) até o uso da ferramenta para criar um aplicativo real de lista de compras (0:41).**Principais pontos abordados:**
+Este vídeo é um guia completo para iniciantes sobre como instalar, configurar e utilizar a ferramenta **Claude Code** (0:00). O criador aborda desde os pré-[[Formacao/UX design/requisitos\|requisitos]] técnicos (Node.js, Git, VS Code) até o uso da ferramenta para criar um aplicativo real de lista de compras (0:41).**Principais pontos abordados:**
 
 - **Instalação e Configuração:** Mostra como instalar o pacote via terminal e autenticar na conta da Anthropic (2:37).
 - **Metodologia PREVC:** O Vini explica sua metodologia de planejamento (Planejamento, Revisão, Execução, Validação e Confirmação) para evitar alucinações da IA e garantir a qualidade do código (4:05).
 - **Criação do Projeto:** Demonstra a criação de uma aplicação com _Next.js_ e estilização _neobrutalista_ (15:47).
 - **Comandos Essenciais:** Explicação sobre comandos como `clear`, `compact`, `model` e como gerenciar os custos da API (16:41).
-- **Uso de MCP (Model Context Protocol):** Como configurar servidores MCP, especificamente o _Context 7_, para dar mais contexto à IA (32:49).
+- **Uso de MCP ([[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Model Context Protocol\|Model Context Protocol]]):** Como configurar servidores MCP, especificamente o _Context 7_, para dar mais contexto à IA (32:49).
 - **Modo Autônomo:** Como utilizar o `dangerously skip permissions` para deixar a IA trabalhar de forma 100% autônoma (36:06).
 
-## Description
+## Descrição
 
 Neste vídeo, vou te mostrar como configurar e usar o Claude Code na prática, emtender qual a opção mais econômica, e como colocar o Claude Code como um agente autonomo.
 
@@ -35,12 +35,12 @@ Neste vídeo, vou te mostrar como configurar e usar o Claude Code na prática, e
 
 👨‍💻 Este vídeo é para você que quer:
 • Aprender IA aplicada ao desenvolvimento de software
-• Criar sistemas do zero com agentes de IA
+• Criar sistemas do zero com [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]]
 • Economizar tempo e evitar erros comuns com IA no código
 • Dominar ferramentas modernas como Gemini CLI e Claude Code
 
 - Introdução ao Claude Code [00:00]
-- Pré-requisitos e Alternativas de Configuração [00:41]
+- Pré-[[Formacao/UX design/requisitos\|requisitos]] e Alternativas de Configuração [00:41]
 - Visão Geral do Projeto de Lista de Compras [01:51]
 - Instalação e Configuração Inicial do Claude Code [02:37]
 - Metodologia de Planejamento com IA (PREVC) [04:05]
