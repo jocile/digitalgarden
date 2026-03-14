@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/videos/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"cards","noteIcon":"default","updated":"2026-03-12T23:19:06.663-03:00"}
+{"dg-publish":true,"permalink":"/videos/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"cards","noteIcon":"default","updated":"2026-03-13T16:43:45.446-03:00"}
 ---
 
 
@@ -14,8 +14,10 @@
 | 09.03.26 | [[clipper/youtube.com/Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo\|Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo]]                                             | ![thumbnail\|50](https://i.ytimg.com/vi/A8Q2hJCBop8/maxresdefault.jpg) | 0:22:01  |
 | 06.03.26 | [[clipper/youtube.com/AI Studio + Antigravity + Supabase Criei um App COMPLETO do Zero ao Deploy\|AI Studio + Antigravity + Supabase Criei um App COMPLETO do Zero ao Deploy]]                                 | ![thumbnail\|50](https://i.ytimg.com/vi/LW_2JEG3enE/maxresdefault.jpg) | 0:36:19  |
 | 02.03.26 | [[clipper/youtube.com/Dá Pra Criar um App Profissional Só com Ferramentas Free\|Dá Pra Criar um App Profissional Só com Ferramentas Free]]                                                                     | ![thumbnail\|50](https://i.ytimg.com/vi/FbS2uEw9GIk/maxresdefault.jpg) | 1:26:41  |
+| 17.02.26 | [[clipper/youtube.com/Crie Web Apps Incríveis com AntiGravity + Stitch\|Crie Web Apps Incríveis com AntiGravity + Stitch]]                                                                                     | ![thumbnail\|50](https://i.ytimg.com/vi/m6KDhIEDE64/maxresdefault.jpg) | 0:19:33  |
 | 15.02.26 | [[clipper/youtube.com/Duas IAs Criaram Esse App SOZINHAS Eu só assisti\|Duas IAs Criaram Esse App SOZINHAS Eu só assisti]]                                                                                     | ![thumbnail\|50](https://i.ytimg.com/vi/Mt4dH9MqYEw/maxresdefault.jpg) | 0:20:41  |
 | 23.01.26 | [[clipper/youtube.com/Como usar o Google Antigravity melhor que 99% das pessoas\|Como usar o Google Antigravity melhor que 99% das pessoas]]                                                                   | ![thumbnail\|50](https://i.ytimg.com/vi/LnOhoJ6GDqw/maxresdefault.jpg) | 0:25:38  |
+| 15.12.25 | [[clipper/youtube.com/Google Antigravity IDE Crie Projeto com IA do ZERO ao Deploy\|Google Antigravity IDE Crie Projeto com IA do ZERO ao Deploy]]                                                             | ![thumbnail\|50](https://i.ytimg.com/vi/mKmuEaRndO8/maxresdefault.jpg) | 0:51:53  |
 | 18.07.25 | [[clipper/youtube.com/Claude Code Guia completo para iniciantes, aprenda a usar a melhor ferramenta de IA Coding\|Claude Code Guia completo para iniciantes, aprenda a usar a melhor ferramenta de IA Coding]] | ![thumbnail\|50](https://i.ytimg.com/vi/ccMr3xfca3Q/maxresdefault.jpg) | 0:39:19  |
 
 <!-- SerializedQuery END -->

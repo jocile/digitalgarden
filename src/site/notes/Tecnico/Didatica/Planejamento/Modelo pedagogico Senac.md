@@ -1,57 +1,113 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/planejamento/modelo-pedagogico-senac/","metatags":{"description":"fundamentado no desenvolvimento de competências e na formação de profissionais."},"noteIcon":2,"updated":"2026-03-10T09:46:29.770-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/planejamento/modelo-pedagogico-senac/","title":"Modelo Pedagógico Senac (MPS)","metatags":{"description":"metodologia focada no desenvolvimento de competências e na formação integral do indivíduo"},"tags":["didatica","senac","planejamento","pedagogia"],"noteIcon":2,"updated":"2026-03-13T20:54:09.300-03:00"}
 ---
 
 
-## Modelo Pedagógico Senac
+## Modelo Pedagógico Senac (MPS)
 
-## Importância do Modelo Pedagógico Senac
+Este guia sintetiza os pilares do **Modelo Pedagógico Senac (MPS)**, uma metodologia focada no desenvolvimento de competências e na formação integral do indivíduo. Para o docente, o MPS não é apenas um conjunto de regras, mas uma bússola para transformar a sala de aula em um ambiente de prática profissional real e reflexiva.
 
-Fundamentação: O modelo pedagógico do Senac é fundamentado no desenvolvimento de competências e na formação de profissionais com atitudes sustentáveis e colaborativas.
+---
 
-Diferencial: O modelo pedagógico do Senac diferencia os profissionais formados pelo Senac em relação aos demais profissionais do mercado, destacando suas habilidades e atitudes essenciais para sua atuação no mercado de trabalho.
+### 1. O Conceito de Competência (CHAV)
 
-## Competências
+No Senac, a competência é a base de toda a arquitetura curricular. Ela não é apenas "saber fazer", mas uma **ação profissional observável** e **potencialmente criativa**.
 
-O Modelo Pedagógico Senac é fundamentado no desenvolvimento de competências que compõem perfis profissionais alinhados ao mercado de trabalho atual.
+#### 1.1 A Estrutura CHAV
 
-Competência é definida como "ação/fazer profissional observável, potencialmente criativo, que articula conhecimentos, habilidades, atitudes e valores e permite desenvolvimento contínuo". O desenvolvimento de competências é a base do modelo curricular do Senac.
+A competência mobiliza quatro elementos simultâneos:
 
-## Marcas Formativas
+| Elemento | Definição | Exemplo (Programador) |
+| :--- | :--- | :--- |
+| **C**onhecimento | O saber (teoria, conceitos, normas). | Sintaxe de Python, lógica de programação. |
+| **H**abilidade | O saber-fazer (técnico, cognitivo, socioemocional). | Escrever código limpo, depurar erros. |
+| **A**titude | O saber-ser (comportamento, postura). | Proatividade na resolução de problemas. |
+| **V**alor | O saber-conviver (ética, responsabilidade). | Ética no tratamento de dados do usuário. |
 
-As "Marcas Formativas" são características que diferenciam os profissionais formados pelo Senac, incluindo: 
+#### 1.2 Critérios de uma Competência
 
-- Domínio técnico-científico
-- Visão crítica
-- Atitude empreendedora
-- Atitude sustentável
-- Atitude colaborativa
-- Protagonismo juvenil, social e econômico
-- Atitude saudável
+Para ser válida no MPS, a competência deve ser:
+1. **Observável:** O docente deve conseguir ver o aluno aplicando-a.
+2. **Criativa:** Permite que o aluno encontre diferentes caminhos para a solução.
+3. **Articulada:** Integra os elementos do CHAV de forma indissociável.
 
-## Preparação para as Aulas
+---
 
-Para preparar as aulas, os docentes devem ler e estudar o Plano de Curso, além de participar do planejamento integrado com os demais docentes para garantir a articulação entre as competências. 
+### 2. Metodologia: O Ciclo de Aprendizagem
 
-## Avaliação do Desempenho dos Alunos
+O MPS rompe com a aula expositiva tradicional através de duas estratégias centrais:
 
-A avaliação do desempenho dos alunos utiliza indicadores de competência, que auxiliam o docente a acompanhar e regular o avanço da [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]]. 
+#### 2.1 Ciclo Ação-Reflexão-Ação
 
-## Continuidade da Formação
+O aprendizado acontece em movimento:
+1. **Ação:** O aluno é desafiado com uma situação real (ex: "O banco de dados parou, o que você faz?").
+2. **Reflexão:** Com mediação do docente, o aluno pesquisa a teoria, analisa o erro e busca novos conhecimentos.
+3. **Nova Ação:** O aluno retorna ao desafio original com uma prática qualificada e fundamentada.
 
-O Plano de Curso Nacional garante que os alunos serão formados nas mesmas competências, independentemente da unidade do Senac. 
+#### 2.2 Projeto Integrador (PI)
 
-## Exemplos de Marcas Formativas em Situações de Aprendizagem
+É a Unidade Curricular (UC) transversal que conecta todas as outras competências do curso.
+- **Tema Gerador:** Um problema real do mercado que o aluno resolverá ao longo do curso.
+- **Fases:** Planejamento (Equipe Docente) -> Problematização -> Desenvolvimento -> Síntese (Apresentação).
+- **Protagonismo:** O aluno decide, cria e executa; o docente orienta.
 
-Exemplos de marcas formativas incluem discussões sobre redução do consumo de água e doação de cabelos para próteses capilares, promovendo atitude sustentável.
+---
 
-O modelo pedagógico do Senac se diferencia por formar profissionais com habilidades e atitudes essenciais para o mercado de trabalho atual.
+### 3. Marcas Formativas: O Diferencial Senac
 
-## Referências
+As Marcas Formativas são o "DNA" do profissional formado pelo Senac. Elas devem ser estimuladas em todas as situações de aprendizagem:
 
-- <https://pb.senac.br/modelo-pedagogico-senac/>
-- <http://educa.fcc.org.br/scielo.php?pid=S1981-416x2017000200595&script=sci_arttext>
-- <https://www.pe.senac.br/o-senac/modelo-pedagogico-senac/>
-- <https://educapes.capes.gov.br/bitstream/capes/602765/2/Programa%20de%20Forma%C3%A7%C3%A3o%20Docente-%20Modelo%20Pedag%C3%B3gico%20Senac.pdf>
-- <https://editorarealize.com.br/editora/anais/conedu/2020/TRABALHO_EV140_MD1_SA20_ID7816_01102020212716.pdf>
-- SENAC. DN. Modelo pedagógico nacional: (síntese). Rio de Janeiro, 2014. Disponível em: <www.extranet.senac.br/modelopedagogicosenac/ > . Acesso em: 25 jun. 2024.
+1. **Domínio Técnico-Científico:** Excelência na execução técnica.
+2. **Visão Crítica:** Capacidade de analisar o contexto e questionar processos.
+3. **Atitude Empreendedora:** Identificar oportunidades e agir com inovação.
+4. **Atitude Sustentável:** Responsabilidade social, ambiental e econômica.
+5. **Atitude Colaborativa:** Trabalho em equipe e comunicação eficaz.
+
+---
+
+### 4. Avaliação e Desempenho
+
+A avaliação no Senac é **formativa e contínua**. O foco não é a nota, mas o alcance dos **Indicadores de Competência**.
+
+#### 4.1 Sistema de Menções
+
+- **A (Atendido):** O aluno demonstrou domínio do indicador.
+- **PA (Parcialmente Atendido):** O aluno demonstrou domínio parcial (requer recuperação imediata).
+- **NA (Não Atendido):** O aluno ainda não alcançou o desempenho esperado.
+
+**Resultado Final da UC:**
+- **D (Desenvolvida):** Atingiu todos os indicadores da competência.
+- **ND (Não Desenvolvida):** Não atingiu indicadores essenciais.
+
+> [!IMPORTANT] Recuperação Imediata\
+> No MPS, a recuperação ocorre assim que a falha é detectada. O docente propõe novas situações de aprendizagem para que o aluno recupere o indicador antes do fim da UC.
+
+---
+
+### 5. Exemplo Prático: Curso de Programador Python
+
+| UC | Situação de Aprendizagem | Integração com PI |
+| :--- | :--- | :--- |
+| **Algoritmos** | Criar um script de automação para leitura de logs. | Início da lógica do projeto final. |
+| **Interface Gráfica** | Desenvolver um dashboard para visualização de dados. | Interface do sistema principal do PI. |
+| **Web (Django)** | Publicar uma API de serviços. | Backend que sustenta a solução do PI. |
+
+**Exemplo de Marca Formativa:** Durante a UC de Web, o docente propõe um debate sobre a **sustentabilidade digital** (consumo de energia de servidores), trabalhando a atitude sustentável.
+
+---
+
+### 6. Aproveitamento de Estudos
+
+O Senac reconhece o conhecimento prévio (formal ou informal):
+- **Formal:** Histórico escolar de cursos correlatos.
+- **Não Formal:** Experiência profissional comprovada ou autoaprendizado (via banca avaliadora).
+- **Critério:** Compatibilidade de pelo menos 75% da carga horária e objetivos.
+
+---
+
+### Referências e Links Úteis
+
+- [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]]
+- [Portal de Transparência Senac - Modelo Pedagógico](https://pb.senac.br/modelo-pedagogico-senac/)
+- SENAC. DN. **Modelo Pedagógico Nacional: (síntese)**. Rio de Janeiro, 2014.
+- [Educa - Pesquisa sobre o MPS](http://educa.fcc.org.br/scielo.php?pid=S1981-416x2017000200595&script=sci_arttext)

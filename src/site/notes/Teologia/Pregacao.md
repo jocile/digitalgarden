@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/pregacao/","title":"Homilética: As Quatro Formas da Pregação Apostólica","metatags":{"description":"Uma análise das quatro formas de pregação na Igreja primitiva (Kerigma, Didaquê, Paraklesis e Homilia) e sua correlação com a inspiração das Escrituras em 2 Timóteo 3:16."},"tags":["Teologia","Hermeneutica","Didatica"],"noteIcon":"1","updated":"2026-03-13T09:34:35.717-03:00"}
+{"dg-publish":true,"permalink":"/teologia/pregacao/","title":"Homilética: As Quatro Formas da Pregação Apostólica","metatags":{"description":"Uma análise das quatro formas de pregação na Igreja primitiva (Kerigma, Didaquê, Paraklesis e Homilia) e sua correlação com a inspiração das Escrituras em 2 Timóteo 3:16."},"tags":["Teologia","Hermeneutica","Didatica"],"noteIcon":"1","updated":"2026-03-13T15:01:48.772-03:00"}
 ---
 
 

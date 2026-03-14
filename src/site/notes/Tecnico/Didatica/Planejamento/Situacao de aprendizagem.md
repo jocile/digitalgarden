@@ -1,55 +1,88 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/planejamento/situacao-de-aprendizagem/","title":"Situação de aprendizagem","metatags":{"description":"Conjunto de ações e atividades que levam ao desenvolvimento do aluno."},"noteIcon":2,"updated":"2026-03-10T09:45:55.179-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/planejamento/situacao-de-aprendizagem/","title":"Situação de Aprendizagem (SA) - Guia de Planejamento","metatags":{"description":"metodologia focada no desenvolvimento de competências e na formação integral do indivíduo"},"tags":["didatica","senac","planejamento","metodologias-ativas"],"noteIcon":2,"updated":"2026-03-13T21:04:42.879-03:00"}
 ---
 
 
-## Situação de aprendizagem
+## Situação de Aprendizagem (SA): O Núcleo do Fazer Docente
 
-Conjunto de ações e atividades que levam ao desenvolvimento do aluno, que é o centro do processo e sujeito ativo.
+No Modelo Pedagógico Senac, a **Situação de Aprendizagem (SA)** é o núcleo criativo do trabalho docente. Não é apenas uma aula, mas um **conjunto articulado de ações** (atividades) que desafiam o aluno a mobilizar conhecimentos, habilidades, atitudes e valores (CHAV) para resolver problemas reais do mundo do trabalho.
 
-Partes principais:
+### 1. O Ciclo Ação-Reflexão-Ação
 
-- Descrição: contexto dividido em um parágrafo descrevendo a importância para a ocupação no mercado de trabalho, e outro parágrafo indicando um desafio no qual o aluno terá de realizar durante as aulas;
-- Planejamento: título da situação de [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]] e as informações referentes a distribuição da carga horária e número de aulas, como também quais indicadores a situação está baseada.
+A SA deve ser estruturada seguindo o movimento dialético que garante a aprendizagem significativa:
 
-Para criar uma situação de [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]], é necessário seguir um processo estruturado que envolve a articulação de ações, reflexões e avaliações. Aqui estão os passos para criar uma situação de [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]]:
+| Etapa | Descrição | O que o aluno faz? |
+| :--- | :--- | :--- |
+| **1ª Ação** | Mobilização inicial baseada em conhecimentos prévios. | Executa o "fazer profissional" de forma intuitiva ou inicial. |
+| **Reflexão** | Mediação docente através de teoria, pesquisa e análise. | Estuda conceitos, assiste demonstrações e discute melhorias. |
+| **2ª Ação** | Nova execução, agora fundamentada e técnica. | Refaz a tarefa com qualidade profissional e autonomia. |
 
-## 1. Definição da Competência e Indicadores
+---
 
-- **Competência**: A competência é o ponto de partida para a criação de uma situação de [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]]. Ela define o conjunto de habilidades, conhecimentos e atitudes que os alunos devem desenvolver .
-- **Indicadores**: Os indicadores são os elementos específicos que compõem a competência. Eles são utilizados para avaliar o desempenho dos alunos e orientar o planejamento da situação de [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]] .
+### 2. Estrutura de uma Situação de Aprendizagem
 
-## 2. Planejamento da Situação de Aprendizagem
+Para que uma SA seja eficaz, ela deve conter dois componentes principais:
 
-- **Ação Inicial**: A ação inicial é a primeira parte da situação de [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]]. Ela envolve atividades que mobilizem os alunos a realizar o fazer profissional descrito no indicador. Essas atividades devem ser significativas para os alunos e envolver, por exemplo, uma prática profissional, um desafio, o desenvolvimento de um projeto ou outras ações dessa natureza .
-- **Reflexão**: A reflexão é a segunda parte da situação de [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]]. Ela envolve atividades que incentivam os alunos a refletir sobre a ação inicial, tomar decisões e se posicionar frente ao fazer profissional. Essas atividades podem incluir pesquisas, visitas técnicas, soluções de novos problemas, entre outras possibilidades .
-- **Segunda Ação**: A segunda ação é a terceira parte da situação de [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]]. Ela envolve atividades que aplicam e sintetizam o que foi aprendido nos momentos anteriores, atribuindo significados mais complexos aos fazeres .
+#### A. Descrição e Contextualização
 
-## 3. Avaliação
+- **Contexto:** Um parágrafo descrevendo um cenário real do mercado (ex: "Uma startup de tecnologia precisa de um sistema de login seguro...").
+- **Desafio:** A definição clara do problema que o aluno deve resolver ou o produto que deve entregar.
 
-- **Estratégias Avaliativas**: As estratégias avaliativas devem ser planejadas, sistematizadas e registradas. Elas podem incluir a observação de conhecimentos prévios dos alunos, a avaliação de relatórios produzidos durante a situação de [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]] e a avaliação do nível de atendimento ao indicador apresentado pelos alunos .
+#### B. Planejamento Técnico
 
-## 4. Exemplo de Situação de Aprendizagem
+- **Título da SA:** Nome sugestivo e profissional.
+- **Carga Horária:** Distribuição do tempo dentro da Unidade Curricular (UC).
+- **Indicadores:** Quais indicadores de competência serão desenvolvidos e avaliados nesta SA.
 
-- **Competência**: Auxiliar a Execução dos Procedimentos de Recrutamento, Seleção e Integração de Pessoas (48 horas)
-- **Indicador 1**: Publica vagas e realiza a triagem preliminar de currículos conforme [[Formacao/UX design/requisitos\|requisitos]] e critérios pré-estabelecidos pelo setor de RH, em acordo com as especificações do(s) demandante(s) da(s) vaga(s) .
-- **Situação de [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]]**: Análise do caso A Captação de Candidatos em Empresas Moveleiras. Duração: 12 horas.
-- **Desenvolvimento da Situação de [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]]**:
-    
-    - **Ação Inicial**: Os alunos leem o caso e relacionam a suas experiências de participação em processos de recrutamento e seleção de emprego. Em seguida, são distribuídas as especificações das vagas e os alunos são mobilizados a realizar o fazer profissional descrito no indicador .
-    - **Reflexão**: O docente organiza uma visita técnica dos alunos ao setor de Recursos Humanos de uma empresa moveleira da região. O produto dessa visita é um relatório no qual os alunos devem analisar criticamente todos os processos envolvidos na ação de recrutamento e seleção de candidatos .
-    - **Segunda Ação**: Os alunos voltam a responder as questões propostas na análise do caso, simulando o processo seletivo descrito na análise do caso, criando estratégias para a publicação das vagas e realizando a triagem preliminar de currículos, conforme [[Formacao/UX design/requisitos\|requisitos]] e critérios pré-estabelecidos pelo setor de RH, em acordo com as especificações do demandante das vagas .
+---
 
-## 5. Conclusão
+### 3. Passo a Passo para Criação (Workflow)
 
-- **A situação de [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]] é concluída com o exercício do fazer descrito na competência e seus indicadores, agora de maneira mais qualificada** .
+1. **Parta da Competência:** Leia a UC e identifique quais indicadores a SA irá cobrir.
+2. **Crie o "Gancho":** Desenvolva uma narrativa (Storytelling) que conecte o conteúdo à realidade da profissão.
+3. **Defina as Atividades:**
+    - **Atividade de Aprendizagem:** É a tarefa específica (ex: um debate, um código, uma simulação).
+    - **Situação de Aprendizagem:** É o conjunto dessas atividades formando um ciclo completo.
+4. **Escolha a Metodologia Ativa:** Use estratégias que coloquem o aluno como protagonista (ver seção abaixo).
+5. **Planeje a Avaliação:** Defina como você observará se o aluno atingiu o indicador (evidências de desempenho e produto).
 
-## Referências
+---
 
-- <https://midiasstoragesec.blob.core.windows.net/001/2020/03/anexo-i-exemplos-de-situaes-de-aprendizagem.pdf>\
-- <https://www.youtube.com/watch?v=8cxRijSg2XA>\
-- <https://educador.brasilescola.uol.com.br/trabalho-docente/resolucao-problemas-aprendizagem.htm>\
-- <https://acervopedagogico.com.br/glossario/o-que-sao-situacoes-de-aprendizagem/>\
-- <https://slidesgo.com/pt/tema/modelo-sobre-situacao-de-aprendizagem>
+### 4. Metodologias Ativas Recomendadas (Foco Técnico)
 
-[https://www.perplexity.ai](https://www.perplexity.ai/)
+Como instrutor de tecnologia, utilize preferencialmente:
+
+- **ABP (Aprendizagem Baseada em Problemas):** Apresente um erro de código ou uma falha de segurança para ser resolvida.
+- **Estudo de Caso:** Analise como uma grande empresa resolveu um problema de arquitetura.
+- **Simulação Realística:** Simule um atendimento de suporte ou uma reunião de briefing com cliente.
+- **Projeto Integrador (PI):** A SA mais complexa, que articula várias competências ao longo do curso.
+
+---
+
+### 5. Exemplo Prático: Programação Python
+
+**Competência:** Desenvolver aplicações desktop com interface gráfica e banco de dados.\
+**Indicador:** Implementa conexão de banco de dados SQL em aplicações Python.
+
+- **Contexto:** Uma confeitaria local (ex: [[Private/Confeitaria da Nicola\|Confeitaria da Nicola]]) precisa automatizar o controle de pedidos que hoje é feito em papel.
+- **Desafio:** Criar um script Python que receba os dados do pedido e os salve em um banco SQLite, validando se os campos obrigatórios foram preenchidos.
+- **Ciclo SA:**
+    1. **Ação 1:** Aluno tenta criar um formulário simples de entrada de dados.
+    2. **Reflexão:** Aula sobre CRUD, persistência de dados e tratamento de exceções (Try/Except).
+    3. **Ação 2:** Aluno refina o código, implementando a conexão real com o banco e tratando erros de conexão.
+
+---
+
+### Checklist de Qualidade da SA
+
+- [ ] A situação está vinculada a pelo menos um indicador da UC?
+- [ ] O desafio proposto é condizente com a realidade do mercado de trabalho?
+- [ ] Existe um momento claro de reflexão/teoria entre as práticas?
+- [ ] A avaliação está focada no desempenho do aluno durante o processo?
+- [ ] A SA prevê acessibilidade e diferentes ritmos de aprendizagem?
+
+---
+**Veja também:**
+- [[Tecnico/Didatica/Planejamento/Modelo pedagogico Senac\|Modelo pedagogico Senac]]
+- [[Tecnico/Didatica/Planejamento/Situacao de aprendizagem\|Situações de Aprendizagem Previstas]]
+- [[Tecnico/Didatica/Metodologias Ativas.md\|Metodologias Ativas]]

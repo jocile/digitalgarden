@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/skills/","metatags":{"description":"são como playbooks que a IA lê para executar tarefas específicas, tornando-se especialista no seu negócio"},"noteIcon":2,"updated":"2026-03-06T07:22:56.242-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/skills/","metatags":{"description":"são como playbooks que a IA lê para executar tarefas específicas, tornando-se especialista no seu negócio"},"noteIcon":2,"updated":"2026-03-13T16:09:45.298-03:00"}
 ---
 
 #ia #Projeto #Antigravity
@@ -72,6 +72,7 @@ Habilidades poderosas disponíveis para o ecossistema:
 - [Agente de IA é coisa do passado. Agora eu só uso SKILLS. - YouTube](https://www.youtube.com/watch?v=h_l8wCr7M2Q)
 - [Antigravity Skills: A novidade MAIS INSANA (vai te dar superpoderes) - YouTube](https://www.youtube.com/watch?v=xhlSi0Sc6dc)
 - [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity Awesome Skills\|Antigravity Awesome Skills]]
+- [GitHub - google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
 - [GitHub - anthropics/skills: Public repository for Agent Skills · GitHub](https://github.com/anthropics/skills)
 - [Overview - Agent Skills](https://agentskills.io/home)
 - [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity Kit\|Antigravity Kit]]
