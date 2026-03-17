@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/metodologias-ativas/","metatags":{"description":"conjunto de procedimentos didáticos que visam promover a participação ativa do aluno nas situações de aprendizagem."},"noteIcon":2,"updated":"2026-03-10T09:49:13.733-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/metodologias-ativas/","metatags":{"description":"conjunto de procedimentos didáticos que visam promover a participação ativa do aluno nas situações de aprendizagem."},"noteIcon":2,"updated":"2026-03-15T10:24:48.528-03:00"}
 ---
 
 
@@ -68,6 +68,8 @@ As [[Tecnico/Didatica/Metodologias/Metodologias\|Metodologias]] Ativas de [[Tecn
 ## Referências
 
 - [[Tecnico/Didatica/Metodologias/Cubus\|Cubus]]
+- [[Tecnico/Didatica/Metodologias/Acao-reflexao-segunda-acao\|Acao-reflexao-segunda-acao]]
+- [[Tecnico/Didatica/Planejamento/Modelo pedagogico Senac\|Modelo pedagogico Senac]]
 - Bacich, L., & Moran, J. (2018). *[[Tecnico/Didatica/Metodologias/Metodologias\|Metodologias]] ativas para uma educação inovadora: Uma abordagem teórico-prática*. Penso.
 - Freire, P. (1996). *Pedagogia da Autonomia: Saberes necessários à prática educativa*. Paz e Terra.
 - Kenski, V. M. (2012). *Educação e tecnologias: O novo ritmo da informação*. Papirus.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/acao-reflexao-segunda-acao/","metatags":{"description":"processo cíclico que orienta o desenvolvimento de competências"},"noteIcon":2,"updated":"2026-03-10T09:24:32.600-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/acao-reflexao-segunda-acao/","metatags":{"description":"processo cíclico que orienta o desenvolvimento de competências"},"noteIcon":2,"updated":"2026-03-15T10:20:27.013-03:00"}
 ---
 
 
@@ -15,7 +15,7 @@ O ciclo de [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]] ação-reflexão-aç�
 
 ### Desenvolvendo competências
 
-O Modelo Pedagógico do Senac (MPS) utiliza o ciclo ação-reflexão-ação como eixo estruturante para o desenvolvimento de competências, promovendo uma [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]] significativa e focada na prática profissional. Em vez de priorizar a mera transmissão de conteúdos teóricos, o MPS incentiva uma abordagem em que o aluno aprende fazendo, analisando suas ações e aprimorando sua prática de forma contínua.
+O [[Tecnico/Didatica/Planejamento/Modelo pedagogico Senac\|Modelo pedagogico Senac]] (MPS) utiliza o ciclo ação-reflexão-ação como eixo estruturante para o desenvolvimento de competências, promovendo uma [[Tecnico/Didatica/Aprendizagem\|Aprendizagem]] significativa e focada na prática profissional. Em vez de priorizar a mera transmissão de conteúdos teóricos, o MPS incentiva uma abordagem em que o aluno aprende fazendo, analisando suas ações e aprimorando sua prática de forma contínua.
 
 ### Estrutura
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/metodologias/","metatags":{"description":"conjunto de procedimentos didáticos que visam promover a participação ativa do aluno nas situações de aprendizagem."},"noteIcon":2,"updated":"2026-03-10T10:23:11.711-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/metodologias/","metatags":{"description":"conjunto de procedimentos didáticos que visam promover a participação ativa do aluno nas situações de aprendizagem."},"noteIcon":2,"updated":"2026-03-15T10:24:43.743-03:00"}
 ---
 
 
@@ -41,7 +41,7 @@ III. Os professores são estimulados a renovar e a reinventar sua prática educa
 ## Tipos de Metodologias
 
 - Situação-problema
-- Estudo de Caso
+- [[Tecnico/Didatica/Metodologias/Estudo de Caso\|Estudo de Caso]]
 - Projeto
 - Pesquisa
 - Jogos coletivos
@@ -50,7 +50,7 @@ III. Os professores são estimulados a renovar e a reinventar sua prática educa
 - Simulação
 - Dramatização
 - Visita Técnica
-- Laboratório de práticas
+- Laboratório de práticas: [[Tecnico/Didatica/Metodologias/Dojo\|Dojo]]
 - Palestra
 - Melhores práticas e Benchmarking
 - Brainstorming

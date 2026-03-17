@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-overview/","title":"Minhas Formações","pinned":true,"contentClasses":"cards cards-cols-3","noteIcon":"default","updated":"2026-03-01T11:40:03.627-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-overview/","title":"Minhas Formações","pinned":true,"contentClasses":"cards cards-cols-3","noteIcon":"default","updated":"2026-03-15T11:15:48.065-03:00"}
 ---
 
 
@@ -21,7 +21,7 @@
 | [[Formacao/Formacao Python\|Formacao Python]]                                         | Horas aula: 26:00, 57:00, 64:00, 35:00 | <ul><li>Lógica de programação</li><li>Linguagem de Programação</li></ul>                                      |
 | [[Formacao/Formação React Developer\|Formação React Developer]]                       | Horas aula: 34:00                      | <ul><li>Webdesign</li><li>React</li><li>JavaScript</li></ul>                                                  |
 | [[Formacao/Machine Learning Especialist\|Machine Learning Especialist]]               | Horas aula: 92:00                      | <ul><li>Inteligência Artificial</li><li>Aprendizagem de Máquina</li><li>Algoritmos</li></ul>                  |
-| [[Formacao/Tecnico em Eletroeletronica\|Tecnico em Eletroeletronica]]                 | Horas aula: 1200:00                    | <ul><li>Eletrônica</li><li>Automoação</li><li>Elétrica</li></ul>                                              |
+| [[Formacao/Tecnico em Eletroeletronica\|Tecnico em Eletroeletronica]]                 | Horas aula: 1200:00                    | <ul><li>Eletrônica</li><li>Automação</li><li>Elétrica</li></ul>                                               |
 
 <!-- SerializedQuery END -->
 

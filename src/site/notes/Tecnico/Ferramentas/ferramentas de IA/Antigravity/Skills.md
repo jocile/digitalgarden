@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/skills/","metatags":{"description":"são como playbooks que a IA lê para executar tarefas específicas, tornando-se especialista no seu negócio"},"noteIcon":2,"updated":"2026-03-13T16:09:45.298-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/skills/","metatags":{"description":"são como playbooks que a IA lê para executar tarefas específicas, tornando-se especialista no seu negócio"},"noteIcon":2,"updated":"2026-03-15T17:57:48.169-03:00"}
 ---
 
 #ia #Projeto #Antigravity
@@ -76,5 +76,7 @@ Habilidades poderosas disponíveis para o ecossistema:
 - [GitHub - anthropics/skills: Public repository for Agent Skills · GitHub](https://github.com/anthropics/skills)
 - [Overview - Agent Skills](https://agentskills.io/home)
 - [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity Kit\|Antigravity Kit]]
+- [The Agent Skills Directory](https://skills.sh/)
 - [GitHub - kepano/obsidian-skills: Agent skills for Obsidian](https://github.com/kepano/obsidian-skills)
+- [agent-skills-manager – Open VSX Registry](https://open-vsx.org/extension/whyuds/agent-skills-manager)
 - [Agora a Anthropic revolucionou TUDO de novo! - YouTube](https://www.youtube.com/watch?v=yPoSJbLxbS8)

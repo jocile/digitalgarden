@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/planejamento/modelo-pedagogico-senac/","title":"Modelo Pedagógico Senac (MPS)","metatags":{"description":"metodologia focada no desenvolvimento de competências e na formação integral do indivíduo"},"tags":["didatica","senac","planejamento","pedagogia"],"noteIcon":2,"updated":"2026-03-13T20:54:09.300-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/planejamento/modelo-pedagogico-senac/","title":"Modelo Pedagógico Senac (MPS)","metatags":{"description":"metodologia focada no desenvolvimento de competências e na formação integral do indivíduo"},"tags":["didatica","senac","planejamento","pedagogia"],"noteIcon":2,"updated":"2026-03-15T10:18:54.830-03:00"}
 ---
 
 
@@ -39,7 +39,7 @@ O MPS rompe com a aula expositiva tradicional através de duas estratégias cent
 
 #### 2.1 Ciclo Ação-Reflexão-Ação
 
-O aprendizado acontece em movimento:
+O aprendizado acontece em movimento ([[Tecnico/Didatica/Metodologias/Acao-reflexao-segunda-acao\|Acao-reflexao-segunda-acao]]):
 1. **Ação:** O aluno é desafiado com uma situação real (ex: "O banco de dados parou, o que você faz?").
 2. **Reflexão:** Com mediação do docente, o aluno pesquisa a teoria, analisa o erro e busca novos conhecimentos.
 3. **Nova Ação:** O aluno retorna ao desafio original com uma prática qualificada e fundamentada.
@@ -79,7 +79,7 @@ A avaliação no Senac é **formativa e contínua**. O foco não é a nota, mas 
 - **D (Desenvolvida):** Atingiu todos os indicadores da competência.
 - **ND (Não Desenvolvida):** Não atingiu indicadores essenciais.
 
-> [!IMPORTANT] Recuperação Imediata\
+> [!IMPORTANT] Recuperação Imediata
 > No MPS, a recuperação ocorre assim que a falha é detectada. O docente propõe novas situações de aprendizagem para que o aluno recupere o indicador antes do fim da UC.
 
 ---
