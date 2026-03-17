@@ -1,125 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/vagas/","title":"Vagas","metatags":{"description":"Oportunidades em emprego"},"contentClasses":"img-zoom cards","tags":["vagas"],"noteIcon":2,"updated":"2025-06-21T17:48:59.099-03:00"}
+{"dg-publish":true,"permalink":"/vagas/","title":"Vagas","metatags":{"description":"Oportunidades em emprego"},"contentClasses":"img-zoom cards","tags":["vagas"],"noteIcon":2,"updated":"2026-03-17T19:03:38.316-03:00"}
 ---
 
 
-## Vagas em TI na cidade de Sobral - CE
+## Vagas na cidade de Sobral - CE
 
-> [!note] Redes de Oportunidades para alunos
-> 
-> ![Vagas-vendedora.png](/img/user/anexos/vagas/Vagas-vendedora.png)
-> ![Vagas-gerente.png](/img/user/anexos/vagas/Vagas-gerente.png)
-> ![Vagas-fiscal.png](/img/user/anexos/vagas/Vagas-fiscal.png)
-> ![Vagas-estoquista.png](/img/user/anexos/vagas/Vagas-estoquista.png)
-> ![Vagas-designer.png](/img/user/anexos/vagas/Vagas-designer.png)
->
->> [!todo] [Preencha o seu Cadastro no Banco de Talentos para Alunos SENAC](https://forms.office.com/pages/responsepage.aspx?id=S6miCkPigUmVy0-TwhSrpaSY9nL0Zf1ApDP3RJRhQJ5UNkNaR1BZTDNPOVZVT1REVFcxMkwxOTVQOS4u)
-
-> [!note] Tecnologia da Informação
-> ![Vagas-ass-adm.png](/img/user/anexos/vagas/Vagas-ass-adm.png) 
-> ![vaga-execute.jpeg](/img/user/anexos/vagas/vaga-execute.jpeg)
-> ![vaga-pluralmed.jpeg](/img/user/anexos/vagas/vaga-pluralmed.jpeg)
-> ![vaga-sobralnet.jpeg](/img/user/anexos/vagas/vaga-sobralnet.jpeg)
-
-## Vagas anteriores
-
-> [!tip]- Analista de Dados
-> - PluralMed - Unidade Sobral, CE;
-> - Presencial;
-> - Horário comercial
->
->> [!todo]- Requisitos: 
->> - Experiência avançada com PowerBI e PowerApps. 
->> - Profundo conhecimento em bancos de dados relacionais (MySQL, PostgreSQL, Oracle, entre outros).  
->> - Habilidade em Python para análise e automação de dados.
->> - Experiência com Excel para análise de dados e elaboração de relatórios.  
->> - Familiaridade com ferramentas de ETL (por exemplo, DBT, Pentaho, Databricks).
->
->> [!info]- Diferencial:
->> - Conhecimentos em IA Generativa (Inteligência Artificial Generativa).  
->> - Experiência com Streamlit para criação de aplicativos de dados interativos.  
->> - Experiência com sistemas de ERP e sua integração com ferramentas de análise de dado
->
->> [!todo]- Atividades:
->> - Analisar e interpretar grandes volumes de dados para fornecer insights estratégicos.  
->> - Desenvolver e manter dashboards e relatórios utilizando PowerBI e a plataforma PowerApps.  
->> - Trabalhar com bancos de dados relacionais (exemplos: MySQL, PostgreSQL, Oracle).  
->> - Criar e otimizar scripts em Python para análise de dados e automação de processos.  
->> - Utilizar Excel para análise de dados e criação de modelos.  
->> - Implementar e gerenciar processos de ETL (Extração, Transformação e Carga) utilizando ferramentas apropriadas.
->
-> - [Inscrições: Vaga ANALISTA DE DADOS PLENO](https://pluralmed.vagas.solides.com.br/vaga/475756)
-
-> [!tip]+ Analista de Sistemas I
-> - NTI UVA - Unidade Sobral, CE;
-> - Presencial;
-> - Horário comercial
->> [!todo]- Requisitos: 
->> - Linguagem PHP, framework Laravel,  banco de dados PostgreSQL;
->> - CSS3, JavaScript, HTML5, Bootstrap e TailWind CSS;
->> - WebServices, API REST e microserviços;
->> - Controle de versão GIT ou GitLab;
->> - Graduação em computação ou áreas afim;
->
-> - Inscrições abertas até 30 de setembro de 2024
-> - Enviar currículo para <nti@uvanet.br>
-> - [NTI UVA | Oportunidade em Sobral/CE!!! (Todas as informações na postagem) | Instagram](https://www.instagram.com/p/C__2jCYO8b3/?igsh=eHgwNTk4amMwc3J2) 
-
-> [!success]- Assistente Administrativo Senac
-> 
-> - Data de Publicação:  01/08/2024
-> - Localidade: Unidade Senac Sobral - CE
-> - Função: Assistente Administrativo
-> - Grau de Instrução: Ensino Médio Completo.
-> - Descrição: Realizar atendimento do cliente interno e externo, controlando a entrada e saída, registro de uso e frequência, bem como de insumos, recursos e materiais da área, prezando e dando suporte a limpeza e organização, de acordo com os procedimentos internos como de segurança e higiene, como nas atividades específicas.
-> - Exigido: Conhecimento em rotinas administrativas; Conhecimentos de informática; Conhecimentos em controle de estoque; Experiencia mínima de 06 meses;
-> - Remuneração: O Salário e os benefícios serão informados no ato da seleção. Atenção: As inscrições podem ser realizadas por 05 (cinco) dias, contando com a data de publicação. Informamos que para uma melhor execução do processo de triagem de candidatos para as vagas, de forma a não comprometer a sua participação, é essencial o preenchimento do cadastro completo do perfil no portal do candidato, antes da candidatura à vaga. O Senac, utilizando-se da conveniência e da oportunidade, poderá analisar, no máximo, os 30 (trinta) primeiros currículos cadastrados. Em caso de dificuldade de acesso em nossa plataforma, o cadastro de currículos poderá ser feito em uma das unidades Sesc ou Senac. A pessoa interessada deve procurar o atendimento e receber as devidas orientações. Vaga também destinada para pessoa com deficiência (PCD).
-> - [Banco de talentos](https://portalrh.ce.senac.br/FrameHTML/RM/Rhu-BancoTalentos/#/RM/Rhu-BancoTalentos/painelVagas/detalhesVaga/questionarios?codColigada=1&codSelecao=11852&codVaga=1)
-
-> [!success]- Assistente Administrativo
-> 
-> ![Vagas-ass-adm.png](/img/user/anexos/vagas/Vagas-ass-adm.png)
-
-> [!note]- Designer
->
-> ![Vagas-designer.png](/img/user/anexos/vagas/Vagas-designer.png)
-
-> [!tip]- Programador 
-> 
-> - Inscrições encerradas
-> - [Edital 2024.4 Programador Sênior | Hospital do Coração de Sobral](https://hcsobral.com.br/?p=2548)
-> - [stacasa.com.br/images/EDITAIS/EDITAL\_28-2023-PROGRAMADOR\_DE\_COMPUTADOR.pdf](https://stacasa.com.br/images/EDITAIS/EDITAL_28-2023-PROGRAMADOR_DE_COMPUTADOR.pdf)
-
-## Vagas em TI na cidade de Fortaleza - CE
-
-> [!tip]- Analista de Sistemas II
-> - Senac - Unidade administrativa sede regional em Fortaleza, CE;
-> - Presencial;
-> - Horário comercial
-> - Inscrições abertas até 30 de setembro de 2024
-> 
->> [!todo]- Requisitos: 
->> - Noções básicas de inglês operacional;
->> - Conhecimentos em software, hardware, redes, soluções específicas; 
->> - Experiência mínima de 06 meses na função.
->
->> [!todo]- Funções:
->> - Efetuar análise e desenvolvimento de soluções de integração para os sistemas de BackOffice e ERP da instituição utilizando microserviços;
->> - Propor melhorias nas soluções existentes;
->> - Trabalhar com metodologia ágil;
->> - Atuar com SQL Server e Oracle;
->> - Levantar necessidades com as áreas de negócios e documentação;
->> - Alinhar o ambiente corporativo de TI com as necessidades de negócios, padrões e melhores práticas de mercado;
->> - Demandas de projetos e melhorias, interagir com outros membros da equipe de sistemas e analistas de negócios para construção de soluções e integrações com outras ferramentas.
->
->> [!info]- Desejável:
->> - Experiência com processos de negócios, fluxos de trabalho, requisitos funcionais e não funcionais. Experiência em SQL.
->> - Conhecimento em ERP - (Totvs - RM).
->> - Experiência em ferramentas de gerenciamento de projetos como JIRA, Trello ou DevOps.
-> - [Link portalrh.ce.senac.br](https://portalrh.ce.senac.br/FrameHTML/RM/Rhu-BancoTalentos/#/RM/Rhu-BancoTalentos/painelVagas/detalhesVaga/questionarios?codColigada=1&codSelecao=11871&codVaga=1)
-> - [Link do painel de vagas](https://portalrh.ce.senac.br/FrameHTML/RM/Rhu-BancoTalentos/#/RM/Rhu-BancoTalentos/painelVagas/lista)
-
-## Referências
+| File                                                                                                                                                                                                             | Data          | Cover                                                                                                                                                                                                                                                                                                           |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Aprendiz -Sobral/CE - GRUPO PETRÓPOLIS](https://brvagas.com.br/sobral/vaga/aprendiz-sobral-ce-grupo-petropolis-1483257)                                                                                         | 16/03/2026 📅 | [![Logo Empresa](https://wsrv.nl/?url=https%3A%2F%2Fempbraatsstorage.blob.core.windows.net%2Fatslogos%2Fb28660a8-bc3b-43e3-8e0c-6004940e0783_4.png&output=jpg&w=400)](https://brvagas.com.br/sobral/vaga/aprendiz-sobral-ce-grupo-petropolis-1483257)                                                           |
+| [AUXILIAR ADMINISTRATIVO - AFIRMATIVA PARA PESSOA COM DEFICIÊNCIA \| SOBRAL/CE - Localiza&Co](https://brvagas.com.br/sobral/vaga/auxiliar-administrativo-afirmativa-para-pessoa-com-deficiencia-sobral--1481281) | 14/03/2026 📅 | [![Logo Empresa](https://wsrv.nl/?url=https%3A%2F%2Fattachments.gupy.io%2Fproduction%2Fcompanies%2F581%2Fcareer%2F679%2Fimages%2F2023-09-21_21-31_companyLogoUrl.png&output=jpg&w=400)](https://brvagas.com.br/sobral/vaga/auxiliar-administrativo-afirmativa-para-pessoa-com-deficiencia-sobral--1481281)      |
+| [Agenciador(a) Logística (Assistente de Logística) - Sobral - Motz](https://brvagas.com.br/sobral/vaga/agenciador-a-logistica-assistente-de-logistica-sobral-motz-sobral-1479291)                                | 13/03/2026 📅 | [![Logo Empresa](https://wsrv.nl/?url=https%3A%2F%2Fattachments.gupy.io%2Fproduction%2Fcompanies%2F21652%2Fcareer%2F48652%2Fimages%2F2022-02-04_22-40_logo.png&output=jpg&w=400)](https://brvagas.com.br/sobral/vaga/agenciador-a-logistica-assistente-de-logistica-sobral-motz-sobral-1479291)                 |
+| [Analista de Custos I - Grendene - Sobral](https://brvagas.com.br/sobral/vaga/analista-de-custos-i-grendene-sobral-1476358)                                                                                      | 12/03/2026 📅 | [![Logo Empresa](https://wsrv.nl/?url=https%3A%2F%2Fattachments.gupy.io%2Fproduction%2Fcompanies%2F2051%2Fcareer%2F3291%2Fimages%2F2023-01-31_17-19_companyLogoUrl.png&output=jpg&w=400)](https://brvagas.com.br/sobral/vaga/analista-de-custos-i-grendene-sobral-1476358)                                      |
+| [Estagiária/Estagiário - Área de Manutenção Confiabilidade - Votorantim Cimentos](https://brvagas.com.br/sobral/vaga/estagiaria-estagiario-area-de-manutencao-confiabilidade-votorantim-cim-1476268)             | 12/03/2026 📅 | [![Logo Empresa](https://wsrv.nl/?url=https%3A%2F%2Fattachments.gupy.io%2Fproduction%2Fcompanies%2F326%2Fcareer%2F2359%2Fimages%2F2022-10-04_14-52_logo.png&output=jpg&w=400)](https://brvagas.com.br/sobral/vaga/estagiaria-estagiario-area-de-manutencao-confiabilidade-votorantim-cim-1476268)               |
+| [Estagiária/Estagiário Área de Qualidade - Votorantim Cimentos - Futuros Talentos](https://brvagas.com.br/sobral/vaga/estagiaria-estagiario-area-de-qualidade-votorantim-cimentos-futuros-ta-1473955)            | 11/03/2026 📅 | [![Logo Empresa](https://wsrv.nl/?url=https%3A%2F%2Fattachments.gupy.io%2Fproduction%2Fcompanies%2F326%2Fcareer%2F2359%2Fimages%2F2022-10-04_14-52_logo.png&output=jpg&w=400)](https://brvagas.com.br/sobral/vaga/estagiaria-estagiario-area-de-qualidade-votorantim-cimentos-futuros-ta-1473955)               |
+| [Pessoa Auditor(a) / Cliente Oculto - Freelancer - PEX - Programa de Excelência](https://brvagas.com.br/sobral/vaga/pessoa-auditor-a-cliente-oculto-freelancer-sobral-ce-pex-programa-de-e-1473797)              | 11/03/2026 📅 | [![Logo Empresa](https://wsrv.nl/?url=https%3A%2F%2Fattachments.gupy.io%2Fproduction%2Fcompanies%2F38779%2Fcareer%2F205963%2Fimages%2F2025-03-12_11-06_companyLogoUrl.jpg&output=jpg&w=400)](https://brvagas.com.br/sobral/vaga/pessoa-auditor-a-cliente-oculto-freelancer-sobral-ce-pex-programa-de-e-1473797) |
+| [Auxiliar em Manutenção de Informática - grupozenir.gupy.io - Sobral](https://brvagas.com.br/sobral/vaga/auxiliar-em-manutencao-de-informatica-grupozenir-gupy-io-sobral-1468761)                                | 09/03/2026 📅 | [![Logo Empresa](https://wsrv.nl/?url=https%3A%2F%2Fattachments.gupy.io%2Fproduction%2Fcompanies%2F68349%2Fcareer%2F164662%2Fimages%2F2024-02-10_23-19_companyLogoUrl.png&output=jpg&w=400)](https://brvagas.com.br/sobral/vaga/auxiliar-em-manutencao-de-informatica-grupozenir-gupy-io-sobral-1468761)        |
+| [Assistente de Departamento Pessoal - Casa do Celular - Sobral](https://brvagas.com.br/sobral/vaga/assistente-de-departamento-pessoal-casa-do-celular-sobral-1467207)                                            | 09/03/2026 📅 | [![Logo Empresa](https://wsrv.nl/?url=https%3A%2F%2Fattachments.gupy.io%2Fproduction%2Fcompanies%2F48416%2Fcareer%2F108910%2Fimages%2F2022-11-01_14-50_logo.jpg&output=jpg&w=400)](https://brvagas.com.br/sobral/vaga/assistente-de-departamento-pessoal-casa-do-celular-sobral-1467207)                        |
+| [VENDEDOR EXTERNO PNLD - Temporário - PROJEKT RECRUTAMENTO - Sobral](https://brvagas.com.br/sobral/vaga/vendedor-externo-pnld-temporario-projekt-recrutamento-sobral-1469605)                                    | 09/03/2026 📅 | [![Logo Empresa](https://wsrv.nl/?url=https%3A%2F%2Fbrvagas.pop5.com.br%2Fassets%2Fimages%2Ficon12.svg&output=jpg&w=400)](https://brvagas.com.br/sobral/vaga/vendedor-externo-pnld-temporario-projekt-recrutamento-sobral-1469605)                                                                              |
+| [Aprendiz Administrativo - Brisanet - Sobral](https://brvagas.com.br/sobral/vaga/aprendiz-administrativo-brisanet-sobral-1462616)                                                                                | 06/03/2026 📅 | [![Logo Empresa](https://wsrv.nl/?url=https%3A%2F%2Fattachments.gupy.io%2Fproduction%2Fcompanies%2F88807%2Fcareer%2F232231%2Fimages%2F2025-12-08_17-31_companyLogoUrl.png&output=jpg&w=400)](https://brvagas.com.br/sobral/vaga/aprendiz-administrativo-brisanet-sobral-1462616)                                |
+| [Auxiliar de Serviços Gerais - grupozenir.gupy.io - Sobral](https://brvagas.com.br/sobral/vaga/auxiliar-de-servicos-gerais-grupozenir-gupy-io-sobral-1462406)                                                    | 06/03/2026 📅 | [![Logo Empresa](https://wsrv.nl/?url=https%3A%2F%2Fattachments.gupy.io%2Fproduction%2Fcompanies%2F68349%2Fcareer%2F164662%2Fimages%2F2024-02-10_23-19_companyLogoUrl.png&output=jpg&w=400)](https://brvagas.com.br/sobral/vaga/auxiliar-de-servicos-gerais-grupozenir-gupy-io-sobral-1462406)                  |
 
 > [!important]- Referências
 > - [BrVagas Sobral](https://brvagas.com.br/sobral/)

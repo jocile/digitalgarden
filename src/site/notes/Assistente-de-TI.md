@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":"default","updated":"2025-12-01T11:03:03.239-03:00"}
+{"dg-publish":true,"permalink":"/assistente-de-ti/","title":"Assistente de TI","metatags":{"description":"Curso Assistente de tecnologias da informação"},"tags":["Aulas","Assistente-de-TI","Senac","curso"],"noteIcon":"default","updated":"2026-03-17T19:06:43.092-03:00"}
 ---
 
 
@@ -545,7 +545,17 @@ gantt
 </div></div>
 
 
+## UC5 - Projeto Integrador
 
+### Cronograma da UC5
+
+>[!done] Cronograma da Unidade Curricular 5
+>
+>>[!note] Aulas em 04/06 a 06/06
+>> Planejamento de equipes para o [[Tecnico/Assistente-de-TI/Projeto-integrador-assistente-de-ti\|Projeto-integrador-assistente-de-ti]]
+>
+>>[!note] Aulas em 09/06 a 10/06
+>> Apresentação dos projetos de equipes
 
 > [!important]- 📚Material didático
 > 
@@ -560,8 +570,6 @@ gantt
 >>> - [📄 Word](https://bibliotecadigitalsenac.com.br/#/content/uid/168d48a0-17d8-ee11-85fa-00224821b803/detail) | [📄 atividades Word](https://www.editorasenacsp.com.br/informatica/word2019/atividades.zip)
 >>> - [📈 Excel](https://bibliotecadigitalsenac.com.br/#/content/uid/144fc6f8-16d8-ee11-85fa-00224821b803/detail) | [📄 atividades Excel](https://www.editorasenacsp.com.br/informatica/excel2019/planilhas.zip)
 >>> - [📸Power Point][powerpoint] | [📄 atividades PowerPoint](https://www.editorasenacsp.com.br/informatica/powerpoint2019/atividades.zip)
-
-
 
 [apostila]: https://drive.google.com/file/d/1HNT1is949xITALuJXT1dwaLCbYexrIGT/view?usp=sharing
 [powerpoint]: https://bibliotecadigitalsenac.com.br/#/content/uid/d37df569-17d8-ee11-85fa-00224821b803/detail

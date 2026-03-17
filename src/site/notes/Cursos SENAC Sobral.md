@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cursos-senac-sobral/","metatags":{"description":"Cursos Senac Sobral"},"contentClasses":"cards","noteIcon":"default","updated":"2026-03-09T19:01:54.604-03:00"}
+{"dg-publish":true,"permalink":"/cursos-senac-sobral/","metatags":{"description":"Cursos Senac Sobral"},"contentClasses":"cards","noteIcon":"default","updated":"2026-03-17T19:08:38.500-03:00"}
 ---
 
 
