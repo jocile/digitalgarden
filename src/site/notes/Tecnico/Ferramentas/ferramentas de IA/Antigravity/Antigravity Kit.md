@@ -13,8 +13,8 @@ Abaixo estão os pilares e funcionalidades centrais do kit conforme as fontes:
 O pacote é extremamente robusto e focado em **especialização agêntica**, contendo:
 
 - **Mais de 20 [[Formacao/Inteligencia Artificial/agentes de ia\|Agentes Especializados]]:** IA treinadas para tarefas específicas em áreas como front-end, back-end e banco de dados.
-- **Mais de 37 [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Skills\|Skills]] (Habilidades):** Instruções modulares para automação de recursos, como criação de bancos de dados, auditorias de segurança e otimização de performance.
-- **Mais de 11 [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Workflows\|Workflows]] (Fluxos de Trabalho):** Macros manuais para execuções sequenciais, incluindo ferramentas para deploy e documentação.
+- **Mais de 37 [[Tecnico/ai/Skills\|Skills]] (Habilidades):** Instruções modulares para automação de recursos, como criação de bancos de dados, auditorias de segurança e otimização de performance.
+- **Mais de 11 [[Tecnico/ai/Workflows\|Workflows]] (Fluxos de Trabalho):** Macros manuais para execuções sequenciais, incluindo ferramentas para deploy e documentação.
 
 ### 2. O Comando Orchestrate (Orquestração)
 

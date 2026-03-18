@@ -21,7 +21,7 @@ Existem diversas ferramentas e plataformas para a criação de [[Formacao/Inteli
 
 ### **Plataformas Open Source (Código Aberto)**
 
-- **[dify.ai](https://dify.ai/):** Uma plataforma open source para criação de agentes que pode ser instalada em servidores próprios, oferecendo maior controle e privacidade dos dados. Permite criar fluxos de decisão para diferentes agentes, puxar conhecimento via API e possui um método avançado de [[Formacao/Inteligencia Artificial/RAG - Retrieval Augmented Generation\|RAG - Retrieval Augmented Generation]]. É considerada mais profissional e viável para produtos vendidos a clientes devido ao seu controle e personalização.
+- **[dify.ai](https://dify.ai/):** Uma plataforma open source para criação de agentes que pode ser instalada em servidores próprios, oferecendo maior controle e privacidade dos dados. Permite criar fluxos de decisão para diferentes agentes, puxar conhecimento via API e possui um método avançado de [[Tecnico/ai/RAG - Retrieval Augmented Generation\|RAG - Retrieval Augmented Generation]]. É considerada mais profissional e viável para produtos vendidos a clientes devido ao seu controle e personalização.
 - [llama-flow](https://www.npmjs.com/package/llama-flow): Uma plataforma que se destaca pela possibilidade de criar um frontend e mini aplicativos, além de ser open source. Oferece opções para criação de agentes, flows e prompts dinâmicos, além de ter integração com diversos modelos de linguagem. Similar ao Defy, mas com a vantagem de permitir a criação de interfaces personalizadas.
 - **[n8n](https://n8n.io/)**: Ferramenta de automação open source que, em conjunto com outras plataformas, permite reproduzir funcionalidades de outras plataformas de forma personalizada. É citada como uma ferramenta flexível e com potencial para integrações avançadas.
 
@@ -33,7 +33,7 @@ Existem diversas ferramentas e plataformas para a criação de [[Formacao/Inteli
 
 ### **Conceitos e Ferramentas Complementares**
 
-- **[[Formacao/Inteligencia Artificial/RAG - Retrieval Augmented Generation\|RAG - Retrieval Augmented Generation]]:** Uma técnica que permite que a IA acesse e utilize informações de documentos externos para complementar seu conhecimento. Essencial para criar agentes que respondam a perguntas baseadas em dados específicos.
+- **[[Tecnico/ai/RAG - Retrieval Augmented Generation\|RAG - Retrieval Augmented Generation]]:** Uma técnica que permite que a IA acesse e utilize informações de documentos externos para complementar seu conhecimento. Essencial para criar agentes que respondam a perguntas baseadas em dados específicos.
 - **[[Formacao/Inteligencia Artificial/parametros de LLM/Function Calling\|Function Calling]]:** Permite que agentes de IA chamem ferramentas externas e APIs.
 - **[[Formacao/Inteligencia Artificial/parametros de LLM/System Prompt\|System Prompt]]:** Instruções que definem como o agente deve se comportar.
 

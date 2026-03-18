@@ -15,7 +15,7 @@ Este vídeo é um guia completo para iniciantes sobre como instalar, configurar 
 - **Metodologia PREVC:** O Vini explica sua metodologia de planejamento (Planejamento, Revisão, Execução, Validação e Confirmação) para evitar alucinações da IA e garantir a qualidade do código (4:05).
 - **Criação do Projeto:** Demonstra a criação de uma aplicação com _Next.js_ e estilização _neobrutalista_ (15:47).
 - **Comandos Essenciais:** Explicação sobre comandos como `clear`, `compact`, `model` e como gerenciar os custos da API (16:41).
-- **Uso de MCP ([[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Model Context Protocol\|Model Context Protocol]]):** Como configurar servidores MCP, especificamente o _Context 7_, para dar mais contexto à IA (32:49).
+- **Uso de MCP ([[Tecnico/ai/Model Context Protocol\|Model Context Protocol]]):** Como configurar servidores MCP, especificamente o _Context 7_, para dar mais contexto à IA (32:49).
 - **Modo Autônomo:** Como utilizar o `dangerously skip permissions` para deixar a IA trabalhar de forma 100% autônoma (36:06).
 
 ## Descrição

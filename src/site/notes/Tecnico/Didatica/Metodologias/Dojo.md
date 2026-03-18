@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/dojo/","tags":["metodologia-ativa","didatica","programacao"],"noteIcon":2,"updated":"2026-03-15T09:44:53.298-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/dojo/","metatags":{"description":"Metodologia colaborativa de ensino de programação focada na prática e reflexão coletiva."},"tags":["metodologia-ativa","didatica","programacao"],"noteIcon":2,"updated":"2026-03-17T19:14:16.798-03:00"}
 ---
 
 

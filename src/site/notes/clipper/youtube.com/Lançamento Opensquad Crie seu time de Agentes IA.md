@@ -43,7 +43,7 @@ Na prática, Renato mostra a instalação, a configuração inicial e a criaçã
 ## CAPÍTULOS
 
 - 00:00 Eu queria criar um time de Agentes IA
-- 03:40 O lançamento das [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Skills\|Skills]].md
+- 03:40 O lançamento das [[Tecnico/ai/Skills\|Skills]].md
 - 05:07 Outras alternativas (que não funcionaram)
 - 07:38 Por isso criei o Opensquad do zero
 - 09:04 Como instalar o Opensquad (grátis)

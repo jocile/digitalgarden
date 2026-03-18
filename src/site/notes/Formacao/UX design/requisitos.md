@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ux-design/requisitos/","title":"Análise de requisitos","metatags":{"description":"entendermos exatamente o que o cliente precisa e deseja para o sistema"},"noteIcon":2,"updated":"2025-07-15T21:35:57.165-03:00"}
+{"dg-publish":true,"permalink":"/formacao/ux-design/requisitos/","title":"Análise de requisitos","metatags":{"description":"entendermos exatamente o que o cliente precisa e deseja para o sistema"},"noteIcon":2,"updated":"2026-03-18T09:31:37.432-03:00"}
 ---
 
 #Projeto 

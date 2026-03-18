@@ -81,7 +81,7 @@ Além disso, o código Python também pode incluir outras funcionalidades, como:
 - Definir parâmetros como a temperatura para controlar a aleatoriedade das respostas.
 - Encapsular a chamada ao modelo em funções para facilitar o reuso do código.
 - Utilizar diferentes tipos de memória para manter o histórico das interações.
-- Combinar a chamada ao modelo com outros processos dentro de uma chain, que podem incluir [[Formacao/Inteligencia Artificial/Prompts\|Prompts]] e parsers.
+- Combinar a chamada ao modelo com outros processos dentro de uma chain, que podem incluir [[Tecnico/ai/Prompts\|Prompts]] e parsers.
 
 É importante destacar que a biblioteca [[Formacao/Inteligencia Artificial/Langchain\|Langchain]] está em constante desenvolvimento, com novas funcionalidades e atualizações sendo adicionadas frequentemente, o que pode implicar mudanças na forma como os modelos são utilizados.
 

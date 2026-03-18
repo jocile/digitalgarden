@@ -8,7 +8,7 @@
 
 ## Resumo
 
-Neste tutorial completo, Well Pires explica como criar e gerenciar **[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Skills\|Skills]]** dentro do ambiente **Antigravity/Claude**, transformando-as em agentes de IA especializados para automatizar tarefas complexas (0:00-1:19). O objetivo é aumentar a eficiência, reduzindo a carga de informações no prompt do sistema (_system prompt_) para evitar que a IA perca o foco (2:33-3:35).
+Neste tutorial completo, Well Pires explica como criar e gerenciar **[[Tecnico/ai/Skills\|Skills]]** dentro do ambiente **Antigravity/Claude**, transformando-as em agentes de IA especializados para automatizar tarefas complexas (0:00-1:19). O objetivo é aumentar a eficiência, reduzindo a carga de informações no prompt do sistema (_system prompt_) para evitar que a IA perca o foco (2:33-3:35).
 
 **Pontos chave abordados:**
 
@@ -28,7 +28,7 @@ Criar uma **Skill** no _Antigravity_ envolve estruturar agentes especializados p
     - **Nome e Gatilho:** Quando a skill deve ser usada (16:00-16:25).
     - **Objetivo:** O que ela deve alcançar (16:25-16:40).
     - **Ferramentas:** Quais APIs ou ferramentas ela precisa acessar (17:40-19:00).
-    - **Passo a Passo ([[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Workflows\|Workflows]]):** Instruções lógicas sequenciais para a execução (20:45-21:30).
+    - **Passo a Passo ([[Tecnico/ai/Workflows\|Workflows]]):** Instruções lógicas sequenciais para a execução (20:45-21:30).
 3. **Configurar Arquivos de Referência (`references`):** Coloque documentos, imagens ou playbooks na pasta para guiar a IA, permitindo que ela siga um padrão tático ou estratégico (16:40-17:40).
 4. **Criar Scripts de Execução (`scripts`):** Adicione códigos em _Python_ ou _JavaScript_ para ações determinísticas, como conectar-se a APIs de terceiros (ex: geradores de imagem) (6:40-8:00).
 
@@ -36,7 +36,7 @@ Criar uma **Skill** no _Antigravity_ envolve estruturar agentes especializados p
 
 ## Descrição
 
-As [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Skills\|Skills]] são seus novos Agentes de IA para construir projetos dentro do [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]! Usando ferramentas como Claude Code e API's você consegue construir skills que automatizam horas de trabalho em poucos minutos! Nesse vídeo, vou te entregar uma masterclass completa de como funcionam as skills, o que são skills e como criar skills dentro do Antigravity. Espero que curtam!
+As [[Tecnico/ai/Skills\|Skills]] são seus novos Agentes de IA para construir projetos dentro do [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]! Usando ferramentas como Claude Code e API's você consegue construir skills que automatizam horas de trabalho em poucos minutos! Nesse vídeo, vou te entregar uma masterclass completa de como funcionam as skills, o que são skills e como criar skills dentro do Antigravity. Espero que curtam!
 
 Entre na AI Makers e consiga seu 1º cliente + todos meus templates ⤵️
 https://aimakersclub-teal.vercel.app/

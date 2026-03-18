@@ -4,20 +4,20 @@
 
 #ia #Projeto #Antigravity
 
-O **[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]] Awesome [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Skills\|Skills]]** refere-se a um ecossistema de repositórios e marketplaces (como o do LobeHub) que disponibiliza pacotes de conhecimento especializado para a IDE Google [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]. Essas habilidades funcionam como **"superpoderes" modulares** que o agente de IA decide "equipar" apenas quando detecta que a tarefa do usuário exige aquela expertise específica.
+O **[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]] Awesome [[Tecnico/ai/Skills\|Skills]]** refere-se a um ecossistema de repositórios e marketplaces (como o do LobeHub) que disponibiliza pacotes de conhecimento especializado para a IDE Google [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]. Essas habilidades funcionam como **"superpoderes" modulares** que o agente de IA decide "equipar" apenas quando detecta que a tarefa do usuário exige aquela expertise específica.
 
 Abaixo, detalho as principais habilidades e o funcionamento deste ecossistema com base nas fontes:
 
 ### 1. Filosofia e Vantagens Técnicas
 
-Diferente das _[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Rules\|Rules]]_ (regras passivas sempre ativas no prompt de sistema), as habilidades utilizam o conceito de **Divulgação Progressiva (Progressive Disclosure)**.
+Diferente das _[[Tecnico/ai/Rules\|Rules]]_ (regras passivas sempre ativas no prompt de sistema), as habilidades utilizam o conceito de **Divulgação Progressiva (Progressive Disclosure)**.
 
 - **Economia de Contexto:** O agente só carrega as instruções pesadas e scripts quando necessário, evitando a "saturação de contexto" e o desperdício de tokens.
-- **Gatilho Automático:** Ao contrário dos _[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Workflows\|Workflows]]_ (macros manuais disparadas por `/`), as habilidades são **acionadas automaticamente** pelo agente ao analisar a intenção da conversa.
+- **Gatilho Automático:** Ao contrário dos _[[Tecnico/ai/Workflows\|Workflows]]_ (macros manuais disparadas por `/`), as habilidades são **acionadas automaticamente** pelo agente ao analisar a intenção da conversa.
 
 ### 2. Habilidades de Destaque no Ecossistema
 
-Algumas das "Awesome [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Skills\|Skills]]" mais influentes mencionadas incluem:
+Algumas das "Awesome [[Tecnico/ai/Skills\|Skills]]" mais influentes mencionadas incluem:
 
 - **`design-md` (ou `conception-md`):** É considerada essencial para o fluxo de "Vibe Coding". Ela analisa projetos do Google Stitch via MCP e sintetiza um **sistema de design semântico** no arquivo `DESIGN.md`, que serve como a "fonte da verdade" visual do projeto. Ela traduz valores técnicos (como `rounded-full`) em descrições físicas ("em formato de pílula") para garantir consistência estética.
 - **`ui-ux-pro-max`:** Uma habilidade robusta que contém mais de **100 regras de design e 67 estilos de interface**. Ela é usada para auditar e melhorar automaticamente a acessibilidade, o SEO e a performance visual do código gerado.

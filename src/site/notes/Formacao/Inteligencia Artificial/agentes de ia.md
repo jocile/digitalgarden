@@ -47,7 +47,7 @@ A arquitetura de um agente de IA pode incluir diversos componentes, como:
 - **[[Formacao/Inteligencia Artificial/parametros de LLM/parametros de LLM\|LLM]]:** O "cérebro" do agente, responsável pelo processamento da linguagem e tomada de decisões.
 - **[[Formacao/Inteligencia Artificial/engenharia de prompt\|Prompt Base]]:** Instruções que definem o comportamento e as restrições do agente.
 - **Memória:** Permite que o agente se lembre de interações anteriores e mantenha o contexto da conversa.
-- **Base de Conhecimento Extra - [[Formacao/Inteligencia Artificial/RAG - Retrieval Augmented Generation\|RAG]]:** PDFs, textos, planilhas ou outras fontes de dados que complementam o conhecimento do LLM.
+- **Base de Conhecimento Extra - [[Tecnico/ai/RAG - Retrieval Augmented Generation\|RAG]]:** PDFs, textos, planilhas ou outras fontes de dados que complementam o conhecimento do LLM.
 - **[[Tecnico/Ferramentas/Ferramentas de automacao\|Ferramentas e Funções]]:** APIs, bancos de dados e outros recursos que permitem ao agente interagir com o mundo externo.
 
 ### **A Era dos Agentes de IA**
@@ -81,7 +81,7 @@ Os passos básicos para criar um agente de IA, que se resumem a:
 
 ### **Conceitos Avançados**
 
-- **[[Formacao/Inteligencia Artificial/RAG - Retrieval Augmented Generation\|RAG - Retrieval Augmented Generation]]:** A técnica RAG permite integrar informações externas ao conhecimento do LLM, ampliando suas capacidades e personalizando as respostas.
+- **[[Tecnico/ai/RAG - Retrieval Augmented Generation\|RAG - Retrieval Augmented Generation]]:** A técnica RAG permite integrar informações externas ao conhecimento do LLM, ampliando suas capacidades e personalizando as respostas.
 - **[[Formacao/Inteligencia Artificial/parametros de LLM/parametros de LLM\|Fine-tuning]]:** O ajuste fino de LLMs pode melhorar seu desempenho para tarefas específicas, personalizando o modelo com base em um conjunto de dados específico.
 - **[[Formacao/Inteligencia Artificial/engenharia de prompt\|engenharia de prompt]]:** As fontes exploram técnicas avançadas de [[Formacao/Inteligencia Artificial/engenharia de prompt\|engenharia de prompt]], como:
     - **Consistência Própria:** Gerar múltiplas cadeias de pensamento e compará-las para obter resultados mais confiáveis.
