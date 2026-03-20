@@ -8,7 +8,7 @@
 
 ## Conceito
 
-O **Model Context Protocol (MCP)** é definido como uma **linguagem universal** ou um "controle remoto universal" que permite a comunicação direta e padronizada entre diferentes ferramentas de software e [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]]. No contexto da integração técnica, ele funciona como a **ponte fundamental** que elimina a necessidade de processos manuais lentos, como copiar e colar códigos ou exportar arquivos .zip entre plataformas.
+O **Model Context Protocol (MCP)** é definido como uma **linguagem universal** ou um "controle remoto universal" que permite a comunicação direta e padronizada entre diferentes ferramentas de software e [[Tecnico/ai/agentes/agentes de ia\|agentes de ia]]. No contexto da integração técnica, ele funciona como a **ponte fundamental** que elimina a necessidade de processos manuais lentos, como copiar e colar códigos ou exportar arquivos .zip entre plataformas.
 
 Abaixo, detalho como o MCP sustenta a integração técnica no ecossistema agêntico:
 

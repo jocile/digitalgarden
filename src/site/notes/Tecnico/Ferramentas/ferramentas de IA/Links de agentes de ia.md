@@ -89,4 +89,4 @@
 ## Referências
 
 - [Building AI Agents - Google Docs](https://docs.google.com/document/d/1tD4WQsbR4d_gPqPLstL1P4dNFYGttfW-Jk3g-lpdOeE/edit?tab=t.0)
-- [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]]
+- [[Tecnico/ai/agentes/agentes de ia\|agentes de ia]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ai/rag-retrieval-augmented-generation/","title":"RAG - Retrieval Augmented Generation","metatags":{"description":"Geração Aumentada por Recuperação, é uma abordagem que melhora a qualidade das respostas de um modelo de linguagem (LLM) ao incorporar informações de fontes externas."},"tags":["Inteligencia-artificial"],"noteIcon":"1","updated":"2025-01-18T18:58:19.972-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ai/rag-retrieval-augmented-generation/","title":"RAG - Retrieval Augmented Generation","metatags":{"description":"Geração Aumentada por Recuperação, é uma abordagem que melhora a qualidade das respostas de um modelo de linguagem (LLM) ao incorporar informações de fontes externas."},"tags":["Inteligencia-artificial"],"noteIcon":"1","updated":"2026-03-20T09:06:16.763-03:00"}
 ---
 
 

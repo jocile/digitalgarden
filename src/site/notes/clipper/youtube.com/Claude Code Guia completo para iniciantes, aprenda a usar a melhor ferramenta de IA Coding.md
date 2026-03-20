@@ -36,7 +36,7 @@ Neste vídeo, vou te mostrar como configurar e usar o Claude Code na prática, e
 
 👨‍💻 Este vídeo é para você que quer:
 • Aprender IA aplicada ao desenvolvimento de software
-• Criar sistemas do zero com [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]]
+• Criar sistemas do zero com [[Tecnico/ai/agentes/agentes de ia\|agentes de ia]]
 • Economizar tempo e evitar erros comuns com IA no código
 • Dominar ferramentas modernas como Gemini CLI e Claude Code
 

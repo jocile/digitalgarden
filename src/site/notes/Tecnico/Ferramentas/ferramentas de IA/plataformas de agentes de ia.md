@@ -7,7 +7,7 @@
 
 ## Plataformas de agentes de ia
 
-Existem diversas ferramentas e plataformas para a criação de [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]], cada uma com suas particularidades e níveis de complexidade. Segue uma lista categorizada para melhor compreensão:
+Existem diversas ferramentas e plataformas para a criação de [[Tecnico/ai/agentes/agentes de ia\|agentes de ia]], cada uma com suas particularidades e níveis de complexidade. Segue uma lista categorizada para melhor compreensão:
 
 ### **Plataformas e Ferramentas com Interface Gráfica (No-Code/Low-Code)**
 

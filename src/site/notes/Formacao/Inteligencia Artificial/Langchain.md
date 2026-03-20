@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/langchain/","title":"Langchain","metatags":{"description":"é um framework completo para o desenvolvimento de aplicações de IA, aproveitando o poder dos Grandes Modelos de Linguagem"},"tags":["Inteligencia-artificial","Langchain","LLM"],"noteIcon":"1","updated":"2025-09-03T09:24:04.650-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/langchain/","title":"Langchain","metatags":{"description":"é um framework completo para o desenvolvimento de aplicações de IA, aproveitando o poder dos Grandes Modelos de Linguagem"},"noteIcon":"1","updated":"2026-03-20T09:39:40.112-03:00"}
 ---
+
+#ia  #framework #Langchain 
 
 ## Construindo Aplicações Inteligentes com LangChain: Um Guia Passo a Passo
 
@@ -21,18 +23,18 @@ LangChain permite que você vá além das capacidades básicas do ChatGPT, crian
 ### **Funcionalidades avançadas:**
 
 - **Chains:** As chains encadeiam várias etapas de processamento, permitindo que os LLMs interajam com diferentes componentes e realizem tarefas complexas. Elas podem incluir prompts, modelos, ferramentas e até mesmo outras chains.
-- **Memória:** O LangChain fornece mecanismos de memória para manter o contexto da conversa, permitindo que o LLM "lembre" de interações anteriores. Isso é crucial para chatbots e [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]] que precisam de um histórico da conversa.
+- **Memória:** O LangChain fornece mecanismos de memória para manter o contexto da conversa, permitindo que o LLM "lembre" de interações anteriores. Isso é crucial para chatbots e [[Tecnico/ai/agentes/agentes de ia\|agentes de ia]] que precisam de um histórico da conversa.
 - **Retrieval Augmented Generation (RAG):** O RAG permite integrar informações de fontes externas, como documentos, bancos de dados ou APIs, ao conhecimento do LLM. Isso amplia as capacidades do modelo, permitindo que ele responda a perguntas com base em um conjunto de dados específico.
-- **[[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]]:** Os [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]] são entidades autônomas que utilizam LLMs para executar tarefas, tomar decisões e interagir com o mundo. Eles podem usar ferramentas, como APIs e scripts, para realizar ações no mundo real.
-- **Ferramentas (Tools):** As ferramentas são funções ou scripts que os [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]] podem usar para realizar tarefas específicas. Elas podem incluir acesso a bancos de dados, pesquisa na web, processamento de imagens e muito mais.
-- **LangServe:** O LangServe permite criar APIs para expor as funcionalidades do LangChain, permitindo que outros aplicativos interajam com seus [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]].
+- **[[Tecnico/ai/agentes/agentes de ia\|agentes de ia]]:** Os [[Tecnico/ai/agentes/agentes de ia\|agentes de ia]] são entidades autônomas que utilizam LLMs para executar tarefas, tomar decisões e interagir com o mundo. Eles podem usar ferramentas, como APIs e scripts, para realizar ações no mundo real.
+- **Ferramentas (Tools):** As ferramentas são funções ou scripts que os [[Tecnico/ai/agentes/agentes de ia\|agentes de ia]] podem usar para realizar tarefas específicas. Elas podem incluir acesso a bancos de dados, pesquisa na web, processamento de imagens e muito mais.
+- **LangServe:** O LangServe permite criar APIs para expor as funcionalidades do LangChain, permitindo que outros aplicativos interajam com seus [[Tecnico/ai/agentes/agentes de ia\|agentes de ia]].
 
 **Aplicações práticas:**
 
 - **Chatbots:** O LangChain facilita a criação de chatbots que podem manter o contexto da conversa, acessar informações externas e executar ações, proporcionando uma experiência mais rica para os usuários.
 - **Tradutores:** Um exemplo simples de aplicação LangChain é a criação de tradutores que podem converter texto entre diferentes idiomas.
 - **Geração de conteúdo:** O LangChain pode ser usado para gerar conteúdo personalizado, como textos de marketing, roteiros de vídeo ou até mesmo código de programação.
-- **Análise de dados:** Os [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]] do LangChain podem ser usados para analisar dados de diversas fontes, como planilhas, bancos de dados e APIs, extraindo insights e gerando relatórios.
+- **Análise de dados:** Os [[Tecnico/ai/agentes/agentes de ia\|agentes de ia]] do LangChain podem ser usados para analisar dados de diversas fontes, como planilhas, bancos de dados e APIs, extraindo insights e gerando relatórios.
 - **Automação de tarefas:** O LangChain pode automatizar tarefas complexas que exigem processamento de linguagem natural, como agendamento de compromissos, gerenciamento de e-mails ou pesquisa de informações.
 
 ### **Considerações importantes:**

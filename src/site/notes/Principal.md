@@ -37,18 +37,18 @@ Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de t
 
 | File                                                                                              | 📄 Descrição                                                                                                                            |
 | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Tecnico/ai/agentes/Criando agentes\|Criando agentes]]                                        | podem interagir com o ambiente, coletar dados, tomar decisões e realizar ações para atingir um objetivo específico.                     |
 | [[Tecnico/Didatica/Metodologias/Aprendizagem Baseada em Jogos\|Aprendizagem Baseada em Jogos]] | utiliza a estrutura, as mecânicas e a estética dos jogos para criar experiências de aprendizagem imersivas.                             |
-| [[Tecnico/Didatica/Metodologias/Estudo de Caso\|Estudo de Caso]]                               | mergulha o estudante em situações reais ou simuladas do mundo do trabalho.                                                              |
 | [[Tecnico/Didatica/Metodologias/Design Thinking\|Design Thinking]]                             | uma mentalidade (mindset) para preparar estudantes para lidar com a ambiguidade e a inovação no mercado de trabalho.                    |
+| [[Tecnico/Didatica/Metodologias/Estudo de Caso\|Estudo de Caso]]                               | mergulha o estudante em situações reais ou simuladas do mundo do trabalho.                                                              |
 | [[Tecnico/Didatica/Metodologias/Gamificação\|Gamificação]]                                     | utiliza elementos de design de jogos em contextos educacionais para transformar o aprendizado em uma experiência imersiva e motivadora. |
 | [[Tecnico/Didatica/Metodologias/Dojo\|Dojo]]                                                   | Metodologia colaborativa de ensino de programação focada na prática e reflexão coletiva.                                                |
 | [[Teologia/Bibliologia/Introdução bíblica\|Introdução bíblica]]                                | iniciando o estudo da Bíblia                                                                                                            |
 | [[Teologia/Bibliologia/Estrutura bíblica\|Estrutura bíblica]]                                  | é o plural de um vocábulo grego biblion, que significa livro. Portanto, uma tradução literal de “Bíblia” poderia ser Os Livros.         |
 | [[Cursos SENAC Sobral\|Cursos SENAC Sobral]]                                                   | Cursos Senac Sobral                                                                                                                     |
 | [[Videos\|Videos]]                                                                             | Vídeos preferidos                                                                                                                       |
-| [[Tecnico/Didatica/Metodologias/Método Cornell\|Método Cornell]]                               | organizar informações de forma visual e facilitar a revisão sistemática e a memorização                                                 |
 | [[Tecnico/ai/mvp\|mvp]]                                                                        | é uma versão de um produto com o conjunto mínimo de funcionalidades necessário para ser lançado e validar uma ideia de negócio          |
-| [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity Kit\|Antigravity Kit]]         | funciona como uma camada de ferramentas e inteligência especializada                                                                    |
+| [[Tecnico/Didatica/Metodologias/Método Cornell\|Método Cornell]]                               | organizar informações de forma visual e facilitar a revisão sistemática e a memorização                                                 |
 
 <!-- SerializedQuery END -->
 
@@ -88,18 +88,18 @@ Alguns dizem que existem três tipos diferentes de anotadores: o arquiteto, o ja
 >[!note]- Preferências
 >- A preferência é por notas estruturadas e modulares, valorizando a aplicação prática do conhecimento.
 >- O uso frequente de pastas como 'Desafios', 'Prática' e 'Projetos' tem um foco em exemplos acionáveis, tutoriais passo a passo e exercícios.
->- O estilo de escrita tende a ser técnico e instrutivo, mantendo a clareza necessária para o ensino. Há um forte uso de ferramentas visuais (Excalidraw, Canvas) e automação (Copilot, [[Tecnico/ai/Prompts\|Prompts]] customizados), que inclui o uso de [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]], precisos e capazes de lidar com contextos técnicos complexos, mantendo a organização rigorosa do site.
+>- O estilo de escrita tende a ser técnico e instrutivo, mantendo a clareza necessária para o ensino. Há um forte uso de ferramentas visuais (Excalidraw, Canvas) e automação (Copilot, [[Tecnico/ai/Prompts\|Prompts]] customizados), que inclui o uso de [[Tecnico/ai/agentes/agentes de ia\|agentes de ia]], precisos e capazes de lidar com contextos técnicos complexos, mantendo a organização rigorosa do site.
 
 >[!note]- Ferramentas utilizadas
 > - As notas são escritas em [[Formacao/Webdesign/markdown\|markdown]];
 > - Organizadas com [[Tecnico/Ferramentas/Obsidian/Obsidian\|Obsidian]] e seus poderosos [[Tecnico/Ferramentas/Obsidian/Plugins do Obsidian\|plugins]];
-> - O conteúdo é enriquecido por [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]] como [[Tecnico/Ferramentas/ferramentas de IA/Notebooklm\|Notebooklm]], [Copilot](https://www.obsidiancopilot.com/en), [Gemini](https://github.com/allenhutchison/obsidian-gemini), e local com [[Tecnico/Ferramentas/ferramentas de IA/Ollama\|Ollama]]
+> - O conteúdo é enriquecido por [[Tecnico/ai/agentes/agentes de ia\|agentes de ia]] como [[Tecnico/Ferramentas/ferramentas de IA/Notebooklm\|Notebooklm]], [Copilot](https://www.obsidiancopilot.com/en), [Gemini](https://github.com/allenhutchison/obsidian-gemini), e local com [[Tecnico/Ferramentas/ferramentas de IA/Ollama\|Ollama]]
 > - O código fonte é salvo no [GitHub - jocile/digitalgarden](https://github.com/jocile/digitalgarden) e publicado na [Vercel](https://vercel.com/), usando o plugin [Digital-garden](https://github.com/oleeskild/obsidian-digital-garden)
 > - Recomendações ou problemas podem ser relatados em [issues](https://github.com/jocile/digitalgarden/issues).
 
 >[!note]- Tópicos
 > - Desenvolvimento de Software (Python, JavaScript, PHP, React)
-> - Inteligência Artificial (Engenharia de [[Tecnico/ai/Prompts\|Prompts]], [[Formacao/Inteligencia Artificial/agentes de ia\|agentes de ia]], LLMs, [[Formacao/Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]])
+> - Inteligência Artificial (Engenharia de [[Tecnico/ai/Prompts\|Prompts]], [[Tecnico/ai/agentes/agentes de ia\|agentes de ia]], LLMs, [[Formacao/Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]])
 > - Educação e Didática Técnica (Metodologias de ensino, Planejamento de aulas para o Senac)
 > - Cibersegurança e Redes (CyberOps, Protocolos IP, Administração de sistemas [[Tecnico/Assistente-de-TI/Linux\|Linux]]/Windows)
 > - [[Teologia\|Teologia]] Sistêmica ([[Teologia/Escatologia\|Escatologia]], Cristologia, História dos Hebreus)
