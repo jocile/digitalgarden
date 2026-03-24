@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/definindo-a-personalidade-do-agente-de-ia/","title":"Definindo a Personalidade do Agente de IA","metatags":{"description":"você instrui a Linguagem de Modelo (LLM) sobre como ela deve interpretar as perguntas e gerar respostas que sejam relevantes e precisas."},"tags":["Inteligencia-artificial","LLM","Agentes","Prompt"],"noteIcon":"1","updated":"2026-03-20T09:08:38.970-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/definindo-a-personalidade-do-agente-de-ia/","title":"Definindo a Personalidade do Agente de IA","metatags":{"description":"você instrui a Linguagem de Modelo (LLM) sobre como ela deve interpretar as perguntas e gerar respostas que sejam relevantes e precisas."},"tags":["Inteligencia-artificial","LLM","Agentes","Prompt"],"noteIcon":"1","updated":"2026-03-20T09:08:38.970-03:00","dg-note-properties":{"title":"Definindo a Personalidade do Agente de IA","tags":["Inteligencia-artificial","LLM","Agentes","Prompt"]}}
 ---
 
 

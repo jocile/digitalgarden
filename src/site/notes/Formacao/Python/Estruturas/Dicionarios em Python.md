@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/python/estruturas/dicionarios-em-python/","metatags":{"description":"criação de as coleções de dados"},"noteIcon":2,"updated":"2026-02-04T07:40:48.828-03:00"}
+{"dg-publish":true,"permalink":"/formacao/python/estruturas/dicionarios-em-python/","metatags":{"description":"criação de as coleções de dados"},"noteIcon":2,"updated":"2026-02-04T07:40:48.828-03:00","dg-note-properties":{}}
 ---
 
 #Lógica #Python #Listas

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ai/documentacao-semantica/","metatags":{"description":"Sua função principal é traduzir ativos técnicos complexos em uma linguagem que tanto humanos quanto IAs compreendam"},"noteIcon":2,"updated":"2026-03-04T10:48:12.225-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ai/documentacao-semantica/","metatags":{"description":"Sua função principal é traduzir ativos técnicos complexos em uma linguagem que tanto humanos quanto IAs compreendam"},"noteIcon":2,"updated":"2026-03-04T10:48:12.225-03:00","dg-note-properties":{"topics":["Live coding","Projetos de aplicativos"]}}
 ---
 
 #ia #Projeto #Antigravity

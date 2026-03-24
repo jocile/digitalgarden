@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/aprendizagem-baseada-em-jogos/","metatags":{"description":"utiliza a estrutura, as mecânicas e a estética dos jogos para criar experiências de aprendizagem imersivas."},"noteIcon":2,"updated":"2026-03-15T11:35:15.007-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/aprendizagem-baseada-em-jogos/","metatags":{"description":"utiliza a estrutura, as mecânicas e a estética dos jogos para criar experiências de aprendizagem imersivas."},"noteIcon":2,"updated":"2026-03-15T11:35:15.007-03:00","dg-note-properties":{"topics":["Aula prática","Didática de aula"]}}
 ---
 
 # Aprendizagem Baseada em Jogos (ABJ): Uma Abordagem de Metodologia Ativa

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ai/prompts/","title":"Exemplos de Prompts","metatags":{"description":"são instruções ou comandos fornecidos para um sistema"},"tags":["Inteligencia-artificial","LLM","Prompt"],"noteIcon":"1","updated":"2026-03-12T19:37:17.287-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ai/prompts/","title":"Exemplos de Prompts","metatags":{"description":"são instruções ou comandos fornecidos para um sistema"},"tags":["Inteligencia-artificial","LLM","Prompt"],"noteIcon":"1","updated":"2026-03-12T19:37:17.287-03:00","dg-note-properties":{"title":"Exemplos de Prompts","aliases":["prompt"],"tags":["Inteligencia-artificial","LLM","Prompt"]}}
 ---
 
 # Exemplos de Prompts

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/css/frameworks-css/","title":"Frameworks CSS","metatags":{"description":"são ferramentas essenciais para desenvolvedores que permitem construir sites e aplicativos de forma rápida e eficiente. Eles oferecem templates prontos, funcionalidades integradas e estilos visuais consistentes"},"tags":["Webdesign","framework","CSS"],"noteIcon":"1","updated":"2025-01-30T20:33:58.433-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/css/frameworks-css/","title":"Frameworks CSS","metatags":{"description":"são ferramentas essenciais para desenvolvedores que permitem construir sites e aplicativos de forma rápida e eficiente. Eles oferecem templates prontos, funcionalidades integradas e estilos visuais consistentes"},"tags":["Webdesign","framework","CSS"],"noteIcon":"1","updated":"2025-01-30T20:33:58.433-03:00","dg-note-properties":{"title":"Frameworks CSS","tags":["Webdesign","framework","CSS"]}}
 ---
 
 

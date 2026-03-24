@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/css/unidades-de-medida-do-css/","title":"Unidades de medida do css","metatags":{"description":"são fundamentais para definir tamanhos e espaçamentos em elementos"},"tags":["Webdesign","CSS"],"noteIcon":"1","updated":"2025-01-22T19:53:01.307-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/css/unidades-de-medida-do-css/","title":"Unidades de medida do css","metatags":{"description":"são fundamentais para definir tamanhos e espaçamentos em elementos"},"tags":["Webdesign","CSS"],"noteIcon":"1","updated":"2025-01-22T19:53:01.307-03:00","dg-note-properties":{"title":"Unidades de medida do css","tags":["Webdesign","CSS"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ux-design/analise-do-briefing/","title":"Análise do Briefing","metatags":{"description":"Questionário para desenvolver o Briefing"},"noteIcon":2,"updated":"2025-07-08T22:22:04.535-03:00"}
+{"dg-publish":true,"permalink":"/formacao/ux-design/analise-do-briefing/","title":"Análise do Briefing","metatags":{"description":"Questionário para desenvolver o Briefing"},"noteIcon":2,"updated":"2025-07-08T22:22:04.535-03:00","dg-note-properties":{"title":"Análise do Briefing"}}
 ---
 
 #Projeto 

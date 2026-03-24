@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/simulador-de-montagem/","title":"Simulador de montagem","metatags":{"description":"Simulando a montagem de computadores"},"tags":["Aulas","Assistente-de-TI","Senac"],"noteIcon":2,"updated":"2025-05-11T22:18:55.026-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/simulador-de-montagem/","title":"Simulador de montagem","metatags":{"description":"Simulando a montagem de computadores"},"tags":["Aulas","Assistente-de-TI","Senac"],"noteIcon":2,"updated":"2025-05-11T22:18:55.026-03:00","dg-note-properties":{"class":"aula","title":"Simulador de montagem","topics":["Orçamento de compra de equipamentos","Peças de Hardware"],"tags":["Aulas","Assistente-de-TI","Senac"]}}
 ---
 
 

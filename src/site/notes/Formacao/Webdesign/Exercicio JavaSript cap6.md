@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/exercicio-java-sript-cap6/","metatags":{"description":"Exemplos de manipulação de posicionamento do CSS"},"noteIcon":2,"updated":"2026-02-03T13:25:44.174-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/exercicio-java-sript-cap6/","metatags":{"description":"Exemplos de manipulação de posicionamento do CSS"},"noteIcon":2,"updated":"2026-02-03T13:25:44.174-03:00","dg-note-properties":{"topics":["Lógica de programação","Linguagem de Programação"]}}
 ---
 
 #JavaScript #exercícios 

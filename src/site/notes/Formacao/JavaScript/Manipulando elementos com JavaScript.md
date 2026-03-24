@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/java-script/manipulando-elementos-com-java-script/","metatags":{"description":"Exemplos de manipulação de textos e cálculos"},"noteIcon":2,"updated":"2025-08-14T09:27:40.999-03:00"}
+{"dg-publish":true,"permalink":"/formacao/java-script/manipulando-elementos-com-java-script/","metatags":{"description":"Exemplos de manipulação de textos e cálculos"},"noteIcon":2,"updated":"2025-08-14T09:27:40.999-03:00","dg-note-properties":{"class":"aula","topics":["Lógica de programação","Linguagem de Programação"]}}
 ---
 
 #JavaScript #Aulas 

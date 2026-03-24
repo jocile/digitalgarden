@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/historia-do-povo-hebreu/","metatags":{"description":"suas origens genealógicas até os grandes eventos que moldaram sua trajetória"},"noteIcon":2,"updated":"2025-08-27T18:32:36.138-03:00"}
+{"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/historia-do-povo-hebreu/","metatags":{"description":"suas origens genealógicas até os grandes eventos que moldaram sua trajetória"},"noteIcon":2,"updated":"2025-08-27T18:32:36.138-03:00","dg-note-properties":{"topics":["História dos Hebreus"]}}
 ---
 
 #Teologia/Historia #Hebreus

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/ai-studio-antigravity-supabase-criei-um-app-completo-do-zero-ao-deploy/","title":"AI Studio + Antigravity + Supabase: Criei um App COMPLETO do Zero ao Deploy (Tutorial)","metatags":{"description":"como criar e publicar um aplicativo funcional utilizando um pipeline moderno e eficiente em apenas 36 minutos"},"noteIcon":2,"updated":"2026-03-13T09:51:07.574-03:00"}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/ai-studio-antigravity-supabase-criei-um-app-completo-do-zero-ao-deploy/","title":"AI Studio + Antigravity + Supabase: Criei um App COMPLETO do Zero ao Deploy (Tutorial)","metatags":{"description":"como criar e publicar um aplicativo funcional utilizando um pipeline moderno e eficiente em apenas 36 minutos"},"noteIcon":2,"updated":"2026-03-13T09:51:07.574-03:00","dg-note-properties":{"created":"2026-03-07T15:36:54-03:00","reviewed":null,"url":"https://www.youtube.com/watch?v=LW_2JEG3enE","title":"AI Studio + Antigravity + Supabase: Criei um App COMPLETO do Zero ao Deploy (Tutorial)","channel":"Matheus Battisti - Hora de Codar","related":["[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]","[[Notebooklm]]","[[Antigravity Awesome Skills]]"],"published":"2026-03-06","thumbnailUrl":"https://i.ytimg.com/vi/LW_2JEG3enE/maxresdefault.jpg","duration":"0:36:19","watched":true}}
 ---
 
 
@@ -66,6 +66,6 @@ TIMESTAMPS
 20:40 Adicionando testes ao projeto
 28:54 Adicionando novas funcionalidades
 30:35 Deploy do projeto
-35:03 Considerações finais sobre AI Studio, [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]] e Supabase
+35:03 Considerações finais sobre AI Studio, [[Antigravity]] e Supabase
 
 #Antigravity #AIStudio #IA #DevIA  #Supabase #ProgramaçãoAI #AIcoders #gemini

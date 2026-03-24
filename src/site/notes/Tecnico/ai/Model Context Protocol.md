@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ai/model-context-protocol/","metatags":{"description":"permite a comunicação direta e padronizada entre diferentes ferramentas de software e agentes de ia"},"noteIcon":2,"updated":"2026-03-13T08:13:58.716-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ai/model-context-protocol/","metatags":{"description":"permite a comunicação direta e padronizada entre diferentes ferramentas de software e agentes de ia"},"noteIcon":2,"updated":"2026-03-23T17:58:30.325-03:00","dg-note-properties":{"aliases":["MCP"],"topics":["Live coding","Projetos de aplicativos"]}}
 ---
 
 #ia #Projeto #Antigravity

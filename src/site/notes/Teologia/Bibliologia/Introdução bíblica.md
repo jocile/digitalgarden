@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/bibliologia/introducao-biblica/","metatags":{"description":"iniciando o estudo da Bíblia"},"noteIcon":2,"updated":"2026-03-11T10:56:11.928-03:00"}
+{"dg-publish":true,"permalink":"/teologia/bibliologia/introducao-biblica/","metatags":{"description":"iniciando o estudo da Bíblia"},"noteIcon":2,"updated":"2026-03-11T10:56:11.928-03:00","dg-note-properties":{}}
 ---
 
 #Teologia #Teologia/bibliologia

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ai/agentes/criando-agentes/","metatags":{"description":"podem interagir com o ambiente, coletar dados, tomar decisões e realizar ações para atingir um objetivo específico."},"noteIcon":"1","updated":"2026-03-20T20:33:32.042-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ai/agentes/criando-agentes/","metatags":{"description":"podem interagir com o ambiente, coletar dados, tomar decisões e realizar ações para atingir um objetivo específico."},"noteIcon":"1","updated":"2026-03-23T18:03:05.602-03:00","dg-note-properties":{"topics":["Criação de agentes"]}}
 ---
 
 #ia #Agentes #Prompt
 
 # Criando Agentes de IA
 
-Criar um agente de inteligência artificial envolve construir um sistema que vai além de um simples chatbot. Um agente consegue receber uma tarefa complexa, planejar os passos necessários ([[Tecnico/ai/Workflows\|Workflows]]), usar ferramentas externas (como buscar na web ou rodar códigos) e tomar decisões de forma autônoma para atingir o objetivo final. O "cérebro" desse agente geralmente é um Modelo de Linguagem Grande (LLM).
+Criar um [[Tecnico/ai/agentes/agentes de ia\|agente de inteligência artificial]] envolve construir um sistema que vai além de um simples chatbot. Um agente consegue receber uma tarefa complexa, planejar os passos necessários ([[Tecnico/ai/Workflows\|Workflows]]), usar ferramentas externas (como buscar na web ou rodar códigos) e tomar decisões de forma autônoma para atingir o objetivo final. O "cérebro" desse agente geralmente é um Modelo de Linguagem Grande (LLM).
 
 Para explorarmos como criar um juntos, por qual destes caminhos você prefere começar?
 

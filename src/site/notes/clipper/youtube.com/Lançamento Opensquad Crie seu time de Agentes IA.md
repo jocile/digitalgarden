@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/lancamento-opensquad-crie-seu-time-de-agentes-ia/","title":"Lançamento Opensquad: Crie seu time de Agentes IA (Grátis e Open-Source)","metatags":{"description":"criar times de agentes de IA especializados que trabalham em conjunto, em vez de depender de um único agente genérico"},"noteIcon":2,"updated":"2026-03-13T09:49:39.939-03:00"}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/lancamento-opensquad-crie-seu-time-de-agentes-ia/","title":"Lançamento Opensquad: Crie seu time de Agentes IA (Grátis e Open-Source)","metatags":{"description":"criar times de agentes de IA especializados que trabalham em conjunto, em vez de depender de um único agente genérico"},"noteIcon":2,"updated":"2026-03-13T09:49:39.939-03:00","dg-note-properties":{"created":"2026-03-12T23:09:04-03:00","url":"https://www.youtube.com/watch?v=CL1ppI4qHeU","title":"Lançamento Opensquad: Crie seu time de Agentes IA (Grátis e Open-Source)","channel":"Renato Asse - Sem Codar","related":["[[Videos]]"],"published":"2026-03-12","thumbnailUrl":"https://i.ytimg.com/vi/CL1ppI4qHeU/maxresdefault.jpg","duration":"0:26:38","watched":true}}
 ---
 
 # Lançamento Opensquad: Crie seu time de Agentes IA (Grátis e Open-Source)

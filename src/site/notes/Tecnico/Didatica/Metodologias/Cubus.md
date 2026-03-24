@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/cubus/","metatags":{"description":"repositório de recursos, metodologias e práticas inovadoras para facilitar a implementação de metodologias ativas no ensino."},"noteIcon":2,"updated":"2026-03-10T08:52:10.562-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/cubus/","metatags":{"description":"repositório de recursos, metodologias e práticas inovadoras para facilitar a implementação de metodologias ativas no ensino."},"noteIcon":2,"updated":"2026-03-10T08:52:10.562-03:00","dg-note-properties":{}}
 ---
 
 

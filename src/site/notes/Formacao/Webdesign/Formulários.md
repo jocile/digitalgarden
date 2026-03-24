@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/formularios/","title":"Formulários HTML","metatags":{"description":"possui campos para coletar informações dos usuários"},"noteIcon":2,"updated":"2025-07-28T23:50:56.522-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/formularios/","title":"Formulários HTML","metatags":{"description":"possui campos para coletar informações dos usuários"},"noteIcon":2,"updated":"2025-07-28T23:50:56.522-03:00","dg-note-properties":{"title":"Formulários HTML","topics":["Webdesign","HTML5"]}}
 ---
 
 #Webdesign #HTML 

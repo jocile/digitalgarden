@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/otimizacao-do-windows/","metatags":{"description":"como configurar o sistema de forma segura e de alto desempenho para o ambiente corporativo"},"noteIcon":2,"updated":"2025-11-18T21:11:54.603-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/otimizacao-do-windows/","metatags":{"description":"como configurar o sistema de forma segura e de alto desempenho para o ambiente corporativo"},"noteIcon":2,"updated":"2025-11-18T21:11:54.603-03:00","dg-note-properties":{"class":"tecnico, aula","cssclasses":null,"topics":["Windows"]}}
 ---
 
 #aula #Windows

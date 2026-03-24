@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/a-historia-dos-hebreus/","metatags":{"description":"As obras de Josefo são consideradas uma das principais fontes de informações sobre os impérios da Antiguidade"},"noteIcon":2,"updated":"2025-08-27T18:30:52.050-03:00"}
+{"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/a-historia-dos-hebreus/","metatags":{"description":"As obras de Josefo são consideradas uma das principais fontes de informações sobre os impérios da Antiguidade"},"noteIcon":2,"updated":"2025-08-27T18:30:52.050-03:00","dg-note-properties":{"topics":["História dos Hebreus"]}}
 ---
 
 #Teologia/Historia #Hebreus

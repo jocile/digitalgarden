@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/boot-camp-spring-react/","title":"BootCamp Spring React","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T22:47:05.888-03:00"}
+{"dg-publish":true,"permalink":"/formacao/boot-camp-spring-react/","title":"BootCamp Spring React","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T22:47:05.888-03:00","dg-note-properties":{"class":"mapa","title":"BootCamp Spring React","topics":["Linguagem de Programação","React"]}}
 ---
 
 #Formação #mapa #Java #React 

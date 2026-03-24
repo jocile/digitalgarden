@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/git/git-git-hub/","title":"Git e GitHub","metatags":{"description":"conceitos de controle de versões."},"noteIcon":2,"updated":"2025-12-17T17:54:47.853-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/git/git-git-hub/","title":"Git e GitHub","metatags":{"description":"conceitos de controle de versões."},"noteIcon":2,"updated":"2025-12-17T17:54:47.853-03:00","dg-note-properties":{"class":"tecnico","title":"Git e GitHub","cssclasses":null}}
 ---
 
 #Ferramentas #github

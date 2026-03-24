@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/crewia/","metatags":{"description":"permite a criação de equipes de agentes de Inteligência Artificial."},"noteIcon":"1","updated":"2026-03-20T09:37:34.988-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/crewia/","metatags":{"description":"permite a criação de equipes de agentes de Inteligência Artificial."},"noteIcon":"1","updated":"2026-03-23T17:58:30.288-03:00","dg-note-properties":{}}
 ---
 
-#ia #Ferramentas #Agentes 
+#ia #Ferramentas #Agentes #framework #Python 
 
 # CrewIA
 
-CrewAI é um framework de orquestração multiagente em Python que permite a criação de equipes de agentes de Inteligência Artificial (IA) para automatizar fluxos de trabalho e resolver tarefas complexas de forma colaborativa. Criado pelo brasileiro João Moura, o projeto simula uma equipe de trabalho humana, onde agentes com funções, objetivos e históricos (backstory) específicos cooperam para alcançar um resultado comum.
+CrewAI é um framework de orquestração multiagente em Python que permite a criação de equipes de [[Tecnico/ai/agentes/agentes de ia\|agentes de Inteligência Artificial]] (IA) para automatizar fluxos de trabalho e resolver tarefas complexas de forma colaborativa. Criado pelo brasileiro João Moura, o projeto simula uma equipe de trabalho humana, onde agentes com funções, objetivos e históricos (backstory) específicos cooperam para alcançar um resultado comum.
 
 ## Conceito Central: A Orquestração Multiagente
 
@@ -28,7 +28,7 @@ Cada agente no CrewAI é uma entidade autônoma com atributos bem definidos:
 
 - **Objetivo (Goal):** Define metas claras para o agente. Por exemplo, um agente de marketing pode ter como objetivo "Criar um plano de campanha para lançamento do produto XYZ no mercado brasileiro até o final do segundo trimestre".
 
-- **Histórico (Backstory):** Fornece um contexto profissional e pessoal que orienta o comportamento do agente. Exemplos:
+- **Histórico (Backstory):** Fornece um contexto profissional e pessoal (persona) que orienta o comportamento do agente. Exemplos:
   - Um agente de negócios pode ter um histórico de "Consultor de vendas com 10 anos de experiência no setor de tecnologia, especializado em vendas B2B"
   - Um agente de pesquisa pode contar com uma background de "Cientista da computação com foco em aprendizado de máquina, doutor em IA"
 
@@ -114,6 +114,7 @@ Esta flexibilidade permite que desenvolvedores escolham a combinação de modelo
 - [CrewAI Documentação - CrewAI](https://docs.crewai.com/pt-BR)
 - [[Tecnico/Ferramentas/ferramentas de IA/Instalando Crewia\|Instalando Crewia]]
 - [[Formacao/Inteligencia Artificial/Cursos de Inteligência Artificial\|Cursos de Inteligência Artificial]]
+- [GitHub - digitalinnovationone/primeiros-passos-criando-seu-primeiro-agente-com-crewai: Curso "Fundamentos do CrewAI: Conceitos e Ecossistema" · GitHub](https://github.com/digitalinnovationone/primeiros-passos-criando-seu-primeiro-agente-com-crewai)
 - [GitHub - digitalinnovationone/estrutura-projetos-crewai: Curso "Estrutura de Projetos com CrewAI"](https://github.com/digitalinnovationone/estrutura-projetos-crewai/)
 - [GitHub - digitalinnovationone/instalacao-configuracao-crewai: Curso "Instalação e Configuração do CrewAI"](https://github.com/digitalinnovationone/instalacao-configuracao-crewai)
 - [Repository search results · GitHub](https://github.com/search?q=org%3Adigitalinnovationone+crewai&type=repositories)

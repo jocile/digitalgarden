@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/programador/logica/exercicios-de-logica-aritmetica/","metatags":{"description":"criando algoritmos para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-01-29T08:52:30.050-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/programador/logica/exercicios-de-logica-aritmetica/","metatags":{"description":"criando algoritmos para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-01-29T08:52:30.050-03:00","dg-note-properties":{}}
 ---
 
 #Lógica #exercícios

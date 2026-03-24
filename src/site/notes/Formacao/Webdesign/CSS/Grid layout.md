@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/css/grid-layout/","metatags":{"description":"oferece um sistema bidimensional para criação de um layout"},"noteIcon":2,"updated":"2025-07-27T13:06:18.765-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/css/grid-layout/","metatags":{"description":"oferece um sistema bidimensional para criação de um layout"},"noteIcon":2,"updated":"2025-07-27T13:06:18.765-03:00","dg-note-properties":{"cssclasses":null,"topics":["Webdesign"]}}
 ---
 
 #Webdesign 

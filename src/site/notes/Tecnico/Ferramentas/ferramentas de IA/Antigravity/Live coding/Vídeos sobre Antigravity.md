@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/live-coding/videos-sobre-antigravity/","metatags":{"description":"Vídeos sobre vibe coding"},"noteIcon":2,"updated":"2026-03-12T17:19:53.368-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/live-coding/videos-sobre-antigravity/","metatags":{"description":"Vídeos sobre vibe coding"},"noteIcon":2,"updated":"2026-03-12T17:19:53.368-03:00","dg-note-properties":{"topics":["Live coding","Automação"]}}
 ---
 
 #ia #Antigravity

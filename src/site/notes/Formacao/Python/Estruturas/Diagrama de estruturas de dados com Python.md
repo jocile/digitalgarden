@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/python/estruturas/diagrama-de-estruturas-de-dados-com-python/","contentClasses":"ex-pageheight","noteIcon":"default","updated":"2026-02-01T21:47:57.871-03:00"}
+{"dg-publish":true,"permalink":"/formacao/python/estruturas/diagrama-de-estruturas-de-dados-com-python/","contentClasses":"ex-pageheight","noteIcon":"default","updated":"2026-02-01T21:47:57.871-03:00","dg-note-properties":{"excalidraw-plugin":"parsed","excalidraw-export-dark":false,"excalidraw-autoexport":"svg","excalidraw-export-transparent":true,"cssclasses":["ex-pageheight"],"excalidraw-open-md":true}}
 ---
 
 #Lógica #Aulas #Senac #excalidraw 

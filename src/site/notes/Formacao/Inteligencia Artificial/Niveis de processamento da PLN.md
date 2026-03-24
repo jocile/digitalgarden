@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/niveis-de-processamento-da-pln/","title":"Níveis de processamento da PLN","metatags":{"description":"Gráfico sobre processamento em Linguagem Natural"},"contentClasses":"ex-pageheight","tags":["excalidraw","Inteligencia-artificial"],"noteIcon":"1","updated":"2025-01-24T16:56:40.213-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/niveis-de-processamento-da-pln/","title":"Níveis de processamento da PLN","metatags":{"description":"Gráfico sobre processamento em Linguagem Natural"},"contentClasses":"ex-pageheight","tags":["excalidraw","Inteligencia-artificial"],"noteIcon":"1","updated":"2025-01-24T16:56:40.213-03:00","dg-note-properties":{"title":"Níveis de processamento da PLN","excalidraw-plugin":"parsed","tags":["excalidraw","Inteligencia-artificial"],"excalidraw-export-dark":false,"excalidraw-autoexport":"svg","excalidraw-export-transparent":true,"excalidraw-open-md":true,"cssclasses":["ex-pageheight"]}}
 ---
 
 ## Níveis de processamento da PLN

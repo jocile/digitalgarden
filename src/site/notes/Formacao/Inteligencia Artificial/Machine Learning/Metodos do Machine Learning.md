@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/machine-learning/metodos-do-machine-learning/","title":"Métodos do Machine Learning","metatags":{"description":"são técnicas utilizadas para treinar modelos que possam aprender a partir dos dados e fazer previsões ou tomar decisões com base nessa aprendizagem."},"tags":["Inteligencia-artificial","Machine-Learning"],"noteIcon":1,"updated":"2026-03-12T22:54:11.649-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/machine-learning/metodos-do-machine-learning/","title":"Métodos do Machine Learning","metatags":{"description":"são técnicas utilizadas para treinar modelos que possam aprender a partir dos dados e fazer previsões ou tomar decisões com base nessa aprendizagem."},"tags":["Inteligencia-artificial","Machine-Learning"],"noteIcon":1,"updated":"2026-03-12T22:54:11.649-03:00","dg-note-properties":{"title":"Métodos do Machine Learning","tags":["Inteligencia-artificial","Machine-Learning"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/css/posicionando-elementos-com-css/","title":"Posicionando elementos","metatags":{"description":"Existem cinco valores principais para a propriedade CSS `position`"},"tags":["Webdesign","CSS","editor"],"noteIcon":"1","updated":"2025-01-22T19:51:47.631-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/css/posicionando-elementos-com-css/","title":"Posicionando elementos","metatags":{"description":"Existem cinco valores principais para a propriedade CSS `position`"},"tags":["Webdesign","CSS","editor"],"noteIcon":"1","updated":"2025-01-22T19:51:47.631-03:00","dg-note-properties":{"title":"Posicionando elementos","tags":["Webdesign","CSS","editor"]}}
 ---
 
 

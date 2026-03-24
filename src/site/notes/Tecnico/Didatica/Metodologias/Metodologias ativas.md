@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/metodologias-ativas/","metatags":{"description":"conjunto de procedimentos didáticos que visam promover a participação ativa do aluno nas situações de aprendizagem."},"noteIcon":2,"updated":"2026-03-15T10:24:48.528-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/metodologias-ativas/","metatags":{"description":"conjunto de procedimentos didáticos que visam promover a participação ativa do aluno nas situações de aprendizagem."},"noteIcon":2,"updated":"2026-03-15T10:24:48.528-03:00","dg-note-properties":{"topics":["Aula prática","Didática de aula"]}}
 ---
 
 

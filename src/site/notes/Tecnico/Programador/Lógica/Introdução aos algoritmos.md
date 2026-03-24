@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/programador/logica/introducao-aos-algoritmos/","metatags":{"description":"são conjuntos de instruções precisas e ordenadas que definem como realizar uma tarefa ou resolver um problema"},"noteIcon":2,"updated":"2026-01-20T23:19:26.299-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/programador/logica/introducao-aos-algoritmos/","metatags":{"description":"são conjuntos de instruções precisas e ordenadas que definem como realizar uma tarefa ou resolver um problema"},"noteIcon":2,"updated":"2026-01-20T23:19:26.299-03:00","dg-note-properties":{}}
 ---
 
 #Lógica

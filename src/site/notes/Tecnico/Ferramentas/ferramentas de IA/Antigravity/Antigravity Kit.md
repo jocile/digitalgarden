@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/antigravity-kit/","metatags":{"description":"funciona como uma camada de ferramentas e inteligência especializada"},"noteIcon":2,"updated":"2026-03-06T07:54:11.927-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/antigravity-kit/","metatags":{"description":"funciona como uma camada de ferramentas e inteligência especializada"},"noteIcon":2,"updated":"2026-03-23T17:58:30.283-03:00","dg-note-properties":{"topics":["Live coding","Projetos de aplicativos"]}}
 ---
 
 #ia #Projeto #Antigravity

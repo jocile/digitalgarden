@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/teologia-da-igreja/","metatags":{"description":"Doutrina que estuda a organização da igreja"},"noteIcon":2,"updated":"2025-08-01T11:58:16.405-03:00"}
+{"dg-publish":true,"permalink":"/teologia/teologia-da-igreja/","metatags":{"description":"Doutrina que estuda a organização da igreja"},"noteIcon":2,"updated":"2025-08-01T11:58:16.405-03:00","dg-note-properties":{"topics":"Eclesiologia"}}
 ---
 
 #Teologia 

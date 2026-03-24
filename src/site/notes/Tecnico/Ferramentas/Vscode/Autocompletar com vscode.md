@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/vscode/autocompletar-com-vscode/","metatags":{"description":"pequenos trechos de código pré-definidos que podem ser inseridos rapidamente"},"noteIcon":2,"updated":"2025-07-26T20:14:47.106-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/vscode/autocompletar-com-vscode/","metatags":{"description":"pequenos trechos de código pré-definidos que podem ser inseridos rapidamente"},"noteIcon":2,"updated":"2025-07-26T20:14:47.106-03:00","dg-note-properties":{"topics":["Editando código"]}}
 ---
 
 #vscode 

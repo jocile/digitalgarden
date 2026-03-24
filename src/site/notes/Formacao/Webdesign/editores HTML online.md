@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/editores-html-online/","metatags":{"description":"editores de código online"},"tags":["Webdesign Ferramentas","HTML","CSS","JavaScript"],"noteIcon":1,"updated":"2025-07-23T19:24:02.105-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/editores-html-online/","metatags":{"description":"editores de código online"},"tags":["Webdesign Ferramentas","HTML","CSS","JavaScript"],"noteIcon":1,"updated":"2025-07-23T19:24:02.105-03:00","dg-note-properties":{"cssclasses":null,"topics":["editores","Webdesigne"],"tags":["Webdesign Ferramentas","HTML","CSS","JavaScript"]}}
 ---
 
 

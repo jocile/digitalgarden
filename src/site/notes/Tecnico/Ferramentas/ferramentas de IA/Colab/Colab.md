@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/colab/colab/","title":"Colab","metatags":{"description":"ambiente interativo ideal para aprendizado, experimentação e desenvolvimento de projetos."},"noteIcon":2,"updated":"2025-12-29T16:46:17.959-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/colab/colab/","title":"Colab","metatags":{"description":"ambiente interativo ideal para aprendizado, experimentação e desenvolvimento de projetos."},"noteIcon":2,"updated":"2025-12-29T16:46:17.959-03:00","dg-note-properties":{"class":"tecnico","title":"Colab"}}
 ---
 
 #Ferramentas #Python

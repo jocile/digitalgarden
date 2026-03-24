@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/css/oocss/","title":"CSS Orientado a Objetos","metatags":{"description":"é uma abordagem que promove a encapsulação de estilos em classes específicos, permitindo maior reutilização e manutenibilidade."},"tags":["Webdesign","CSS","padrão"],"noteIcon":"1","updated":"2025-03-13T15:45:27.977-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/css/oocss/","title":"CSS Orientado a Objetos","metatags":{"description":"é uma abordagem que promove a encapsulação de estilos em classes específicos, permitindo maior reutilização e manutenibilidade."},"tags":["Webdesign","CSS","padrão"],"noteIcon":"1","updated":"2025-03-13T15:45:27.977-03:00","dg-note-properties":{"title":"CSS Orientado a Objetos","tags":["Webdesign","CSS","padrão"]}}
 ---
 
 

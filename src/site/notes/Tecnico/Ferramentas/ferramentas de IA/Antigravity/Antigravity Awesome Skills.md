@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/antigravity-awesome-skills/","metatags":{"description":"funcionam como superpoderes modulares que o agente de IA decide equipar apenas quando detecta que a tarefa"},"noteIcon":2,"updated":"2026-03-04T09:37:31.073-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/antigravity-awesome-skills/","metatags":{"description":"funcionam como superpoderes modulares que o agente de IA decide equipar apenas quando detecta que a tarefa"},"noteIcon":2,"updated":"2026-03-04T09:37:31.073-03:00","dg-note-properties":{"topics":["Live coding","Projetos de aplicativos"]}}
 ---
 
 #ia #Projeto #Antigravity

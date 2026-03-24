@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/php/login-com-php-e-mysql/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-09-16T10:04:28.807-03:00"}
+{"dg-publish":true,"permalink":"/formacao/php/login-com-php-e-mysql/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-09-16T10:04:28.807-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Segurança de Sistemas","Exercícios de programação"]}}
 ---
 
 #PHP #exemplos

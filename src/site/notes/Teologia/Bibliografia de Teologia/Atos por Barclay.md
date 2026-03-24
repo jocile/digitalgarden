@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/bibliografia-de-teologia/atos-por-barclay/","metatags":{"description":"O texto explora a estrutura, temas e contexto histórico do Apocalipse"},"noteIcon":"1","updated":"2025-09-26T09:22:27.133-03:00"}
+{"dg-publish":true,"permalink":"/teologia/bibliografia-de-teologia/atos-por-barclay/","metatags":{"description":"O texto explora a estrutura, temas e contexto histórico do Apocalipse"},"noteIcon":"1","updated":"2025-09-26T09:22:27.133-03:00","dg-note-properties":{}}
 ---
 
 #Teologia #livro #Atos

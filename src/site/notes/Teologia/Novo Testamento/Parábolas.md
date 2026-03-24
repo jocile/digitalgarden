@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/novo-testamento/parabolas/","title":"Diagrama dos tipos de parábolas","metatags":{"description":"diagrama de tipos de parábolas"},"tags":["Teologia","diagramas","parábolas"],"noteIcon":"1","updated":"2025-07-27T01:02:50.648-03:00"}
+{"dg-publish":true,"permalink":"/teologia/novo-testamento/parabolas/","title":"Diagrama dos tipos de parábolas","metatags":{"description":"diagrama de tipos de parábolas"},"tags":["Teologia","diagramas","parábolas"],"noteIcon":"1","updated":"2025-07-27T01:02:50.648-03:00","dg-note-properties":{"title":"Diagrama dos tipos de parábolas","tags":["Teologia","diagramas","parábolas"]}}
 ---
 
 # Parábolas

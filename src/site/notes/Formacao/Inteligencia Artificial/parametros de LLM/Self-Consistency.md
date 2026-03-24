@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/self-consistency/","title":"Self Consistency","metatags":{"description":"podemos solicitar a geração de múltiplas respostas e escolher aquela que apresenta maior probabilidade de ser correta."},"tags":["Inteligencia-artificial","LLM"],"noteIcon":"1","updated":"2025-01-20T19:45:13.839-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/self-consistency/","title":"Self Consistency","metatags":{"description":"podemos solicitar a geração de múltiplas respostas e escolher aquela que apresenta maior probabilidade de ser correta."},"tags":["Inteligencia-artificial","LLM"],"noteIcon":"1","updated":"2025-01-20T19:45:13.839-03:00","dg-note-properties":{"title":"Self Consistency","tags":["Inteligencia-artificial","LLM"]}}
 ---
 
 

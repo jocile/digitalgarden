@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/java-script/json/","metatags":{"description":"é um formato leve de intercâmbio de dados"},"noteIcon":2,"updated":"2026-02-14T00:59:02.441-03:00"}
+{"dg-publish":true,"permalink":"/formacao/java-script/json/","metatags":{"description":"é um formato leve de intercâmbio de dados"},"noteIcon":2,"updated":"2026-02-14T00:59:02.441-03:00","dg-note-properties":{"topics":["biblioteca JavaScript","Webdesign"]}}
 ---
 
 #JavaScript #Webdesign

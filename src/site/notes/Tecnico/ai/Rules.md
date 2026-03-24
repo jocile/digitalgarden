@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ai/rules/","metatags":{"description":"são pacotes de conhecimento sob demanda, as regras funcionam como um código de conduta ou uma placa arquitetônica que o agente consulta antes e durante a escrita de código"},"noteIcon":2,"updated":"2026-03-05T10:48:37.259-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ai/rules/","metatags":{"description":"são pacotes de conhecimento sob demanda, as regras funcionam como um código de conduta ou uma placa arquitetônica que o agente consulta antes e durante a escrita de código"},"noteIcon":2,"updated":"2026-03-23T16:53:41.717-03:00","dg-note-properties":{"topics":["Live coding","Automação"]}}
 ---
 
 #ia #Projeto #Antigravity
 
 # Regras
 
-No ecossistema do Google [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]] e Cursor, as **rules (regras, preferências, [[Formacao/UX design/requisitos\|requisitos]])** são definidas como **guardrails (trilhos de proteção) passivos e sempre ativos** que residem no prompt de sistema do agente. Diferente das [[Tecnico/ai/Skills\|Skills]], que são pacotes de conhecimento sob demanda, as regras funcionam como um código de conduta ou uma placa arquitetônica que o agente consulta antes e durante a escrita de código para garantir que nenhum padrão do projeto seja violado.
+No ecossistema do Google [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]] e Cursor, as **rules (regras, papéis, preferências, [[Formacao/UX design/requisitos\|requisitos]])** são definidas como **guardrails (trilhos de proteção) passivos e sempre ativos** que residem no prompt de sistema do agente. Diferente das [[Tecnico/ai/Skills\|Skills]], que são pacotes de conhecimento sob demanda, as regras funcionam como um código de conduta ou uma placa arquitetônica que o agente consulta antes e durante a escrita de código para garantir que nenhum padrão do projeto seja violado.
 
 ## Definições
 
@@ -14,7 +14,7 @@ No ecossistema do Google [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Ant
 
 As regras operam em dois níveis de escopo:
 
-- **Global Rules:** Aplicam-se a todos os projetos desenvolvidos na máquina do usuário e são ideais para definir a persona do agente, o estilo de comunicação e stacks preferenciais (como Next.js ou FastAPI).
+- **Global Rules:** Aplicam-se a todos os projetos desenvolvidos na máquina do usuário e são ideais para definir a persona do agente (seu papel ou função), o estilo de comunicação e stacks preferenciais (como Next.js ou FastAPI).
 - **Workspace Rules:** São específicas para os [[Formacao/UX design/requisitos\|requisitos]] de um projeto atual, geralmente armazenadas em arquivos como `.wgrad/rules.md` ou na pasta `.AGENTS/rules/` na raiz do projeto.
 
 Ao contrário dos [[Tecnico/ai/Workflows\|Workflows]], que são macros acionadas manualmente pelo usuário via comando `/`, as regras são **acionadas automaticamente por gatilhos de contexto**.

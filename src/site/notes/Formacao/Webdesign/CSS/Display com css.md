@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/css/display-com-css/","title":"Display com css","metatags":{"description":"Organiza o layout e determina o comportamento visual de um elemento HTML em relação ao seu conteúdo"},"tags":["Webdesign","CSS","Display","editor"],"noteIcon":"1","updated":"2025-07-23T19:26:27.437-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/css/display-com-css/","title":"Display com css","metatags":{"description":"Organiza o layout e determina o comportamento visual de um elemento HTML em relação ao seu conteúdo"},"tags":["Webdesign","CSS","Display","editor"],"noteIcon":"1","updated":"2025-07-23T19:26:27.437-03:00","dg-note-properties":{"title":"Display com css","tags":["Webdesign","CSS","Display","editor"]}}
 ---
 
 # Display com css

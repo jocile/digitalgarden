@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/manuscritos-biblicos/","title":"Manuscritos Bíblicos","metatags":{"description":"Gráfico sobre a linha do tempo dos manuscritos bíblicos"},"contentClasses":"ex-pageheight","tags":["excalidraw","Teologia","manuscritos"],"noteIcon":"1","updated":"2025-01-25T19:21:13.233-03:00"}
+{"dg-publish":true,"permalink":"/teologia/manuscritos-biblicos/","title":"Manuscritos Bíblicos","metatags":{"description":"Gráfico sobre a linha do tempo dos manuscritos bíblicos"},"contentClasses":"ex-pageheight","tags":["excalidraw","Teologia","manuscritos"],"noteIcon":"1","updated":"2025-01-25T19:21:13.233-03:00","dg-note-properties":{"title":"Manuscritos Bíblicos","excalidraw-plugin":"parsed","tags":["excalidraw","Teologia","manuscritos"],"excalidraw-export-dark":false,"excalidraw-autoexport":"svg","excalidraw-export-transparent":true,"excalidraw-open-md":true,"cssclasses":["ex-pageheight"]}}
 ---
 
 

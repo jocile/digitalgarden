@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/obsidian/obsidian/","title":"Editor Obsidian","metatags":{"description":"Editor Markdown utilizado para este site."},"noteIcon":2,"updated":"2026-02-14T11:02:19.606-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/obsidian/obsidian/","title":"Editor Obsidian","metatags":{"description":"Editor Markdown utilizado para este site."},"noteIcon":2,"updated":"2026-02-14T11:02:19.606-03:00","dg-note-properties":{"class":"tecnico","title":"Editor Obsidian"}}
 ---
 
 

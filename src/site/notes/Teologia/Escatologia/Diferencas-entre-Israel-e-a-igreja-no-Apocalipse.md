@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/escatologia/diferencas-entre-israel-e-a-igreja-no-apocalipse/","metatags":{"description":"o plano de Deus para Israel e o seu plano para a Igreja."},"noteIcon":2,"updated":"2026-03-13T09:27:53.334-03:00"}
+{"dg-publish":true,"permalink":"/teologia/escatologia/diferencas-entre-israel-e-a-igreja-no-apocalipse/","metatags":{"description":"o plano de Deus para Israel e o seu plano para a Igreja."},"noteIcon":2,"updated":"2026-03-13T09:27:53.334-03:00","dg-note-properties":{}}
 ---
 
 #Apocalipse #Escatologia

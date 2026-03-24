@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/novidades-do-html5/","metatags":{"description":"possui campos para coletar informações dos usuários"},"noteIcon":2,"updated":"2026-01-30T10:03:06.421-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/novidades-do-html5/","metatags":{"description":"possui campos para coletar informações dos usuários"},"noteIcon":2,"updated":"2026-01-30T10:03:06.421-03:00","dg-note-properties":{"topics":["Webdesign","HTML5"]}}
 ---
 
 #Webdesign #HTML

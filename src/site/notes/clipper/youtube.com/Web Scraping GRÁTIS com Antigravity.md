@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/web-scraping-gratis-com-antigravity/","noteIcon":2,"updated":"2026-03-18T17:55:19.279-03:00"}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/web-scraping-gratis-com-antigravity/","noteIcon":2,"updated":"2026-03-18T17:55:19.279-03:00","dg-note-properties":{"created":"2026-03-18T10:08:51-03:00","url":"https://www.youtube.com/watch?v=awN8H5Z-nyk","channel":"Empreendedor Serial","related":["[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]"],"published":"2026-03-14","thumbnailUrl":"https://i.ytimg.com/vi/awN8H5Z-nyk/maxresdefault.jpg","duration":"0:19:12","watched":null}}
 ---
 
 
@@ -9,7 +9,7 @@
 
 ### Resumo
 
-O vídeo apresenta uma solução para realizar **web scraping** de forma automática e **sem precisar escrever código**, superando os problemas comuns de bloqueio de IP e mudanças de layout em sites. O autor utiliza as ferramentas **[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]** e **Gemini** para construir um robô inteligente (Spider) que lê qualquer site automaticamente (0:26). A criação de um [[Tecnico/ai/Product Requirement Document\|PRD]] (8:00) no modo de planejamento para especificar os [[Formacao/UX design/requisitos\|requisitos]] do sistema.
+O vídeo apresenta uma solução para realizar **web scraping** de forma automática e **sem precisar escrever código**, superando os problemas comuns de bloqueio de IP e mudanças de layout em sites. O autor utiliza as ferramentas **[[Antigravity]]** e **Gemini** para construir um robô inteligente (Spider) que lê qualquer site automaticamente (0:26). A criação de um [[Tecnico/ai/Product Requirement Document\|PRD]] (8:00) no modo de planejamento para especificar os [[Formacao/UX design/requisitos\|requisitos]] do sistema.
 
 **Principais pontos abordados:**
 

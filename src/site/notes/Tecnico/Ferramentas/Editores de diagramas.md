@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/editores-de-diagramas/","title":"Editores de diagramas","metatags":{"description":"criando projetos com modelos UML"},"noteIcon":1,"updated":"2025-12-29T11:56:39.946-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/editores-de-diagramas/","title":"Editores de diagramas","metatags":{"description":"criando projetos com modelos UML"},"noteIcon":1,"updated":"2025-12-29T11:56:39.946-03:00","dg-note-properties":{"class":"tecnico","title":"Editores de diagramas","topics":["Projetos de aplicativos"]}}
 ---
 
 #Ferramentas #diagramas #programador/projetos/diagramas

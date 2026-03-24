@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/git/configurando-o-git/","title":"Configurando o Git","metatags":{"description":"principais comandos para controle de versões."},"noteIcon":2,"updated":"2025-06-30T17:45:22.694-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/git/configurando-o-git/","title":"Configurando o Git","metatags":{"description":"principais comandos para controle de versões."},"noteIcon":2,"updated":"2025-06-30T17:45:22.694-03:00","dg-note-properties":{"class":"tecnico","title":"Configurando o Git","cssclasses":null}}
 ---
 
 #Ferramentas #github

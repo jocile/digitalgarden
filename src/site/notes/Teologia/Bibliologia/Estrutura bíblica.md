@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/bibliologia/estrutura-biblica/","metatags":{"description":"é o plural de um vocábulo grego biblion, que significa livro. Portanto, uma tradução literal de “Bíblia” poderia ser Os Livros."},"noteIcon":2,"updated":"2026-03-11T10:58:07.785-03:00"}
+{"dg-publish":true,"permalink":"/teologia/bibliologia/estrutura-biblica/","metatags":{"description":"é o plural de um vocábulo grego biblion, que significa livro. Portanto, uma tradução literal de “Bíblia” poderia ser Os Livros."},"noteIcon":2,"updated":"2026-03-11T10:58:07.785-03:00","dg-note-properties":{}}
 ---
 
 #Teologia #Teologia/bibliologia

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ux-design/ferramentas-de-ux/","noteIcon":1,"updated":"2025-07-09T20:33:29.906-03:00"}
+{"dg-publish":true,"permalink":"/formacao/ux-design/ferramentas-de-ux/","noteIcon":1,"updated":"2025-07-09T20:33:29.906-03:00","dg-note-properties":{}}
 ---
 
 #Ferramentas 

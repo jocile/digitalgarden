@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/java-script/girar-formulario-com-javascript/","metatags":{"description":"Exemplos de animação de formunlário com JavaScript"},"noteIcon":2,"updated":"2026-02-03T22:36:12.723-03:00"}
+{"dg-publish":true,"permalink":"/formacao/java-script/girar-formulario-com-javascript/","metatags":{"description":"Exemplos de animação de formunlário com JavaScript"},"noteIcon":2,"updated":"2026-02-03T22:36:12.723-03:00","dg-note-properties":{"topics":["Lógica de programação","Linguagem de Programação"]}}
 ---
 
 #JavaScript #exercícios 

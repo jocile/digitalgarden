@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ux-design/layout/","metatags":{"description":"É um esboço ou rascunho que mostra a estrutura física"},"noteIcon":2,"updated":"2025-07-08T22:27:54.608-03:00"}
+{"dg-publish":true,"permalink":"/formacao/ux-design/layout/","metatags":{"description":"É um esboço ou rascunho que mostra a estrutura física"},"noteIcon":2,"updated":"2025-07-08T22:27:54.608-03:00","dg-note-properties":{}}
 ---
 
 #Webdesign #Projeto

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-03-07T08:01:31.627-03:00"}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-03-07T08:01:31.627-03:00","dg-note-properties":{"class":"mapa","title":"Principal","excalidraw-plugin":"parsed","excalidraw-export-dark":false,"excalidraw-autoexport":"svg","excalidraw-export-transparent":true,"excalidraw-open-md":true,"cssclasses":["cards","cards-cols-3"]}}
 ---
 
 ## Olá 👋
@@ -37,18 +37,18 @@ Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de t
 
 | File                                                                                              | 📄 Descrição                                                                                                                            |
 | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Tecnico/ai/Repositórios de Skills\|Repositórios de Skills]]                                  | são como playbooks que a IA lê para executar tarefas específicas, tornando-se especialista na tarefa                                    |
 | [[Tecnico/ai/agentes/Criando agentes\|Criando agentes]]                                        | podem interagir com o ambiente, coletar dados, tomar decisões e realizar ações para atingir um objetivo específico.                     |
 | [[Tecnico/Didatica/Metodologias/Aprendizagem Baseada em Jogos\|Aprendizagem Baseada em Jogos]] | utiliza a estrutura, as mecânicas e a estética dos jogos para criar experiências de aprendizagem imersivas.                             |
 | [[Tecnico/Didatica/Metodologias/Design Thinking\|Design Thinking]]                             | uma mentalidade (mindset) para preparar estudantes para lidar com a ambiguidade e a inovação no mercado de trabalho.                    |
 | [[Tecnico/Didatica/Metodologias/Estudo de Caso\|Estudo de Caso]]                               | mergulha o estudante em situações reais ou simuladas do mundo do trabalho.                                                              |
 | [[Tecnico/Didatica/Metodologias/Gamificação\|Gamificação]]                                     | utiliza elementos de design de jogos em contextos educacionais para transformar o aprendizado em uma experiência imersiva e motivadora. |
 | [[Tecnico/Didatica/Metodologias/Dojo\|Dojo]]                                                   | Metodologia colaborativa de ensino de programação focada na prática e reflexão coletiva.                                                |
-| [[Teologia/Bibliologia/Introdução bíblica\|Introdução bíblica]]                                | iniciando o estudo da Bíblia                                                                                                            |
 | [[Teologia/Bibliologia/Estrutura bíblica\|Estrutura bíblica]]                                  | é o plural de um vocábulo grego biblion, que significa livro. Portanto, uma tradução literal de “Bíblia” poderia ser Os Livros.         |
+| [[Teologia/Bibliologia/Introdução bíblica\|Introdução bíblica]]                                | iniciando o estudo da Bíblia                                                                                                            |
 | [[Cursos SENAC Sobral\|Cursos SENAC Sobral]]                                                   | Cursos Senac Sobral                                                                                                                     |
 | [[Videos\|Videos]]                                                                             | Vídeos preferidos                                                                                                                       |
 | [[Tecnico/ai/mvp\|mvp]]                                                                        | é uma versão de um produto com o conjunto mínimo de funcionalidades necessário para ser lançado e validar uma ideia de negócio          |
-| [[Tecnico/Didatica/Metodologias/Método Cornell\|Método Cornell]]                               | organizar informações de forma visual e facilitar a revisão sistemática e a memorização                                                 |
 
 <!-- SerializedQuery END -->
 

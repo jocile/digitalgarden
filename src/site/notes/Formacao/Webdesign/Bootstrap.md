@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/bootstrap/","title":"Bootstrap","metatags":{"description":"fornece um conjunto de ferramentas e recursos que permitem criar sites e aplicações responsivos de forma rápida e eficiente."},"tags":["Webdesign","framework"],"noteIcon":"1","updated":"2025-08-04T22:57:03.861-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/bootstrap/","title":"Bootstrap","metatags":{"description":"fornece um conjunto de ferramentas e recursos que permitem criar sites e aplicações responsivos de forma rápida e eficiente."},"tags":["Webdesign","framework"],"noteIcon":"1","updated":"2025-08-04T22:57:03.861-03:00","dg-note-properties":{"title":"Bootstrap","tags":["Webdesign","framework"]}}
 ---
 
 # Bootstrap

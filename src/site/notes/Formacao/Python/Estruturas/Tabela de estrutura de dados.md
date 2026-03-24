@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/python/estruturas/tabela-de-estrutura-de-dados/","metatags":{"description":"Tabela Comparativa de Características das Estruturas de Dados em Python"},"noteIcon":2,"updated":"2026-02-01T21:46:53.469-03:00"}
+{"dg-publish":true,"permalink":"/formacao/python/estruturas/tabela-de-estrutura-de-dados/","metatags":{"description":"Tabela Comparativa de Características das Estruturas de Dados em Python"},"noteIcon":2,"updated":"2026-02-01T21:46:53.469-03:00","dg-note-properties":{}}
 ---
 
 ## Tabela Comparativa de Características das Estruturas de Dados em Python

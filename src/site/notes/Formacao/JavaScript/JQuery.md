@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/java-script/j-query/","metatags":{"description":"é uma biblioteca JavaScript poderosa e amplamente adotada"},"noteIcon":2,"updated":"2026-02-12T10:21:31.585-03:00"}
+{"dg-publish":true,"permalink":"/formacao/java-script/j-query/","metatags":{"description":"é uma biblioteca JavaScript poderosa e amplamente adotada"},"noteIcon":2,"updated":"2026-02-12T10:21:31.585-03:00","dg-note-properties":{"class":"aula","topics":["biblioteca JavaScript","Webdesign"]}}
 ---
 
 #JavaScript #Webdesign 

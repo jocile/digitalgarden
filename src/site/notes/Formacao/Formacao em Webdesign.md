@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-webdesign/","title":"Formação em Webdesign","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T22:48:38.333-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-webdesign/","title":"Formação em Webdesign","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T22:48:38.333-03:00","dg-note-properties":{"class":"mapa","title":"Formação em Webdesign","topics":["Webdesign","HTML5","CSS3","WebSites","FrontEnd"]}}
 ---
 
 #Webdesign #Formação #CSS #mapa

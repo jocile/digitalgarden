@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/chatbot-com-ia-local/","title":"Chatbot com IA local","metatags":{"description":"Como usar um processo para que o código interaja com o modelo de forma programática para realizar tarefas de geração de texto."},"tags":["Inteligencia-artificial","Agentes","Prompt","Ollama","Python"],"noteIcon":"1","updated":"2025-09-03T09:21:57.375-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/chatbot-com-ia-local/","title":"Chatbot com IA local","metatags":{"description":"Como usar um processo para que o código interaja com o modelo de forma programática para realizar tarefas de geração de texto."},"tags":["Inteligencia-artificial","Agentes","Prompt","Ollama","Python"],"noteIcon":"1","updated":"2025-09-03T09:21:57.375-03:00","dg-note-properties":{"title":"Chatbot com IA local","tags":["Inteligencia-artificial","Agentes","Prompt","Ollama","Python"]}}
 ---
 
 

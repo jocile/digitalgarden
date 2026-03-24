@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ux-design/proposta-comercial/","metatags":{"description":"como elaborar a proposta usando o Canva"},"noteIcon":2,"updated":"2025-07-15T21:33:30.164-03:00"}
+{"dg-publish":true,"permalink":"/formacao/ux-design/proposta-comercial/","metatags":{"description":"como elaborar a proposta usando o Canva"},"noteIcon":2,"updated":"2025-07-15T21:33:30.164-03:00","dg-note-properties":{}}
 ---
 
 #Projeto 

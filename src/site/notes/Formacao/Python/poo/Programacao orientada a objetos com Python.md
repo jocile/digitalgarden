@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/python/poo/programacao-orientada-a-objetos-com-python/","metatags":{"description":"é um paradigma de programação que utiliza objetos – estruturas que combinam dados e comportamentos"},"noteIcon":1,"updated":"2026-02-08T18:22:59.619-03:00"}
+{"dg-publish":true,"permalink":"/formacao/python/poo/programacao-orientada-a-objetos-com-python/","metatags":{"description":"é um paradigma de programação que utiliza objetos – estruturas que combinam dados e comportamentos"},"noteIcon":1,"updated":"2026-02-08T18:22:59.619-03:00","dg-note-properties":{}}
 ---
 
 #Python #Colab #POO #Lógica 

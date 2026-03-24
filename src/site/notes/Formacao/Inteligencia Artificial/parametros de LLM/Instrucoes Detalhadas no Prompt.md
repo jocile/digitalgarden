@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/instrucoes-detalhadas-no-prompt/","title":"Instrucoes Detalhadas no Prompt","metatags":{"description":"podem incluir detalhes sobre o formato desejado para a resposta, os tipos de informação que devem ser extraídos ou até mesmo os passos do raciocínio que devem ser seguidos."},"tags":["Inteligencia-artificial","LLM","Prompt"],"noteIcon":"1","updated":"2025-01-20T19:33:46.152-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/instrucoes-detalhadas-no-prompt/","title":"Instrucoes Detalhadas no Prompt","metatags":{"description":"podem incluir detalhes sobre o formato desejado para a resposta, os tipos de informação que devem ser extraídos ou até mesmo os passos do raciocínio que devem ser seguidos."},"tags":["Inteligencia-artificial","LLM","Prompt"],"noteIcon":"1","updated":"2025-01-20T19:33:46.152-03:00","dg-note-properties":{"title":"Instrucoes Detalhadas no Prompt","tags":["Inteligencia-artificial","LLM","Prompt"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/pratica-orcamento-para-compra-de-pecas-do-computador/","title":"Prática Orçamento para Compra de Peças do Computador","metatags":{"description":"Prática de orçamento de peças para montagem de computadores"},"noteIcon":2,"updated":"2026-01-30T07:26:53.880-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/pratica-orcamento-para-compra-de-pecas-do-computador/","title":"Prática Orçamento para Compra de Peças do Computador","metatags":{"description":"Prática de orçamento de peças para montagem de computadores"},"noteIcon":2,"updated":"2026-01-30T07:26:53.880-03:00","dg-note-properties":{"class":"aula","title":"Prática Orçamento para Compra de Peças do Computador","topics":["Orçamento de compra de equipamentos","Peças de Hardware"],"tags":null}}
 ---
 
 #Hardware 

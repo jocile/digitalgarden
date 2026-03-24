@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ai/mvp/","metatags":{"description":"é uma versão de um produto com o conjunto mínimo de funcionalidades necessário para ser lançado e validar uma ideia de negócio"},"noteIcon":1,"updated":"2026-03-13T08:13:06.889-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ai/mvp/","metatags":{"description":"é uma versão de um produto com o conjunto mínimo de funcionalidades necessário para ser lançado e validar uma ideia de negócio"},"noteIcon":1,"updated":"2026-03-13T08:13:06.889-03:00","dg-note-properties":{"aliases":["Minimum Viable Product"],"topics":["Live coding","Projetos de aplicativos"]}}
 ---
 
 #ia #Projeto

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-logica/","title":"Formação em Lógica","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2026-02-14T00:04:24.967-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-logica/","title":"Formação em Lógica","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2026-02-14T00:04:24.967-03:00","dg-note-properties":{"class":"mapa","title":"Formação em Lógica","topics":["Lógica de programação","JavaScript","Algoritmos","Formação em programação"]}}
 ---
 
 #JavaScript #Formação #mapa #Lógica #web-developer 

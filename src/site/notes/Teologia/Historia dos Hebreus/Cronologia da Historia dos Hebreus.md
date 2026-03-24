@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/cronologia-da-historia-dos-hebreus/","metatags":{"description":"gráfico de suas origens genealógicas até os grandes eventos que moldaram sua trajetória"},"contentClasses":"ex-pageheight","tags":["excalidraw","Teologia/Historia","Hebreus"],"noteIcon":2,"updated":"2025-08-27T18:31:25.361-03:00"}
+{"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/cronologia-da-historia-dos-hebreus/","metatags":{"description":"gráfico de suas origens genealógicas até os grandes eventos que moldaram sua trajetória"},"contentClasses":"ex-pageheight","tags":["excalidraw","Teologia/Historia","Hebreus"],"noteIcon":2,"updated":"2025-08-27T18:31:25.361-03:00","dg-note-properties":{"topics":["História dos Hebreus"],"excalidraw-plugin":"parsed","tags":["excalidraw","Teologia/Historia","Hebreus"],"excalidraw-export-dark":false,"excalidraw-autoexport":"svg","excalidraw-export-transparent":true,"cssclasses":["ex-pageheight"],"excalidraw-open-md":true}}
 ---
 
 Este gráfico oferece uma visão detalhada e cronológica dos eventos significativos na história dos hebreus por Flávio Josefo.

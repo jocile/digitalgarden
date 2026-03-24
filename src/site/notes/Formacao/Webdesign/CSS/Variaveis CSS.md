@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/css/variaveis-css/","title":"Variáveis CSS","metatags":{"description":"permitem armazenar valores específicos que podem ser reutilizados ao longo do seu código."},"tags":["Webdesign","CSS","padrão"],"noteIcon":"1","updated":"2025-02-19T15:44:27.334-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/css/variaveis-css/","title":"Variáveis CSS","metatags":{"description":"permitem armazenar valores específicos que podem ser reutilizados ao longo do seu código."},"tags":["Webdesign","CSS","padrão"],"noteIcon":"1","updated":"2025-02-19T15:44:27.334-03:00","dg-note-properties":{"title":"Variáveis CSS","tags":["Webdesign","CSS","padrão"]}}
 ---
 
 # Variáveis CSS

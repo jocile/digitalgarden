@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/python/banco-de-dados/consultas-sql/","noteIcon":1,"updated":"2025-07-02T16:28:43.339-03:00"}
+{"dg-publish":true,"permalink":"/formacao/python/banco-de-dados/consultas-sql/","noteIcon":1,"updated":"2025-07-02T16:28:43.339-03:00","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/planejamento/elementos-da-situacao-de-aprendizagem/","metatags":{"description":"conjunto de procedimentos didáticos que visam promover a participação ativa do aluno nas situações de aprendizagem."},"noteIcon":2,"updated":"2026-03-10T09:56:32.733-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/planejamento/elementos-da-situacao-de-aprendizagem/","metatags":{"description":"conjunto de procedimentos didáticos que visam promover a participação ativa do aluno nas situações de aprendizagem."},"noteIcon":2,"updated":"2026-03-10T09:56:32.733-03:00","dg-note-properties":{}}
 ---
 
 

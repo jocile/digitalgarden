@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/doutrina-de-deus/a-jornada-da-trindade-na-historia/","metatags":{"description":"A igreja tenta reconciliar sua experiência do Deus triúno com a fé monoteísta do Antigo Testamento, levando a séculos de intenso debate teológico."},"noteIcon":2,"updated":"2025-09-26T09:06:51.481-03:00"}
+{"dg-publish":true,"permalink":"/teologia/doutrina-de-deus/a-jornada-da-trindade-na-historia/","metatags":{"description":"A igreja tenta reconciliar sua experiência do Deus triúno com a fé monoteísta do Antigo Testamento, levando a séculos de intenso debate teológico."},"noteIcon":2,"updated":"2025-09-26T09:06:51.481-03:00","dg-note-properties":{"topics":["Trindade","Heresias"]}}
 ---
 
 #Teologia #Trindade #Deus

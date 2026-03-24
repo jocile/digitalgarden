@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/java-script/exemplo-api-ibge/","metatags":{"description":"utilizando a API do IBGE com JavaScript"},"noteIcon":2,"updated":"2026-02-13T22:14:03.000-03:00"}
+{"dg-publish":true,"permalink":"/formacao/java-script/exemplo-api-ibge/","metatags":{"description":"utilizando a API do IBGE com JavaScript"},"noteIcon":2,"updated":"2026-02-13T22:14:03.000-03:00","dg-note-properties":{"class":"aula","topics":["Web API","JavaScript"]}}
 ---
 
 #JavaScript #exemplo 

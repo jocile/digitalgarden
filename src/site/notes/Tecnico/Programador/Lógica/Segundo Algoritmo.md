@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/programador/logica/segundo-algoritmo/","metatags":{"description":"criando algoritmos para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-01-22T16:13:55.086-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/programador/logica/segundo-algoritmo/","metatags":{"description":"criando algoritmos para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-01-22T16:13:55.086-03:00","dg-note-properties":{}}
 ---
 
 #Lógica #exercícios

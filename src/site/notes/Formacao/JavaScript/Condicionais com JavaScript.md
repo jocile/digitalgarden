@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/java-script/condicionais-com-java-script/","metatags":{"description":"Exemplos de scripts com tomada de decisão"},"noteIcon":2,"updated":"2025-08-14T23:49:02.285-03:00"}
+{"dg-publish":true,"permalink":"/formacao/java-script/condicionais-com-java-script/","metatags":{"description":"Exemplos de scripts com tomada de decisão"},"noteIcon":2,"updated":"2025-08-14T23:49:02.285-03:00","dg-note-properties":{"class":"aula","topics":["Lógica de programação","Linguagem de Programação"]}}
 ---
 
 #JavaScript #Aulas

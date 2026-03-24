@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/tecnico-em-eletroeletronica/","title":"Técnico em Eletroeletrônica","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2026-03-15T11:15:28.461-03:00"}
+{"dg-publish":true,"permalink":"/formacao/tecnico-em-eletroeletronica/","title":"Técnico em Eletroeletrônica","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2026-03-15T11:15:28.461-03:00","dg-note-properties":{"class":"mapa","title":"Técnico em Eletroeletrônica","topics":["Eletrônica","Automação","Elétrica"]}}
 ---
 
 #Formação #mapa

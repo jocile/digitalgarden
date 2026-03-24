@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/proposta-de-site/","metatags":{"description":"como personalizar elementos da sua página web"},"noteIcon":2,"updated":"2026-01-30T14:02:20.751-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/proposta-de-site/","metatags":{"description":"como personalizar elementos da sua página web"},"noteIcon":2,"updated":"2026-01-30T14:02:20.751-03:00","dg-note-properties":{"cssclasses":null,"topics":["CSS3","Webdesign"]}}
 ---
 
 #Webdesign #CSS

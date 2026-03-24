@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/logica/matriz/","metatags":{"description":"essencialmente, uma coleção de dados organizada em linhas e colunas"},"noteIcon":"default","updated":"2026-02-05T08:02:50.400-03:00"}
+{"dg-publish":true,"permalink":"/formacao/logica/matriz/","metatags":{"description":"essencialmente, uma coleção de dados organizada em linhas e colunas"},"noteIcon":"default","updated":"2026-02-05T08:02:50.400-03:00","dg-note-properties":{}}
 ---
 
 #Lógica #Aulas #Lógica 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/programador/desafios/sistema-bancario/sistema-bancario-com-poo/","metatags":{"description":"plataforma gratuita baseada em nuvem que permite aos usuários escrever e executar código Python diretamente em um navegador da web"},"noteIcon":1,"updated":"2026-02-08T18:39:26.688-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/programador/desafios/sistema-bancario/sistema-bancario-com-poo/","metatags":{"description":"plataforma gratuita baseada em nuvem que permite aos usuários escrever e executar código Python diretamente em um navegador da web"},"noteIcon":1,"updated":"2026-02-08T18:39:26.688-03:00","dg-note-properties":{}}
 ---
 
 #Python #desafio #POO 

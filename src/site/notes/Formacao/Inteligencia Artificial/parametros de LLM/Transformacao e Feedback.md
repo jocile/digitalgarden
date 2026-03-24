@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/transformacao-e-feedback/","title":"Transformação e Feedback","metatags":{"description":"forma eficaz para transformar a saída do modelo, permitindo que o usuário obtenha as informações desejadas em um formato mais adequado"},"tags":["Inteligencia-artificial","Prompt","LLM"],"noteIcon":"1","updated":"2025-01-20T19:44:30.497-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/transformacao-e-feedback/","title":"Transformação e Feedback","metatags":{"description":"forma eficaz para transformar a saída do modelo, permitindo que o usuário obtenha as informações desejadas em um formato mais adequado"},"tags":["Inteligencia-artificial","Prompt","LLM"],"noteIcon":"1","updated":"2025-01-20T19:44:30.497-03:00","dg-note-properties":{"title":"Transformação e Feedback","tags":["Inteligencia-artificial","Prompt","LLM"]}}
 ---
 
 

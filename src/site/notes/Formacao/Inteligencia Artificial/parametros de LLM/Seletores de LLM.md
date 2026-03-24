@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/seletores-de-llm/","title":"Seletores de LLM","metatags":{"description":"oferecem uma forma eficiente e automática de escolher os melhores exemplos."},"tags":["Inteligencia-artificial","LLM"],"noteIcon":"1","updated":"2025-01-20T19:35:08.449-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/seletores-de-llm/","title":"Seletores de LLM","metatags":{"description":"oferecem uma forma eficiente e automática de escolher os melhores exemplos."},"tags":["Inteligencia-artificial","LLM"],"noteIcon":"1","updated":"2025-01-20T19:35:08.449-03:00","dg-note-properties":{"title":"Seletores de LLM","tags":["Inteligencia-artificial","LLM"]}}
 ---
 
 # Seletores de LLM

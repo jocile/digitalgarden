@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/vscode/ide-v-scode/","title":"IDE VScode","metatags":{"description":"ambiente editor que oferece suporte para várias linguagens de programação, configurável com extensões."},"noteIcon":2,"updated":"2025-07-26T22:51:21.548-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/vscode/ide-v-scode/","title":"IDE VScode","metatags":{"description":"ambiente editor que oferece suporte para várias linguagens de programação, configurável com extensões."},"noteIcon":2,"updated":"2025-07-26T22:51:21.548-03:00","dg-note-properties":{"class":"tecnico","title":"IDE VScode","topics":["Editando código"]}}
 ---
 
 #Ferramentas #ide #vscode 

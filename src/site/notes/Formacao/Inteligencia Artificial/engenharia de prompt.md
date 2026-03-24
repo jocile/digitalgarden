@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/engenharia-de-prompt/","title":"engenharia de prompt","metatags":{"description":"Como criar prompts eficazes para obter os resultados desejados desses modelos."},"noteIcon":"1","updated":"2026-03-18T08:54:26.420-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/engenharia-de-prompt/","title":"engenharia de prompt","metatags":{"description":"Como criar prompts eficazes para obter os resultados desejados desses modelos."},"noteIcon":"1","updated":"2026-03-18T08:54:26.420-03:00","dg-note-properties":{"title":"engenharia de prompt"}}
 ---
 
 ## A **Engenharia de Prompt**

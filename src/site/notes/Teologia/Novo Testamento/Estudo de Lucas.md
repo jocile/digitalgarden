@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/novo-testamento/estudo-de-lucas/","title":"Estudo de Lucas","metatags":{"description":"mostra Jesus como o salvador que cuida dos enfermos."},"tags":["Teologia","Evangelho","Novo-Testamento"],"noteIcon":"1","updated":"2025-03-17T08:44:33.864-03:00"}
+{"dg-publish":true,"permalink":"/teologia/novo-testamento/estudo-de-lucas/","title":"Estudo de Lucas","metatags":{"description":"mostra Jesus como o salvador que cuida dos enfermos."},"tags":["Teologia","Evangelho","Novo-Testamento"],"noteIcon":"1","updated":"2025-03-17T08:44:33.864-03:00","dg-note-properties":{"title":"Estudo de Lucas","tags":["Teologia","Evangelho","Novo-Testamento"]}}
 ---
 
 # Estudo de Lucas

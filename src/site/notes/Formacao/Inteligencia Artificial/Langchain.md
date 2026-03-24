@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/langchain/","title":"Langchain","metatags":{"description":"é um framework completo para o desenvolvimento de aplicações de IA, aproveitando o poder dos Grandes Modelos de Linguagem"},"noteIcon":"1","updated":"2026-03-20T09:39:40.112-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/langchain/","title":"Langchain","metatags":{"description":"é um framework completo para o desenvolvimento de aplicações de IA, aproveitando o poder dos Grandes Modelos de Linguagem"},"noteIcon":"1","updated":"2026-03-23T17:58:30.216-03:00","dg-note-properties":{"title":"Langchain"}}
 ---
 
 #ia  #framework #Langchain 

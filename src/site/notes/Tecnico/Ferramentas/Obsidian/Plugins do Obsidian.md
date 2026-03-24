@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/obsidian/plugins-do-obsidian/","title":"Plugins do Obsidian","metatags":{"description":"Seleção dos principais plugins para o editor Obsidian"},"noteIcon":2,"updated":"2026-03-07T14:43:05.320-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/obsidian/plugins-do-obsidian/","title":"Plugins do Obsidian","metatags":{"description":"Seleção dos principais plugins para o editor Obsidian"},"noteIcon":2,"updated":"2026-03-07T14:43:05.320-03:00","dg-note-properties":{"class":"tecnico","title":"Plugins do Obsidian"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/antigravity/","metatags":{"description":"permite que agentes de IA ajam de forma proativa no código, terminal e navegador, enquanto o desenvolvedor atua como um supervisor ou regente."},"noteIcon":2,"updated":"2026-03-13T08:26:57.766-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/antigravity/","metatags":{"description":"permite que agentes de IA ajam de forma proativa no código, terminal e navegador, enquanto o desenvolvedor atua como um supervisor ou regente."},"noteIcon":2,"updated":"2026-03-13T08:26:57.766-03:00","dg-note-properties":{"topics":["Live coding","Automação"]}}
 ---
 
 

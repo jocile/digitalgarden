@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/metodo-cornell/","metatags":{"description":"organizar informações de forma visual e facilitar a revisão sistemática e a memorização"},"noteIcon":2,"updated":"2026-03-09T21:08:20.226-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/metodo-cornell/","metatags":{"description":"organizar informações de forma visual e facilitar a revisão sistemática e a memorização"},"noteIcon":2,"updated":"2026-03-09T21:08:20.226-03:00","dg-note-properties":{"topics":["Organizar informações","Didática de aula"]}}
 ---
 
 

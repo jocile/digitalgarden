@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/estudo-de-caso/","metatags":{"description":"mergulha o estudante em situações reais ou simuladas do mundo do trabalho."},"tags":["metodologia-ativa","senac","didatica"],"noteIcon":2,"updated":"2026-03-15T10:24:25.618-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/estudo-de-caso/","metatags":{"description":"mergulha o estudante em situações reais ou simuladas do mundo do trabalho."},"tags":["metodologia-ativa","senac","didatica"],"noteIcon":2,"updated":"2026-03-15T10:24:25.618-03:00","dg-note-properties":{"created":"2026-03-15","tags":["metodologia-ativa","senac","didatica"],"topics":["Aula prática","Didática de aula"]}}
 ---
 
 

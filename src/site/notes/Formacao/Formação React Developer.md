@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-react-developer/","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-12-17T13:22:40.371-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-react-developer/","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-12-17T13:22:40.371-03:00","dg-note-properties":{"class":"mapa","topics":["Webdesign","React","JavaScript"]}}
 ---
 
 #React #Formação #mapa

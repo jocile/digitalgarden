@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/php/data-e-hora-com-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-24T17:30:07.302-03:00"}
+{"dg-publish":true,"permalink":"/formacao/php/data-e-hora-com-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-24T17:30:07.302-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Linguagem de Programação","Data e hora"]}}
 ---
 
 #PHP #POO #data

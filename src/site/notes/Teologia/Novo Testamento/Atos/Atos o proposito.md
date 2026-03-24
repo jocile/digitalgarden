@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/novo-testamento/atos/atos-o-proposito/","title":"Atos o propósito","metatags":{"description":"mostra como o Evangelho foi difundido e consolidado após a morte, ressurreição e ascensão de Jesus."},"noteIcon":2,"updated":"2025-11-15T13:31:21.399-03:00"}
+{"dg-publish":true,"permalink":"/teologia/novo-testamento/atos/atos-o-proposito/","title":"Atos o propósito","metatags":{"description":"mostra como o Evangelho foi difundido e consolidado após a morte, ressurreição e ascensão de Jesus."},"noteIcon":2,"updated":"2025-11-15T13:31:21.399-03:00","dg-note-properties":{"title":"Atos o propósito","topics":["História do Cristianismo"]}}
 ---
 
 #Teologia #Novo-Testamento 

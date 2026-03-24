@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/doutrina-de-deus/teontologia-1/","title":"Teontologia 1","metatags":{"description":"O estudo ou ciência de Deus"},"noteIcon":2,"updated":"2025-07-04T17:35:29.894-03:00"}
+{"dg-publish":true,"permalink":"/teologia/doutrina-de-deus/teontologia-1/","title":"Teontologia 1","metatags":{"description":"O estudo ou ciência de Deus"},"noteIcon":2,"updated":"2025-07-04T17:35:29.894-03:00","dg-note-properties":{"title":"Teontologia 1"}}
 ---
 
 

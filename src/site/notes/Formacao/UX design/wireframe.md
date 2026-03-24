@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ux-design/wireframe/","metatags":{"description":"são representações visuais de baixa fidelidade, preocupando apenas em descrever todos os elementos presentes da maneira mais simples"},"noteIcon":1,"updated":"2025-07-09T22:49:38.852-03:00"}
+{"dg-publish":true,"permalink":"/formacao/ux-design/wireframe/","metatags":{"description":"são representações visuais de baixa fidelidade, preocupando apenas em descrever todos os elementos presentes da maneira mais simples"},"noteIcon":1,"updated":"2025-07-09T22:49:38.852-03:00","dg-note-properties":{}}
 ---
 
 #Webdesign #Projeto

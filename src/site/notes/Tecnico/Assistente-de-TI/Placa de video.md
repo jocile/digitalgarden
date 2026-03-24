@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/placa-de-video/","title":"Chipsets de Placas-Mãe","metatags":{"description":"é um local de acesso rápido para arquivos e aplicações em uso durante uma sessão ativa"},"noteIcon":"1","updated":"2026-01-30T07:26:40.485-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/placa-de-video/","title":"Chipsets de Placas-Mãe","metatags":{"description":"é um local de acesso rápido para arquivos e aplicações em uso durante uma sessão ativa"},"noteIcon":"1","updated":"2026-01-30T07:26:40.485-03:00","dg-note-properties":{"class":"aula","title":"Chipsets de Placas-Mãe","topics":["Peças de Hardware"]}}
 ---
 
 #Aulas #Hardware #Assistente-de-TI

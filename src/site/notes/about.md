@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/","title":"Sobre","metatags":{"description":"Sobre este site"},"noteIcon":"default","updated":"2026-03-07T08:18:49.668-03:00"}
+{"dg-publish":true,"permalink":"/about/","title":"Sobre","metatags":{"description":"Sobre este site"},"noteIcon":"default","updated":"2026-03-23T17:58:30.374-03:00","dg-note-properties":{"class":"mapa","title":"Sobre"}}
 ---
 
 

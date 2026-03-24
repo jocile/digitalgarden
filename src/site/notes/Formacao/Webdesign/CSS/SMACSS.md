@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/css/smacss/","title":"SMACSS","metatags":{"description":"uma metodologia para organizar o CSS e facilitar a manutenção de projetos web."},"tags":["Webdesign","CSS","padrão"],"noteIcon":"1","updated":"2025-02-19T15:35:21.085-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/css/smacss/","title":"SMACSS","metatags":{"description":"uma metodologia para organizar o CSS e facilitar a manutenção de projetos web."},"tags":["Webdesign","CSS","padrão"],"noteIcon":"1","updated":"2025-02-19T15:35:21.085-03:00","dg-note-properties":{"title":"SMACSS","tags":["Webdesign","CSS","padrão"]}}
 ---
 
 # SMACSS

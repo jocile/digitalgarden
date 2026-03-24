@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/bibliologia/bibliogia-do-velho-testamento/","title":"Bibliologia do Velho Testamento","metatags":{"description":"Estudos dos livros do Velho Testamento"},"noteIcon":2,"updated":"2025-06-28T16:14:44.804-03:00"}
+{"dg-publish":true,"permalink":"/teologia/bibliologia/bibliogia-do-velho-testamento/","title":"Bibliologia do Velho Testamento","metatags":{"description":"Estudos dos livros do Velho Testamento"},"noteIcon":2,"updated":"2025-06-28T16:14:44.804-03:00","dg-note-properties":{"title":"Bibliologia do Velho Testamento"}}
 ---
 
 #Teologia #Teologia/bibliologia #Teologia/Velho-Testamento 

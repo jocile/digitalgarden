@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vagas/","title":"Vagas","metatags":{"description":"Oportunidades em emprego"},"contentClasses":"img-zoom cards","tags":["vagas"],"noteIcon":2,"updated":"2026-03-17T19:03:38.316-03:00"}
+{"dg-publish":true,"permalink":"/vagas/","title":"Vagas","metatags":{"description":"Oportunidades em emprego"},"contentClasses":"img-zoom cards","tags":["vagas"],"noteIcon":2,"updated":"2026-03-17T19:03:38.316-03:00","dg-note-properties":{"class":"mapa","title":"Vagas","cssclasses":["img-zoom","cards"],"tags":["vagas"]}}
 ---
 
 

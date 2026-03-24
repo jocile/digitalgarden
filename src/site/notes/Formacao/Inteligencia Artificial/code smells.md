@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/code-smells/","metatags":{"description":"são padrões no código fonte que indicam problemas e melhorias"},"noteIcon":2,"updated":"2025-07-26T22:58:17.429-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/code-smells/","metatags":{"description":"são padrões no código fonte que indicam problemas e melhorias"},"noteIcon":2,"updated":"2025-07-26T22:58:17.429-03:00","dg-note-properties":{"topics":["Editando código"]}}
 ---
 
 #padrão #programador

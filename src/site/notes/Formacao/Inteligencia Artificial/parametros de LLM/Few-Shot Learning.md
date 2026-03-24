@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/few-shot-learning/","title":"Few-Shot Learning","metatags":{"description":"orienta o modelo a seguir um padrão de raciocínio e formatação específicos, reduzindo assim a necessidade de treinamento adicional."},"tags":["Inteligencia-artificial","LLM"],"noteIcon":"1","updated":"2025-01-20T19:31:18.389-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/few-shot-learning/","title":"Few-Shot Learning","metatags":{"description":"orienta o modelo a seguir um padrão de raciocínio e formatação específicos, reduzindo assim a necessidade de treinamento adicional."},"tags":["Inteligencia-artificial","LLM"],"noteIcon":"1","updated":"2025-01-20T19:31:18.389-03:00","dg-note-properties":{"title":"Few-Shot Learning","tags":["Inteligencia-artificial","LLM"]}}
 ---
 
 # Few-Shot Learning

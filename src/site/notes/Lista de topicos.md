@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lista-de-topicos/","title":"Lista de Tópicos","contentClasses":"row-hover row-lines","tags":["tópicos","dataview/tópicos"],"noteIcon":"default","updated":"2026-03-15T11:18:18.503-03:00"}
+{"dg-publish":true,"permalink":"/lista-de-topicos/","title":"Lista de Tópicos","contentClasses":"row-hover row-lines","tags":["tópicos","dataview/tópicos"],"noteIcon":"default","updated":"2026-03-15T11:18:18.503-03:00","dg-note-properties":{"class":"mapa","title":"Lista de Tópicos","cssclasses":["row-hover","row-lines"],"tags":["tópicos","dataview/tópicos"]}}
 ---
 
 

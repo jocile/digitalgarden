@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/programador/desafios/sistema-bancario/desafio-bancario-criando-contas/","metatags":{"description":"criação de contas bancárias utilizando funções e um menu interativo"},"noteIcon":2,"updated":"2026-02-10T07:48:39.617-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/programador/desafios/sistema-bancario/desafio-bancario-criando-contas/","metatags":{"description":"criação de contas bancárias utilizando funções e um menu interativo"},"noteIcon":2,"updated":"2026-02-10T07:48:39.617-03:00","dg-note-properties":{}}
 ---
 
 #Lógica #Python #desafio 

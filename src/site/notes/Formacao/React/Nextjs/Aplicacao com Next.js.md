@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/react/nextjs/aplicacao-com-next-js/","metatags":{"description":"Como transformar uma ideia em uma aplicação web funcional, moderna e pronta."},"noteIcon":2,"updated":"2026-01-10T15:03:54.655-03:00"}
+{"dg-publish":true,"permalink":"/formacao/react/nextjs/aplicacao-com-next-js/","metatags":{"description":"Como transformar uma ideia em uma aplicação web funcional, moderna e pronta."},"noteIcon":2,"updated":"2026-01-10T15:03:54.655-03:00","dg-note-properties":{"topics":["Webdesign","Aplicação Full-Stack"]}}
 ---
 
 #JavaScript #Webdesign #React #Nextjs

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/programador/logica/logica-da-programacao-orientada-a-objetos/","title":"Python com Colab","metatags":{"description":"plataforma gratuita baseada em nuvem que permite aos usuários escrever e executar código Python diretamente em um navegador da web"},"noteIcon":1,"updated":"2026-02-08T18:47:44.456-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/programador/logica/logica-da-programacao-orientada-a-objetos/","title":"Python com Colab","metatags":{"description":"plataforma gratuita baseada em nuvem que permite aos usuários escrever e executar código Python diretamente em um navegador da web"},"noteIcon":1,"updated":"2026-02-08T18:47:44.456-03:00","dg-note-properties":{"title":"Python com Colab"}}
 ---
 
 #Python #Lógica #POO 

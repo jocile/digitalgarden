@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/programador/logica/aprendendo-logica-com-blocos/","metatags":{"description":"é uma maneira intuitiva e divertida de aprender e criar programas de computador"},"noteIcon":2,"updated":"2026-01-20T23:19:32.673-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/programador/logica/aprendendo-logica-com-blocos/","metatags":{"description":"é uma maneira intuitiva e divertida de aprender e criar programas de computador"},"noteIcon":2,"updated":"2026-01-20T23:19:32.673-03:00","dg-note-properties":{}}
 ---
 
 #Lógica

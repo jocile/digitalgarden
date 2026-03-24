@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/ollama/","title":"Ollama","metatags":{"description":"simplifica o uso de modelos de linguagem natural (LLMs) localmente, eliminando a necessidade de configurações complexas ou dependência de servidores externos."},"noteIcon":"1","updated":"2026-02-26T14:31:23.757-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/ollama/","title":"Ollama","metatags":{"description":"simplifica o uso de modelos de linguagem natural (LLMs) localmente, eliminando a necessidade de configurações complexas ou dependência de servidores externos."},"noteIcon":"1","updated":"2026-02-26T14:31:23.757-03:00","dg-note-properties":{"title":"Ollama"}}
 ---
 
 #ia 

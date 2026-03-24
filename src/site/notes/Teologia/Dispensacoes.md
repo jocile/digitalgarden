@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/dispensacoes/","title":"Dispensações","metatags":{"description":"Análise detalhada do sistema dispensacionalista e o plano de Deus através das eras"},"tags":["Teologia","Dispensacionalismo","Escatologia"],"noteIcon":"1","updated":"2026-03-13T09:31:02.116-03:00"}
+{"dg-publish":true,"permalink":"/teologia/dispensacoes/","title":"Dispensações","metatags":{"description":"Análise detalhada do sistema dispensacionalista e o plano de Deus através das eras"},"tags":["Teologia","Dispensacionalismo","Escatologia"],"noteIcon":"1","updated":"2026-03-13T09:31:02.116-03:00","dg-note-properties":{"title":"Dispensações","topics":["Escatologia"],"aliases":["Dispensações","dispensações"],"tags":["Teologia","Dispensacionalismo","Escatologia"]}}
 ---
 
 

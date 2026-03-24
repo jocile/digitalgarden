@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/estrutura-html-5/","title":"Estrutura do HTML5","metatags":{"description":"tags semânticas que ajudam a estruturar o conteúdo de uma página web de forma mais significativa."},"noteIcon":"1","updated":"2025-07-23T18:03:39.148-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/estrutura-html-5/","title":"Estrutura do HTML5","metatags":{"description":"tags semânticas que ajudam a estruturar o conteúdo de uma página web de forma mais significativa."},"noteIcon":"1","updated":"2025-07-23T18:03:39.148-03:00","dg-note-properties":{"title":"Estrutura do HTML5"}}
 ---
 
 #Webdesign #HTML5 

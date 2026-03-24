@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/notebooklm/","title":"Notebooklm","metatags":{"description":"é projetada para ajudar os usuários a organizar e analisar informações extraídas de documentos, sites, vídeos do YouTube, etc."},"noteIcon":"1","updated":"2026-02-26T14:30:06.644-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/notebooklm/","title":"Notebooklm","metatags":{"description":"é projetada para ajudar os usuários a organizar e analisar informações extraídas de documentos, sites, vídeos do YouTube, etc."},"noteIcon":"1","updated":"2026-02-26T14:30:06.644-03:00","dg-note-properties":{"title":"Notebooklm"}}
 ---
 
 #ia 

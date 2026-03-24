@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/5-segredos-do-windows/","metatags":{"description":"ideias fundamentais escondidas no Windows"},"noteIcon":2,"updated":"2025-10-09T11:00:41.465-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/5-segredos-do-windows/","metatags":{"description":"ideias fundamentais escondidas no Windows"},"noteIcon":2,"updated":"2025-10-09T11:00:41.465-03:00","dg-note-properties":{"class":"tecnico, aula","cssclasses":null,"topics":["Sistemas Operacionais","Windows"]}}
 ---
 
 #aula #Windows

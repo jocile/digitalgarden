@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/css/flexbox/","title":"Flexbox","metatags":{"description":"permite a criação de layouts flexíveis de forma dinâmica e responsiva"},"tags":["Webdesign","Flexbox","CSS","editor"],"noteIcon":"1","updated":"2026-02-03T22:46:47.048-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/css/flexbox/","title":"Flexbox","metatags":{"description":"permite a criação de layouts flexíveis de forma dinâmica e responsiva"},"tags":["Webdesign","Flexbox","CSS","editor"],"noteIcon":"1","updated":"2026-02-03T22:46:47.048-03:00","dg-note-properties":{"title":"Flexbox","tags":["Webdesign","Flexbox","CSS","editor"]}}
 ---
 
 

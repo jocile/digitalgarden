@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/java-script/repeticoes-com-java-script/","metatags":{"description":"Exemplos de scripts com loops"},"noteIcon":2,"updated":"2025-08-14T11:01:48.584-03:00"}
+{"dg-publish":true,"permalink":"/formacao/java-script/repeticoes-com-java-script/","metatags":{"description":"Exemplos de scripts com loops"},"noteIcon":2,"updated":"2025-08-14T11:01:48.584-03:00","dg-note-properties":{"class":"aula","topics":["Lógica de programação","Linguagem de Programação"]}}
 ---
 
 #JavaScript #Aulas

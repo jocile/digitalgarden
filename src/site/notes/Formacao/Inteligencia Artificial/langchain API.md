@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/langchain-api/","title":"langchain API","metatags":{"description":"As APIs permitem que seu agente se conecte ao mundo exterior, acesse informações em tempo real, e execute ações"},"tags":["Inteligencia-artificial","Langchain"],"noteIcon":"1","updated":"2025-01-20T20:41:13.410-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/langchain-api/","title":"langchain API","metatags":{"description":"As APIs permitem que seu agente se conecte ao mundo exterior, acesse informações em tempo real, e execute ações"},"tags":["Inteligencia-artificial","Langchain"],"noteIcon":"1","updated":"2025-01-20T20:41:13.410-03:00","dg-note-properties":{"title":"langchain API","tags":["Inteligencia-artificial","Langchain"]}}
 ---
 
 ## LangChain API

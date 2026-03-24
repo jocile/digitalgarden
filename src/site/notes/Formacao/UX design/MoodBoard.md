@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ux-design/mood-board/","metatags":{"description":"É uma representação visual de elementos e referências que ajudarão a definir a aparência do produto"},"noteIcon":1,"updated":"2025-07-08T22:27:09.634-03:00"}
+{"dg-publish":true,"permalink":"/formacao/ux-design/mood-board/","metatags":{"description":"É uma representação visual de elementos e referências que ajudarão a definir a aparência do produto"},"noteIcon":1,"updated":"2025-07-08T22:27:09.634-03:00","dg-note-properties":{}}
 ---
 
 #Webdesign #Projeto

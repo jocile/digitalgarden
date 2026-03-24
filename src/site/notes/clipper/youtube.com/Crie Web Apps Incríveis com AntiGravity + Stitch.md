@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/crie-web-apps-incriveis-com-anti-gravity-stitch/","title":"Crie Web Apps Incríveis com AntiGravity + Stitch (Nova Skill)","metatags":{"description":"Combinando duas ferramentas do Google, o Stitch para design gratuito baseado em prompts, e o Antigravity para desenvolvimento com IA."},"noteIcon":2,"updated":"2026-03-13T16:22:03.040-03:00"}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/crie-web-apps-incriveis-com-anti-gravity-stitch/","title":"Crie Web Apps Incríveis com AntiGravity + Stitch (Nova Skill)","metatags":{"description":"Combinando duas ferramentas do Google, o Stitch para design gratuito baseado em prompts, e o Antigravity para desenvolvimento com IA."},"noteIcon":2,"updated":"2026-03-13T16:22:03.040-03:00","dg-note-properties":{"created":"2026-03-13T15:05:21-03:00","url":"https://www.youtube.com/watch?v=m6KDhIEDE64","title":"Crie Web Apps Incríveis com AntiGravity + Stitch (Nova Skill)","channel":"Empreendedor Serial","related":["[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]"],"published":"2026-02-17","thumbnailUrl":"https://i.ytimg.com/vi/m6KDhIEDE64/maxresdefault.jpg","duration":"0:19:33","watched":null}}
 ---
 
 # Crie Web Apps Incríveis com AntiGravity + Stitch (Nova Skill)
@@ -8,7 +8,7 @@
 
 ## Resumo
 
-Neste vídeo (0:01), **André Alencar** ensina como criar **web apps profissionais** combinando duas ferramentas do Google: o **Stitch** (para design gratuito baseado em prompts) e o **[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]** (para desenvolvimento com IA, sem código). O objetivo é criar interfaces de alta qualidade, fugindo do visual genérico de IA (0:14).**Principais pontos abordados:**
+Neste vídeo (0:01), **André Alencar** ensina como criar **web apps profissionais** combinando duas ferramentas do Google: o **Stitch** (para design gratuito baseado em prompts) e o **[[Antigravity]]** (para desenvolvimento com IA, sem código). O objetivo é criar interfaces de alta qualidade, fugindo do visual genérico de IA (0:14).**Principais pontos abordados:**
 
 - **[Google Stitch](https://stitch.withgoogle.com/) (1:00):** Ferramenta focada em criar layouts de aplicativos e sites. O autor demonstra como tirar print de um site de referência (_Dribbble_) e pedir ao Stitch para gerar uma nova versão futurista (4:13).
 - As ideias de design para o projeto foram pesquisadas no site **[Dribbble](https://dribbble.com/)** (4:13). O autor utilizou a plataforma para encontrar inspiração, especificamente buscando uma loja virtual com um visual futurista (4:20) para servir de base para o web app.

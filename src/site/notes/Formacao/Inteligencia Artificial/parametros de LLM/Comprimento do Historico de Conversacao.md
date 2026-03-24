@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/comprimento-do-historico-de-conversacao/","title":"Comprimento do Historico de Conversação","metatags":{"description":"variável fundamental para evitar ultrapassar o limite de tokens e otimizar os custos associados ao processamento das mensagens"},"tags":["Inteligencia-artificial","LLM"],"noteIcon":"1","updated":"2025-01-20T18:05:48.126-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/comprimento-do-historico-de-conversacao/","title":"Comprimento do Historico de Conversação","metatags":{"description":"variável fundamental para evitar ultrapassar o limite de tokens e otimizar os custos associados ao processamento das mensagens"},"tags":["Inteligencia-artificial","LLM"],"noteIcon":"1","updated":"2025-01-20T18:05:48.126-03:00","dg-note-properties":{"title":"Comprimento do Historico de Conversação","tags":["Inteligencia-artificial","LLM"]}}
 ---
 
 

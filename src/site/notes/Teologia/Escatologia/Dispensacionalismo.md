@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/escatologia/dispensacionalismo/","metatags":{"description":"Tabela comparativa"},"noteIcon":2,"updated":"2026-03-13T09:30:39.113-03:00"}
+{"dg-publish":true,"permalink":"/teologia/escatologia/dispensacionalismo/","metatags":{"description":"Tabela comparativa"},"noteIcon":2,"updated":"2026-03-13T09:30:39.113-03:00","dg-note-properties":{"aliases":["dispensacionalismo"],"topics":["Escatologia"]}}
 ---
 
 #Apocalipse #Escatologia

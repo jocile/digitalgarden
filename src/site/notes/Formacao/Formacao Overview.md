@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-overview/","title":"Minhas Formações","pinned":true,"contentClasses":"cards cards-cols-3","noteIcon":"default","updated":"2026-03-15T11:15:48.065-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-overview/","title":"Minhas Formações","pinned":true,"contentClasses":"cards cards-cols-3","noteIcon":"default","updated":"2026-03-15T11:15:48.065-03:00","dg-note-properties":{"class":"mapa","title":"Minhas Formações","cssclasses":["cards","cards-cols-3"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/react/nextjs/next-js/","metatags":{"description":"permitem o acesso direto a recursos de back-end como bancos de dados e a execução de lógica sensível no servidor, sem enviar JavaScript desnecessário para o cliente."},"noteIcon":2,"updated":"2025-09-26T14:05:26.141-03:00"}
+{"dg-publish":true,"permalink":"/formacao/react/nextjs/next-js/","metatags":{"description":"permitem o acesso direto a recursos de back-end como bancos de dados e a execução de lógica sensível no servidor, sem enviar JavaScript desnecessário para o cliente."},"noteIcon":2,"updated":"2025-09-26T14:05:26.141-03:00","dg-note-properties":{"topics":["Webdesign","Linguagem de Programação"]}}
 ---
 
 #JavaScript #Webdesign #React #Nextjs

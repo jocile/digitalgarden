@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/gamificacao/","metatags":{"description":"utiliza elementos de design de jogos em contextos educacionais para transformar o aprendizado em uma experiência imersiva e motivadora."},"noteIcon":2,"updated":"2026-03-15T11:21:20.220-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/gamificacao/","metatags":{"description":"utiliza elementos de design de jogos em contextos educacionais para transformar o aprendizado em uma experiência imersiva e motivadora."},"noteIcon":2,"updated":"2026-03-15T11:21:20.220-03:00","dg-note-properties":{"topics":["Aula prática","Didática de aula"]}}
 ---
 
 # Gamificação: Engajamento e Protagonismo na Aprendizagem

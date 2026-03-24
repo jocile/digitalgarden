@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ux-design/design-system/","metatags":{"description":"conjunto de padrões de componentes de design, elaborados a fim de manter a consistência visual e funcional"},"noteIcon":2,"updated":"2025-07-08T22:28:13.730-03:00"}
+{"dg-publish":true,"permalink":"/formacao/ux-design/design-system/","metatags":{"description":"conjunto de padrões de componentes de design, elaborados a fim de manter a consistência visual e funcional"},"noteIcon":2,"updated":"2025-07-08T22:28:13.730-03:00","dg-note-properties":{}}
 ---
 
 #Webdesign #Projeto 

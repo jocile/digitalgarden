@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/programador/logica/repeticoes-em-python/","metatags":{"description":"criando algoritmos com repetições para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-02-01T21:55:06.356-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/programador/logica/repeticoes-em-python/","metatags":{"description":"criando algoritmos com repetições para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-02-01T21:55:06.356-03:00","dg-note-properties":{}}
 ---
 
 #Lógica #exercícios #Python

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/novo-testamento/atos/atos-dos-apostolos-na-historia/","metatags":{"description":"mostra como o Evangelho foi difundido e consolidado após a morte, ressurreição e ascensão de Jesus."},"noteIcon":"1","updated":"2025-09-26T13:08:15.060-03:00"}
+{"dg-publish":true,"permalink":"/teologia/novo-testamento/atos/atos-dos-apostolos-na-historia/","metatags":{"description":"mostra como o Evangelho foi difundido e consolidado após a morte, ressurreição e ascensão de Jesus."},"noteIcon":"1","updated":"2025-09-26T13:08:15.060-03:00","dg-note-properties":{"tags":null}}
 ---
 
 #Teologia #Atos

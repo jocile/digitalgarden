@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/react/estrategia-de-micro-frontends/","metatags":{"description":"um pilar estratégico no desenvolvimento de software moderno, influenciando diretamente a escalabilidade, a manutenibilidade e a velocidade."},"noteIcon":2,"updated":"2025-10-19T17:00:53.242-03:00"}
+{"dg-publish":true,"permalink":"/formacao/react/estrategia-de-micro-frontends/","metatags":{"description":"um pilar estratégico no desenvolvimento de software moderno, influenciando diretamente a escalabilidade, a manutenibilidade e a velocidade."},"noteIcon":2,"updated":"2025-10-19T17:00:53.242-03:00","dg-note-properties":{"topics":["Webdesign","Arquiteturas de Programação"]}}
 ---
 
 #JavaScript #Webdesign #React #Nextjs

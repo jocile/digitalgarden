@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/css/padroes-de-nomenclatura-css/","title":"Padrões de nomenclatura CSS","metatags":{"description":"como nomear bloco, elemento e modificador no CSS"},"tags":["Webdesign","CSS","padrão"],"noteIcon":"1","updated":"2025-02-19T16:00:22.312-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/css/padroes-de-nomenclatura-css/","title":"Padrões de nomenclatura CSS","metatags":{"description":"como nomear bloco, elemento e modificador no CSS"},"tags":["Webdesign","CSS","padrão"],"noteIcon":"1","updated":"2025-02-19T16:00:22.312-03:00","dg-note-properties":{"title":"Padrões de nomenclatura CSS","tags":["Webdesign","CSS","padrão"]}}
 ---
 
 

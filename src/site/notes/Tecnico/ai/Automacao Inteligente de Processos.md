@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ai/automacao-inteligente-de-processos/","metatags":{"description":"A combinação de Workflow (fluxo de trabalho), Skill (habilidade/capacidade) e Rules (regras) compõe a estratégia"},"noteIcon":2,"updated":"2026-03-03T11:04:30.638-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ai/automacao-inteligente-de-processos/","metatags":{"description":"A combinação de Workflow (fluxo de trabalho), Skill (habilidade/capacidade) e Rules (regras) compõe a estratégia"},"noteIcon":2,"updated":"2026-03-03T11:04:30.638-03:00","dg-note-properties":{"topics":null}}
 ---
 
 #ia #Projeto 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/doutrina-de-deus/a-trindade/","metatags":{"description":"como conciliar a fé inabalável em um único Deus (monoteísmo), herdada do judaísmo, com a confissão de que Jesus Cristo é divino e que o Espírito Santo também é Deus"},"noteIcon":2,"updated":"2025-09-26T09:06:40.088-03:00"}
+{"dg-publish":true,"permalink":"/teologia/doutrina-de-deus/a-trindade/","metatags":{"description":"como conciliar a fé inabalável em um único Deus (monoteísmo), herdada do judaísmo, com a confissão de que Jesus Cristo é divino e que o Espírito Santo também é Deus"},"noteIcon":2,"updated":"2025-09-26T09:06:40.088-03:00","dg-note-properties":{"topics":["Trindade","Heresias"]}}
 ---
 
 #Teologia #Trindade #Deus

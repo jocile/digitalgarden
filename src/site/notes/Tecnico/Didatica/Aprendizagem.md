@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/aprendizagem/","metatags":{"description":"Exerce funções técnicas para desenvolvimento de aprendizado sistemático."},"noteIcon":2,"updated":"2026-03-10T09:27:09.361-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/aprendizagem/","metatags":{"description":"Exerce funções técnicas para desenvolvimento de aprendizado sistemático."},"noteIcon":2,"updated":"2026-03-10T09:27:09.361-03:00","dg-note-properties":{}}
 ---
 
 

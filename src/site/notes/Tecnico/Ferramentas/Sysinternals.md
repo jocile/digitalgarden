@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/sysinternals/","title":"Ferramentas do Sysinternals","metatags":{"description":"utilitários para ajudar no funcionamento interno do Windows, para procurar e corrigir falhas."},"noteIcon":2,"updated":"2025-06-21T17:34:37.216-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/sysinternals/","title":"Ferramentas do Sysinternals","metatags":{"description":"utilitários para ajudar no funcionamento interno do Windows, para procurar e corrigir falhas."},"noteIcon":2,"updated":"2025-06-21T17:34:37.216-03:00","dg-note-properties":{"class":"tecnico","title":"Ferramentas do Sysinternals","cssclasses":null}}
 ---
 
 #Ferramentas 

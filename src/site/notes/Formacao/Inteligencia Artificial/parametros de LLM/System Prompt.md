@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/system-prompt/","title":"System Prompt","metatags":{"description":"Define a personalidade, o tom e o comportamento do agente de IA."},"tags":["Inteligencia-artificial","LLM","Prompt"],"noteIcon":"1","updated":"2025-01-20T19:44:55.286-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/system-prompt/","title":"System Prompt","metatags":{"description":"Define a personalidade, o tom e o comportamento do agente de IA."},"tags":["Inteligencia-artificial","LLM","Prompt"],"noteIcon":"1","updated":"2025-01-20T19:44:55.286-03:00","dg-note-properties":{"title":"System Prompt","tags":["Inteligencia-artificial","LLM","Prompt"]}}
 ---
 
 

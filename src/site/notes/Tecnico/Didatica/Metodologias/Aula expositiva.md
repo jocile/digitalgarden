@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/aula-expositiva/","metatags":{"description":"o professor apresenta o conteúdo de forma organizada e direta"},"noteIcon":2,"updated":"2026-03-15T10:22:37.925-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/aula-expositiva/","metatags":{"description":"o professor apresenta o conteúdo de forma organizada e direta"},"noteIcon":2,"updated":"2026-03-15T10:22:37.925-03:00","dg-note-properties":{"topics":["Didática de aula"]}}
 ---
 
 

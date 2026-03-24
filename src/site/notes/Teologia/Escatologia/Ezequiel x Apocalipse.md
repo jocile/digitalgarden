@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/escatologia/ezequiel-x-apocalipse/","metatags":{"description":"Tabela comparativa"},"noteIcon":2,"updated":"2025-08-23T21:03:36.280-03:00"}
+{"dg-publish":true,"permalink":"/teologia/escatologia/ezequiel-x-apocalipse/","metatags":{"description":"Tabela comparativa"},"noteIcon":2,"updated":"2025-08-23T21:03:36.280-03:00","dg-note-properties":{"cssclasses":null,"topics":["Escatologia"]}}
 ---
 
 #Apocalipse #Escatologia

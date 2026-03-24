@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/parametros-de-llm/","title":"Parâmetros de LLM","metatags":{"description":"Diversos parâmetros podem ser ajustados para influenciar as respostas de um modelo de linguagem"},"pinned":true,"tags":["Inteligencia-artificial","LLM"],"noteIcon":"1","updated":"2025-01-20T18:01:44.183-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/parametros-de-llm/","title":"Parâmetros de LLM","metatags":{"description":"Diversos parâmetros podem ser ajustados para influenciar as respostas de um modelo de linguagem"},"pinned":true,"tags":["Inteligencia-artificial","LLM"],"noteIcon":"1","updated":"2025-01-20T18:01:44.183-03:00","dg-note-properties":{"title":"Parâmetros de LLM","tags":["Inteligencia-artificial","LLM"]}}
 ---
 
 

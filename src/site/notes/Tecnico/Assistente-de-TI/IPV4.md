@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/ipv-4/","metatags":{"description":"Em uma rede de computadores é necessário o endereçamento correto para que haja comunicação."},"noteIcon":2,"updated":"2025-12-01T11:16:09.695-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/ipv-4/","metatags":{"description":"Em uma rede de computadores é necessário o endereçamento correto para que haja comunicação."},"noteIcon":2,"updated":"2025-12-01T11:16:09.695-03:00","dg-note-properties":{"class":"aula","topics":["Redes de computadores"]}}
 ---
 
 #simulador

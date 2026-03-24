@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/chipsets-de-placas-mae/","title":"Chipsets de Placas-Mãe","metatags":{"description":"é um circuito integrado fundamental, soldado diretamente na placa, que atua como o centro de controle para a comunicação e os recursos do sistema"},"noteIcon":"1","updated":"2026-01-30T07:25:24.317-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/chipsets-de-placas-mae/","title":"Chipsets de Placas-Mãe","metatags":{"description":"é um circuito integrado fundamental, soldado diretamente na placa, que atua como o centro de controle para a comunicação e os recursos do sistema"},"noteIcon":"1","updated":"2026-01-30T07:25:24.317-03:00","dg-note-properties":{"class":"aula","title":"Chipsets de Placas-Mãe","topics":["Peças de Hardware"]}}
 ---
 
 #Aulas #Hardware #Assistente-de-TI 

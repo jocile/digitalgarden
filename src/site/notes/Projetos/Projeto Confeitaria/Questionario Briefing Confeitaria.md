@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/projeto-confeitaria/questionario-briefing-confeitaria/","metatags":{"description":"Questionário inicial para criação de Briefing um sistema para uma confeitaria"},"noteIcon":1,"updated":"2025-07-17T10:23:07.653-03:00"}
+{"dg-publish":true,"permalink":"/projetos/projeto-confeitaria/questionario-briefing-confeitaria/","metatags":{"description":"Questionário inicial para criação de Briefing um sistema para uma confeitaria"},"noteIcon":1,"updated":"2025-07-17T10:23:07.653-03:00","dg-note-properties":{}}
 ---
 
 #Projeto 

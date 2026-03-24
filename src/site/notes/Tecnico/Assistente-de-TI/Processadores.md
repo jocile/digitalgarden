@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/processadores/","metatags":{"description":"responsável pela execução de cálculos e instruções dos programas"},"noteIcon":"1","updated":"2026-01-30T07:27:15.456-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/processadores/","metatags":{"description":"responsável pela execução de cálculos e instruções dos programas"},"noteIcon":"1","updated":"2026-01-30T07:27:15.456-03:00","dg-note-properties":{"class":"aula","topics":["Processadores","Peças de Hardware"]}}
 ---
 
 #Aulas #Hardware #Assistente-de-TI

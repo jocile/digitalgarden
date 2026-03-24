@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ux-design/fundamentos-de-ux/","noteIcon":1,"updated":"2025-07-09T20:33:54.570-03:00"}
+{"dg-publish":true,"permalink":"/formacao/ux-design/fundamentos-de-ux/","noteIcon":1,"updated":"2025-07-09T20:33:54.570-03:00","dg-note-properties":{}}
 ---
 
 

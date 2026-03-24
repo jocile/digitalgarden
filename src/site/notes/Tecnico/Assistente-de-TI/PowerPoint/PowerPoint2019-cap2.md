@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/power-point/power-point2019-cap2/","metatags":{"description":"Criando Slides no Power Point"},"noteIcon":1,"updated":"2025-11-03T09:04:40.534-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/power-point/power-point2019-cap2/","metatags":{"description":"Criando Slides no Power Point"},"noteIcon":1,"updated":"2025-11-03T09:04:40.534-03:00","dg-note-properties":{"topics":["Apresentações"]}}
 ---
 
 #Aulas

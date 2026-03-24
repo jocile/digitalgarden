@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-java-script/","title":"Formação em JavaScript","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2026-02-14T00:19:02.667-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-java-script/","title":"Formação em JavaScript","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2026-02-14T00:19:02.667-03:00","dg-note-properties":{"class":"mapa","title":"Formação em JavaScript","topics":["Formação em programação","Lógica de programação","JavaScript","Algoritmos"]}}
 ---
 
 #JavaScript #mapa #Lógica #Formação #web-developer

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/bibliologia/bibliologia-i/","title":"Bibliologia I","metatags":{"description":"iniciando o estudo da Bíblia"},"noteIcon":2,"updated":"2025-06-28T17:41:00.405-03:00"}
+{"dg-publish":true,"permalink":"/teologia/bibliologia/bibliologia-i/","title":"Bibliologia I","metatags":{"description":"iniciando o estudo da Bíblia"},"noteIcon":2,"updated":"2025-06-28T17:41:00.405-03:00","dg-note-properties":{"title":"Bibliologia I"}}
 ---
 
 #Teologia #Teologia/bibliologia

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/design-thinking/","metatags":{"description":"uma mentalidade (mindset) para preparar estudantes para lidar com a ambiguidade e a inovação no mercado de trabalho."},"noteIcon":2,"updated":"2026-03-15T12:03:51.826-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/design-thinking/","metatags":{"description":"uma mentalidade (mindset) para preparar estudantes para lidar com a ambiguidade e a inovação no mercado de trabalho."},"noteIcon":2,"updated":"2026-03-15T12:03:51.826-03:00","dg-note-properties":{"topics":["Aula prática","Didática de aula"]}}
 ---
 
 # Design Thinking: Abordagem Pedagógica Orientada à Solução

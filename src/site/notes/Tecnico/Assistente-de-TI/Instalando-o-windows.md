@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/instalando-o-windows/","title":"Instalação do Windows","metatags":{"description":"Como instalar o Windows em uma máquina virtual."},"noteIcon":"default","updated":"2025-11-25T14:04:18.146-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/instalando-o-windows/","title":"Instalação do Windows","metatags":{"description":"Como instalar o Windows em uma máquina virtual."},"noteIcon":"default","updated":"2025-11-25T14:04:18.146-03:00","dg-note-properties":{"class":"aula","title":"Instalação do Windows"}}
 ---
 
 ## Instalação do Windows

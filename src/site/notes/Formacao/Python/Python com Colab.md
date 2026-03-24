@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/python/python-com-colab/","title":"Python com Colab","metatags":{"description":"plataforma gratuita baseada em nuvem que permite aos usuários escrever e executar código Python diretamente em um navegador da web"},"noteIcon":1,"updated":"2025-06-26T17:51:31.717-03:00"}
+{"dg-publish":true,"permalink":"/formacao/python/python-com-colab/","title":"Python com Colab","metatags":{"description":"plataforma gratuita baseada em nuvem que permite aos usuários escrever e executar código Python diretamente em um navegador da web"},"noteIcon":1,"updated":"2025-06-26T17:51:31.717-03:00","dg-note-properties":{"title":"Python com Colab"}}
 ---
 
 #Python #Colab

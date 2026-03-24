@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/programador/desafios/desafios-python/saldo-de-transacoes-bancarias/","title":"Saldo de Transações Bancárias","metatags":{"description":"calcular o saldo final da conta com base nas transações realizadas."},"noteIcon":2,"updated":"2026-02-03T07:28:46.685-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/programador/desafios/desafios-python/saldo-de-transacoes-bancarias/","title":"Saldo de Transações Bancárias","metatags":{"description":"calcular o saldo final da conta com base nas transações realizadas."},"noteIcon":2,"updated":"2026-02-03T07:28:46.685-03:00","dg-note-properties":{"title":"Saldo de Transações Bancárias"}}
 ---
 
 #Lógica #exercícios #Python 

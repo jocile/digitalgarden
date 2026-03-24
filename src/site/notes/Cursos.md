@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cursos/","title":"Cursos","metatags":{"description":"Programação de Cursos no Senac Ceará em Sobral"},"contentClasses":"cards cards-cols-3 cards-cover","tags":["curso","Senac","mapa"],"noteIcon":"default","updated":"2026-03-09T19:10:52.924-03:00"}
+{"dg-publish":true,"permalink":"/cursos/","title":"Cursos","metatags":{"description":"Programação de Cursos no Senac Ceará em Sobral"},"contentClasses":"cards cards-cols-3 cards-cover","tags":["curso","Senac","mapa"],"noteIcon":"default","updated":"2026-03-09T19:10:52.924-03:00","dg-note-properties":{"class":"mapa","title":"Cursos","tags":["curso","Senac","mapa"],"cssclasses":["cards","cards-cols-3","cards-cover"]}}
 ---
 
 

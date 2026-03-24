@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-python/","title":"Formação Python","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T22:48:52.599-03:00"}
+{"dg-publish":true,"permalink":"/formacao/formacao-python/","title":"Formação Python","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T22:48:52.599-03:00","dg-note-properties":{"class":"mapa","title":"Formação Python","topics":["Lógica de programação","Linguagem de Programação"]}}
 ---
 
 #Python #Formação #mapa 

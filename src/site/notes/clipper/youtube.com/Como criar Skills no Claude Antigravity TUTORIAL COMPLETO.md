@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/como-criar-skills-no-claude-antigravity-tutorial-completo/","title":"Como criar Skills no Claude/Antigravity: TUTORIAL COMPLETO","noteIcon":2,"updated":"2026-03-14T16:40:00.315-03:00"}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/como-criar-skills-no-claude-antigravity-tutorial-completo/","title":"Como criar Skills no Claude/Antigravity: TUTORIAL COMPLETO","noteIcon":2,"updated":"2026-03-14T16:40:00.315-03:00","dg-note-properties":{"created":"2026-03-14T15:55:45-03:00","url":"https://www.youtube.com/watch?v=2Zi3rGxWxDk?start=234","title":"Como criar Skills no Claude/Antigravity: TUTORIAL COMPLETO","channel":"Well Pires","related":["[[Tecnico/ai/Skills\|Skills]]"],"published":"2026-02-27","thumbnailUrl":"https://i.ytimg.com/vi/2Zi3rGxWxDk/maxresdefault.jpg","duration":"0:28:29","watched":null}}
 ---
 
 # Como criar Skills no Claude/Antigravity: TUTORIAL COMPLETO
@@ -36,7 +36,7 @@ Criar uma **Skill** no _Antigravity_ envolve estruturar agentes especializados p
 
 ## Descrição
 
-As [[Tecnico/ai/Skills\|Skills]] são seus novos Agentes de IA para construir projetos dentro do [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]! Usando ferramentas como Claude Code e API's você consegue construir skills que automatizam horas de trabalho em poucos minutos! Nesse vídeo, vou te entregar uma masterclass completa de como funcionam as skills, o que são skills e como criar skills dentro do Antigravity. Espero que curtam!
+As [[Skills]] são seus novos Agentes de IA para construir projetos dentro do [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]! Usando ferramentas como Claude Code e API's você consegue construir skills que automatizam horas de trabalho em poucos minutos! Nesse vídeo, vou te entregar uma masterclass completa de como funcionam as skills, o que são skills e como criar skills dentro do Antigravity. Espero que curtam!
 
 Entre na AI Makers e consiga seu 1º cliente + todos meus templates ⤵️
 https://aimakersclub-teal.vercel.app/

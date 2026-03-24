@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/git/comandos-git-e-git-hub/","title":"Comandos git e GitHub","metatags":{"description":"principais comandos para controle de versões."},"noteIcon":2,"updated":"2025-06-20T21:31:41.605-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/git/comandos-git-e-git-hub/","title":"Comandos git e GitHub","metatags":{"description":"principais comandos para controle de versões."},"noteIcon":2,"updated":"2025-06-20T21:31:41.605-03:00","dg-note-properties":{"class":"tecnico","title":"Comandos git e GitHub","cssclasses":null}}
 ---
 
 #Ferramentas #github 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ux-design/briefing/","title":"Briefing","metatags":{"description":"é uma apresentação concisa das informações necessárias para iniciar um projeto com clareza e direção certa."},"noteIcon":2,"updated":"2025-11-22T10:45:10.588-03:00"}
+{"dg-publish":true,"permalink":"/formacao/ux-design/briefing/","title":"Briefing","metatags":{"description":"é uma apresentação concisa das informações necessárias para iniciar um projeto com clareza e direção certa."},"noteIcon":2,"updated":"2025-11-22T10:45:10.588-03:00","dg-note-properties":{"title":"Briefing"}}
 ---
 
 #Projeto 

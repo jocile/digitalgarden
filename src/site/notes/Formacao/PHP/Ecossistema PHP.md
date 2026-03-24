@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/php/ecossistema-php/","metatags":{"description":"é um dos maiores na área de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-06T22:24:32.393-03:00"}
+{"dg-publish":true,"permalink":"/formacao/php/ecossistema-php/","metatags":{"description":"é um dos maiores na área de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-06T22:24:32.393-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Linguagem de Programação","WebSites"]}}
 ---
 
 #PHP 

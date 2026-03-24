@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/css/estilizando-cores-com-css/","title":"Cores com css","metatags":{"description":"Exemplo de uso de cores com CSS"},"tags":["Webdesign","CSS","cores","editor"],"noteIcon":"1","updated":"2025-07-11T15:33:42.274-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/css/estilizando-cores-com-css/","title":"Cores com css","metatags":{"description":"Exemplo de uso de cores com CSS"},"tags":["Webdesign","CSS","cores","editor"],"noteIcon":"1","updated":"2025-07-11T15:33:42.274-03:00","dg-note-properties":{"title":"Cores com css","tags":["Webdesign","CSS","cores","editor"]}}
 ---
 
 

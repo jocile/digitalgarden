@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/logica/logica-de-programacao/","title":"Lógica de Programação","metatags":{"description":"É o conjunto de métodos utilizados para organizar pensamentos, raciocínios e argumentos"},"noteIcon":2,"updated":"2025-07-29T00:49:10.120-03:00"}
+{"dg-publish":true,"permalink":"/formacao/logica/logica-de-programacao/","title":"Lógica de Programação","metatags":{"description":"É o conjunto de métodos utilizados para organizar pensamentos, raciocínios e argumentos"},"noteIcon":2,"updated":"2025-07-29T00:49:10.120-03:00","dg-note-properties":{"title":"Lógica de Programação","topics":["Lógica de programação"]}}
 ---
 
 #Lógica 

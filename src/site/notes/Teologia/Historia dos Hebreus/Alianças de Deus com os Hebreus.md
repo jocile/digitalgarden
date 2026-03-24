@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/aliancas-de-deus-com-os-hebreus/","metatags":{"description":"tema central na história do povo hebreu, demonstrando o relacionamento de Deus com a humanidade e Seu plano de salvação"},"noteIcon":2,"updated":"2025-08-27T18:28:56.348-03:00"}
+{"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/aliancas-de-deus-com-os-hebreus/","metatags":{"description":"tema central na história do povo hebreu, demonstrando o relacionamento de Deus com a humanidade e Seu plano de salvação"},"noteIcon":2,"updated":"2025-08-27T18:28:56.348-03:00","dg-note-properties":{"topics":["História dos Hebreus"]}}
 ---
 
 #Teologia/Historia #Hebreus #alianças

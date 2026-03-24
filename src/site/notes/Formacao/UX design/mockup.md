@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ux-design/mockup/","metatags":{"description":"Representação visual alta do design"},"noteIcon":1,"updated":"2025-07-18T09:15:18.816-03:00"}
+{"dg-publish":true,"permalink":"/formacao/ux-design/mockup/","metatags":{"description":"Representação visual alta do design"},"noteIcon":1,"updated":"2025-07-18T09:15:18.816-03:00","dg-note-properties":{}}
 ---
 
 #Webdesign #Projeto

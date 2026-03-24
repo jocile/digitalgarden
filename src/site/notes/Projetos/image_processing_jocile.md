@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projetos/image-processing-jocile/","title":"Pacote image_processing","metatags":{"description":"Fazer um pacote usando a estrutura simples de um módulo para testar os conhecimentos adquiridos."},"noteIcon":2,"updated":"2025-06-20T21:53:33.746-03:00"}
+{"dg-publish":true,"permalink":"/projetos/image-processing-jocile/","title":"Pacote image_processing","metatags":{"description":"Fazer um pacote usando a estrutura simples de um módulo para testar os conhecimentos adquiridos."},"noteIcon":2,"updated":"2025-06-20T21:53:33.746-03:00","dg-note-properties":{"Concluido":true,"title":"Pacote image_processing"}}
 ---
 
 #Projeto #Python 

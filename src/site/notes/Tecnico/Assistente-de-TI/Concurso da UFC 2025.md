@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/concurso-da-ufc-2025/","metatags":{"description":"Concurso da UFC 2025"},"noteIcon":"1","updated":"2025-11-06T14:42:32.682-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/concurso-da-ufc-2025/","metatags":{"description":"Concurso da UFC 2025"},"noteIcon":"1","updated":"2025-11-06T14:42:32.682-03:00","dg-note-properties":{"class":"aula","topics":["Placa-Mãe","Peças de Hardware"]}}
 ---
 
 #Aulas #Hardware #Assistente-de-TI

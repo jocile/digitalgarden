@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ux-design/cores-no-design/","title":"Cores no design","metatags":{"description":"características psicológicas associadas a algumas das principais cores"},"tags":["Webdesign","cores"],"noteIcon":"1","updated":"2025-07-11T16:21:55.650-03:00"}
+{"dg-publish":true,"permalink":"/formacao/ux-design/cores-no-design/","title":"Cores no design","metatags":{"description":"características psicológicas associadas a algumas das principais cores"},"tags":["Webdesign","cores"],"noteIcon":"1","updated":"2025-07-11T16:21:55.650-03:00","dg-note-properties":{"title":"Cores no design","tags":["Webdesign","cores"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/react/nvm-controle-de-versoes-do-node/","metatags":{"description":"gerenciador de versões do Node.js."},"noteIcon":3,"updated":"2025-09-26T15:38:40.263-03:00"}
+{"dg-publish":true,"permalink":"/formacao/react/nvm-controle-de-versoes-do-node/","metatags":{"description":"gerenciador de versões do Node.js."},"noteIcon":3,"updated":"2025-09-26T15:38:40.263-03:00","dg-note-properties":{"topics":["Ferramentas","Gerenciadores de versões"]}}
 ---
 
 #JavaScript #Webdesign #React #Nextjs

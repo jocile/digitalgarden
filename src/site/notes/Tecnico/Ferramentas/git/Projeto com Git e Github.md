@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/git/projeto-com-git-e-github/","title":"Projeto com Git e Github","metatags":{"description":"projetos com controle de versões."},"noteIcon":2,"updated":"2025-06-20T21:38:57.002-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/git/projeto-com-git-e-github/","title":"Projeto com Git e Github","metatags":{"description":"projetos com controle de versões."},"noteIcon":2,"updated":"2025-06-20T21:38:57.002-03:00","dg-note-properties":{"class":"tecnico","title":"Projeto com Git e Github","cssclasses":null}}
 ---
 
 #Ferramentas #github

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/function-calling/","title":"Function Calling","metatags":{"description":"Isso permite criar funções que o modelo pode chamar para realizar cálculos complexos, acessar informações externas ou realizar outras ações importantes"},"tags":["Inteligencia-artificial","LLM"],"noteIcon":"1","updated":"2025-01-20T19:46:09.206-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/function-calling/","title":"Function Calling","metatags":{"description":"Isso permite criar funções que o modelo pode chamar para realizar cálculos complexos, acessar informações externas ou realizar outras ações importantes"},"tags":["Inteligencia-artificial","LLM"],"noteIcon":"1","updated":"2025-01-20T19:46:09.206-03:00","dg-note-properties":{"title":"Function Calling","tags":["Inteligencia-artificial","LLM"]}}
 ---
 
 

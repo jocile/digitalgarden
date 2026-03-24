@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/planejamento/modelo-pedagogico-senac/","title":"Modelo Pedagógico Senac (MPS)","metatags":{"description":"metodologia focada no desenvolvimento de competências e na formação integral do indivíduo"},"tags":["didatica","senac","planejamento","pedagogia"],"noteIcon":2,"updated":"2026-03-15T10:18:54.830-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/planejamento/modelo-pedagogico-senac/","title":"Modelo Pedagógico Senac (MPS)","metatags":{"description":"metodologia focada no desenvolvimento de competências e na formação integral do indivíduo"},"tags":["didatica","senac","planejamento","pedagogia"],"noteIcon":2,"updated":"2026-03-15T10:18:54.830-03:00","dg-note-properties":{"title":"Modelo Pedagógico Senac (MPS)","tags":["didatica","senac","planejamento","pedagogia"],"status":"pronto","updated":"2026-03-13","topics":["Planejamento de aulas"]}}
 ---
 
 

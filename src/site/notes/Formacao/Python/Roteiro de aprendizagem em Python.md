@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/python/roteiro-de-aprendizagem-em-python/","title":"Roteiro de aprendizagem em Python","metatags":{"description":"Roteiro de aprendizagem em Python"},"noteIcon":"default","updated":"2025-07-02T15:49:06.645-03:00"}
+{"dg-publish":true,"permalink":"/formacao/python/roteiro-de-aprendizagem-em-python/","title":"Roteiro de aprendizagem em Python","metatags":{"description":"Roteiro de aprendizagem em Python"},"noteIcon":"default","updated":"2025-07-02T15:49:06.645-03:00","dg-note-properties":{"class":"mapa","title":"Roteiro de aprendizagem em Python","cssclasses":null,"topics":null}}
 ---
 
 #Python 

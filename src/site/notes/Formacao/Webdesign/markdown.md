@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/markdown/","metatags":{"description":"é uma linguagem de marcação leve com sintaxe de formatação de texto simples"},"noteIcon":2,"updated":"2025-12-17T17:57:58.132-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/markdown/","metatags":{"description":"é uma linguagem de marcação leve com sintaxe de formatação de texto simples"},"noteIcon":2,"updated":"2025-12-17T17:57:58.132-03:00","dg-note-properties":{}}
 ---
 
 ## Editor

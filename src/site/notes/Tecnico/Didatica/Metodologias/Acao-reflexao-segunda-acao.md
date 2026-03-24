@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/acao-reflexao-segunda-acao/","metatags":{"description":"processo cíclico que orienta o desenvolvimento de competências"},"noteIcon":2,"updated":"2026-03-15T10:20:27.013-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/metodologias/acao-reflexao-segunda-acao/","metatags":{"description":"processo cíclico que orienta o desenvolvimento de competências"},"noteIcon":2,"updated":"2026-03-15T10:20:27.013-03:00","dg-note-properties":{}}
 ---
 
 

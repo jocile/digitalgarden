@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/programador/logica/listas-em-python/","metatags":{"description":"criando algoritmos com listas para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-01-30T07:18:13.169-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/programador/logica/listas-em-python/","metatags":{"description":"criando algoritmos com listas para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-01-30T07:18:13.169-03:00","dg-note-properties":{}}
 ---
 
 #Lógica #exercícios #Python 

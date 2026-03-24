@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/manutencao-do-windows/","metatags":{"description":"como resolver problemas do Windows e utilizar ferramentas técnicas"},"noteIcon":2,"updated":"2025-11-25T10:18:48.153-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/manutencao-do-windows/","metatags":{"description":"como resolver problemas do Windows e utilizar ferramentas técnicas"},"noteIcon":2,"updated":"2025-11-25T10:18:48.153-03:00","dg-note-properties":{"class":"tecnico, aula","cssclasses":null,"topics":["Windows"]}}
 ---
 
 #aula #Windows

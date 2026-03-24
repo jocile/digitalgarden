@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/machine-learning/introducao-ao-machine-learning/","title":"Introdução ao Machine Learning","metatags":{"description":"permite que os sistemas computacionais aprendam sem ser explicitamente programados para realizar uma tarefa específica."},"tags":["Inteligencia-artificial","Machine-Learning"],"noteIcon":1,"updated":"2026-03-12T22:53:55.585-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/machine-learning/introducao-ao-machine-learning/","title":"Introdução ao Machine Learning","metatags":{"description":"permite que os sistemas computacionais aprendam sem ser explicitamente programados para realizar uma tarefa específica."},"tags":["Inteligencia-artificial","Machine-Learning"],"noteIcon":1,"updated":"2026-03-12T22:53:55.585-03:00","dg-note-properties":{"title":"Introdução ao Machine Learning","tags":["Inteligencia-artificial","Machine-Learning"]}}
 ---
 
 # Introdução ao Machine Learning

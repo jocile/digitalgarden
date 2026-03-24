@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ai/workflows/","metatags":{"description":"é o processo de transformar checklists mentais e tarefas repetitivas em instruções estruturadas que a IA pode executar com consistência"},"noteIcon":2,"updated":"2026-03-05T17:45:57.044-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ai/workflows/","metatags":{"description":"é o processo de transformar checklists mentais e tarefas repetitivas em instruções estruturadas que a IA pode executar com consistência"},"noteIcon":2,"updated":"2026-03-05T17:45:57.044-03:00","dg-note-properties":{"aliases":["Workflow"],"topics":["Live coding","Automação"]}}
 ---
 
 #ia #Projeto #Antigravity

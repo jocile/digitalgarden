@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/programador/logica/exercicios-de-logica-condicional-solucao/","metatags":{"description":"criando algoritmos para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-01-22T07:23:28.201-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/programador/logica/exercicios-de-logica-condicional-solucao/","metatags":{"description":"criando algoritmos para programas de computador resolvendo problemas"},"noteIcon":1,"updated":"2026-01-22T07:23:28.201-03:00","dg-note-properties":{}}
 ---
 
 #Lógica #exercícios

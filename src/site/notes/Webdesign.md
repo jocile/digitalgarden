@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/webdesign/","title":"Webdesing","metatags":{"description":"Estudos em WebDesign"},"contentClasses":"cards","noteIcon":"default","updated":"2025-08-27T07:44:40.243-03:00"}
+{"dg-publish":true,"permalink":"/webdesign/","title":"Webdesing","metatags":{"description":"Estudos em WebDesign"},"contentClasses":"cards","noteIcon":"default","updated":"2025-08-27T07:44:40.243-03:00","dg-note-properties":{"class":"mapa","title":"Webdesing","cssclasses":["cards"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/python/linguagem-python/","metatags":{"description":"Linguagem de programação avançada usada em inteligência artificial e automação"},"noteIcon":2,"updated":"2025-06-26T18:21:07.198-03:00"}
+{"dg-publish":true,"permalink":"/formacao/python/linguagem-python/","metatags":{"description":"Linguagem de programação avançada usada em inteligência artificial e automação"},"noteIcon":2,"updated":"2025-06-26T18:21:07.198-03:00","dg-note-properties":{}}
 ---
 
 

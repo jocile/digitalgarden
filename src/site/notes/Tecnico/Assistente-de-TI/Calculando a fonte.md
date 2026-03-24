@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/calculando-a-fonte/","title":"Cálculos elétricos","metatags":{"description":"Como dimensionar equipamentos elétricos"},"tags":["eletricidade"],"noteIcon":1,"updated":"2025-11-05T15:00:10.033-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/calculando-a-fonte/","title":"Cálculos elétricos","metatags":{"description":"Como dimensionar equipamentos elétricos"},"tags":["eletricidade"],"noteIcon":1,"updated":"2025-11-05T15:00:10.033-03:00","dg-note-properties":{"title":"Cálculos elétricos","topics":["Dimensionamento elétrico"],"tags":["eletricidade"]}}
 ---
 
 

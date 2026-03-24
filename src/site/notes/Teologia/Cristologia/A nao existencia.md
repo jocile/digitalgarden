@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/a-nao-existencia/","title":"3.1 A não existência","metatags":{"description":"propõe que Jesus Cristo não foi uma figura histórica real, mas sim uma criação mitológica ou lendária"},"tags":["Teologia","Cristologia","heresia"],"noteIcon":2,"updated":"2025-05-01T15:38:00.006-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/a-nao-existencia/","title":"3.1 A não existência","metatags":{"description":"propõe que Jesus Cristo não foi uma figura histórica real, mas sim uma criação mitológica ou lendária"},"tags":["Teologia","Cristologia","heresia"],"noteIcon":2,"updated":"2025-05-01T15:38:00.006-03:00","dg-note-properties":{"title":"3.1 A não existência","topics":["Teorias sobre Jesus"],"tags":["Teologia","Cristologia","heresia"]}}
 ---
 
 # 3.1 A teoria da não existência

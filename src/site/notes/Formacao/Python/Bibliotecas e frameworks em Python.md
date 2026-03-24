@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/python/bibliotecas-e-frameworks-em-python/","title":"Bibliotecas e frameworks em Python","metatags":{"description":"Bibliotecas de módulos para desenvolvimento rápido com Python"},"noteIcon":1,"updated":"2025-07-02T16:44:15.741-03:00"}
+{"dg-publish":true,"permalink":"/formacao/python/bibliotecas-e-frameworks-em-python/","title":"Bibliotecas e frameworks em Python","metatags":{"description":"Bibliotecas de módulos para desenvolvimento rápido com Python"},"noteIcon":1,"updated":"2025-07-02T16:44:15.741-03:00","dg-note-properties":{"title":"Bibliotecas e frameworks em Python","cssclasses":null,"topics":null}}
 ---
 
 #Python 

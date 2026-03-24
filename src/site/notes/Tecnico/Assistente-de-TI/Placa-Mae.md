@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/placa-mae/","title":"Placas-Mãe","metatags":{"description":"funciona como o sistema nervoso central que interliga todos os componentes"},"noteIcon":"1","updated":"2025-11-06T10:55:08.738-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/placa-mae/","title":"Placas-Mãe","metatags":{"description":"funciona como o sistema nervoso central que interliga todos os componentes"},"noteIcon":"1","updated":"2025-11-06T10:55:08.738-03:00","dg-note-properties":{"class":"aula","title":"Placas-Mãe","topics":["Placa-Mãe","Peças de Hardware"]}}
 ---
 
 #Aulas #Hardware #Assistente-de-TI 

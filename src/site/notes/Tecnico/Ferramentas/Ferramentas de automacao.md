@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-automacao/","title":"Ferramentas de automacao","metatags":{"description":"são uma grande aliada para os programadores, permitindo automatizar tarefas rotineiras."},"noteIcon":1,"updated":"2025-06-20T21:33:41.155-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-automacao/","title":"Ferramentas de automacao","metatags":{"description":"são uma grande aliada para os programadores, permitindo automatizar tarefas rotineiras."},"noteIcon":1,"updated":"2025-06-20T21:33:41.155-03:00","dg-note-properties":{"class":"tecnico","title":"Ferramentas de automacao","cssclasses":null}}
 ---
 
 #Ferramentas

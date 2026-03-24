@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/java-script/fetch-api/","metatags":{"description":"permite que uma página web se comunique com servidores para buscar ou enviar dados sem a necessidade de recarregar"},"noteIcon":2,"updated":"2026-02-14T01:22:31.424-03:00"}
+{"dg-publish":true,"permalink":"/formacao/java-script/fetch-api/","metatags":{"description":"permite que uma página web se comunique com servidores para buscar ou enviar dados sem a necessidade de recarregar"},"noteIcon":2,"updated":"2026-02-14T01:22:31.424-03:00","dg-note-properties":{"class":"aula","topics":["biblioteca JavaScript","Webdesign"]}}
 ---
 
 #JavaScript #Webdesign

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/php/exercicios-com-listas/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-25T20:23:20.245-03:00"}
+{"dg-publish":true,"permalink":"/formacao/php/exercicios-com-listas/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-25T20:23:20.245-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Linguagem de Programação","Exercícios de programação"]}}
 ---
 
 #PHP #exemplos 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/chain-of-thought/","title":"Chain of Thought","metatags":{"description":"técnica de Cadeia de Pensamento é uma ferramenta inovadora em modelos de linguagem baseados em largura de banda (LLM) para melhorar a precisão e a transparência das respostas."},"tags":["Inteligencia-artificial","LLM"],"noteIcon":"1","updated":"2025-01-20T18:03:51.454-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/parametros-de-llm/chain-of-thought/","title":"Chain of Thought","metatags":{"description":"técnica de Cadeia de Pensamento é uma ferramenta inovadora em modelos de linguagem baseados em largura de banda (LLM) para melhorar a precisão e a transparência das respostas."},"tags":["Inteligencia-artificial","LLM"],"noteIcon":"1","updated":"2025-01-20T18:03:51.454-03:00","dg-note-properties":{"title":"Chain of Thought","tags":["Inteligencia-artificial","LLM"]}}
 ---
 
 

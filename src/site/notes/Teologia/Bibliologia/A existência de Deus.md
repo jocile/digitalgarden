@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/bibliologia/a-existencia-de-deus/","title":"A existência de Deus","metatags":{"description":"Argumentos para a existência de Deus"},"noteIcon":2,"updated":"2025-07-01T11:24:14.054-03:00"}
+{"dg-publish":true,"permalink":"/teologia/bibliologia/a-existencia-de-deus/","title":"A existência de Deus","metatags":{"description":"Argumentos para a existência de Deus"},"noteIcon":2,"updated":"2026-03-24T09:35:29.367-03:00","dg-note-properties":{"class":"teologia","title":"A existência de Deus","cssclasses":null,"topics":null}}
 ---
 
 #Teologia #Teologia/bibliologia 

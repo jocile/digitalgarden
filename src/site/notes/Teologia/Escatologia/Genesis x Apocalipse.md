@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/escatologia/genesis-x-apocalipse/","metatags":{"description":"Tabela comparativa"},"noteIcon":2,"updated":"2025-08-23T21:03:40.941-03:00"}
+{"dg-publish":true,"permalink":"/teologia/escatologia/genesis-x-apocalipse/","metatags":{"description":"Tabela comparativa"},"noteIcon":2,"updated":"2025-08-23T21:03:40.941-03:00","dg-note-properties":{"cssclasses":null,"topics":["Escatologia"]}}
 ---
 
 #Apocalipse #Escatologia

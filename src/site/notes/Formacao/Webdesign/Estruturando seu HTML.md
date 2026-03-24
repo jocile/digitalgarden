@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/estruturando-seu-html/","metatags":{"description":"Como usar as tags div e span para organizar o conteúdo do site"},"noteIcon":2,"updated":"2025-07-23T18:18:43.063-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/estruturando-seu-html/","metatags":{"description":"Como usar as tags div e span para organizar o conteúdo do site"},"noteIcon":2,"updated":"2025-07-23T18:18:43.063-03:00","dg-note-properties":{"topics":["Webdesign"]}}
 ---
 
 

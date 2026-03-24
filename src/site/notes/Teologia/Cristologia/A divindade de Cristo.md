@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/cristologia/a-divindade-de-cristo/","title":"A divindade de Cristo","metatags":{"description":"No Evangelho segundo João é descrita a divindade de Cristo"},"contentClasses":"row-alt row-hover","noteIcon":1,"updated":"2025-05-27T09:52:50.536-03:00"}
+{"dg-publish":true,"permalink":"/teologia/cristologia/a-divindade-de-cristo/","title":"A divindade de Cristo","metatags":{"description":"No Evangelho segundo João é descrita a divindade de Cristo"},"contentClasses":"row-alt row-hover","noteIcon":1,"updated":"2025-05-27T09:52:50.536-03:00","dg-note-properties":{"title":"A divindade de Cristo","cssclasses":["row-alt","row-hover"]}}
 ---
 
 #Cristologia 

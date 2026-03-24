@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/didatica/planejamento/situacao-de-aprendizagem/","title":"Situação de Aprendizagem (SA) - Guia de Planejamento","metatags":{"description":"metodologia focada no desenvolvimento de competências e na formação integral do indivíduo"},"tags":["didatica","senac","planejamento","metodologias-ativas"],"noteIcon":2,"updated":"2026-03-13T21:04:42.879-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/didatica/planejamento/situacao-de-aprendizagem/","title":"Situação de Aprendizagem (SA) - Guia de Planejamento","metatags":{"description":"metodologia focada no desenvolvimento de competências e na formação integral do indivíduo"},"tags":["didatica","senac","planejamento","metodologias-ativas"],"noteIcon":2,"updated":"2026-03-13T21:04:42.879-03:00","dg-note-properties":{"title":"Situação de Aprendizagem (SA) - Guia de Planejamento","tags":["didatica","senac","planejamento","metodologias-ativas"],"status":"concluído","topics":["Planejamento de aulas"]}}
 ---
 
 
@@ -64,7 +64,7 @@ Como instrutor de tecnologia, utilize preferencialmente:
 **Competência:** Desenvolver aplicações desktop com interface gráfica e banco de dados.\
 **Indicador:** Implementa conexão de banco de dados SQL em aplicações Python.
 
-- **Contexto:** Uma confeitaria local (ex: [[Private/Confeitaria da Nicola\|Confeitaria da Nicola]]) precisa automatizar o controle de pedidos que hoje é feito em papel.
+- **Contexto:** Uma confeitaria local (ex: [[Projetos/Projeto Confeitaria/Confeitaria da Nicola\|Confeitaria da Nicola]]) precisa automatizar o controle de pedidos que hoje é feito em papel.
 - **Desafio:** Criar um script Python que receba os dados do pedido e os salve em um banco SQLite, validando se os campos obrigatórios foram preenchidos.
 - **Ciclo SA:**
     1. **Ação 1:** Aluno tenta criar um formulário simples de entrada de dados.

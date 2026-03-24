@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/react/nextjs/react-e-next-js/","metatags":{"description":"é uma escolha popular para construir interfaces de usuário dinâmicas e interativas, focando na programação declarativa."},"noteIcon":2,"updated":"2025-09-26T19:44:49.955-03:00"}
+{"dg-publish":true,"permalink":"/formacao/react/nextjs/react-e-next-js/","metatags":{"description":"é uma escolha popular para construir interfaces de usuário dinâmicas e interativas, focando na programação declarativa."},"noteIcon":2,"updated":"2025-09-26T19:44:49.955-03:00","dg-note-properties":{"topics":["Webdesign","Linguagem de Programação"]}}
 ---
 
 #JavaScript #Webdesign #React #Nextjs

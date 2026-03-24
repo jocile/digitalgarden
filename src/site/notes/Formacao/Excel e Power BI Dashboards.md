@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/excel-e-power-bi-dashboards/","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-10-23T09:20:43.730-03:00"}
+{"dg-publish":true,"permalink":"/formacao/excel-e-power-bi-dashboards/","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-10-23T09:20:43.730-03:00","dg-note-properties":{"class":"mapa","topics":["Excel","PowerBI","Dashboards"]}}
 ---
 
 #Excel #Formação #mapa #Powerbi #Dashboard

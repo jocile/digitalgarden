@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/personagens-biblicos/","metatags":{"description":"figuras importantes mencionadas nos Evangelhos e Atos dos Apóstolos"},"noteIcon":2,"updated":"2025-08-27T18:33:17.526-03:00"}
+{"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/personagens-biblicos/","metatags":{"description":"figuras importantes mencionadas nos Evangelhos e Atos dos Apóstolos"},"noteIcon":2,"updated":"2025-08-27T18:33:17.526-03:00","dg-note-properties":{"topics":["História do Cristianismo"]}}
 ---
 
 #Teologia/Historia

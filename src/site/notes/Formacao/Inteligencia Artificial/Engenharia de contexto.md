@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/engenharia-de-contexto/","metatags":{"description":"é o processo fundamental de fornecer informações estruturadas e diretrizes claras para uma IA"},"noteIcon":2,"updated":"2026-03-03T09:39:52.969-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/engenharia-de-contexto/","metatags":{"description":"é o processo fundamental de fornecer informações estruturadas e diretrizes claras para uma IA"},"noteIcon":2,"updated":"2026-03-03T09:39:52.969-03:00","dg-note-properties":{"topics":["Live coding","Automação"]}}
 ---
 
 #ia 

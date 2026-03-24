@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/php/exemplos-em-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2026-02-18T16:27:20.003-03:00"}
+{"dg-publish":true,"permalink":"/formacao/php/exemplos-em-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2026-02-18T16:27:20.003-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Linguagem de Programação","WebSites"]}}
 ---
 
 #PHP

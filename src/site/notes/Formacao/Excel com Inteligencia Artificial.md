@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/excel-com-inteligencia-artificial/","metatags":{"description":"Entendendo as principais fórmulas e dominando as principais práticas do mercado para tratar e exibir dados em relatórios com eficiência e o apoio da IA"},"noteIcon":"default","updated":"2025-12-20T21:05:28.682-03:00"}
+{"dg-publish":true,"permalink":"/formacao/excel-com-inteligencia-artificial/","metatags":{"description":"Entendendo as principais fórmulas e dominando as principais práticas do mercado para tratar e exibir dados em relatórios com eficiência e o apoio da IA"},"noteIcon":"default","updated":"2025-12-20T21:05:28.682-03:00","dg-note-properties":{"class":"mapa","topics":["Excel","Copilot","Dashboards"]}}
 ---
 
 #Excel #Formação #mapa #Powerbi #Dashboard

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/especializacao-em-redes-e-seguranca/","title":"Especialização em Redes e Segurança","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T22:47:43.294-03:00"}
+{"dg-publish":true,"permalink":"/formacao/especializacao-em-redes-e-seguranca/","title":"Especialização em Redes e Segurança","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T22:47:43.294-03:00","dg-note-properties":{"class":"mapa","title":"Especialização em Redes e Segurança","topics":["Redes de Computadores","Segurança de Sistema","Perícia Forence"]}}
 ---
 
 #Formação #mapa

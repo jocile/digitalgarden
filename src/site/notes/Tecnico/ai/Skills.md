@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ai/skills/","metatags":{"description":"são como playbooks que a IA lê para executar tarefas específicas, tornando-se especialista no seu negócio"},"noteIcon":2,"updated":"2026-03-15T17:57:48.169-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ai/skills/","metatags":{"description":"são como playbooks que a IA lê para executar tarefas específicas, tornando-se especialista no seu negócio"},"noteIcon":2,"updated":"2026-03-23T07:49:27.948-03:00","dg-note-properties":{"aliases":["Skill"],"topics":["Live coding","Automação"]}}
 ---
 
 #ia #Projeto #Antigravity
@@ -69,14 +69,10 @@ Habilidades poderosas disponíveis para o ecossistema:
 
 ## Referências
 
+- [Estenda Claude com skills - Claude Code Docs](https://code.claude.com/docs/pt/skills)
 - [Agente de IA é coisa do passado. Agora eu só uso SKILLS. - YouTube](https://www.youtube.com/watch?v=h_l8wCr7M2Q)
 - [Antigravity Skills: A novidade MAIS INSANA (vai te dar superpoderes) - YouTube](https://www.youtube.com/watch?v=xhlSi0Sc6dc)
-- [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity Awesome Skills\|Antigravity Awesome Skills]]
-- [GitHub - google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
-- [GitHub - anthropics/skills: Public repository for Agent Skills · GitHub](https://github.com/anthropics/skills)
-- [Overview - Agent Skills](https://agentskills.io/home)
-- [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity Kit\|Antigravity Kit]]
-- [The Agent Skills Directory](https://skills.sh/)
-- [GitHub - kepano/obsidian-skills: Agent skills for Obsidian](https://github.com/kepano/obsidian-skills)
-- [agent-skills-manager – Open VSX Registry](https://open-vsx.org/extension/whyuds/agent-skills-manager)
 - [Agora a Anthropic revolucionou TUDO de novo! - YouTube](https://www.youtube.com/watch?v=yPoSJbLxbS8)
+- [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity Awesome Skills\|Antigravity Awesome Skills]]
+- [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity Kit\|Antigravity Kit]]
+- [[Tecnico/ai/Repositórios de Skills\|Repositórios de Skills]]

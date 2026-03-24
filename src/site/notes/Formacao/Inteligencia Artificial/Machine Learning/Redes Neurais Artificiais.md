@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/machine-learning/redes-neurais-artificiais/","title":"Redes Neurais Artificiais","metatags":{"description":"são um tipo de modelo de aprendizado de máquina inspirado no funcionamento do cérebro humano."},"tags":["Inteligencia-artificial","Machine-Learning"],"noteIcon":1,"updated":"2026-03-12T22:54:21.902-03:00"}
+{"dg-publish":true,"permalink":"/formacao/inteligencia-artificial/machine-learning/redes-neurais-artificiais/","title":"Redes Neurais Artificiais","metatags":{"description":"são um tipo de modelo de aprendizado de máquina inspirado no funcionamento do cérebro humano."},"tags":["Inteligencia-artificial","Machine-Learning"],"noteIcon":1,"updated":"2026-03-12T22:54:21.902-03:00","dg-note-properties":{"title":"Redes Neurais Artificiais","tags":["Inteligencia-artificial","Machine-Learning"]}}
 ---
 
 # Redes Neurais Artificiais

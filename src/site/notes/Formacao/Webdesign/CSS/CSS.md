@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/webdesign/css/css/","title":"Introdução ao CSS","metatags":{"description":"é um mecanismo utilizado para adicionar estilo a documentos web"},"noteIcon":2,"updated":"2025-07-23T18:58:10.708-03:00"}
+{"dg-publish":true,"permalink":"/formacao/webdesign/css/css/","title":"Introdução ao CSS","metatags":{"description":"é um mecanismo utilizado para adicionar estilo a documentos web"},"noteIcon":2,"updated":"2025-07-23T18:58:10.708-03:00","dg-note-properties":{"title":"Introdução ao CSS","cssclasses":null,"topics":["Webdesign"]}}
 ---
 
 #Webdesign #CSS 

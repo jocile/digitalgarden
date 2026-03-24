@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/combinei-notebook-lm-antigravity-com-skills-e-criei-um-app-completo/","title":"Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo (INSANO)","metatags":{"description":"criar um app completo de controle financeiro pessoal sem escrever uma linha de código"},"noteIcon":2,"updated":"2026-03-13T09:50:13.629-03:00"}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/combinei-notebook-lm-antigravity-com-skills-e-criei-um-app-completo/","title":"Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo (INSANO)","metatags":{"description":"criar um app completo de controle financeiro pessoal sem escrever uma linha de código"},"noteIcon":2,"updated":"2026-03-13T09:50:13.629-03:00","dg-note-properties":{"created":"2026-03-09T20:07:06-03:00","reviewed":null,"url":"https://www.youtube.com/watch?v=A8Q2hJCBop8","title":"Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo (INSANO)","channel":"Matheus Battisti - Hora de Codar","related":["[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]","[[Tecnico/Ferramentas/ferramentas de IA/Notebooklm\|Notebooklm]]","[[Antigravity Awesome Skills]]"],"published":"2026-03-09","thumbnailUrl":"https://i.ytimg.com/vi/A8Q2hJCBop8/maxresdefault.jpg","duration":"0:22:01","watched":true}}
 ---
 
 # Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo (INSANO)
@@ -58,7 +58,7 @@ O vídeo apresenta um fluxo de trabalho inovador para criar **aplicativos web co
 **O [[Tecnico/ai/Workflows\|Workflows]]:**
 
 1. **[[Tecnico/Ferramentas/ferramentas de IA/Notebooklm\|Notebooklm]] (05:50):** Utilizado para realizar uma pesquisa profunda (_Deep Research_) sobre dores reais de usuários e funcionalidades essenciais para um app de **controle financeiro pessoal**. Ele condensa informações de diversas fontes e gera [[Tecnico/ai/Prompts\|Prompts]] detalhados para o backend e frontend.
-2. **[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]] (12:40):** Onde o código é gerado automaticamente. O usuário cola os [[Tecnico/ai/Prompts\|Prompts]] do [[Tecnico/Ferramentas/ferramentas de IA/Notebooklm\|Notebooklm]] e utiliza o **@senior-fullstack** para criar a estrutura completa (API Express, SQLite, React).
+2. **[[Antigravity]] (12:40):** Onde o código é gerado automaticamente. O usuário cola os [[Tecnico/ai/Prompts\|Prompts]] do [[Notebooklm]] e utiliza o **@senior-fullstack** para criar a estrutura completa (API Express, SQLite, React).
 3. **[[Tecnico/ai/Skills\|Skills]] (16:00):** Aplicação de habilidades especializadas para polir o app:
     - **@ui-ux-pro-max:** Melhora o design e a experiência do usuário (0:16:00).
     - **@web-performance-optimization:** Otimiza o desempenho do código (0:19:14).

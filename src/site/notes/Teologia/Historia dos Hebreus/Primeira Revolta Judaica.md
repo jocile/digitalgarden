@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/primeira-revolta-judaica/","metatags":{"description":"figuras importantes mencionadas nos Evangelhos e Atos dos Apóstolos"},"noteIcon":2,"updated":"2025-08-27T18:33:37.640-03:00"}
+{"dg-publish":true,"permalink":"/teologia/historia-dos-hebreus/primeira-revolta-judaica/","metatags":{"description":"figuras importantes mencionadas nos Evangelhos e Atos dos Apóstolos"},"noteIcon":2,"updated":"2025-08-27T18:33:37.640-03:00","dg-note-properties":{"topics":["História dos Hebreus"]}}
 ---
 
 #Teologia/Historia #Judeus

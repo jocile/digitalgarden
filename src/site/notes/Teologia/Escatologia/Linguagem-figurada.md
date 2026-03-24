@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/escatologia/linguagem-figurada/","metatags":{"description":"Através de comparações com elementos do mundo físico e experiências do cotidiano, a Bíblia utiliza o conhecido para explicar o desconhecido"},"noteIcon":2,"updated":"2025-08-23T21:03:54.573-03:00"}
+{"dg-publish":true,"permalink":"/teologia/escatologia/linguagem-figurada/","metatags":{"description":"Através de comparações com elementos do mundo físico e experiências do cotidiano, a Bíblia utiliza o conhecido para explicar o desconhecido"},"noteIcon":2,"updated":"2025-08-23T21:03:54.573-03:00","dg-note-properties":{"cssclasses":null,"topics":["Linguagem Figurada"]}}
 ---
 
 #Teologia #Homilética

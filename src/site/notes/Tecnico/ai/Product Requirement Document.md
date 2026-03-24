@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ai/product-requirement-document/","metatags":{"description":"documentação central que serve para instruir a inteligência artificial sobre como o projeto deve funcionar"},"noteIcon":2,"updated":"2026-03-18T09:48:53.145-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/ai/product-requirement-document/","metatags":{"description":"documentação central que serve para instruir a inteligência artificial sobre como o projeto deve funcionar"},"noteIcon":2,"updated":"2026-03-18T09:48:53.145-03:00","dg-note-properties":{"aliases":["PRD"],"topics":["Live coding","Projetos de aplicativos"]}}
 ---
 
 #ia #Projeto #Antigravity

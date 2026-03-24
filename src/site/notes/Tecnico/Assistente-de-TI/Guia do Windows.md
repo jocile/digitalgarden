@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/guia-do-windows/","metatags":{"description":"ideias fundamentais escondidas no Windows"},"noteIcon":2,"updated":"2025-10-09T11:03:16.547-03:00"}
+{"dg-publish":true,"permalink":"/tecnico/assistente-de-ti/guia-do-windows/","metatags":{"description":"ideias fundamentais escondidas no Windows"},"noteIcon":2,"updated":"2025-10-09T11:03:16.547-03:00","dg-note-properties":{"class":"tecnico, aula","cssclasses":null,"topics":["Sistemas Operacionais","Windows"]}}
 ---
 
 #aula #Windows
