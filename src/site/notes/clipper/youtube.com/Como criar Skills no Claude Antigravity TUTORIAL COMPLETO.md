@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/como-criar-skills-no-claude-antigravity-tutorial-completo/","title":"Como criar Skills no Claude/Antigravity: TUTORIAL COMPLETO","noteIcon":2,"updated":"2026-03-14T16:40:00.315-03:00","dg-note-properties":{"created":"2026-03-14T15:55:45-03:00","url":"https://www.youtube.com/watch?v=2Zi3rGxWxDk?start=234","title":"Como criar Skills no Claude/Antigravity: TUTORIAL COMPLETO","channel":"Well Pires","related":["[[Tecnico/ai/Skills\|Skills]]"],"published":"2026-02-27","thumbnailUrl":"https://i.ytimg.com/vi/2Zi3rGxWxDk/maxresdefault.jpg","duration":"0:28:29","watched":null}}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/como-criar-skills-no-claude-antigravity-tutorial-completo/","title":"Como criar Skills no Claude/Antigravity: TUTORIAL COMPLETO","noteIcon":2,"updated":"2026-03-25T08:27:26.917-03:00","dg-note-properties":{"created":"2026-03-14T15:55:45-03:00","url":"https://www.youtube.com/watch?v=2Zi3rGxWxDk?start=234","title":"Como criar Skills no Claude/Antigravity: TUTORIAL COMPLETO","channel":"Well Pires","related":["[[Tecnico/ai/Skills\|Skills]]"],"published":"2026-02-27","thumbnailUrl":"https://i.ytimg.com/vi/2Zi3rGxWxDk/maxresdefault.jpg","duration":"0:28:29","watched":null}}
 ---
 
 # Como criar Skills no Claude/Antigravity: TUTORIAL COMPLETO
@@ -49,6 +49,6 @@ VPS da Hostinger usando o cupom WELLPIRES para obter + desconto (por tempo limit
 Agents.md:
 https://docs.google.com/document/d/1MQHF01jroAWSF5dIsI55eu3sJPUh6UwxSL8yAocmkjc/edit?tab=t.0
 
-#vibecode #agentic-skills #Antigravity 
+#vibecode #agentic-skills #Antigravity #video 
 
 - [Specification - Agent Skills](https://agentskills.io/specification)

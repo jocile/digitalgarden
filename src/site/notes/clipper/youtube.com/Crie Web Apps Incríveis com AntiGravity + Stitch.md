@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/crie-web-apps-incriveis-com-anti-gravity-stitch/","title":"Crie Web Apps Incríveis com AntiGravity + Stitch (Nova Skill)","metatags":{"description":"Combinando duas ferramentas do Google, o Stitch para design gratuito baseado em prompts, e o Antigravity para desenvolvimento com IA."},"noteIcon":2,"updated":"2026-03-13T16:22:03.040-03:00","dg-note-properties":{"created":"2026-03-13T15:05:21-03:00","url":"https://www.youtube.com/watch?v=m6KDhIEDE64","title":"Crie Web Apps Incríveis com AntiGravity + Stitch (Nova Skill)","channel":"Empreendedor Serial","related":["[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]"],"published":"2026-02-17","thumbnailUrl":"https://i.ytimg.com/vi/m6KDhIEDE64/maxresdefault.jpg","duration":"0:19:33","watched":null}}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/crie-web-apps-incriveis-com-anti-gravity-stitch/","title":"Crie Web Apps Incríveis com AntiGravity + Stitch (Nova Skill)","metatags":{"description":"Combinando duas ferramentas do Google, o Stitch para design gratuito baseado em prompts, e o Antigravity para desenvolvimento com IA."},"noteIcon":2,"updated":"2026-03-25T08:26:37.628-03:00","dg-note-properties":{"created":"2026-03-13T15:05:21-03:00","url":"https://www.youtube.com/watch?v=m6KDhIEDE64","title":"Crie Web Apps Incríveis com AntiGravity + Stitch (Nova Skill)","channel":"Empreendedor Serial","related":["[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]"],"published":"2026-02-17","thumbnailUrl":"https://i.ytimg.com/vi/m6KDhIEDE64/maxresdefault.jpg","duration":"0:19:33","watched":null}}
 ---
 
 # Crie Web Apps Incríveis com AntiGravity + Stitch (Nova Skill)
@@ -55,4 +55,4 @@ Segundo prompt:
  "Gostaria de criar a página inteira até o footer, com todas as sessões, produtos mais vendidos, prova social, promoções, lançamentos, etc."
 ```
 
-#Antigravity #Stitch #Webdesign 
+#Antigravity #Stitch #Webdesign #vibecode #video

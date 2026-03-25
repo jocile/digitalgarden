@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/como-usar-o-google-antigravity-melhor-que-99-das-pessoas/","title":"Como usar o Google Antigravity melhor que 99% das pessoas! (4 hacks)","metatags":{"description":"apresenta o Google Antigravity - uma ferramenta de desenvolvimento baseada no VS Code, e ensina 4 hacks avançados para aumentar a produtividade e reduzir custos com tokens em projetos de IA"},"noteIcon":2,"updated":"2026-03-13T09:52:20.487-03:00","dg-note-properties":{"created":"2026-03-12T10:07:30-03:00","reviewed":null,"url":"https://www.youtube.com/watch?v=LnOhoJ6GDqw","title":"Como usar o Google Antigravity melhor que 99% das pessoas! (4 hacks)","channel":"Empreendedor Serial","related":["[[Tecnico/ai/Skills\|Skills]]","[[Tecnico/ai/Model Context Protocol\|Model Context Protocol]]"],"published":"2026-01-23","thumbnailUrl":"https://i.ytimg.com/vi/LnOhoJ6GDqw/maxresdefault.jpg","duration":"0:25:38","watched":"true"}}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/como-usar-o-google-antigravity-melhor-que-99-das-pessoas/","title":"Como usar o Google Antigravity melhor que 99% das pessoas! (4 hacks)","metatags":{"description":"apresenta o Google Antigravity - uma ferramenta de desenvolvimento baseada no VS Code, e ensina 4 hacks avançados para aumentar a produtividade e reduzir custos com tokens em projetos de IA"},"noteIcon":2,"updated":"2026-03-25T10:05:04.705-03:00","dg-note-properties":{"created":"2026-03-12T10:07:30-03:00","reviewed":null,"url":"https://www.youtube.com/watch?v=LnOhoJ6GDqw","title":"Como usar o Google Antigravity melhor que 99% das pessoas! (4 hacks)","channel":"Empreendedor Serial","related":["[[Tecnico/ai/Skills\|Skills]]","[[Tecnico/ai/Model Context Protocol\|Model Context Protocol]]"],"published":"2026-01-23","thumbnailUrl":"https://i.ytimg.com/vi/LnOhoJ6GDqw/maxresdefault.jpg","duration":"0:25:38","watched":true}}
 ---
 
 # Empreendedor Serial - Como usar o Google Antigravity melhor que 99% das pessoas
@@ -44,4 +44,4 @@ Neste vídeo, vou te tirar da "Matrix" da programação amadora. Você vai apren
 - 💰 A técnica exata para reduzir o consumo de tokens em 50% (e economizar dinheiro).
 - ⚙️ Como transformar sua rotina de AI Coding em um sistema profissional e escalável.
 
-#Antigravity #IA #DevIA  #ProgramaçãoAI #AIcoders #gemini
+#Antigravity #IA #DevIA  #ProgramaçãoAI #AIcoders #gemini #vibecode #video

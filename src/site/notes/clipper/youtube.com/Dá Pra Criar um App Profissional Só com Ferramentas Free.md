@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/da-pra-criar-um-app-profissional-so-com-ferramentas-free/","title":"Dá Pra Criar um App Profissional Só com Ferramentas Free?","metatags":{"description":"O vídeo apresenta um comparativo de como criar um aplicativo profissional do zero ao deploy utilizando duas abordagens distintas para comparação, ferramentas gratuitas e pagas."},"noteIcon":2,"updated":"2026-03-13T09:48:33.598-03:00","dg-note-properties":{"created":"2026-03-12T10:14:09-03:00","reviewed":null,"url":"https://www.youtube.com/watch?v=FbS2uEw9GIk","title":"Dá Pra Criar um App Profissional Só com Ferramentas Free?","channel":"Helio Arreche - VibeCoding","related":["[[Comparativo ferramentas gratuitas versus pagas]]","[[Antigravity]]","[[Workflows]]"],"published":"2026-03-02","thumbnailUrl":"https://i.ytimg.com/vi/FbS2uEw9GIk/maxresdefault.jpg","duration":"1:26:41","watched":true}}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/da-pra-criar-um-app-profissional-so-com-ferramentas-free/","title":"Dá Pra Criar um App Profissional Só com Ferramentas Free?","metatags":{"description":"O vídeo apresenta um comparativo de como criar um aplicativo profissional do zero ao deploy utilizando duas abordagens distintas para comparação, ferramentas gratuitas e pagas."},"noteIcon":2,"updated":"2026-03-25T08:26:26.100-03:00","dg-note-properties":{"created":"2026-03-12T10:14:09-03:00","reviewed":null,"url":"https://www.youtube.com/watch?v=FbS2uEw9GIk","title":"Dá Pra Criar um App Profissional Só com Ferramentas Free?","channel":"Helio Arreche - VibeCoding","related":["[[Comparativo ferramentas gratuitas versus pagas]]","[[Antigravity]]","[[Workflows]]"],"published":"2026-03-02","thumbnailUrl":"https://i.ytimg.com/vi/FbS2uEw9GIk/maxresdefault.jpg","duration":"1:26:41","watched":true}}
 ---
 
 # Dá Pra Criar um App Profissional Só com Ferramentas Free?
@@ -153,6 +153,6 @@ Aqui estão alguns vídeos relacionados sobre como criar aplicativos, com foco e
 - **O Google fez de novo: Crie e Publique Apps 100% GRÁTIS com o Google AI Studio** [http://www.youtube.com/watch?v=U4XNeOAsoq4:](http://www.youtube.com/watch?v=U4XNeOAsoq4:) Um vídeo que explora como criar e publicar aplicativos gratuitamente usando o Google AI Studio.
 - **Testei 9 IAs que CRIAM APPS! Qual é a MELHOR em 2025?** [http://www.youtube.com/watch?v=fAJr-fGQsQE:](http://www.youtube.com/watch?v=fAJr-fGQsQE:) Este vídeo testa nove plataformas de IA para criação de aplicativos para determinar qual é a melhor em 2025.
 
- #gemini #claudecode  #IA  #vibecode #hostinger #vercel #Stitch
+ #gemini #claudecode  #IA  #vibecode #hostinger #vercel #Stitch #video 
 
 [Criado com ![](https://www.gstatic.com/images/branding/productlogos/gemini_2025/v1/web-16dp/logo_gemini_2025_color_2x_web_16dp.png)Gemini](https://gemini.google.com/)

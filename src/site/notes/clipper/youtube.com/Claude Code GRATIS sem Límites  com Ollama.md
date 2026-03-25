@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/claude-code-gratis-sem-limites-com-ollama/","title":"Chao Antigravity! Claude Code ahora es GRATIS y SIN Límites (Ollama) 💣","noteIcon":1,"updated":"2026-03-24T08:57:54.102-03:00","dg-note-properties":{"created":"2026-03-19T18:39:36-03:00","url":"https://www.youtube.com/watch?v=kPjOxHdp3OI","title":"Chao Antigravity! Claude Code ahora es GRATIS y SIN Límites (Ollama) 💣","channel":"Alejavi Rivera","related":["[[Videos]]"],"published":"2026-03-19","thumbnailUrl":"https://i.ytimg.com/vi/kPjOxHdp3OI/maxresdefault.jpg","duration":"0:28:50","watched":null}}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/claude-code-gratis-sem-limites-com-ollama/","title":"Chao Antigravity! Claude Code ahora es GRATIS y SIN Límites (Ollama) 💣","noteIcon":1,"updated":"2026-03-25T08:28:14.275-03:00","dg-note-properties":{"created":"2026-03-19T18:39:36-03:00","url":"https://www.youtube.com/watch?v=kPjOxHdp3OI","title":"Chao Antigravity! Claude Code ahora es GRATIS y SIN Límites (Ollama) 💣","channel":"Alejavi Rivera","related":["[[Videos]]"],"published":"2026-03-19","thumbnailUrl":"https://i.ytimg.com/vi/kPjOxHdp3OI/maxresdefault.jpg","duration":"0:28:50","watched":null}}
 ---
 
 # Adeus Antigravity! Claude Code GRATIS e sem Limites com Ollama 💣
@@ -52,7 +52,7 @@ Para instalar novas **habilidades (skills)** no agente _Claude Code_ e expandir 
 
 ## 🔗 Referencias 
 
-#Ollama #Claude #Agentes 
+#Ollama #Claude #Agentes #vibecode #video
 
 - [Configurar Claude Code - Claude Code Docs](https://code.claude.com/docs/pt/setup)
 - Ollama em um servidor: <https://www.hostinger.com/alejavid> - Use o cupom ALEJAVI para 10%.

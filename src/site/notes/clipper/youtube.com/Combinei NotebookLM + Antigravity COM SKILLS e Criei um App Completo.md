@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/combinei-notebook-lm-antigravity-com-skills-e-criei-um-app-completo/","title":"Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo (INSANO)","metatags":{"description":"criar um app completo de controle financeiro pessoal sem escrever uma linha de código"},"noteIcon":2,"updated":"2026-03-13T09:50:13.629-03:00","dg-note-properties":{"created":"2026-03-09T20:07:06-03:00","reviewed":null,"url":"https://www.youtube.com/watch?v=A8Q2hJCBop8","title":"Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo (INSANO)","channel":"Matheus Battisti - Hora de Codar","related":["[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]","[[Tecnico/Ferramentas/ferramentas de IA/Notebooklm\|Notebooklm]]","[[Antigravity Awesome Skills]]"],"published":"2026-03-09","thumbnailUrl":"https://i.ytimg.com/vi/A8Q2hJCBop8/maxresdefault.jpg","duration":"0:22:01","watched":true}}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/combinei-notebook-lm-antigravity-com-skills-e-criei-um-app-completo/","title":"Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo (INSANO)","metatags":{"description":"criar um app completo de controle financeiro pessoal sem escrever uma linha de código"},"noteIcon":2,"updated":"2026-03-25T08:27:40.977-03:00","dg-note-properties":{"created":"2026-03-09T20:07:06-03:00","reviewed":null,"url":"https://www.youtube.com/watch?v=A8Q2hJCBop8","title":"Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo (INSANO)","channel":"Matheus Battisti - Hora de Codar","related":["[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]","[[Tecnico/Ferramentas/ferramentas de IA/Notebooklm\|Notebooklm]]","[[Antigravity Awesome Skills]]"],"published":"2026-03-09","thumbnailUrl":"https://i.ytimg.com/vi/A8Q2hJCBop8/maxresdefault.jpg","duration":"0:22:01","watched":true}}
 ---
 
 # Combinei NotebookLM + Antigravity COM SKILLS e Criei um App Completo (INSANO)
@@ -65,4 +65,4 @@ O vídeo apresenta um fluxo de trabalho inovador para criar **aplicativos web co
 
 O resultado final é um [[Tecnico/ai/mvp\|mvp]] (**Minimum Viable Product**) funcional, bonito e otimizado, criado rapidamente apenas copiando e colando os [[Tecnico/ai/Prompts\|Prompts]] gerados pela IA.
 
-#Antigravity #Notebooklm #IA #DevIA  #Skill #ProgramaçãoAI #AIcoders #gemini
+#Antigravity #Notebooklm #IA #DevIA  #Skill #ProgramaçãoAI #AIcoders #gemini #vibecode #video

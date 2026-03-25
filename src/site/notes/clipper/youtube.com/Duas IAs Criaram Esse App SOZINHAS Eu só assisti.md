@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/duas-i-as-criaram-esse-app-sozinhas-eu-so-assisti/","title":"Duas IAs Criaram Esse App SOZINHAS: Eu só assisti (Google Stitch + Antigravity é INSANO)","metatags":{"description":"O vídeo apresenta um fluxo de trabalho de ponta a ponta para criar aplicativos usando duas IAs do Google."},"noteIcon":"2","updated":"2026-03-13T09:46:51.701-03:00","dg-note-properties":{"created":"2026-03-12T22:04:56-03:00","url":"https://www.youtube.com/watch?v=Mt4dH9MqYEw","title":"Duas IAs Criaram Esse App SOZINHAS: Eu só assisti (Google Stitch + Antigravity é INSANO)","channel":"Matheus Battisti - Hora de Codar","related":["[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]","[[Formacao/UX design/Design System\|Design System]]","[[Tecnico/ai/Model Context Protocol\|Model Context Protocol]]"],"published":"2026-02-15","thumbnailUrl":"https://i.ytimg.com/vi/Mt4dH9MqYEw/maxresdefault.jpg","duration":"0:20:41","watched":null}}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/duas-i-as-criaram-esse-app-sozinhas-eu-so-assisti/","title":"Duas IAs Criaram Esse App SOZINHAS: Eu só assisti (Google Stitch + Antigravity é INSANO)","metatags":{"description":"O vídeo apresenta um fluxo de trabalho de ponta a ponta para criar aplicativos usando duas IAs do Google."},"noteIcon":"2","updated":"2026-03-25T08:26:08.907-03:00","dg-note-properties":{"created":"2026-03-12T22:04:56-03:00","url":"https://www.youtube.com/watch?v=Mt4dH9MqYEw","title":"Duas IAs Criaram Esse App SOZINHAS: Eu só assisti (Google Stitch + Antigravity é INSANO)","channel":"Matheus Battisti - Hora de Codar","related":["[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]","[[Formacao/UX design/Design System\|Design System]]","[[Tecnico/ai/Model Context Protocol\|Model Context Protocol]]"],"published":"2026-02-15","thumbnailUrl":"https://i.ytimg.com/vi/Mt4dH9MqYEw/maxresdefault.jpg","duration":"0:20:41","watched":null}}
 ---
 
 # Duas IAs Criaram Esse App SOZINHAS: Eu só assisti (Google Stitch + Antigravity é INSANO)
@@ -54,4 +54,4 @@ TIMESTAMPS
 17:43 Pedindo ajustes ao [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]
 19:45 Conclusão e próximos passos com [[Antigravity]] e Google Stitch
 
-#gemini #Antigravity  #IA  #vibecode  #Stitch
+#gemini #Antigravity  #IA  #vibecode  #Stitch #video 

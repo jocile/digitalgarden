@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/videos/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"cards","noteIcon":"default","updated":"2026-03-20T20:34:09.359-03:00","dg-note-properties":{"class":"mapa","cssclasses":["cards"]}}
+{"dg-publish":true,"permalink":"/videos/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"cards","noteIcon":"default","updated":"2026-03-25T08:28:49.324-03:00","dg-note-properties":{"class":"mapa","cssclasses":["cards"]}}
 ---
 
 
@@ -10,6 +10,7 @@
 
 | Data     | ✨ Título                                                                                                                                                                                                          | Cover                                                                  | duration |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------- |
+| 24.03.26 | [[clipper/youtube.com/Spec Driven Development SDD a melhor forma de programar com IA\|Spec Driven Development SDD a melhor forma de programar com IA]]                                                         | ![thumbnail\|50](https://i.ytimg.com/vi/9qJIJz2HLws/maxresdefault.jpg) | 0:35:02  |
 | 19.03.26 | [[clipper/youtube.com/Claude Code GRATIS sem Límites  com Ollama\|Claude Code GRATIS sem Límites  com Ollama]]                                                                                                 | ![thumbnail\|50](https://i.ytimg.com/vi/kPjOxHdp3OI/maxresdefault.jpg) | 0:28:50  |
 | 14.03.26 | [[clipper/youtube.com/Web Scraping GRÁTIS com Antigravity\|Web Scraping GRÁTIS com Antigravity]]                                                                                                               | ![thumbnail\|50](https://i.ytimg.com/vi/awN8H5Z-nyk/maxresdefault.jpg) | 0:19:12  |
 | 12.03.26 | [[clipper/youtube.com/Lançamento Opensquad Crie seu time de Agentes IA\|Lançamento Opensquad Crie seu time de Agentes IA]]                                                                                     | ![thumbnail\|50](https://i.ytimg.com/vi/CL1ppI4qHeU/maxresdefault.jpg) | 0:26:38  |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/google-antigravity-ide-crie-projeto-com-ia-do-zero-ao-deploy/","title":"Google Antigravity IDE: Crie Projeto com IA do ZERO ao Deploy","metatags":{"description":"aprenda a criar projeto com inteligência artificial, autenticação e deploy em VPS."},"noteIcon":2,"updated":"2026-03-13T16:43:10.084-03:00","dg-note-properties":{"created":"2026-03-13T16:34:04-03:00","url":"https://www.youtube.com/watch?v=mKmuEaRndO8?list=PLnDvRpP8Bnew9OB-dofSPBsbK_gB7SPv6","title":"Google Antigravity IDE: Crie Projeto com IA do ZERO ao Deploy","channel":"Matheus Battisti - Hora de Codar","related":["[[Videos]]"],"published":"2025-12-15","thumbnailUrl":"https://i.ytimg.com/vi/mKmuEaRndO8/maxresdefault.jpg","duration":"0:51:53","watched":null}}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/google-antigravity-ide-crie-projeto-com-ia-do-zero-ao-deploy/","title":"Google Antigravity IDE: Crie Projeto com IA do ZERO ao Deploy","metatags":{"description":"aprenda a criar projeto com inteligência artificial, autenticação e deploy em VPS."},"noteIcon":2,"updated":"2026-03-25T08:25:48.652-03:00","dg-note-properties":{"created":"2026-03-13T16:34:04-03:00","url":"https://www.youtube.com/watch?v=mKmuEaRndO8?list=PLnDvRpP8Bnew9OB-dofSPBsbK_gB7SPv6","title":"Google Antigravity IDE: Crie Projeto com IA do ZERO ao Deploy","channel":"Matheus Battisti - Hora de Codar","related":["[[Videos]]"],"published":"2025-12-15","thumbnailUrl":"https://i.ytimg.com/vi/mKmuEaRndO8/maxresdefault.jpg","duration":"0:51:53","watched":null}}
 ---
 
 # Google Antigravity IDE: Crie Projeto com IA do ZERO ao Deploy
@@ -66,4 +66,4 @@ Entre no nosso servidor de Discord e me siga nas redes:
 🔴 Instagram: [Hora de Codar – Matheus Battisti (@horadecodar) • Fotos e vídeos do Instagram](https://www.instagram.com/horadecodar/)
 🔷 Telegram: [Telegram: View @horadecodar](https://t.me/horadecodar)
 
-#Antigravity #vibecode 
+#Antigravity #vibecode #video

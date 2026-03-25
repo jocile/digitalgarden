@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/web-scraping-gratis-com-antigravity/","noteIcon":2,"updated":"2026-03-18T17:55:19.279-03:00","dg-note-properties":{"created":"2026-03-18T10:08:51-03:00","url":"https://www.youtube.com/watch?v=awN8H5Z-nyk","channel":"Empreendedor Serial","related":["[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]"],"published":"2026-03-14","thumbnailUrl":"https://i.ytimg.com/vi/awN8H5Z-nyk/maxresdefault.jpg","duration":"0:19:12","watched":null}}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/web-scraping-gratis-com-antigravity/","noteIcon":2,"updated":"2026-03-25T08:24:30.061-03:00","dg-note-properties":{"created":"2026-03-18T10:08:51-03:00","url":"https://www.youtube.com/watch?v=awN8H5Z-nyk","channel":"Empreendedor Serial","related":["[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]"],"published":"2026-03-14","thumbnailUrl":"https://i.ytimg.com/vi/awN8H5Z-nyk/maxresdefault.jpg","duration":"0:19:12","watched":null}}
 ---
 
 
@@ -52,4 +52,4 @@ Mostro também como integrar um servidor proxy diretamente no spider para elimin
 
 🛠️ Stack utilizada:
 
-#Antigravity #Proxy  · Gemini · Playwright · SQLite · Next.js · Docker
+#Antigravity #Proxy #vibecode #video #Gemini · Playwright · SQLite · Next.js · Docker
