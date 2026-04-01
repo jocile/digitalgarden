@@ -12,15 +12,15 @@ Abaixo estão os pilares e funcionalidades centrais do kit conforme as fontes:
 
 O pacote é extremamente robusto e focado em **especialização agêntica**, contendo:
 
-- **Mais de 20 [[Tecnico/ai/agentes/agentes de ia\|Agentes Especializados]]:** IA treinadas para tarefas específicas em áreas como front-end, back-end e banco de dados.
-- **Mais de 37 [[Tecnico/ai/Skills\|Skills]] (Habilidades):** Instruções modulares para automação de recursos, como criação de bancos de dados, auditorias de segurança e otimização de performance.
-- **Mais de 11 [[Tecnico/ai/Workflows\|Workflows]] (Fluxos de Trabalho):** Macros manuais para execuções sequenciais, incluindo ferramentas para deploy e documentação.
+- **Mais de 20 [[Inteligencia Artificial/agentes/agentes de ia\|Agentes Especializados]]:** IA treinadas para tarefas específicas em áreas como front-end, back-end e banco de dados.
+- **Mais de 37 [[Inteligencia Artificial/Skills\|Skills]] (Habilidades):** Instruções modulares para automação de recursos, como criação de bancos de dados, auditorias de segurança e otimização de performance.
+- **Mais de 11 [[Inteligencia Artificial/Workflows\|Workflows]] (Fluxos de Trabalho):** Macros manuais para execuções sequenciais, incluindo ferramentas para deploy e documentação.
 
 ### 2. O Comando Orchestrate (Orquestração)
 
 Um dos recursos mais poderosos do kit é o comando **`/orchestrate`**. Quando ativado, o sistema entra em modo de orquestração, realizando as seguintes ações:
 
-- **Leitura do PRD:** O agente principal lê o Documento de [[Formacao/UX design/requisitos\|requisitos]] do Produto (PRD) fornecido pelo usuário.
+- **Leitura do PRD:** O agente principal lê o Documento de [[Tecnico/UX design/requisitos\|requisitos]] do Produto (PRD) fornecido pelo usuário.
 - **Delegação Paralela:** Ele designa automaticamente um agente especialista para cada tarefa do projeto, permitindo que diferentes partes do software (como API e interface) sejam construídas **simultaneamente**.
 - **Velocidade:** Esta abordagem pode acelerar o processo de desenvolvimento em até 1000%, transformando o desenvolvedor em um orquestrador de múltiplos agentes.
 

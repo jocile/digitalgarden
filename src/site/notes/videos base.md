@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/videos-base/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"cards","noteIcon":"default","updated":"2026-03-25T10:55:46.745-03:00","dg-note-properties":{"class":"mapa","cssclasses":["cards"]}}
+{"dg-publish":true,"permalink":"/videos-base/","metatags":{"description":"Vídeos preferidos"},"noteIcon":"default","updated":"2026-03-25T11:05:11.659-03:00","dg-note-properties":{"class":"mapa"}}
 ---
 
 #teste/funciona 

@@ -20,15 +20,15 @@
 > [!summary]- Fundamentos de Desenvolvimento de Software com PHP
 > - Introdução ao Desenvolvimento Moderno de Software
 > - Introdução à Programação e Pensamento Computacional
-> - Introdução ao [[Formacao/PHP/Ecossistema PHP\|Ecossistema PHP]] e [Documentação](https://www.php.net/manual/pt_BR/)
-> - Tipos de Variáveis em PHP: [[Formacao/PHP/Exemplos em PHP\|Exemplos em PHP]]
-> - Estruturas [[Formacao/PHP/Condicionais em PHP\|Condicionais em PHP]] e de [[Formacao/PHP/Repeticao com PHP\|Repeticao com PHP]]
+> - Introdução ao [[Tecnico/PHP/Ecossistema PHP\|Ecossistema PHP]] e [Documentação](https://www.php.net/manual/pt_BR/)
+> - Tipos de Variáveis em PHP: [[Tecnico/PHP/Exemplos em PHP\|Exemplos em PHP]]
+> - Estruturas [[Tecnico/PHP/Condicionais em PHP\|Condicionais em PHP]] e de [[Tecnico/PHP/Repeticao com PHP\|Repeticao com PHP]]
 > - Desafio de código - Formação PHP - Desafios Básicos
 
 > [!summary]- Tratamento de Exceções e Programação Orientada a Objetos em PHP
 > - Debug e Tratamento de Exceções em PHP
 > - Gerenciamento de Pacotes em PHP com Composer
-> - Programação Orientada a Objetos com PHP: [[Formacao/PHP/POO com PHP\|POO com PHP]], [[Formacao/PHP/Classes em PHP\|Classes em PHP]], [[Formacao/PHP/Metodos com PHP\|Metodos com PHP]], [[Formacao/PHP/Data e hora com PHP\|Data e hora com PHP]].
+> - Programação Orientada a Objetos com PHP: [[Tecnico/PHP/POO com PHP\|POO com PHP]], [[Tecnico/PHP/Classes em PHP\|Classes em PHP]], [[Tecnico/PHP/Metodos com PHP\|Metodos com PHP]], [[Tecnico/PHP/Data e hora com PHP\|Data e hora com PHP]].
 > - Desafio de código - Formação PHP - Desafios Intermediários
 
 > [!summary]- Boas Práticas PHP e Desenvolvimento de APIs com Laravel

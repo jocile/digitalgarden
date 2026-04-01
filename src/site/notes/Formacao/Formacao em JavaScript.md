@@ -20,7 +20,7 @@
 > - Primeiros Passos Com JavaScript
 > - Conhecendo Funções JavaScript
 > - Criando Objetos e Classes em JavaScript
-> - Arrays e Estruturas de [[Formacao/JavaScript/Repeticoes com JavaScript\|Repeticoes com JavaScript]]
+> - Arrays e Estruturas de [[Tecnico/JavaScript/Repeticoes com JavaScript\|Repeticoes com JavaScript]]
 > - Importação e Exportação com JavaScript
 > - Consolide Seu Conhecimento com Desafios de Código JavaScript
 > - Desafios de Código - Formação JavaScript Developer

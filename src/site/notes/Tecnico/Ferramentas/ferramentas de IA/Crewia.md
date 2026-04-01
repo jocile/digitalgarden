@@ -6,7 +6,7 @@
 
 # CrewIA
 
-CrewAI é um framework de orquestração multiagente em Python que permite a criação de equipes de [[Tecnico/ai/agentes/agentes de ia\|agentes de Inteligência Artificial]] (IA) para automatizar fluxos de trabalho e resolver tarefas complexas de forma colaborativa. Criado pelo brasileiro João Moura, o projeto simula uma equipe de trabalho humana, onde agentes com funções, objetivos e históricos (backstory) específicos cooperam para alcançar um resultado comum.
+CrewAI é um framework de orquestração multiagente em Python que permite a criação de equipes de [[Inteligencia Artificial/agentes/agentes de ia\|agentes de Inteligência Artificial]] (IA) para automatizar fluxos de trabalho e resolver tarefas complexas de forma colaborativa. Criado pelo brasileiro João Moura, o projeto simula uma equipe de trabalho humana, onde agentes com funções, objetivos e históricos (backstory) específicos cooperam para alcançar um resultado comum.
 
 ## Conceito Central: A Orquestração Multiagente
 
@@ -113,7 +113,7 @@ Esta flexibilidade permite que desenvolvedores escolham a combinação de modelo
 
 - [CrewAI Documentação - CrewAI](https://docs.crewai.com/pt-BR)
 - [[Tecnico/Ferramentas/ferramentas de IA/Instalando Crewia\|Instalando Crewia]]
-- [[Formacao/Inteligencia Artificial/Cursos de Inteligência Artificial\|Cursos de Inteligência Artificial]]
+- [[Inteligencia Artificial/Cursos de Inteligência Artificial\|Cursos de Inteligência Artificial]]
 - [GitHub - digitalinnovationone/primeiros-passos-criando-seu-primeiro-agente-com-crewai: Curso "Fundamentos do CrewAI: Conceitos e Ecossistema" · GitHub](https://github.com/digitalinnovationone/primeiros-passos-criando-seu-primeiro-agente-com-crewai)
 - [GitHub - digitalinnovationone/estrutura-projetos-crewai: Curso "Estrutura de Projetos com CrewAI"](https://github.com/digitalinnovationone/estrutura-projetos-crewai/)
 - [GitHub - digitalinnovationone/instalacao-configuracao-crewai: Curso "Instalação e Configuração do CrewAI"](https://github.com/digitalinnovationone/instalacao-configuracao-crewai)

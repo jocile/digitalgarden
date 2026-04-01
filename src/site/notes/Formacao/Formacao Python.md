@@ -8,7 +8,7 @@
 
 **Status**:: em andamento 
 **Horas-aula**:: 26:00, 57:00, 64:00, 35:00
-**Habilidades**:: Python, Flask, [[Formacao/Python/webapp/Django\|Django]], FastAPI, POO
+**Habilidades**:: Python, Flask, [[Tecnico/Python/webapp/Django\|Django]], FastAPI, POO
 **Link**:: [DIO - Python Fundamentals](https://web.dio.me/track/formacao-python-fundamentals)
 
 ## Fundamentos do Python 26 ha.

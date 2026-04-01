@@ -36,16 +36,16 @@ Os agentes do Antigravity possuem controle sincronizado sobre três superfícies
 
 Utiliza o protocolo aberto para conectar a IA a ferramentas externas de forma universal.
 - **Integrações Nativas:** Stripe, PayPal, Supabase, Pinecone, Notion e GitHub.
-- **Extensibilidade:** Conexão com MCPs ([[Tecnico/ai/Model Context Protocol\|Model Context Protocol]]) externos como **n8n** (automação) e **Firecrawl** (scraping).
+- **Extensibilidade:** Conexão com MCPs ([[Inteligencia Artificial/Model Context Protocol\|Model Context Protocol]]) externos como **n8n** (automação) e **Firecrawl** (scraping).
 
 #### 4. Customizações: Regras e Workflows
 
-- **Regras ([[Tecnico/ai/Rules\|Rules]]):** Instruções globais ou por workspace que definem o comportamento da IA (ex: "Sempre use Tailwind CSS", "Responda em Português").
-- **[[Tecnico/ai/Workflows\|Workflows]]:** [[Tecnico/ai/Prompts\|Prompts]] estruturados e salvos que guiam o agente em processos repetitivos, como a criação de uma arquitetura de pastas específica.
+- **Regras ([[Inteligencia Artificial/Rules\|Rules]]):** Instruções globais ou por workspace que definem o comportamento da IA (ex: "Sempre use Tailwind CSS", "Responda em Português").
+- **[[Inteligencia Artificial/Workflows\|Workflows]]:** [[Inteligencia Artificial/Prompts\|Prompts]] estruturados e salvos que guiam o agente em processos repetitivos, como a criação de uma arquitetura de pastas específica.
 
 #### 5. Skills (Habilidades)
 
-Capacidades modulares que podem ser adicionadas. Exemplo: a [[Tecnico/ai/Skills\|Skill]] **Remotion**, que permite à IA gerar e editar vídeos programaticamente a partir de código.
+Capacidades modulares que podem ser adicionadas. Exemplo: a [[Inteligencia Artificial/Skills\|Skill]] **Remotion**, que permite à IA gerar e editar vídeos programaticamente a partir de código.
 
 ---
 

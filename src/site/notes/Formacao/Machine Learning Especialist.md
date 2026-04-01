@@ -172,15 +172,15 @@ Deep Learning Frameworks
 { #0OFD9ixi}
 
 
-1. Bibliotecas de [[Formacao/Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]]
+1. Bibliotecas de [[Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]]
 { #jExyyufP}
 
 
-2. Bibliotecas [[Formacao/Python/manipulando arquivos/Pandas\|Pandas]] e Scikit-Learning
+2. Bibliotecas [[Tecnico/Python/manipulando arquivos/Pandas\|Pandas]] e Scikit-Learning
 { #TG4xV0iO}
 
 
-3. Frameworks de [[Formacao/Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]]
+3. Frameworks de [[Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]]
 { #LSzanhLg}
 
 
@@ -226,7 +226,7 @@ Processamento de imagens
 
 
 Módulo 8
-Visão computacional com [[Formacao/Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]]
+Visão computacional com [[Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]]
 { #TbLx6xJV}
 
 

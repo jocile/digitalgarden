@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/spec-driven-development-sdd-a-melhor-forma-de-programar-com-ia/","title":"Spec Driven Development SDD a melhor forma de programar com IA","noteIcon":2,"updated":"2026-03-25T08:23:16.845-03:00","dg-note-properties":{"created":"2026-03-25T07:57:37-03:00","url":"https://www.youtube.com/watch?v=9qJIJz2HLws?start=53","title":"Spec Driven Development SDD a melhor forma de programar com IA","channel":"Rafael Quintanilha – QuantBrasil","related":["[[Videos]]"],"published":"2026-03-24","thumbnailUrl":"https://i.ytimg.com/vi/9qJIJz2HLws/maxresdefault.jpg","duration":"0:35:02","watched":true}}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/spec-driven-development-sdd-a-melhor-forma-de-programar-com-ia/","title":"Spec Driven Development SDD a melhor forma de programar com IA","noteIcon":2,"updated":"2026-03-29T10:25:20.891-03:00","dg-note-properties":{"created":"2026-03-25T07:57:37-03:00","url":"https://www.youtube.com/watch?v=9qJIJz2HLws?start=53","title":"Spec Driven Development SDD a melhor forma de programar com IA","channel":"Rafael Quintanilha – QuantBrasil","related":["[[Videos]]"],"published":"2026-03-24","thumbnailUrl":"https://i.ytimg.com/vi/9qJIJz2HLws/maxresdefault.jpg","duration":"0:35:02","watched":true,"topics":["Desenvolvimento baseado em especificações"]}}
 ---
 
 # Spec Driven Development (SDD): a melhor forma de programar com IA?
@@ -93,6 +93,10 @@ Também estou em outras redes sociais. Siga-me para receber mais conteúdo sobre
 💼 LinkedIn: https://linkedin.com/in/rafaelquintanilha
 📸 Instagram: https://www.instagram.com/quant_brasil
 _______________________________________________
+
+## Referências
+
+#sdd #ia #video 
 
 🔻🔻 Vídeos relacionados 🔻🔻
 https://www.youtube.com/watch?v=aN79jlxU-iQ

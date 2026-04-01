@@ -4,20 +4,20 @@
 
 #ia #Projeto #Antigravity
 
-O **[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]] Awesome [[Tecnico/ai/Skills\|Skills]]** refere-se a um ecossistema de repositórios e marketplaces (como o do LobeHub) que disponibiliza pacotes de conhecimento especializado para a IDE Google [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]. Essas habilidades funcionam como **"superpoderes" modulares** que o agente de IA decide "equipar" apenas quando detecta que a tarefa do usuário exige aquela expertise específica.
+O **[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]] Awesome [[Inteligencia Artificial/Skills\|Skills]]** refere-se a um ecossistema de repositórios e marketplaces (como o do LobeHub) que disponibiliza pacotes de conhecimento especializado para a IDE Google [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]. Essas habilidades funcionam como **"superpoderes" modulares** que o agente de IA decide "equipar" apenas quando detecta que a tarefa do usuário exige aquela expertise específica.
 
 Abaixo, detalho as principais habilidades e o funcionamento deste ecossistema com base nas fontes:
 
 ### 1. Filosofia e Vantagens Técnicas
 
-Diferente das _[[Tecnico/ai/Rules\|Rules]]_ (regras passivas sempre ativas no prompt de sistema), as habilidades utilizam o conceito de **Divulgação Progressiva (Progressive Disclosure)**.
+Diferente das _[[Inteligencia Artificial/Rules\|Rules]]_ (regras passivas sempre ativas no prompt de sistema), as habilidades utilizam o conceito de **Divulgação Progressiva (Progressive Disclosure)**.
 
 - **Economia de Contexto:** O agente só carrega as instruções pesadas e scripts quando necessário, evitando a "saturação de contexto" e o desperdício de tokens.
-- **Gatilho Automático:** Ao contrário dos _[[Tecnico/ai/Workflows\|Workflows]]_ (macros manuais disparadas por `/`), as habilidades são **acionadas automaticamente** pelo agente ao analisar a intenção da conversa.
+- **Gatilho Automático:** Ao contrário dos _[[Inteligencia Artificial/Workflows\|Workflows]]_ (macros manuais disparadas por `/`), as habilidades são **acionadas automaticamente** pelo agente ao analisar a intenção da conversa.
 
 ### 2. Habilidades de Destaque no Ecossistema
 
-Algumas das "Awesome [[Tecnico/ai/Skills\|Skills]]" mais influentes mencionadas incluem:
+Algumas das "Awesome [[Inteligencia Artificial/Skills\|Skills]]" mais influentes mencionadas incluem:
 
 - **`design-md` (ou `conception-md`):** É considerada essencial para o fluxo de "Vibe Coding". Ela analisa projetos do Google Stitch via MCP e sintetiza um **sistema de design semântico** no arquivo `DESIGN.md`, que serve como a "fonte da verdade" visual do projeto. Ela traduz valores técnicos (como `rounded-full`) em descrições físicas ("em formato de pílula") para garantir consistência estética.
 - **`ui-ux-pro-max`:** Uma habilidade robusta que contém mais de **100 regras de design e 67 estilos de interface**. Ela é usada para auditar e melhorar automaticamente a acessibilidade, o SEO e a performance visual do código gerado.
@@ -34,7 +34,7 @@ O repositório também inclui ferramentas para o rigor do desenvolvimento profis
 
 ### 4. Estrutura e Instalação
 
-Uma habilidade no [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]] é organizada em um diretório contendo obrigatoriamente um arquivo **`SKILL.md`**. Este arquivo funciona como o "cérebro" da habilidade, contendo metadados YAML para indexação e instruções em [[Formacao/Webdesign/markdown\|markdown]] que definem o objetivo, passos e restrições da IA.
+Uma habilidade no [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]] é organizada em um diretório contendo obrigatoriamente um arquivo **`SKILL.md`**. Este arquivo funciona como o "cérebro" da habilidade, contendo metadados YAML para indexação e instruções em [[Tecnico/Webdesign/markdown\|markdown]] que definem o objetivo, passos e restrições da IA.
 
 Para instalar essas habilidades da comunidade, o usuário pode simplesmente copiar o link do repositório GitHub e enviá-lo ao chat do [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]], solicitando a adição ao projeto global ou ao workspace local.
 

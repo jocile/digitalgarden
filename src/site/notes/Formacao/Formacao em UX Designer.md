@@ -19,16 +19,16 @@
 
 > [!summary]- Fundamentos da Arquitetura de User Experience (UX)
 > - Entendendo a Arquitetura de Produtos Digitais
->	- Planejamento e estrutura inicial: [[Formacao/UX design/Briefing\|Briefing]], [[Formacao/UX design/Analise do Briefing\|Analise do Briefing]], [[Formacao/UX design/layout\|layout]], Grids.
->	- Estruturação de telas e protótipos: [[Formacao/UX design/wireframe\|wireframe]], [[Formacao/UX design/prototipo\|prototipo]], [[Formacao/UX design/mockup\|mockup]].
->	- Sistemas, conceitos e experiência: [[Formacao/UX design/Design System\|Design System]], [[Formacao/UX design/MoodBoard\|MoodBoard]], usabilidade.
+>	- Planejamento e estrutura inicial: [[Tecnico/UX design/Briefing\|Briefing]], [[Tecnico/UX design/Analise do Briefing\|Analise do Briefing]], [[Tecnico/UX design/layout\|layout]], Grids.
+>	- Estruturação de telas e protótipos: [[Tecnico/UX design/wireframe\|wireframe]], [[Tecnico/UX design/prototipo\|prototipo]], [[Tecnico/UX design/mockup\|mockup]].
+>	- Sistemas, conceitos e experiência: [[Tecnico/UX design/Design System\|Design System]], [[Tecnico/UX design/MoodBoard\|MoodBoard]], usabilidade.
 > - Fundamentos da Arquitetura da Informação
 >	- Introdução à Arquitetura da Informação
 >	- Sistemas da Arquitetura da Informação: organização, navegação, rotulação, busca.
 
 > [!summary]- Ampliando o seu Conhecimento em UI/UX Design
-> - Introdução ao UX Design: [[Formacao/UX design/Fundamentos de UX\|Fundamentos de UX]], [[Formacao/UX design/Ferramentas de UX\|Ferramentas de UX]], [[Formacao/UX design/Padroes de interface\|Padroes de interface]]
-> - Introdução ao Ul Design: [[Formacao/UX design/Cores no design\|Cores no design]], 
+> - Introdução ao UX Design: [[Tecnico/UX design/Fundamentos de UX\|Fundamentos de UX]], [[Tecnico/UX design/Ferramentas de UX\|Ferramentas de UX]], [[Tecnico/UX design/Padroes de interface\|Padroes de interface]]
+> - Introdução ao Ul Design: [[Tecnico/UX design/Cores no design\|Cores no design]], 
 > - Introdução à Fonte e Tipografia
 > - Desafio de projeto : Criando um Wireframe de Média Fidelidade
 

@@ -12,8 +12,8 @@ Neste vídeo (0:01), **André Alencar** ensina como criar **web apps profissiona
 
 - **[Google Stitch](https://stitch.withgoogle.com/) (1:00):** Ferramenta focada em criar layouts de aplicativos e sites. O autor demonstra como tirar print de um site de referência (_Dribbble_) e pedir ao Stitch para gerar uma nova versão futurista (4:13).
 - As ideias de design para o projeto foram pesquisadas no site **[Dribbble](https://dribbble.com/)** (4:13). O autor utilizou a plataforma para encontrar inspiração, especificamente buscando uma loja virtual com um visual futurista (4:20) para servir de base para o web app.
-- **Conexão MCP (6:41):** Explica como conectar o Stitch ao Antigravity usando o protocolo **MCP** ([[Tecnico/ai/Model Context Protocol\|Model Context Protocol]]) para transferir o design.
-- **Uso de Skills no Antigravity (8:04):** Instalação de habilidades especiais ([[Tecnico/ai/Skills\|Skills]]) no Antigravity, como o `stitch-loop` para garantir que o código gerado siga fielmente o design do Stitch, e `react-components` para gerar o código em _React_ (10:00).
+- **Conexão MCP (6:41):** Explica como conectar o Stitch ao Antigravity usando o protocolo **MCP** ([[Inteligencia Artificial/Model Context Protocol\|Model Context Protocol]]) para transferir o design.
+- **Uso de Skills no Antigravity (8:04):** Instalação de habilidades especiais ([[Inteligencia Artificial/Skills\|Skills]]) no Antigravity, como o `stitch-loop` para garantir que o código gerado siga fielmente o design do Stitch, e `react-components` para gerar o código em _React_ (10:00).
 - **Publicação (7:30):** O fluxo envolve armazenar o projeto no **GitHub** e realizar o _deploy_ (publicação) utilizando ferramentas conectadas, como a _Vercel_.O resultado final é um web app funcional de e-commerce com layout profissional, criado inteiramente por IA sem escrever código manualmente (17:48).
 
 ## Descrição

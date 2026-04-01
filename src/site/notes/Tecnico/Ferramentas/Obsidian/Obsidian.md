@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/obsidian/obsidian/","title":"Editor Obsidian","metatags":{"description":"Editor Markdown utilizado para este site."},"noteIcon":2,"updated":"2026-02-14T11:02:19.606-03:00","dg-note-properties":{"class":"tecnico","title":"Editor Obsidian"}}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/obsidian/obsidian/","title":"Editor Obsidian","metatags":{"description":"Editor Markdown utilizado para este site."},"noteIcon":2,"updated":"2026-03-25T15:55:01.688-03:00","dg-note-properties":{"class":"tecnico","title":"Editor Obsidian"}}
 ---
 
 
@@ -149,3 +149,4 @@ Algumas das principais características e benefícios da integração do [Excali
 - [Passo a passo para aprender a usar o Obsidian - YouTube](https://www.youtube.com/watch?v=9zpOB-Ym7Og)
 - [⚡️ 87 DICAS OBSIDIAN: Do Iniciante ao Avançado | Tutorial Obsidian - YouTube](https://www.youtube.com/watch?v=jjoebK_Th2w)
 - [excalidraw-obsidian.online/Hobbies/Excalidraw+Blog/About+Obsidian-Excalidraw](https://excalidraw-obsidian.online/Hobbies/Excalidraw+Blog/About+Obsidian-Excalidraw)
+- [Transformei meu Obsidian em um cérebro para meus agentes de IA (Tutorial) - YouTube](https://www.youtube.com/watch?v=2KUF9BB_rh8)

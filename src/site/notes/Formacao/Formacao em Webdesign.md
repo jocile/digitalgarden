@@ -50,14 +50,14 @@
 > - Criar Uma Página Web Utilizando as Tags Aprendidas
 
 > [!summary]- HTML I: Conceitos Básicos
-> - Trabalhando com [[Formacao/Webdesign/Formulários\|Formulários]] em HTML
-> - [[Formacao/Webdesign/Estruturando seu HTML\|Estruturando seu HTML]] + Formatações
+> - Trabalhando com [[Tecnico/Webdesign/Formulários\|Formulários]] em HTML
+> - [[Tecnico/Webdesign/Estruturando seu HTML\|Estruturando seu HTML]] + Formatações
 > - Trabalhando com Mídias utilizando HTML
 > - Criando [Tabelas com HTML](https://jocile.github.io/webdesigner/formacao-html/2-HTML-Conceitos-Basicos/4%20-%20Criando%20Tabelas/index.html)
 > - Criando seu Primeiro Site Completo com HTML
 
 > [!summary]- HTML II: Ampliando o Conhecimento
-> - [[Formacao/Webdesign/Estrutura HTML5\|Entendendo HTML Semântico]]: Mudanças do HTML 5, acessibilidade, Web scraping, main, header, footer, aside, section, nav, article. blockquote e Q, [figure, figcaption e picture](https://github.com/jocile/webdesigner/blob/main/formacao-html/3-HTML-semantico/figure.html), SEO.
+> - [[Tecnico/Webdesign/Estrutura HTML5\|Entendendo HTML Semântico]]: Mudanças do HTML 5, acessibilidade, Web scraping, main, header, footer, aside, section, nav, article. blockquote e Q, [figure, figcaption e picture](https://github.com/jocile/webdesigner/blob/main/formacao-html/3-HTML-semantico/figure.html), SEO.
 > - HTML: Recursos Especiais: Datalist, Code, kbd e pre, Details e summary, Meter e progress, Mark e Javascript, Canvas, Novos atributos do HTML 5.
 > - Recriando o Wikipedia com Layout Moderno
 
@@ -77,19 +77,19 @@
 >[!info]- Links
 > - [Arquivos da formacao-css](https://github.com/jocile/webdesigner/tree/main/formacao-css)
 > - [Visualizar os exemplos](https://jocile.github.io/webdesigner/)
-> - [[Formacao/Webdesign/CSS/CSS Webdeveloper\|Diagrama das disciplinas do curso desenvolvedor CSS]]
+> - [[Tecnico/Webdesign/CSS/CSS Webdeveloper\|Diagrama das disciplinas do curso desenvolvedor CSS]]
 
 > [!summary]- Primeiros Passos com CSS
-> - Fundamentos do [[Formacao/Webdesign/CSS/CSS\|CSS]]
-> - Estilizações Básicas com CSS: [[Formacao/Webdesign/CSS/Estilizando Cores com css\|cores]], [imagens](https://jocile.github.io/webdesigner/formacao-css/1-Primeiros-passos-com-css/imagens-preenchimento.html), fundo dos elementos, [bordas](https://jocile.github.io/webdesigner/formacao-css/1-Primeiros-passos-com-css/bordas-propriedades.html), [fontes](https://jocile.github.io/webdesigner/formacao-css/1-Primeiros-passos-com-css/textos.html), [textos](https://www.w3schools.com/css/css_text_align.asp), sombras.
-> - [[Formacao/Webdesign/CSS/Unidades de medida do css\|Unidades de medida do css]]: [[Formacao/Webdesign/CSS/Variaveis CSS\|Variaveis CSS]]
+> - Fundamentos do [[Tecnico/Webdesign/CSS/CSS\|CSS]]
+> - Estilizações Básicas com CSS: [[Tecnico/Webdesign/CSS/Estilizando Cores com css\|cores]], [imagens](https://jocile.github.io/webdesigner/formacao-css/1-Primeiros-passos-com-css/imagens-preenchimento.html), fundo dos elementos, [bordas](https://jocile.github.io/webdesigner/formacao-css/1-Primeiros-passos-com-css/bordas-propriedades.html), [fontes](https://jocile.github.io/webdesigner/formacao-css/1-Primeiros-passos-com-css/textos.html), [textos](https://www.w3schools.com/css/css_text_align.asp), sombras.
+> - [[Tecnico/Webdesign/CSS/Unidades de medida do css\|Unidades de medida do css]]: [[Tecnico/Webdesign/CSS/Variaveis CSS\|Variaveis CSS]]
 > - [Criando sua Primeira Landing Page com HTML e CSS](https://github.com/jocile/trilha-css-desafio-01)
 
 > [!summary]- Trabalhando com Layouts no CSS
-> - [[Formacao/Webdesign/CSS/Posicionando elementos com CSS\|Posicionamentos e Exibição de Elementos com CSS]]
-> - Trabalhando com [[Formacao/Webdesign/CSS/Flexbox\|Flexbox]] no CSS
+> - [[Tecnico/Webdesign/CSS/Posicionando elementos com CSS\|Posicionamentos e Exibição de Elementos com CSS]]
+> - Trabalhando com [[Tecnico/Webdesign/CSS/Flexbox\|Flexbox]] no CSS
 > - [Clonando a Página do YouTube com CSS](https://github.com/jocile/desafio-youtube-clone)
-> - Dominando o [[Formacao/Webdesign/CSS/Grid layout\|Grid layout]] no CSS
+> - Dominando o [[Tecnico/Webdesign/CSS/Grid layout\|Grid layout]] no CSS
 > - Reproduzindo a Listagem do YouTube com Grid Layout no CSS
 > - Responsividade no CSS
 > - Construindo um Layout Responsivo Para o Site do Discord Com CSS
@@ -97,8 +97,8 @@
 > [!summary]- Refinando os Estilos CSS das Nossas Páginas
 > - [Pseudo Elementos](https://jocile.github.io/webdesigner/formacao-css/3-Refinando-estilos-css/Pseudo-elementos.html) e [Pseudo Classes](https://jocile.github.io/webdesigner/formacao-css/3-Refinando-estilos-css/pseudo-classes-form.html)
 > - Transições e Animações
-> - Boas Práticas e Convenções no CSS: [[Formacao/Webdesign/CSS/Padroes de nomenclatura CSS\|Padroes de nomenclatura CSS]], [[Formacao/Webdesign/CSS/OOCSS\|OOCSS]], [[Formacao/Webdesign/CSS/SMACSS\|SMACSS]]
-> - Iniciando com seu primeiro [[Formacao/Webdesign/CSS/Frameworks CSS\|Framework CSS]]: Bootstrap
+> - Boas Práticas e Convenções no CSS: [[Tecnico/Webdesign/CSS/Padroes de nomenclatura CSS\|Padroes de nomenclatura CSS]], [[Tecnico/Webdesign/CSS/OOCSS\|OOCSS]], [[Tecnico/Webdesign/CSS/SMACSS\|SMACSS]]
+> - Iniciando com seu primeiro [[Tecnico/Webdesign/CSS/Frameworks CSS\|Framework CSS]]: Bootstrap
 > - [Clonando o Site da HBO Max com Animações em HTML e CSS](https://github.com/jocile/desafio-hbomax-clone)
 
 [[Formacao/Formacao Overview\|Voltar para as formações]] | [visualizar os exemplos](https://jocile.github.io/webdesigner/)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-03-07T08:01:31.627-03:00","dg-note-properties":{"class":"mapa","title":"Principal","excalidraw-plugin":"parsed","excalidraw-export-dark":false,"excalidraw-autoexport":"svg","excalidraw-export-transparent":true,"excalidraw-open-md":true,"cssclasses":["cards","cards-cols-3"]}}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-04-01T09:10:54.512-03:00","dg-note-properties":{"class":"mapa","title":"Principal","excalidraw-plugin":"parsed","excalidraw-export-dark":false,"excalidraw-autoexport":"svg","excalidraw-export-transparent":true,"excalidraw-open-md":true,"cssclasses":["cards","cards-cols-3"]}}
 ---
 
 ## Olá 👋
@@ -7,11 +7,6 @@
 🔭 Sou o professor 🎓 [[Jocile\|Jocilé]] e atualmente sou instrutor de informática e desenvolvimento de Sistemas no 🏫 [SENAC CE](https://www.ce.senac.br/);
 
 ## Aulas
-
-<span>
-<a class="internal-link" href="/aulas-de-logica/"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Lógica de programação</button></a>
-<a class="internal-link" href="/programador-web-2026/"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Programador WEB</button></a>
-</span>
 
 
 
@@ -21,7 +16,7 @@ Pretendo reunir aqui 📑notas de aulas e 📚estudos diversos sobre:
  - 📖 [[Teologia\|Teologia]] e [[Teologia/Escatologia\|Escatologia]] 
  - 🤖 [[Inteligencia Artificial\|Inteligência Artificial]] 
  - 🎨 [[Webdesign\|Webdesign]] 
- - 💻[[Formacao/Python/Linguagem Python\|Linguagem Python]]
+ - 💻[[Tecnico/Python/Linguagem Python\|Linguagem Python]]
  - 🎓[[Formacao/Formacao Overview\|Minhas formações]]
 
 Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de tópicos]]
@@ -37,8 +32,11 @@ Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de t
 
 | File                                                                                              | 📄 Descrição                                                                                                                            |
 | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Tecnico/ai/Repositórios de Skills\|Repositórios de Skills]]                                  | são como playbooks que a IA lê para executar tarefas específicas, tornando-se especialista na tarefa                                    |
-| [[Tecnico/ai/agentes/Criando agentes\|Criando agentes]]                                        | podem interagir com o ambiente, coletar dados, tomar decisões e realizar ações para atingir um objetivo específico.                     |
+| [[Teologia/Novo Testamento/Novo Testamento\|Novo Testamento]]                                  | Evangelhos, Atos, cartas e Apocalipse                                                                                                   |
+| [[Vagas base\|Vagas base]]                                                                     | Oportunidades em emprego                                                                                                                |
+| [[videos base\|videos base]]                                                                   | Vídeos preferidos                                                                                                                       |
+| [[Inteligencia Artificial/Repositórios de Skills\|Repositórios de Skills]]                     | são como playbooks que a IA lê para executar tarefas específicas, tornando-se especialista na tarefa                                    |
+| [[Inteligencia Artificial/agentes/Criando agentes\|Criando agentes]]                           | podem interagir com o ambiente, coletar dados, tomar decisões e realizar ações para atingir um objetivo específico.                     |
 | [[Tecnico/Didatica/Metodologias/Aprendizagem Baseada em Jogos\|Aprendizagem Baseada em Jogos]] | utiliza a estrutura, as mecânicas e a estética dos jogos para criar experiências de aprendizagem imersivas.                             |
 | [[Tecnico/Didatica/Metodologias/Design Thinking\|Design Thinking]]                             | uma mentalidade (mindset) para preparar estudantes para lidar com a ambiguidade e a inovação no mercado de trabalho.                    |
 | [[Tecnico/Didatica/Metodologias/Estudo de Caso\|Estudo de Caso]]                               | mergulha o estudante em situações reais ou simuladas do mundo do trabalho.                                                              |
@@ -46,9 +44,6 @@ Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de t
 | [[Tecnico/Didatica/Metodologias/Dojo\|Dojo]]                                                   | Metodologia colaborativa de ensino de programação focada na prática e reflexão coletiva.                                                |
 | [[Teologia/Bibliologia/Estrutura bíblica\|Estrutura bíblica]]                                  | é o plural de um vocábulo grego biblion, que significa livro. Portanto, uma tradução literal de “Bíblia” poderia ser Os Livros.         |
 | [[Teologia/Bibliologia/Introdução bíblica\|Introdução bíblica]]                                | iniciando o estudo da Bíblia                                                                                                            |
-| [[Cursos SENAC Sobral\|Cursos SENAC Sobral]]                                                   | Cursos Senac Sobral                                                                                                                     |
-| [[Videos\|Videos]]                                                                             | Vídeos preferidos                                                                                                                       |
-| [[Tecnico/ai/mvp\|mvp]]                                                                        | é uma versão de um produto com o conjunto mínimo de funcionalidades necessário para ser lançado e validar uma ideia de negócio          |
 
 <!-- SerializedQuery END -->
 
@@ -83,27 +78,27 @@ Alguns dizem que existem três tipos diferentes de anotadores: o arquiteto, o ja
 > - **Formacao/**: Centraliza o aprendizado técnico, subdividido por linguagens (Python, JS, PHP) e áreas modernas como Inteligência Artificial e UX Design.
 > - **Tecnico/ e Senac/**: Pastas dedicadas ao exercício da docência, contendo planos de aula, cronogramas, listas de alunos e materiais de apoio pedagógico.
 > - **[[Teologia\|Teologia]]/**: Uma seção extensa e bem organizada dedicada a estudos bíblicos, com divisões por temas como [[Teologia/Escatologia\|Escatologia]], [[Teologia/Cristologia/Introducao da Cristologia\|Cristologia]] e Bibliografia específica.
-> - **ia/**: Uma seção dedicada à integração de IA, armazenando [[Tecnico/ai/Prompts\|Prompts]] customizados e históricos de conversas, indicando um fluxo de trabalho assistido por inteligência artificial.
+> - **ia/**: Uma seção dedicada à integração de IA, armazenando [[Inteligencia Artificial/Prompts\|Prompts]] customizados e históricos de conversas, indicando um fluxo de trabalho assistido por inteligência artificial.
 
 >[!note]- Preferências
 >- A preferência é por notas estruturadas e modulares, valorizando a aplicação prática do conhecimento.
 >- O uso frequente de pastas como 'Desafios', 'Prática' e 'Projetos' tem um foco em exemplos acionáveis, tutoriais passo a passo e exercícios.
->- O estilo de escrita tende a ser técnico e instrutivo, mantendo a clareza necessária para o ensino. Há um forte uso de ferramentas visuais (Excalidraw, Canvas) e automação (Copilot, [[Tecnico/ai/Prompts\|Prompts]] customizados), que inclui o uso de [[Tecnico/ai/agentes/agentes de ia\|agentes de ia]], precisos e capazes de lidar com contextos técnicos complexos, mantendo a organização rigorosa do site.
+>- O estilo de escrita tende a ser técnico e instrutivo, mantendo a clareza necessária para o ensino. Há um forte uso de ferramentas visuais (Excalidraw, Canvas) e automação (Copilot, [[Inteligencia Artificial/Prompts\|Prompts]] customizados), que inclui o uso de [[Inteligencia Artificial/agentes/agentes de ia\|agentes de ia]], precisos e capazes de lidar com contextos técnicos complexos, mantendo a organização rigorosa do site.
 
 >[!note]- Ferramentas utilizadas
-> - As notas são escritas em [[Formacao/Webdesign/markdown\|markdown]];
+> - As notas são escritas em [[Tecnico/Webdesign/markdown\|markdown]];
 > - Organizadas com [[Tecnico/Ferramentas/Obsidian/Obsidian\|Obsidian]] e seus poderosos [[Tecnico/Ferramentas/Obsidian/Plugins do Obsidian\|plugins]];
-> - O conteúdo é enriquecido por [[Tecnico/ai/agentes/agentes de ia\|agentes de ia]] como [[Tecnico/Ferramentas/ferramentas de IA/Notebooklm\|Notebooklm]], [Copilot](https://www.obsidiancopilot.com/en), [Gemini](https://github.com/allenhutchison/obsidian-gemini), e local com [[Tecnico/Ferramentas/ferramentas de IA/Ollama\|Ollama]]
+> - O conteúdo é enriquecido por [[Inteligencia Artificial/agentes/agentes de ia\|agentes de ia]] como [[Tecnico/Ferramentas/ferramentas de IA/Notebooklm\|Notebooklm]], [Copilot](https://www.obsidiancopilot.com/en), [Gemini](https://github.com/allenhutchison/obsidian-gemini), e local com [[Tecnico/Ferramentas/ferramentas de IA/Ollama\|Ollama]]
 > - O código fonte é salvo no [GitHub - jocile/digitalgarden](https://github.com/jocile/digitalgarden) e publicado na [Vercel](https://vercel.com/), usando o plugin [Digital-garden](https://github.com/oleeskild/obsidian-digital-garden)
 > - Recomendações ou problemas podem ser relatados em [issues](https://github.com/jocile/digitalgarden/issues).
 
 >[!note]- Tópicos
 > - Desenvolvimento de Software (Python, JavaScript, PHP, React)
-> - Inteligência Artificial (Engenharia de [[Tecnico/ai/Prompts\|Prompts]], [[Tecnico/ai/agentes/agentes de ia\|agentes de ia]], LLMs, [[Formacao/Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]])
+> - Inteligência Artificial (Engenharia de [[Inteligencia Artificial/Prompts\|Prompts]], [[Inteligencia Artificial/agentes/agentes de ia\|agentes de ia]], LLMs, [[Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]])
 > - Educação e Didática Técnica (Metodologias de ensino, Planejamento de aulas para o Senac)
 > - Cibersegurança e Redes (CyberOps, Protocolos IP, Administração de sistemas [[Tecnico/Assistente-de-TI/Linux\|Linux]]/Windows)
 > - [[Teologia\|Teologia]] Sistêmica ([[Teologia/Escatologia\|Escatologia]], Cristologia, História dos Hebreus)
-> - Design e [[Webdesign\|Webdesign]] (UX Design, [[Formacao/Webdesign/CSS/CSS\|CSS]], [[Formacao/Webdesign/Bootstrap\|Bootstrap]], Ferramentas visuais)
+> - Design e [[Webdesign\|Webdesign]] (UX Design, [[Tecnico/Webdesign/CSS/CSS\|CSS]], [[Tecnico/Webdesign/Bootstrap\|Bootstrap]], Ferramentas visuais)
 > - Gestão de Conhecimento (Uso avançado de [[Tecnico/Ferramentas/Obsidian/Obsidian\|Obsidian]], Canvas, Excalidraw)
 
 [[Lista de topicos\|🔍 Lista de tópicos]]

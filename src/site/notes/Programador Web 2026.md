@@ -102,13 +102,13 @@ gantt
 >[!done] Cronograma das aulas da UC2
 >
 >>[!note]- Aula 2.1 - Estrutura base HTML5
->> - [x] Aula 2.1 - 2026-01-26 - Introdução e [[Formacao/Webdesign/Estrutura HTML5\|Estrutura HTML5]] e suas tags básicas;
+>> - [x] Aula 2.1 - 2026-01-26 - Introdução e [[Tecnico/Webdesign/Estrutura HTML5\|Estrutura HTML5]] e suas tags básicas;
 >> 
 >>>[!todo] 🖥️ Atividade:
 >>> - Criando a primeira página HTML com tags básicas.
 >
 >>[!note]- Aula 2.2 - Formulários em HTML
->> - [x] Aula 2.2 - 2026-01-27 - [[Formacao/Webdesign/Formulários\|Formulários]], tabelas, listas
+>> - [x] Aula 2.2 - 2026-01-27 - [[Tecnico/Webdesign/Formulários\|Formulários]], tabelas, listas
 >>
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar uma página de formulário.
@@ -116,15 +116,15 @@ gantt
 >
 >>[!note]- Aula 2.3 - Estilizando uma página
 >> - [x] Aula 2.3 - 2026-01-28 - Bordas, espaçamentos e estilos com HTML
->> - [[Formacao/Webdesign/CSS/Perfil com HTML e CSS\|Perfil com HTML e CSS]]
+>> - [[Tecnico/Webdesign/CSS/Perfil com HTML e CSS\|Perfil com HTML e CSS]]
 >>
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar uma página inicial estilizada com CSS (cap. 1 e 2) - [programadorweb2026/livro][livrohtml] - [Visualizar](https://jocile.github.io/programadorweb2026/livro/cap2.html)
 >
 >>[!note]- Aula 2.4 - Estilos Box Model com CSS3
 >> - [x] Aula 2.4 - 2026-01-29 - Estilos Box Model com CSS3
->> - [[Formacao/Webdesign/CSS/Unidades de medida do css\|Unidades de medida do css]]
->> - [[Formacao/Webdesign/Proposta de site\|Proposta de site]]
+>> - [[Tecnico/Webdesign/CSS/Unidades de medida do css\|Unidades de medida do css]]
+>> - [[Tecnico/Webdesign/Proposta de site\|Proposta de site]]
 >> - [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 >>>[!todo] 🖥️ Atividade:
 >>> - Refatorando a página inicial estilizada com CSS (cap. 3 e 4) - [programadorweb2026/livro][livrohtml] - [Visualizar](https://jocile.github.io/programadorweb2026/livro/cap4.html)
@@ -132,8 +132,8 @@ gantt
 >
 >>[!note]- Aula 2.5 - Estilos avançados com CSS3
 >> - [x] Aula 2.5 - 2026-01-30 - Estilos avançados com CSS3 - pseudo elementos
->> - [[Formacao/Webdesign/Novidades do html5\|Novidades do html5]]
->> - [[Formacao/Webdesign/Proposta de site2\|Proposta de site2]]
+>> - [[Tecnico/Webdesign/Novidades do html5\|Novidades do html5]]
+>> - [[Tecnico/Webdesign/Proposta de site2\|Proposta de site2]]
 >> - [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 >>>[!todo] 🖥️ Atividade:
 >>> - Refatorando a página inicial estilizada com CSS (cap. 5 e 6) - [programadorweb2026/livro][livrohtml]
@@ -141,8 +141,8 @@ gantt
 >
 >>[!note]- Aula 2.6 - Estilos avançados com CSS3
 >> - [x] Aula 2.2 - 2026-02-02 - Estilos avançados com CSS3 - display, position e float
->> - [[Formacao/Webdesign/CSS/Display com css\|Display com css]]
->> - [[Formacao/Webdesign/CSS/Posicionando elementos com CSS\|Posicionando elementos com CSS]]
+>> - [[Tecnico/Webdesign/CSS/Display com css\|Display com css]]
+>> - [[Tecnico/Webdesign/CSS/Posicionando elementos com CSS\|Posicionando elementos com CSS]]
 >> - [CSS The display Property](https://www.w3schools.com/css/css_display_visibility.asp)
 >>>[!todo] 🖥️ Atividade:
 >>> - Refatorando a página inicial estilizada com CSS (cap. 6) - [programadorweb2026/livro][livrohtml]
@@ -150,9 +150,9 @@ gantt
 >>[!note]- Aula 2.7 - Introdução ao JavaScript
 >> - [x] Aula 2.7 - 2026-02-03 - Introdução ao JavaScript
 >> - [JavaScript Introduction](https://www.w3schools.com/js/js_intro.asp)
->> - [[Formacao/JavaScript/Manipulando elementos com JavaScript\|Manipulando elementos com JavaScript]]
+>> - [[Tecnico/JavaScript/Manipulando elementos com JavaScript\|Manipulando elementos com JavaScript]]
 >>>[!todo] 🖥️ Atividade:
->>> - [[Formacao/Webdesign/Exercicio JavaSript cap6\|Exercicio JavaSript cap6]] conforme o exemplo do livro 
+>>> - [[Tecnico/Webdesign/Exercicio JavaSript cap6\|Exercicio JavaSript cap6]] conforme o exemplo do livro 
 >>> - [programadorweb2026/livro][livrohtml] - [Visualizar exemplo do capítulo 6](https://jocile.github.io/programadorweb2026/livro/cap6.html)
 >
 >>[!note]- Aula 2.8 - Layout responsivo com Flexbox
@@ -160,9 +160,9 @@ gantt
 >> - [Flexbox - Aprendendo desenvolvimento web](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/CSS_layout/Flexbox)
 >> - [CSS Flexbox (Flexible Box Layout)](https://www.w3schools.com/css/css3_flexbox.asp)
 >> - [Guia completo de Flexbox - CSS - display: flex;](https://origamid.com/projetos/flexbox-guia-completo/)
->> - [[Formacao/Webdesign/CSS/Flexbox\|Flexbox]]
+>> - [[Tecnico/Webdesign/CSS/Flexbox\|Flexbox]]
 >>>[!todo] 🖥️ Atividade:
->>> - [[Formacao/JavaScript/Girar formulario com javascript\|Girar formulario com javascript]]
+>>> - [[Tecnico/JavaScript/Girar formulario com javascript\|Girar formulario com javascript]]
 >>> - [programadorweb2026/livro][livrohtml] - [Visualizar exemplo do capítulo 6](https://jocile.github.io/programadorweb2026/livro/cap6.html)
 >
 >>[!note]- Aula 2.9 - Manipulando elementos visuais com JavaScript
@@ -179,7 +179,7 @@ gantt
 >>[!note]- Aula 2.11 - Lógica com JavaScript
 >> - [x] Aula 2.11 - 2026-02-09 - Lógica com JavaScript
 >> - [Sintaxe e tipos - JavaScript \| MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types)
->> - [[Formacao/JavaScript/Manipulando elementos com JavaScript\|Manipulando elementos com JavaScript]]
+>> - [[Tecnico/JavaScript/Manipulando elementos com JavaScript\|Manipulando elementos com JavaScript]]
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar um formulário para entrada de dados e resolver [[Tecnico/Programador/Lógica/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]] com a saída na mesma página.
 >>> - Exercícios cap. 2 do livro Lógica com JavaScript - [Exercícios resolvidos no GitHub][exercicios]
@@ -191,7 +191,7 @@ gantt
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar um formulário para entrada de dados e resolver [[Tecnico/Programador/Lógica/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]] com a saída na mesma página.
 >>> - Exercícios cap. 3 do livro Lógica com JavaScript - [Exercícios resolvidos no GitHub][exercicios]
->>> - [[Formacao/JavaScript/Calculo do IMC com JavaScript\|Calculo do IMC com JavaScript]]
+>>> - [[Tecnico/JavaScript/Calculo do IMC com JavaScript\|Calculo do IMC com JavaScript]]
 >
 >>[!note]- Aula 3.02 - Loja virtual
 >> - [x] Aula 3.02 - 2026-02-11 - Loja virtual com JavaScript
@@ -200,7 +200,7 @@ gantt
 >>> - Exercícios cap. 3 do livro JavaScript com JQuery - [Exercícios resolvidos no GitHub](https://github.com/jocile/programadorweb2026/tree/main/livro-jsjquery/cap3) - [Visualizar Rogus - carrinho de compras](https://jocile.github.io/programadorweb2026/livro-jsjquery/cap3/cart.html)
 >
 >>[!note]- Aula 3.03 - Introdução ao JQuery
->> - [x] Aula 3.03 - 2026-02-12 Introdução ao [[Formacao/JavaScript/JQuery\|JQuery]] e ao [[Formacao/JavaScript/json\|json]]
+>> - [x] Aula 3.03 - 2026-02-12 Introdução ao [[Tecnico/JavaScript/JQuery\|JQuery]] e ao [[Tecnico/JavaScript/json\|json]]
 >> - [JQuery](https://api.jquery.com/)
 >> - [jQuery Introduction](https://www.w3schools.com/jquery/jquery_intro.asp)
 >> - [Getting Started with jQuery UI - jQuery Learning Center](https://learn.jquery.com/jquery-ui/getting-started/)
@@ -208,27 +208,27 @@ gantt
 >>> - Exercícios cap. 5 do livro JavaScript com JQuery - [Exercícios resolvidos no GitHub](https://github.com/jocile/programadorweb2026/tree/main/livro-jsjquery/cap5) - [Visualizar Rogus - carrinho de compras com JQuery](https://jocile.github.io/programadorweb2026/livro-jsjquery/cap5/cart.html)
 >
 >>[!note]- Aula 3.04 - Introdução a APIs Web
->> - [x] Aula 3.04 - 2026-02-19 Introdução a  [Web APIs](https://www.w3schools.com/js/js_api_intro.asp), [[Formacao/JavaScript/Fetch API\|Fetch API]], Ajax e ao [[Formacao/JavaScript/json\|json]]
+>> - [x] Aula 3.04 - 2026-02-19 Introdução a  [Web APIs](https://www.w3schools.com/js/js_api_intro.asp), [[Tecnico/JavaScript/Fetch API\|Fetch API]], Ajax e ao [[Tecnico/JavaScript/json\|json]]
 >>
 >>>[!todo] 🖥️ Atividade:
->>> - [[Formacao/JavaScript/Exemplo api ibge\|Exemplo api ibge]] - [Código no GitHub](https://github.com/jocile/programadorweb2026/blob/main/exercicios/ibge.html) - [Visualizar Cidades do Ceará](https://jocile.github.io/programadorweb2026/exercicios/ibge.html)
+>>> - [[Tecnico/JavaScript/Exemplo api ibge\|Exemplo api ibge]] - [Código no GitHub](https://github.com/jocile/programadorweb2026/blob/main/exercicios/ibge.html) - [Visualizar Cidades do Ceará](https://jocile.github.io/programadorweb2026/exercicios/ibge.html)
 >>> - [JSFiddle - Code Playground](https://jsfiddle.net/)
 >
 >>[!note]- Aula 3.05 - Introdução ao PHP
->> - [x] Aula 3.05 - 2026-02-19 Introdução ao [[Formacao/PHP/Exemplos em PHP\|PHP]]
+>> - [x] Aula 3.05 - 2026-02-19 Introdução ao [[Tecnico/PHP/Exemplos em PHP\|PHP]]
 >> - [Instalando o pacote XAMPP](https://www.apachefriends.org/pt_br/index.html)
->> - [[Formacao/PHP/Ecossistema PHP\|Ecossistema PHP]]
+>> - [[Tecnico/PHP/Ecossistema PHP\|Ecossistema PHP]]
 >>>[!todo] 🖥️ Atividade:
->>> - [[Formacao/PHP/Exercicios com listas\|Exercicios com listas]]
+>>> - [[Tecnico/PHP/Exercicios com listas\|Exercicios com listas]]
 >
 >>[!note] Aula 3.06 - Introdução ao PHP com banco de dados
->> - [x] Aula 3.06 - 2026-02-20 Introdução ao [[Formacao/PHP/Exemplos em PHP\|PHP]] com banco de dados
+>> - [x] Aula 3.06 - 2026-02-20 Introdução ao [[Tecnico/PHP/Exemplos em PHP\|PHP]] com banco de dados
 >> - [Instalando o pacote XAMPP](https://www.apachefriends.org/pt_br/index.html)
 >> - [PHP MySQL Conectando ao banco de dados](https://www.w3schools.com/php/php_mysql_connect.asp)
 >> - [Estilos de formulários com Bootstrap](https://www.w3schools.com/bootstrap5/bootstrap_forms.php)
 >>>[!todo] 🖥️ Atividade:
 >>> - Criar um formulário de cadastro de alunos com PHP - [PHP Form Validation](https://www.w3schools.com/php/php_form_validation.asp)
->>> - [[Formacao/PHP/login com php e mysql\|login com php e mysql]]
+>>> - [[Tecnico/PHP/login com php e mysql\|login com php e mysql]]
 
 ## Referências
 
@@ -237,7 +237,7 @@ gantt
 - [📁 github.com/jocile/webdesigner](https://github.com/jocile/webdesigner) - [Visualizar WebDesigner](https://jocile.github.io/webdesigner/)
 - [JavaScript - MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [[Formacao/Formacao em Webdesign\|Formacao em Webdesign]]
-- [[Formacao/Webdesign/editores HTML online\|editores HTML online]]
+- [[Tecnico/Webdesign/editores HTML online\|editores HTML online]]
 
 
 

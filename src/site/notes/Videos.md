@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/videos/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"cards","noteIcon":"default","updated":"2026-03-25T08:28:49.324-03:00","dg-note-properties":{"class":"mapa","cssclasses":["cards"]}}
+{"dg-publish":true,"permalink":"/videos/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"cards","noteIcon":"default","updated":"2026-04-01T09:09:01.398-03:00","dg-note-properties":{"class":"mapa","cssclasses":["cards"]}}
 ---
 
 
@@ -18,6 +18,7 @@
 | 06.03.26 | [[clipper/youtube.com/AI Studio + Antigravity + Supabase Criei um App COMPLETO do Zero ao Deploy\|AI Studio + Antigravity + Supabase Criei um App COMPLETO do Zero ao Deploy]]                                 | ![thumbnail\|50](https://i.ytimg.com/vi/LW_2JEG3enE/maxresdefault.jpg) | 0:36:19  |
 | 02.03.26 | [[clipper/youtube.com/Dá Pra Criar um App Profissional Só com Ferramentas Free\|Dá Pra Criar um App Profissional Só com Ferramentas Free]]                                                                     | ![thumbnail\|50](https://i.ytimg.com/vi/FbS2uEw9GIk/maxresdefault.jpg) | 1:26:41  |
 | 27.02.26 | [[clipper/youtube.com/Como criar Skills no Claude Antigravity TUTORIAL COMPLETO\|Como criar Skills no Claude Antigravity TUTORIAL COMPLETO]]                                                                   | ![thumbnail\|50](https://i.ytimg.com/vi/2Zi3rGxWxDk/maxresdefault.jpg) | 0:28:29  |
+| 26.02.26 | [[clipper/youtube.com/SDD Utilizando IA de Forma Eficiente\|SDD Utilizando IA de Forma Eficiente]]                                                                                                             | ![thumbnail\|50](https://i.ytimg.com/vi/sUDP1eH1rtI/maxresdefault.jpg) | 0:31:51  |
 | 17.02.26 | [[clipper/youtube.com/Crie Web Apps Incríveis com AntiGravity + Stitch\|Crie Web Apps Incríveis com AntiGravity + Stitch]]                                                                                     | ![thumbnail\|50](https://i.ytimg.com/vi/m6KDhIEDE64/maxresdefault.jpg) | 0:19:33  |
 | 15.02.26 | [[clipper/youtube.com/Duas IAs Criaram Esse App SOZINHAS Eu só assisti\|Duas IAs Criaram Esse App SOZINHAS Eu só assisti]]                                                                                     | ![thumbnail\|50](https://i.ytimg.com/vi/Mt4dH9MqYEw/maxresdefault.jpg) | 0:20:41  |
 | 23.01.26 | [[clipper/youtube.com/Como usar o Google Antigravity melhor que 99% das pessoas\|Como usar o Google Antigravity melhor que 99% das pessoas]]                                                                   | ![thumbnail\|50](https://i.ytimg.com/vi/LnOhoJ6GDqw/maxresdefault.jpg) | 0:25:38  |

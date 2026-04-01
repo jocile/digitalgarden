@@ -13,7 +13,7 @@ O [**GPT4All**](https://docs.gpt4all.io/index.html) é um projeto de código abe
 
 ### Características Principais
 
-- **Execução Local**: O GPT4All roda [[Formacao/Inteligencia Artificial/Modelos locais de IAs\|Modelos locais de IAs]] diretamente no seu computador, seja em sistemas operacionais como Windows, macOS ou Linux, sem necessidade de hardware especializado como GPUs.
+- **Execução Local**: O GPT4All roda [[Inteligencia Artificial/Modelos locais de IAs\|Modelos locais de IAs]] diretamente no seu computador, seja em sistemas operacionais como Windows, macOS ou Linux, sem necessidade de hardware especializado como GPUs.
 - **Open Source**: Sendo um software de código aberto, o GPT4All permite que os usuários personalizem e contribuam para o desenvolvimento do projeto, promovendo uma comunidade ativa em torno da ferramenta.
 - **Modelos Leves**: Os modelos disponíveis para download variam entre 3 GB a 8 GB e são projetados para serem executados em hardware comum, facilitando o acesso a tecnologias avançadas de IA.
 - **Interface Amigável**: O software oferece uma interface gráfica intuitiva que simplifica a interação com o chatbot, permitindo que usuários façam perguntas e recebam respostas de forma prática.
