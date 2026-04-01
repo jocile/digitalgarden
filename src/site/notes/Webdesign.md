@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/webdesign/","title":"Webdesing","metatags":{"description":"Estudos em WebDesign"},"contentClasses":"cards","noteIcon":"default","updated":"2026-04-01T09:08:20.628-03:00","dg-note-properties":{"class":"mapa","title":"Webdesing","cssclasses":["cards"]}}
+{"dg-publish":true,"permalink":"/webdesign/","title":"Webdesing","metatags":{"description":"Estudos em WebDesign"},"contentClasses":"cards","tags":["videos","dataview","QueryToSerialize","Webdesign"],"noteIcon":"default","updated":"2026-04-01T10:01:00.197-03:00","dg-note-properties":{"class":"mapa","title":"Webdesing","cssclasses":["cards"],"tags":["videos","dataview","QueryToSerialize","Webdesign"]}}
 ---
 
 

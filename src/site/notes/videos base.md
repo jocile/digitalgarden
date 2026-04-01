@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/videos-base/","metatags":{"description":"Vídeos preferidos"},"noteIcon":"default","updated":"2026-03-25T11:05:11.659-03:00","dg-note-properties":{"class":"mapa"}}
+{"dg-publish":true,"permalink":"/videos-base/","metatags":{"description":"Vídeos preferidos"},"tags":["videos","teste/funciona","base"],"noteIcon":"default","updated":"2026-04-01T09:58:03.043-03:00","dg-note-properties":{"class":"mapa","tags":["videos","teste/funciona","base"]}}
 ---
 
-#teste/funciona 
 
 ## Vídeos preferidos
 
@@ -16,10 +15,8 @@ views:
     order:
       - file.name
       - channel
-      - created
       - duration
       - watched
-      - thumbnailUrl
     sort:
       - property: channel
         direction: ASC

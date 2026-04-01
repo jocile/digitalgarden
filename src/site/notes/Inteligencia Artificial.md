@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/","title":"Inteligência Artificial","metatags":{"description":"Estudos em Inteligência Artificial"},"contentClasses":"cards","noteIcon":"default","updated":"2026-04-01T09:07:24.535-03:00","dg-note-properties":{"class":"mapa","title":"Inteligência Artificial","cssclasses":["cards"]}}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/","title":"Inteligência Artificial","metatags":{"description":"Estudos em Inteligência Artificial"},"contentClasses":"cards","noteIcon":"default","updated":"2026-04-01T09:48:58.021-03:00","dg-note-properties":{"class":"mapa","title":"Inteligência Artificial","cssclasses":["cards"]}}
 ---
 
 #mapa #ai 
 
 <!-- QueryToSerialize: TABLE WITHOUT ID dateformat(file.mtime, "dd.MM.yy") as "Data", file.link AS "🤖 Páginas em Inteligência Artificial", dg-metatags.description AS "📄 Descrição" FROM "Inteligencia Artificial" WHERE dg-publish AND class!="mapa" SORT file.mtime DESC -->
-<!-- SerializedQuery: TABLE WITHOUT ID dateformat(file.mtime, "dd.MM.yy") as "Data", file.link AS "🤖 Páginas em Inteligência Artificial", dg-metatags.description AS "📄 Descrição" FROM "Inteligencia Artificial" OR "Tecnico/ai" WHERE dg-publish AND class!="mapa" SORT file.mtime DESC -->
+<!-- SerializedQuery: TABLE WITHOUT ID dateformat(file.mtime, "dd.MM.yy") as "Data", file.link AS "🤖 Páginas em Inteligência Artificial", dg-metatags.description AS "📄 Descrição" FROM "Inteligencia Artificial" WHERE dg-publish AND class!="mapa" SORT file.mtime DESC -->
 
 | Data     | 🤖 Páginas em Inteligência Artificial                                                                                                 | 📄 Descrição                                                                                                                                                                                  |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 01.04.26 | [[Inteligencia Artificial/Inteligência Artificial Overview\|Inteligência Artificial Overview]]                                     | teste                                                                                                                                                                                         |
 | 01.04.26 | [[Inteligencia Artificial/agentes/Criando agentes\|Criando agentes]]                                                               | podem interagir com o ambiente, coletar dados, tomar decisões e realizar ações para atingir um objetivo específico.                                                                           |
 | 27.03.26 | [[Inteligencia Artificial/Skills\|Skills]]                                                                                         | são como playbooks que a IA lê para executar tarefas específicas, tornando-se especialista no seu negócio                                                                                     |
 | 23.03.26 | [[Inteligencia Artificial/agentes/Agente sobre minha empresa\|Agente sobre minha empresa]]                                         | Como construir um modelo de linguagem que possa responder perguntas e fornecer informações baseadas em um conjunto de dados.                                                                  |

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/inteligencia-artificial-overview/","metatags":{"description":"teste "},"pinned":true,"contentClasses":"cards","tags":["teste"],"noteIcon":"1","updated":"2026-04-01T09:06:03.492-03:00","dg-note-properties":{"tags":["teste"],"cssclasses":["cards"]}}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/inteligencia-artificial-overview/","metatags":{"description":"teste "},"pinned":true,"contentClasses":"cards","tags":["teste","dataview","Inteligencia-artificial"],"noteIcon":"1","updated":"2026-04-01T10:23:47.120-03:00","dg-note-properties":{"class":"mapa","cssclasses":["cards"],"tags":["teste","dataview","Inteligencia-artificial"]}}
 ---
-
 
 # Inteligência Artificial Overview
  
@@ -17,6 +16,8 @@
 | 18/12/24 | [[Inteligencia Artificial/parametros de LLM/Few-Shot Learning\|Few-Shot Learning]]                                                 | orienta o modelo a seguir um padrão de raciocínio e formatação específicos, reduzindo assim a necessidade de treinamento adicional.                                                           |
 | 18/12/24 | [[Inteligencia Artificial/parametros de LLM/Function Calling\|Function Calling]]                                                   | Isso permite criar funções que o modelo pode chamar para realizar cálculos complexos, acessar informações externas ou realizar outras ações importantes                                       |
 | 18/12/24 | [[Inteligencia Artificial/parametros de LLM/Instrucoes Detalhadas no Prompt\|Instrucoes Detalhadas no Prompt]]                     | podem incluir detalhes sobre o formato desejado para a resposta, os tipos de informação que devem ser extraídos ou até mesmo os passos do raciocínio que devem ser seguidos.                  |
+| 01/04/26 | [[Inteligencia Artificial/Inteligencia artificial base\|Inteligencia artificial base]]                                             | Vídeos preferidos                                                                                                                                                                             |
+| 02/03/25 | [[Inteligencia Artificial/Inteligência Artificial Overview\|Inteligência Artificial Overview]]                                     | teste                                                                                                                                                                                         |
 | 22/12/24 | [[Inteligencia Artificial/Machine Learning/Introducao ao Machine Learning\|Introducao ao Machine Learning]]                        | permite que os sistemas computacionais aprendam sem ser explicitamente programados para realizar uma tarefa específica.                                                                       |
 | 19/12/24 | [[Inteligencia Artificial/langchain API\|langchain API]]                                                                           | As APIs permitem que seu agente se conecte ao mundo exterior, acesse informações em tempo real, e execute ações                                                                               |
 | 22/12/24 | [[Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]]                                                    | permite que os sistemas computacionais aprendam sem ser explicitamente programados para realizar uma tarefa específica.                                                                       |

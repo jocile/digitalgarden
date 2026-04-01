@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/videos/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"cards","noteIcon":"default","updated":"2026-04-01T09:09:01.398-03:00","dg-note-properties":{"class":"mapa","cssclasses":["cards"]}}
+{"dg-publish":true,"permalink":"/videos/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"cards","tags":["videos","dataview","QueryToSerialize"],"noteIcon":"default","updated":"2026-04-01T10:01:12.289-03:00","dg-note-properties":{"class":"mapa","cssclasses":["cards"],"tags":["videos","dataview","QueryToSerialize"]}}
 ---
 
 
