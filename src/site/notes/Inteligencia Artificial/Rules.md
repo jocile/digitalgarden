@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/rules/","metatags":{"description":"são pacotes de conhecimento sob demanda, as regras funcionam como um código de conduta ou uma placa arquitetônica que o agente consulta antes e durante a escrita de código"},"noteIcon":2,"updated":"2026-03-23T16:53:41.717-03:00","dg-note-properties":{"topics":["Live coding","Automação"]}}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/rules/","metatags":{"description":"são pacotes de conhecimento sob demanda, as regras funcionam como um código de conduta ou uma placa arquitetônica que o agente consulta antes e durante a escrita de código"},"noteIcon":2,"updated":"2026-04-01T14:55:51.655-03:00","dg-note-properties":{"topics":["Live coding","Automação"]}}
 ---
 
-#ia #Projeto #Antigravity
+#Inteligencia-artificial  #Projeto #Antigravity
 
 # Regras
 

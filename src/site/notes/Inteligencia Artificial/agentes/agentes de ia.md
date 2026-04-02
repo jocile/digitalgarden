@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/agentes/agentes-de-ia/","metatags":{"description":"Podem interagir com o ambiente, coletar dados, tomar decisões e realizar ações para atingir um objetivo específico."},"noteIcon":"1","updated":"2026-03-23T17:59:19.566-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/agentes/agentes-de-ia/","metatags":{"description":"Podem interagir com o ambiente, coletar dados, tomar decisões e realizar ações para atingir um objetivo específico."},"noteIcon":"1","updated":"2026-04-01T14:44:37.947-03:00","dg-note-properties":{}}
 ---
 
-#ia #Agentes #Prompt 
+#Inteligencia-artificial  #Agentes #Prompt 
 
 ## **Criação de Agentes de IA**
 

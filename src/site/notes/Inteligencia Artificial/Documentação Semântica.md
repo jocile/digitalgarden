@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/documentacao-semantica/","metatags":{"description":"Sua função principal é traduzir ativos técnicos complexos em uma linguagem que tanto humanos quanto IAs compreendam"},"noteIcon":2,"updated":"2026-03-04T10:48:12.225-03:00","dg-note-properties":{"topics":["Live coding","Projetos de aplicativos"]}}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/documentacao-semantica/","metatags":{"description":"Sua função principal é traduzir ativos técnicos complexos em uma linguagem que tanto humanos quanto IAs compreendam"},"noteIcon":2,"updated":"2026-04-01T14:51:33.468-03:00","dg-note-properties":{"topics":["Live coding","Projetos de aplicativos"]}}
 ---
 
-#ia #Projeto #Antigravity
+#Inteligencia-artificial  #Projeto #Antigravity
 
 # **Documentação Semântica**
 

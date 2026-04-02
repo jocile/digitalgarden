@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/antigravity-kit/","metatags":{"description":"funciona como uma camada de ferramentas e inteligência especializada"},"noteIcon":2,"updated":"2026-03-23T17:58:30.283-03:00","dg-note-properties":{"topics":["Live coding","Projetos de aplicativos"]}}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/antigravity-kit/","metatags":{"description":"funciona como uma camada de ferramentas e inteligência especializada"},"noteIcon":2,"updated":"2026-04-01T14:45:24.283-03:00","dg-note-properties":{"topics":["Live coding","Projetos de aplicativos"]}}
 ---
 
-#ia #Projeto #Antigravity
+#Inteligencia-artificial  #Projeto #Antigravity
 
 O **[[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]] Kit (ou Agent Kit)**, atualmente em sua versão 2, é um repositório **open source gratuito** projetado para expandir drasticamente as capacidades da IDE Google [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]. Ele funciona como uma camada de ferramentas e inteligência especializada que permite a criação de projetos complexos, como e-commerces completos, em tempo recorde.
 

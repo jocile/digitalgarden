@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/crewia/","metatags":{"description":"permite a criação de equipes de agentes de Inteligência Artificial."},"noteIcon":"1","updated":"2026-03-23T17:58:30.288-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/crewia/","metatags":{"description":"permite a criação de equipes de agentes de Inteligência Artificial."},"noteIcon":"1","updated":"2026-04-01T14:50:22.809-03:00","dg-note-properties":{}}
 ---
 
-#ia #Ferramentas #Agentes #framework #Python 
+#Inteligencia-artificial  #Ferramentas #Agentes #framework #Python 
 
 # CrewIA
 

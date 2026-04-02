@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/plataformas-de-agentes-de-ia/","title":"Plataformas de agentes de ia","metatags":{"description":"plataformas para a criação de agentes de IA, cada uma com suas particularidades e níveis de complexidade. Segue uma lista categorizada para melhor compreensão"},"noteIcon":"1","updated":"2026-03-23T17:58:30.316-03:00","dg-note-properties":{"title":"Plataformas de agentes de ia"}}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/plataformas-de-agentes-de-ia/","title":"Plataformas de agentes de ia","metatags":{"description":"plataformas para a criação de agentes de IA, cada uma com suas particularidades e níveis de complexidade. Segue uma lista categorizada para melhor compreensão"},"noteIcon":"1","updated":"2026-04-01T14:55:17.598-03:00","dg-note-properties":{"title":"Plataformas de agentes de ia"}}
 ---
 
-#ia 
+#Inteligencia-artificial 
 #Ferramentas
 
 ## Plataformas de agentes de ia

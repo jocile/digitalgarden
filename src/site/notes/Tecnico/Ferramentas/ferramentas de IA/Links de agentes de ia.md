@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/links-de-agentes-de-ia/","metatags":{"description":"podem interagir com o ambiente, coletar dados, tomar decisões e realizar ações para atingir um objetivo específico."},"noteIcon":"1","updated":"2026-03-31T17:33:50.237-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/links-de-agentes-de-ia/","metatags":{"description":"podem interagir com o ambiente, coletar dados, tomar decisões e realizar ações para atingir um objetivo específico."},"noteIcon":"1","updated":"2026-04-01T14:53:05.770-03:00","dg-note-properties":{}}
 ---
 
-#ia #Agentes #Prompt
+#Inteligencia-artificial  #Agentes #Prompt
 
 # Building AI Agents
 

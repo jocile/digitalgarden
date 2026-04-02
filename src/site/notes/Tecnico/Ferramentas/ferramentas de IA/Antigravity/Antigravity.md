@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/antigravity/","metatags":{"description":"permite que agentes de IA ajam de forma proativa no código, terminal e navegador, enquanto o desenvolvedor atua como um supervisor ou regente."},"noteIcon":2,"updated":"2026-03-13T08:26:57.766-03:00","dg-note-properties":{"topics":["Live coding","Automação"]}}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/antigravity/antigravity/","metatags":{"description":"permite que agentes de IA ajam de forma proativa no código, terminal e navegador, enquanto o desenvolvedor atua como um supervisor ou regente."},"noteIcon":2,"updated":"2026-04-01T14:45:06.613-03:00","dg-note-properties":{"topics":["Live coding","Automação"]}}
 ---
 
 
@@ -91,7 +91,7 @@ Capacidades modulares que podem ser adicionadas. Exemplo: a [[Inteligencia Artif
 
 ### Referências
 
-#Antigravity #ia  #Ferramentas
+#Antigravity #Inteligencia-artificial   #Ferramentas
 
 - [Google Antigravity Documentation](https://antigravity.google/docs/home)
 - [antigravity-awesome-skills/docs/GETTING\_STARTED.md](https://github.com/sickn33/antigravity-awesome-skills/blob/main/docs/GETTING_STARTED.md)

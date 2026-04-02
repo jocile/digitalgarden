@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/product-requirement-document/","metatags":{"description":"documentação central que serve para instruir a inteligência artificial sobre como o projeto deve funcionar"},"noteIcon":2,"updated":"2026-03-18T09:48:53.145-03:00","dg-note-properties":{"aliases":["PRD"],"topics":["Live coding","Projetos de aplicativos"]}}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/product-requirement-document/","metatags":{"description":"documentação central que serve para instruir a inteligência artificial sobre como o projeto deve funcionar"},"noteIcon":2,"updated":"2026-04-01T14:55:23.000-03:00","dg-note-properties":{"aliases":["PRD"],"topics":["Live coding","Projetos de aplicativos"]}}
 ---
 
-#ia #Projeto #Antigravity
+#Inteligencia-artificial  #Projeto #Antigravity
 
 ## Entendendo o Product Requirement Document (PRD) na Era da IA
 

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/perplexity/","title":"Perplexity","metatags":{"description":"capaz de compreender e processar linguagem natural, oferecendo respostas mais precisas e contextuais do que outras ferramentas de IA. Ele pode ser usado para: Pesquisas, Assistência educacional, Resolução de problemas complexos."},"noteIcon":"1","updated":"2026-02-26T14:31:47.322-03:00","dg-note-properties":{"title":"Perplexity"}}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/perplexity/","title":"Perplexity","metatags":{"description":"capaz de compreender e processar linguagem natural, oferecendo respostas mais precisas e contextuais do que outras ferramentas de IA. Ele pode ser usado para: Pesquisas, Assistência educacional, Resolução de problemas complexos."},"noteIcon":"1","updated":"2026-04-01T14:55:09.453-03:00","dg-note-properties":{"title":"Perplexity"}}
 ---
 
-#ia 
+#Inteligencia-artificial 
 #Ferramentas
 
 ## IA de pesquisa Perplexity

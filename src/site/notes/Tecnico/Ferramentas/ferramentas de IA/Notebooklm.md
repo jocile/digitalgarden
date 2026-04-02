@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/notebooklm/","title":"Notebooklm","metatags":{"description":"é projetada para ajudar os usuários a organizar e analisar informações extraídas de documentos, sites, vídeos do YouTube, etc."},"noteIcon":"1","updated":"2026-02-26T14:30:06.644-03:00","dg-note-properties":{"title":"Notebooklm"}}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/notebooklm/","title":"Notebooklm","metatags":{"description":"é projetada para ajudar os usuários a organizar e analisar informações extraídas de documentos, sites, vídeos do YouTube, etc."},"noteIcon":"1","updated":"2026-04-01T14:54:31.499-03:00","dg-note-properties":{"title":"Notebooklm"}}
 ---
 
-#ia 
+#Inteligencia-artificial 
 #Ferramentas 
 
 ## Google NotebookLM

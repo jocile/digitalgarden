@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/skills/","metatags":{"description":"são como playbooks que a IA lê para executar tarefas específicas, tornando-se especialista no seu negócio"},"noteIcon":2,"updated":"2026-03-27T11:22:12.214-03:00","dg-note-properties":{"aliases":["Skill"],"topics":["Live coding","Automação"]}}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/skills/","metatags":{"description":"são como playbooks que a IA lê para executar tarefas específicas, tornando-se especialista no seu negócio"},"noteIcon":2,"updated":"2026-04-01T14:56:08.346-03:00","dg-note-properties":{"aliases":["Skill"],"topics":["Live coding","Automação"]}}
 ---
 
-#ia #Projeto #Antigravity
+#Inteligencia-artificial  #Projeto #Antigravity
 
 # Skills
 

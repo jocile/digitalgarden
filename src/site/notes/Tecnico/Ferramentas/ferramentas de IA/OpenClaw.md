@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/open-claw/","metatags":{"description":"um assistente pessoal capaz de realizar diversas tarefas"},"noteIcon":2,"updated":"2026-03-20T08:51:44.114-03:00","dg-note-properties":{"topics":null}}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/open-claw/","metatags":{"description":"um assistente pessoal capaz de realizar diversas tarefas"},"noteIcon":2,"updated":"2026-04-01T14:54:43.847-03:00","dg-note-properties":{"topics":null}}
 ---
 
 #Agentes
-#ia 
+#Inteligencia-artificial 
 #Ferramentas
 
 ## Agente pessoal OpenClaw

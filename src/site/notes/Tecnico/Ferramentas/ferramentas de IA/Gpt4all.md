@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/gpt4all/","title":"Gpt4all","metatags":{"description":"é um projeto de código aberto que permite a execução de modelos de linguagem grandes localmente em dispositivos pessoais"},"noteIcon":"1","updated":"2026-02-26T14:30:55.096-03:00","dg-note-properties":{"title":"Gpt4all"}}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/gpt4all/","title":"Gpt4all","metatags":{"description":"é um projeto de código aberto que permite a execução de modelos de linguagem grandes localmente em dispositivos pessoais"},"noteIcon":"1","updated":"2026-04-01T14:52:04.732-03:00","dg-note-properties":{"title":"Gpt4all"}}
 ---
 
-#ia 
+#Inteligencia-artificial 
 #Ferramentas
 
 # Gpt4all

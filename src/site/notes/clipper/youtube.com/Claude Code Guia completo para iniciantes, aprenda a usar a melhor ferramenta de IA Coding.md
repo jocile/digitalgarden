@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/claude-code-guia-completo-para-iniciantes-aprenda-a-usar-a-melhor-ferramenta-de-ia-coding/","title":"Claude Code: Guia completo para iniciantes, aprenda a usar a melhor ferramenta de IA Coding","metatags":{"description":"é um guia completo para iniciantes sobre como instalar, configurar e utilizar a ferramenta Claude Code."},"noteIcon":"2","updated":"2026-03-25T08:28:03.203-03:00","dg-note-properties":{"created":"2026-03-12T19:09:29-03:00","reviewed":null,"url":"https://www.youtube.com/watch?v=ccMr3xfca3Q","title":"Claude Code: Guia completo para iniciantes, aprenda a usar a melhor ferramenta de IA Coding","channel":"Vini - AI Coders Academy","related":["[[Videos]]"],"published":"2025-07-18","thumbnailUrl":"https://i.ytimg.com/vi/ccMr3xfca3Q/maxresdefault.jpg","duration":"0:39:19","watched":null}}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/claude-code-guia-completo-para-iniciantes-aprenda-a-usar-a-melhor-ferramenta-de-ia-coding/","title":"Claude Code: Guia completo para iniciantes, aprenda a usar a melhor ferramenta de IA Coding","metatags":{"description":"é um guia completo para iniciantes sobre como instalar, configurar e utilizar a ferramenta Claude Code."},"noteIcon":"2","updated":"2026-04-01T14:45:40.219-03:00","dg-note-properties":{"created":"2026-03-12T19:09:29-03:00","reviewed":null,"url":"https://www.youtube.com/watch?v=ccMr3xfca3Q","title":"Claude Code: Guia completo para iniciantes, aprenda a usar a melhor ferramenta de IA Coding","channel":"Vini - AI Coders Academy","related":["[[Videos]]"],"published":"2025-07-18","thumbnailUrl":"https://i.ytimg.com/vi/ccMr3xfca3Q/maxresdefault.jpg","duration":"0:39:19","watched":null}}
 ---
 
 # Claude Code Guia completo para iniciantes, aprenda a usar a melhor ferramenta de IA Coding
@@ -51,4 +51,4 @@ Neste vídeo, vou te mostrar como configurar e usar o Claude Code na prática, e
 - Modo 100% autonomo [36:06]
 - Conclusão [38:35]
 
-#Claude #IA #DevIA  #kimik2 #ProgramaçãoAI #AIcoders #gemini #NodeJS #VSCode #nocode #vibecode #video
+#Claude #Inteligencia-artificial  #DevIA  #kimik2 #ProgramaçãoAI #AIcoders #gemini #NodeJS #VSCode #nocode #vibecode #video

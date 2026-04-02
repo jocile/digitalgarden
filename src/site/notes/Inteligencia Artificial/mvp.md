@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/mvp/","metatags":{"description":"é uma versão de um produto com o conjunto mínimo de funcionalidades necessário para ser lançado e validar uma ideia de negócio"},"noteIcon":1,"updated":"2026-03-13T08:13:06.889-03:00","dg-note-properties":{"aliases":["Minimum Viable Product"],"topics":["Live coding","Projetos de aplicativos"]}}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/mvp/","metatags":{"description":"é uma versão de um produto com o conjunto mínimo de funcionalidades necessário para ser lançado e validar uma ideia de negócio"},"noteIcon":1,"updated":"2026-04-01T14:54:24.539-03:00","dg-note-properties":{"aliases":["Minimum Viable Product"],"topics":["Live coding","Projetos de aplicativos"]}}
 ---
 
-#ia #Projeto
+#Inteligencia-artificial  #Projeto
 
 # MVP
 

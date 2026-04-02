@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/repositorios-de-skills/","metatags":{"description":"são como playbooks que a IA lê para executar tarefas específicas, tornando-se especialista na tarefa"},"noteIcon":2,"updated":"2026-03-23T07:48:42.065-03:00","dg-note-properties":{"topics":["Live coding","Automação"]}}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/repositorios-de-skills/","metatags":{"description":"são como playbooks que a IA lê para executar tarefas específicas, tornando-se especialista na tarefa"},"noteIcon":2,"updated":"2026-04-01T14:55:30.186-03:00","dg-note-properties":{"topics":["Live coding","Automação"]}}
 ---
 
-#ia #mapa #Skill 
+#Inteligencia-artificial  #mapa #Skill 
 
 # Repositórios de [[Inteligencia Artificial/Skills\|Skills]]
 

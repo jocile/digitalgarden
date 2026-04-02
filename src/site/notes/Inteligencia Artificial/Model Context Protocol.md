@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/model-context-protocol/","metatags":{"description":"permite a comunicação direta e padronizada entre diferentes ferramentas de software e agentes de ia"},"noteIcon":2,"updated":"2026-03-23T17:58:30.325-03:00","dg-note-properties":{"aliases":["MCP"],"topics":["Live coding","Projetos de aplicativos"]}}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/model-context-protocol/","metatags":{"description":"permite a comunicação direta e padronizada entre diferentes ferramentas de software e agentes de ia"},"noteIcon":2,"updated":"2026-04-01T14:54:13.394-03:00","dg-note-properties":{"aliases":["MCP"],"topics":["Live coding","Projetos de aplicativos"]}}
 ---
 
-#ia #Projeto #Antigravity
+#Inteligencia-artificial  #Projeto #Antigravity
 
 # **Model Context Protocol**
 

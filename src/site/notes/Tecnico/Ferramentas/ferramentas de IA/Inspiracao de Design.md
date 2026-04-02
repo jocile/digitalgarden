@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/inspiracao-de-design/","metatags":{"description":"permite a comunicação direta e padronizada entre diferentes ferramentas de software e agentes de ia"},"noteIcon":2,"updated":"2026-03-03T09:37:31.535-03:00","dg-note-properties":{"topics":["Live coding","Projetos de aplicativos"]}}
+{"dg-publish":true,"permalink":"/tecnico/ferramentas/ferramentas-de-ia/inspiracao-de-design/","metatags":{"description":"permite a comunicação direta e padronizada entre diferentes ferramentas de software e agentes de ia"},"noteIcon":2,"updated":"2026-04-01T14:52:24.501-03:00","dg-note-properties":{"topics":["Live coding","Projetos de aplicativos"]}}
 ---
 
-#ia #Projeto #Antigravity #Webdesign #Ferramentas 
+#Inteligencia-artificial  #Projeto #Antigravity #Webdesign #Ferramentas 
 
 ## Tools
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/","title":"Sobre","metatags":{"description":"Sobre este site"},"noteIcon":"default","updated":"2026-03-23T17:58:30.374-03:00","dg-note-properties":{"class":"mapa","title":"Sobre"}}
+{"dg-publish":true,"permalink":"/about/","title":"Sobre","metatags":{"description":"Sobre este site"},"noteIcon":"default","updated":"2026-04-01T14:38:01.821-03:00","dg-note-properties":{"class":"mapa","title":"Sobre"}}
 ---
 
 
@@ -18,10 +18,12 @@ Alguns dizem que existem três tipos diferentes de anotadores: o arquiteto, o ja
 ---
 >[!note]- A organização
 > A organização do site é altamente estruturada e categorizada por domínios de conhecimento (know) e aplicação prática, utilizando uma hierarquia clara de pastas:
-> - **Formacao/**: Centraliza o aprendizado técnico, subdividido por linguagens (Python, JS, PHP) e áreas modernas como Inteligência Artificial e UX Design.
-> - **Tecnico/ e Senac/**: Pastas dedicadas ao exercício da docência, contendo planos de aula, cronogramas, listas de alunos e materiais de apoio pedagógico.
-> - **[[Teologia\|Teologia]]/**: Uma seção extensa e bem organizada dedicada a estudos bíblicos, com divisões por temas como [[Teologia/Escatologia\|Escatologia]], [[Teologia/Cristologia/Introducao da Cristologia\|Cristologia]] e Bibliografia específica.
-> - **ia/**: Uma seção dedicada à integração de IA, armazenando [[Inteligencia Artificial/Prompts\|Prompts]] customizados e históricos de conversas, indicando um fluxo de trabalho assistido por inteligência artificial.
+> - **[[Teologia\|Teologia]]/**: Seção extensa e categorizada para estudos bíblicos sistêmicos e históricos (Escatologia, Cristologia, Bibliologia, História dos Hebreus, Novo e Velho Testamento).
+> - **Tecnico/**: A maior seção do vault (mais de 500 notas), dedicada à docência e ao planejamento do Senac. Contém vasta documentação sobre Didática, cursos estruturados (Assistente de TI, Informática Básica, Programador) e trilhas de linguagens (Python, PHP, JavaScript, React/Next.js, Webdesign).
+> - **[[Inteligencia Artificial\|Inteligencia Artificial]]/**: Pasta dedicada a estudos profundos sobre IA, incluindo Machine Learning, criação de agentes e parâmetros de LLM (Chain-of-Thought, Function Calling).
+> - **[[Formacao/Formacao Overview\|Formação]]/**: Centraliza o aprendizado técnico contínuo, como bootcamps de Spring/React e especializações em redes e segurança.
+> - **clipper/**: Ecossistema de captura da web e YouTube com forte foco em tendências de IA (Antigravity, NotebookLM, Claude Code) e vagas de emprego.
+> - **Projetos/**: Áreas de ideação e gestão de projetos práticos (ex: Confeitaria da Nicola, Clone do HBO Max, Carreira Internacional).
 
 >[!note]- Preferências
 >- A preferência é por notas estruturadas e modulares, valorizando a aplicação prática do conhecimento.
@@ -36,12 +38,13 @@ Alguns dizem que existem três tipos diferentes de anotadores: o arquiteto, o ja
 > - Recomendações ou problemas podem ser relatados em [issues](https://github.com/jocile/digitalgarden/issues).
 
 >[!note]- Tópicos
-> - Desenvolvimento de Software (Python, JavaScript, PHP, React)
-> - Inteligência Artificial (Engenharia de [[Inteligencia Artificial/Prompts\|Prompts]], [[Inteligencia Artificial/agentes/agentes de ia\|agentes de ia]], LLMs, [[Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]])
-> - Educação e Didática Técnica (Metodologias de ensino, Planejamento de aulas para o Senac)
-> - Cibersegurança e Redes (CyberOps, Protocolos IP, Administração de sistemas [[Tecnico/Assistente-de-TI/Linux\|Linux]]/Windows)
-> - [[Teologia\|Teologia]] Sistêmica ([[Teologia/Escatologia\|Escatologia]], Cristologia, História dos Hebreus)
-> - Design e [[Webdesign\|Webdesign]] (UX Design, [[Tecnico/Webdesign/CSS/CSS\|CSS]], [[Tecnico/Webdesign/Bootstrap\|Bootstrap]], Ferramentas visuais)
-> - Gestão de Conhecimento (Uso avançado de [[Tecnico/Ferramentas/Obsidian/Obsidian\|Obsidian]], Canvas, Excalidraw)
+> - [[Inteligencia Artificial/Inteligência Artificial Overview\|Inteligência Artificial]] e [[Inteligencia Artificial/agentes/agentes de ia\|Agentes]] (Engenharia de Prompts, Parâmetros de LLM, [[Inteligencia Artificial/RAG - Retrieval Augmented Generation\|RAG]], [[Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]], Claude Code, [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]])
+> - Desenvolvimento de Software e Web (Python POO/WebApp, JavaScript, PHP/WordPress, React/Next.js, Java SpringBoot)
+> - Educação e Didática Técnica ([[Tecnico/Didatica/Metodologias/Metodologias ativas\|Metodologias ativas]], Planejamento letivo Senac para Assistente de TI, Informática Básica e Programador)
+> - [[Teologia\|Teologia]] Sistêmica e Histórica ([[Teologia/Escatologia\|Escatologia]], [[Teologia/Cristologia/Introducao da Cristologia\|Cristologia]], Bibliologia, Doutrina de Deus, autores como Barclay e Pentecost)
+> - Gestão de Conhecimento e Produtividade (Obsidian avançado, Dataview, Excalidraw, MOCs)
+> - Design e UX/UI (Fundamentos de UX, Análise de Briefing, Layout Responsivo, CSS/Bootstrap)
+> - Cibersegurança e Redes (Protocolos, Packet Tracer, Redes sem fio)
+> - Gestão de Projetos Práticos (Confeitaria da Nicola, Catálogo de carros, Clone HBO Max)
 
 [[Lista de topicos\|🔍 Lista de tópicos]]
