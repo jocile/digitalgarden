@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-overview/","title":"Minhas Formações","pinned":true,"contentClasses":"cards cards-cols-3","tags":["QueryToSerialize","Dataview","mapa","cards"],"noteIcon":"default","updated":"2026-04-02T22:31:12.142-03:00","dg-note-properties":{"class":"mapa","title":"Minhas Formações","cssclasses":["cards","cards-cols-3"],"tags":["QueryToSerialize","Dataview","mapa","cards"]}}
+{"dg-publish":true,"permalink":"/formacao/formacao-overview/","title":"Minhas Formações","pinned":true,"contentClasses":"cards cards-cols-3","tags":["QueryToSerialize","Dataview","mapa","cards"],"noteIcon":"default","updated":"2026-04-02T22:45:36.930-03:00","dg-note-properties":{"class":"mapa","title":"Minhas Formações","cssclasses":["cards","cards-cols-3"],"tags":["QueryToSerialize","Dataview","mapa","cards"]}}
 ---
 
 
