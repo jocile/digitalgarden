@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/boot-camp-spring/","tags":["Formação","Java"],"noteIcon":"default","updated":"2026-04-02T16:40:22.325-03:00","dg-note-properties":{"description":"","status":"✅ done","horas-aula":"160:00","habilidades":["Java","SpringBoot","TDD","JUnit"],"link":"[Prof. Nelio Alves - Devsuperior: Escola de Programação](https://devsuperior.com.br/)","certificado":"![BootCamp Spring.png](/img/user/assets/images/certicados/BootCamp%20Spring.png)","started":"15-11-2021","finished":"23-01-2024","tags":["Formação","Java"]}}
+{"dg-publish":true,"permalink":"/formacao/boot-camp-spring/","metatags":{"description":"Lista de disciplinas da formação"},"tags":["Formação","Java"],"noteIcon":"default","updated":"2026-04-02T21:09:00.444-03:00","dg-note-properties":{"class":"classe-formacao","status":"✅ done","horas-aula":"160:00","habilidades":["Java","SpringBoot","TDD","JUnit"],"link":"[Prof. Nelio Alves - Devsuperior: Escola de Programação](https://devsuperior.com.br/)","certificado":"![BootCamp Spring.png](/img/user/assets/images/certicados/BootCamp%20Spring.png)","started":"15-11-2021","finished":"23-01-2024","tags":["Formação","Java"]}}
 ---
 
 # BootCamp Spring React
 
-**Status**: ✅ done
 **Horas-aula**: 160:00
 **Habilidades**: Java,SpringBoot,TDD,JUnit
 **Link**: [Prof. Nelio Alves - Devsuperior: Escola de Programação](https://devsuperior.com.br/)

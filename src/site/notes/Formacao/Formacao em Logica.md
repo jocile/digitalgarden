@@ -1,22 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-logica/","title":"Formação em Lógica","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2026-04-01T09:00:05.532-03:00","dg-note-properties":{"class":"mapa","title":"Formação em Lógica","topics":["Lógica de programação","JavaScript","Algoritmos","Formação em programação"]}}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-logica/","title":"Formação em Lógica","metatags":{"description":"Lista de disciplinas da formação"},"tags":["Formação","JavaScript","Lógica"],"noteIcon":"default","updated":"2026-04-02T21:09:55.356-03:00","dg-note-properties":{"class":"classe-formacao","title":"Formação em Lógica","topics":["Lógica de programação","JavaScript","Algoritmos","Formação em programação"],"status":"✅ done","horas-aula":"41:00","habilidades":["JavaScript","Lógica","Estrutura de dados"],"link":"[Trilha DIO - Formação em Lógica de programação](https://web.dio.me/track/formacao-logica-de-programacao)","certificado":"![Formacao Logica-1753015437047.png](/img/user/assets/images/certicados/Formacao%20Logica-1753015437047.png)","started":null,"finished":"15-11-2023","tags":["Formação","JavaScript","Lógica"]}}
 ---
-
-#JavaScript #Formação #mapa #Lógica #web-developer 
 
 # Formação em Lógica de programação
 
-**Status**:: concluído 
-**Horas-aula**:: 41:00
-**Habilidades**:: Lógica, JavaScript
-**Link**:: [Trilha DIO - Formação em Lógica de programação](https://web.dio.me/track/formacao-logica-de-programacao)
+**Horas-aula**: 41:00
+**Habilidades**: JavaScript,Lógica,Estrutura de dados
+**Link**: [Trilha DIO - Formação em Lógica de programação](https://web.dio.me/track/formacao-logica-de-programacao)
+**Concluído**: 15-11-2023
+
+![assets/images/certicados/Formacao Logica-1753015437047.png\|Formacao Logica-1753015437047.png](/img/user/assets/images/certicados/Formacao%20Logica-1753015437047.png)
 
 >[!check]- Desafios de projeto:
 > - [x] [Classificador de Nível de Herói](https://github.com/jocile/classificador-de-nivel)
 > - [x] [Calculadora de Partidas Rankeadas](https://github.com/jocile/calculadora-de-partidas)
 > - [x] [Escrevendo as Classes de Um Jogo](https://github.com/jocile/classe-hero)
-
-![Formacao Logica-1753015437047.png](/img/user/Formacao/Formacao%20Logica-1753015437047.png)
 
 > [!summary]- Bem-Vindo à Sua Jornada de Lógica de programação
 > - Aperte Start com Lógica de Programação
@@ -76,7 +74,7 @@
 **Habilidades**:: Lógica, JavaScript
 **Link**:: [Santander 2025 - Fundamentos de Lógica de Programação](https://web.dio.me/track/santander-2025-fundamentos-de-logica-de-programacao)
 
-![Formacao em Logica-1771037486531.png](/img/user/Formacao/Formacao%20em%20Logica-1771037486531.png)
+![Formacao em Logica-1771037486531.png](/img/user/assets/images/certicados/Formacao%20em%20Logica-1771037486531.png)
 
 - 22 cursos
 - 3 desafios de projeto

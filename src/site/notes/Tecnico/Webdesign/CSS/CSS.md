@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/webdesign/css/css/","title":"Introdução ao CSS","metatags":{"description":"é um mecanismo utilizado para adicionar estilo a documentos web"},"noteIcon":2,"updated":"2025-07-23T18:58:10.708-03:00","dg-note-properties":{"title":"Introdução ao CSS","cssclasses":null,"topics":["Webdesign"]}}
+{"dg-publish":true,"permalink":"/tecnico/webdesign/css/css/","title":"Introdução ao CSS","metatags":{"description":"é um mecanismo utilizado para adicionar estilo a documentos web"},"noteIcon":2,"updated":"2026-04-02T20:28:05.938-03:00","dg-note-properties":{"title":"Introdução ao CSS","cssclasses":null,"topics":["Webdesign"]}}
 ---
 
 #Webdesign #CSS 
@@ -146,7 +146,7 @@ Agora você já conhece os três métodos de aplicação do CSS:
 
 ## Referências
 
-- [[Formacao/Formacao em Webdesign\|Formacao em Webdesign]]
+- [[Formacao/Web Designer Senac\|Web Designer Senac]]
 - [Title Unavailable \| Site Unreachable](https://www.w3schools.com/css/default.asp)
 - [CSS Flexbox Layout Guide \| CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - 

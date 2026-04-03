@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/especializacao-em-redes-e-seguranca/","title":"Especialização em Redes e Segurança","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-09-24T22:47:43.294-03:00","dg-note-properties":{"class":"mapa","title":"Especialização em Redes e Segurança","topics":["Redes de Computadores","Segurança de Sistema","Perícia Forence"]}}
+{"dg-publish":true,"permalink":"/formacao/especializacao-em-redes-e-seguranca/","title":"Especialização em Redes e Segurança","metatags":{"description":"Lista de disciplinas da formação"},"tags":["Formação","Computação"],"noteIcon":"default","updated":"2026-04-02T21:09:29.433-03:00","dg-note-properties":{"class":"classe-formacao","title":"Especialização em Redes e Segurança","status":"✅ done","horas-aula":"380:00","habilidades":["Redes de Computadores","Segurança de Sistemas","Perícia Forence","Linux"],"link":"[Pós-Graduação - UNINTA](https://uninta.edu.br/site/pos-graduacao/)","certificado":"","started":"20-01-2007","finished":"01-12-2013","tags":["Formação","Computação"]}}
 ---
 
 #Formação #mapa
 
 # Especialização em Redes e Segurança de Sistemas
 
-**Status**:: concluído 
-**Horas-aula**:: 380:00
-**Habilidades**:: Redes de Computadores, Cibersegurança, Servidores, Cabeamento estruturado, Suporte TI
-**Link**:: [Pós-Graduação - UNINTA](https://uninta.edu.br/site/pos-graduacao/)
+**Horas-aula**: 380:00
+**Habilidades**: Redes de Computadores,Segurança de Sistemas,Perícia Forence,Linux
+**Link**: [Pós-Graduação - UNINTA](https://uninta.edu.br/site/pos-graduacao/)
+**Concluído**: 01-12-2013
 
 >[!check]- Trabalho de Conclusão de Curso
 > - [x] A IMPORTANCIA DA REDE DE COMPUTADORES PARA MONITORAMENTO: PROJETO DE SISTEMA DE MEDIÇÃO

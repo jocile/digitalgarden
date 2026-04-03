@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ciencias-da-computacao/","title":"Bacharel em Ciências da Computação","metatags":{"description":"Lista de disciplinas da formação"},"contentClasses":"row-lines row-hover","noteIcon":"default","updated":"2025-09-24T22:51:11.857-03:00","dg-note-properties":{"class":"mapa","title":"Bacharel em Ciências da Computação","cssclasses":["row-lines","row-hover"],"topics":["Ciências da Computação","Formação em programação"]}}
+{"dg-publish":true,"permalink":"/formacao/ciencias-da-computacao/","title":"Bacharel em Ciências da Computação","metatags":{"description":"Lista de disciplinas da formação"},"contentClasses":"row-lines row-hover","tags":["Formação","Computação"],"noteIcon":"default","updated":"2026-04-02T21:09:20.806-03:00","dg-note-properties":{"class":"classe-formacao","title":"Bacharel em Ciências da Computação","cssclasses":["row-lines","row-hover"],"status":"✅ done","horas-aula":"1200:00","habilidades":["Inteligência Artificial","Algoritmos","POO","Engenharia de Sistemas"],"link":"[Ciências da Computação - Universidade Estadual do Vale do Acaraú](https://www.uva.ce.gov.br/cursos/cursos-graduacao/cg-computacao/)","certificado":"","started":"20-01-2007","finished":"01-12-2013","tags":["Formação","Computação"]}}
 ---
 
-#Formação #mapa
+# Bacharel em Ciências da Computação
 
-**Status**:: concluído
-**Horas-aula**:: 1200:00
-**Link**:: [Ciências da Computação - Universidade Estadual do Vale do Acaraú](https://www.uva.ce.gov.br/cursos/cursos-graduacao/cg-computacao/)
+**Horas-aula**: 1200:00
+**Habilidades**: Inteligência Artificial,Algoritmos,POO,Engenharia de Sistemas
+**Link**: [Ciências da Computação - Universidade Estadual do Vale do Acaraú](https://www.uva.ce.gov.br/cursos/cursos-graduacao/cg-computacao/)
+**Concluído**: 01-12-2013
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnzqmToGTx9bmKoj1u3O4GsoQe9oJPidLF9HQ4Kusy1VvTsVS-YMM3S0G90vbjqX2UQ0CbiwQxtrasi-TrVOyRaDYiebGnDJg1MUfm9qUdk0fn7klVTgG49O8vVvYH7WBW9-P5qxZy0PU/s1600/fig128002.png)
 

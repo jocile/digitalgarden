@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-02-20T13:32:45.640-03:00","dg-note-properties":{"class":"mapa","title":"Programador-WEB"}}
+{"dg-publish":true,"permalink":"/programador-web-2026/","title":"Programador-WEB","metatags":{"description":"Profissional que trabalha no desenvolvimento de sites e diversos sistemas WEB"},"noteIcon":"default","updated":"2026-04-02T20:28:05.857-03:00","dg-note-properties":{"class":"mapa","title":"Programador-WEB"}}
 ---
 
 #mapa #Senac #web #Webdesign #web-developer 
@@ -236,7 +236,7 @@ gantt
 - [📁 github.com/jocile/programadorweb2026: Exercícios do curso de Programador Web do Senac 2026](https://github.com/jocile/programadorweb2026/)
 - [📁 github.com/jocile/webdesigner](https://github.com/jocile/webdesigner) - [Visualizar WebDesigner](https://jocile.github.io/webdesigner/)
 - [JavaScript - MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [[Formacao/Formacao em Webdesign\|Formacao em Webdesign]]
+- [[Formacao/Web Designer Senac\|Web Designer Senac]]
 - [[Tecnico/Webdesign/editores HTML online\|editores HTML online]]
 
 

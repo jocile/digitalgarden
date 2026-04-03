@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/webdesign/css/flexbox/","title":"Flexbox","metatags":{"description":"permite a criação de layouts flexíveis de forma dinâmica e responsiva"},"tags":["Webdesign","Flexbox","CSS","editor"],"noteIcon":"1","updated":"2026-02-03T22:46:47.048-03:00","dg-note-properties":{"title":"Flexbox","tags":["Webdesign","Flexbox","CSS","editor"]}}
+{"dg-publish":true,"permalink":"/tecnico/webdesign/css/flexbox/","title":"Flexbox","metatags":{"description":"permite a criação de layouts flexíveis de forma dinâmica e responsiva"},"tags":["Webdesign","Flexbox","CSS","editor"],"noteIcon":"1","updated":"2026-04-02T20:28:05.994-03:00","dg-note-properties":{"title":"Flexbox","tags":["Webdesign","Flexbox","CSS","editor"]}}
 ---
 
 
@@ -108,4 +108,4 @@ Nesse exemplo, foi criado um contêiner com três filhos e aplicados diferentes 
 - [DIO \_ Módulo 02 \_ Flexbox.pdf](https://github.com/jocile/webdesigner/blob/main/formacao-css/2-Trabalhando-com-layouts-no-css/DIO%20_%20M%C3%B3dulo%2002%20_%20Flexbox.pdf)
 - [Exemplos de layouts · GitHub](https://github.com/jocile/webdesigner/tree/main/formacao-css/2-Trabalhando-com-layouts-no-css)
 - [Exemplos de alinhamento com Flexbox ](https://jocile.github.io/webdesigner/formacao-css/2-Trabalhando-com-layouts-no-css/flexbox-alinhamento.html)
-- [[Formacao/Formacao em Webdesign\|Formacao em Webdesign]]
+- [[Formacao/Web Designer Senac\|Web Designer Senac]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/webdesign/css/grid-layout/","metatags":{"description":"oferece um sistema bidimensional para criação de um layout"},"noteIcon":2,"updated":"2025-07-27T13:06:18.765-03:00","dg-note-properties":{"cssclasses":null,"topics":["Webdesign"]}}
+{"dg-publish":true,"permalink":"/tecnico/webdesign/css/grid-layout/","metatags":{"description":"oferece um sistema bidimensional para criação de um layout"},"noteIcon":2,"updated":"2026-04-02T20:28:06.015-03:00","dg-note-properties":{"cssclasses":null,"topics":["Webdesign"]}}
 ---
 
 #Webdesign 
@@ -37,6 +37,6 @@ As vantagens fundamentais do Layout CSS Grid são:
 - [CSS Grid Layout Guide - CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [CSS grid layout - Learn web development \| MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Grids)
 - [CSS Grid Layout](https://www.w3schools.com/css/css_grid.asp)
-- [[Formacao/Formacao em Webdesign\|Formacao em Webdesign]]
+- [[Formacao/Web Designer Senac\|Web Designer Senac]]
 - [Exemplos de layouts · GitHub](https://github.com/jocile/webdesigner/tree/main/formacao-css/2-Trabalhando-com-layouts-no-css)
 - [Exemplo de Grid Layout](https://jocile.github.io/webdesigner/formacao-css/2-Trabalhando-com-layouts-no-css/grid-areas%20abreviado.html) 

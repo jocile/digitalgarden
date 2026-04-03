@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/webdesign/formularios/","title":"Formulários HTML","metatags":{"description":"possui campos para coletar informações dos usuários"},"noteIcon":2,"updated":"2025-07-28T23:50:56.522-03:00","dg-note-properties":{"title":"Formulários HTML","topics":["Webdesign","HTML5"]}}
+{"dg-publish":true,"permalink":"/tecnico/webdesign/formularios/","title":"Formulários HTML","metatags":{"description":"possui campos para coletar informações dos usuários"},"noteIcon":2,"updated":"2026-04-02T20:28:06.086-03:00","dg-note-properties":{"title":"Formulários HTML","topics":["Webdesign","HTML5"]}}
 ---
 
 #Webdesign #HTML 
@@ -265,4 +265,4 @@ Na próxima aula, vamos falar sobre os diferentes tipos de inputs em detalhes �
 
 - [HTML Forms](https://www.w3schools.com/html/html_forms.asp)
 - [Exemplo de formulário de cadastro de alunos no GitHub]([https://github.com/jocile/controle-academico/blob/main/cadastro-de-alunos.html](https://jocile.github.io/controle-academico/cadastro-de-alunos.html))
-- [[Formacao/Formacao em Webdesign\|Formacao em Webdesign]]
+- [[Formacao/Web Designer Senac\|Web Designer Senac]]

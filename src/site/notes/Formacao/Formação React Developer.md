@@ -1,19 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-react-developer/","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-12-17T13:22:40.371-03:00","dg-note-properties":{"class":"mapa","topics":["Webdesign","React","JavaScript"]}}
+{"dg-publish":true,"permalink":"/formacao/formacao-react-developer/","metatags":{"description":"Lista de disciplinas da formação"},"tags":["Formação","React","Webdesign"],"noteIcon":"default","updated":"2026-04-02T20:56:55.633-03:00","dg-note-properties":{"class":"classe-formacao","topics":["Webdesign","React","JavaScript"],"status":"✅ done","horas-aula":"34:00","habilidades":["Webdesign","ReactJS","JavaScript"],"link":"[DIO - Formação React Developer](https://web.dio.me/track/formacao-react-developers)","certificado":"![Formação React Developer-1765988454655.png](/img/user/assets/images/certicados/Forma%C3%A7%C3%A3o%20React%20Developer-1765988454655.png)","started":null,"finished":"01-12-2008","tags":["Formação","React","Webdesign"]}}
 ---
-
-#React #Formação #mapa
 
 # Formação React Developer
 
-**Status**:: concluído
-**Horas-aula**:: 34:00
-**Habilidades**:: React, JavaScript, Webdesign
-**Link**:: [DIO - Formação React Developer](https://web.dio.me/track/formacao-react-developers)
+**Horas-aula**: 34:00
+**Habilidades**: Webdesign,ReactJS,JavaScript
+**Link**: [DIO - Formação React Developer](https://web.dio.me/track/formacao-react-developers)
+**Concluído**: 01-12-2008
 
-![Formação React Developer-1765988454655.png](/img/user/Formacao/Forma%C3%A7%C3%A3o%20React%20Developer-1765988454655.png)
-
-[[Formacao/BootCamp Spring React#BrootCamp React\|BootCamp Spring React#BrootCamp React]]
+![assets/images/certicados/Formação React Developer-1765988454655.png\|Formação React Developer-1765988454655.png](/img/user/assets/images/certicados/Forma%C3%A7%C3%A3o%20React%20Developer-1765988454655.png)
 
 >[!check]- Desafios de projeto:
 > - [x] [Criando Uma Calculadora Com React](https://github.com/jocile/calculadora)
@@ -56,3 +52,5 @@
 > - Dominando Conceitos e Ferramentas Avançadas do React
 > - Introdução ao Next.js
 > - Desafio de projeto - Criando o Seu Blog Pessoal Com Next.js
+
+[[Formacao/BootCamp React\|BootCamp React]] - [[Formacao/Formacao Overview\|Formacao Overview]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tecnico/webdesign/estruturando-seu-html/","metatags":{"description":"Como usar as tags div e span para organizar o conteúdo do site"},"noteIcon":2,"updated":"2025-07-23T18:18:43.063-03:00","dg-note-properties":{"topics":["Webdesign"]}}
+{"dg-publish":true,"permalink":"/tecnico/webdesign/estruturando-seu-html/","metatags":{"description":"Como usar as tags div e span para organizar o conteúdo do site"},"noteIcon":2,"updated":"2026-04-02T20:28:06.061-03:00","dg-note-properties":{"topics":["Webdesign"]}}
 ---
 
 
@@ -170,4 +170,4 @@ Até a próxima pessoal!
 - [MDN Web Docs](https://developer.mozilla.org/pt-BR/)
 - [HTML Block and Inline Elements](https://www.w3schools.com/html/html_blocks.asp)
 - [[Tecnico/Webdesign/Estrutura HTML5\|Estrutura HTML5]]
-- [[Formacao/Formacao em Webdesign\|Formacao em Webdesign]]
+- [[Formacao/Web Designer Senac\|Web Designer Senac]]

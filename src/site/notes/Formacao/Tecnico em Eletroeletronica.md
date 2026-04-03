@@ -1,15 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/tecnico-em-eletroeletronica/","title":"Técnico em Eletroeletrônica","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2026-03-15T11:15:28.461-03:00","dg-note-properties":{"class":"mapa","title":"Técnico em Eletroeletrônica","topics":["Eletrônica","Automação","Elétrica"]}}
+{"dg-publish":true,"permalink":"/formacao/tecnico-em-eletroeletronica/","title":"Técnico em Eletroeletrônica","metatags":{"description":"Lista de disciplinas da formação"},"tags":["Formação","Eletrônica","Elétrica"],"noteIcon":"default","updated":"2026-04-02T20:50:25.099-03:00","dg-note-properties":{"class":"classe-formacao","title":"Técnico em Eletroeletrônica","topics":["Eletrônica","Automação","Elétrica"],"status":"✅ done","horas-aula":"1200:00","habilidades":["Elétrica","Eletrônica","Automação","Cabeamento estruturado","Suporte TI"],"link":"[Centec - Eletroeletrônica](https://www.centec.org.br/cursos/eletroeletronica)","started":null,"finished":"01-12-2008","tags":["Formação","Eletrônica","Elétrica"]}}
 ---
-
-#Formação #mapa
 
 # Técnico em Eletroeletrônica
 
-**Status**:: concluído 
-**Horas-aula**:: 1200:00
-**Habilidades**:: Elétrica, Eletrônica, Automação, Cabeamento estruturado, Suporte TI
-**Link**:: [Centec - Eletroeletrônica](https://www.centec.org.br/cursos/eletroeletronica))
+**Horas-aula**: 1200:00
+**Habilidades**: Elétrica,Eletrônica,Automação,Cabeamento estruturado,Suporte TI
+**Link**: [Centec - Eletroeletrônica](https://www.centec.org.br/cursos/eletroeletronica)
+**Concluído**: 01-12-2008
 
 >[!summary]- 1º Semestre
 > - Eletricidade CC
