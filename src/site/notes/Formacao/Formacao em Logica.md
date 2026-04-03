@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-logica/","title":"Formação em Lógica","metatags":{"description":"Lista de disciplinas da formação"},"tags":["Formação","JavaScript","Lógica"],"noteIcon":"default","updated":"2026-04-02T21:09:55.356-03:00","dg-note-properties":{"class":"classe-formacao","title":"Formação em Lógica","topics":["Lógica de programação","JavaScript","Algoritmos","Formação em programação"],"status":"✅ done","horas-aula":"41:00","habilidades":["JavaScript","Lógica","Estrutura de dados"],"link":"[Trilha DIO - Formação em Lógica de programação](https://web.dio.me/track/formacao-logica-de-programacao)","certificado":"![Formacao Logica-1753015437047.png](/img/user/assets/images/certicados/Formacao%20Logica-1753015437047.png)","started":null,"finished":"15-11-2023","tags":["Formação","JavaScript","Lógica"]}}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-logica/","title":"Formação em Lógica","metatags":{"description":"Lista de disciplinas da formação"},"tags":["Formação","JavaScript","Lógica"],"noteIcon":"default","updated":"2026-04-02T22:01:04.468-03:00","dg-note-properties":{"class":"classe-formacao","title":"Formação em Lógica","topics":["Lógica de programação","JavaScript","Algoritmos","Formação em programação"],"status":"✅ done","horas-aula":"41:00","habilidades":["JavaScript","Lógica","Estrutura de dados"],"link":"[Trilha DIO - Formação em Lógica de programação](https://web.dio.me/track/formacao-logica-de-programacao)","certificado":"![Formacao Logica-1753015437047.png](/img/user/assets/images/certicados/Formacao%20Logica-1753015437047.png)","started":null,"finished":"15-11-2023","tags":["Formação","JavaScript","Lógica"]}}
 ---
 
 # Formação em Lógica de programação
@@ -67,23 +67,3 @@
 > - O Que São Classes e Objetos 
 > - Desafio de projeto: Escrevendo as Classes de Um Jogo
 > - Parabéns Por Dominar as Estruturas de Dados
-
-## Santander 2025 - Fundamentos de Lógica de Programação
-
-**Horas-aula**:: 29:00
-**Habilidades**:: Lógica, JavaScript
-**Link**:: [Santander 2025 - Fundamentos de Lógica de Programação](https://web.dio.me/track/santander-2025-fundamentos-de-logica-de-programacao)
-
-![Formacao em Logica-1771037486531.png](/img/user/assets/images/certicados/Formacao%20em%20Logica-1771037486531.png)
-
-- 22 cursos
-- 3 desafios de projeto
-- 2 desafios de código
-
-> [!summary] Iniciando a Jornada: Pensando e estruturando
-> - Trabalhando com Operações no Código
-> - Executando Decisões e Repetições no Código
-> - Dominando Funções: Reutilizando Código com Eficiência
-> - Modelando Estruturas com Objetos em Código
-
-[[Formacao/Formacao Overview\|Formacao Overview]]
