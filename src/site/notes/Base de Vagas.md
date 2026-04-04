@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/base-de-vagas/","metatags":{"description":"Oportunidades em emprego"},"tags":["vagas","teste"],"noteIcon":"default","updated":"2026-04-04T12:25:52.313-03:00","dg-note-properties":{"class":"mapa","tags":["vagas","teste"]}}
+{"dg-publish":true,"permalink":"/base-de-vagas/","metatags":{"description":"Oportunidades em emprego"},"contentClasses":"row-hover","tags":["vagas","teste"],"noteIcon":"default","updated":"2026-04-04T12:41:23.157-03:00","dg-note-properties":{"class":"mapa","cssclasses":["row-hover"],"tags":["vagas","teste"]}}
 ---
 
 
@@ -9,15 +9,21 @@
 filters:
   and:
     - file.folder == "clipper/brvagas.com.br"
-    - "!link.isEmpty()"
+    - note["dg-publish"] == true
 views:
   - type: table
     name: Vagas
     order:
-      - link
+      - file.name
       - data-limite
     sort:
       - property: data-limite
         direction: ASC
+  - type: cards
+    name: cards
+    order:
+      - file.name
+      - data-limite
+      - Descricao
 
 ```

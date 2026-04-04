@@ -1,11 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/base-de-formacao/","metatags":{"description":"Base de Formações"},"tags":["vagas"],"noteIcon":"default","updated":"2026-04-04T12:24:17.409-03:00","dg-note-properties":{"class":"mapa","tags":["vagas"]}}
+{"dg-publish":true,"permalink":"/base-de-formacao/","metatags":{"description":"Base de Formações"},"contentClasses":"row-hover","tags":["vagas"],"noteIcon":"default","updated":"2026-04-04T12:47:41.826-03:00","dg-note-properties":{"class":"mapa","cssclasses":["row-hover"],"tags":["vagas"]}}
 ---
 
 
 # Formação
 
 ```base
+filters:
+  and:
+    - file.name != this.file.name
+    - file.folder == "Formacao"
+    - '!note["horas-aula"].isEmpty()'
 formulas:
   description: note["dg-metatags"].description
 properties:
@@ -14,11 +19,6 @@ properties:
 views:
   - type: table
     name: Visualiação conclusão
-    filters:
-      and:
-        - file.name != this.file.name
-        - note["dg-publish"] == true
-        - file.folder == "Formacao"
     order:
       - file.name
       - finished
@@ -28,10 +28,6 @@ views:
         direction: ASC
   - type: table
     name: Visualizaçao horas-aula
-    filters:
-      and:
-        - file.folder == "Formacao"
-        - '!note["horas-aula"].isEmpty()'
     order:
       - file.name
       - horas-aula
@@ -39,5 +35,10 @@ views:
     sort:
       - property: horas-aula
         direction: ASC
+  - type: cards
+    name: Cards
+    order:
+      - file.name
+      - habilidades
 
 ```
