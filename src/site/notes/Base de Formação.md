@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/base-de-formacao/","metatags":{"description":"Base de Formações"},"tags":["base"],"noteIcon":"default","updated":"2026-04-04T12:05:32.399-03:00","dg-note-properties":{"class":"mapa","tags":["base"]}}
+{"dg-publish":true,"permalink":"/base-de-formacao/","metatags":{"description":"Base de Formações"},"tags":["vagas"],"noteIcon":"default","updated":"2026-04-04T12:24:17.409-03:00","dg-note-properties":{"class":"mapa","tags":["vagas"]}}
 ---
 
 
@@ -35,19 +35,9 @@ views:
     order:
       - file.name
       - horas-aula
-      - habilidades
+      - topics
     sort:
       - property: horas-aula
         direction: ASC
-  - type: cards
-    name: Visualizaçao card
-    filters:
-      and:
-        - file.folder == "Formacao"
-        - class == "classe-formacao"
-    order:
-      - file.name
-      - habilidades
-    imageFit: contain
 
 ```
