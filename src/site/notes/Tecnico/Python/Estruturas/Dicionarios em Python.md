@@ -57,4 +57,4 @@ print(f"Cliente cadastrado: {banco_clientes}")
 
 - [[Tecnico/Programador/Lógica/listas-em-python\|listas-em-python]]
 - [[Aulas de Logica\|Aulas de Logica]]
-- [[Formacao/Formacao Python\|Formacao Python]]
+- [[Formacao Python\|Formacao Python]]

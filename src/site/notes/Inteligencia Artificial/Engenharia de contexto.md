@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/engenharia-de-contexto/","metatags":{"description":"é o processo fundamental de fornecer informações estruturadas e diretrizes claras para uma IA"},"noteIcon":2,"updated":"2026-04-01T14:51:49.039-03:00","dg-note-properties":{"topics":["Live coding","Automação"]}}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/engenharia-de-contexto/","metatags":{"description":"é o processo fundamental de fornecer informações estruturadas e diretrizes claras para uma IA"},"noteIcon":2,"updated":"2026-04-03T16:58:44.920-03:00","dg-note-properties":{"topics":["Live coding","Automação"]}}
 ---
-
-#Inteligencia-artificial 
-#Projeto
-#Antigravity
 
 # Engenharia de contexto
 
@@ -24,7 +20,7 @@ Para gerenciar o contexto de forma profissional, o desenvolvedor utiliza três f
 
 A engenharia de contexto utiliza arquivos específicos para servir como "fonte da verdade" e memória de longo prazo:
 
-- **PRD (Documento de [[Tecnico/UX design/requisitos\|requisitos]] de Produto):** Definir a visão, funcionalidades e critérios de aceitação antes de gerar qualquer código evita conflitos lógicos e retrabalho futuro.
+- **[[Inteligencia Artificial/Product Requirement Document\|PRD]] (Documento de [[Tecnico/UX design/requisitos\|Requisitos]] de Produto):** Definir a visão, funcionalidades e critérios de aceitação antes de gerar qualquer código evita conflitos lógicos e retrabalho futuro.
 - **`design.md`:** Atua como um **contrato visual semântico**. Ele traduz valores técnicos de CSS em descrições que a IA entende (ex: mudar "rounded-lg" para "cantos suavemente arredondados"), garantindo que novas telas sigam o mesmo padrão estético sem "alucinações" visuais.
 - **`GEMINI.md` ou `summary.md`:** Arquivos que funcionam como memória persistente, mantendo instruções de longo prazo e resumos de sessões anteriores para que o agente não "esqueça" decisões arquiteturais importantes.
 
@@ -38,3 +34,8 @@ Em suma, a engenharia de contexto move o papel do desenvolvedor de um "digitador
 ## Referências
 
 - [Antigravity: O Jeito CERTO de Construir com IA - YouTube](https://www.youtube.com/watch?v=VUVy4NKV_WE)
+- #Prompt 
+- #sdd
+- #Inteligencia-artificial 
+- #Projeto
+- #Antigravity

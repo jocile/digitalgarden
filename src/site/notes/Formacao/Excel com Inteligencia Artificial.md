@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/excel-com-inteligencia-artificial/","metatags":{"description":"Entendendo as principais fórmulas e dominando as principais práticas do mercado para tratar e exibir dados em relatórios com eficiência e o apoio da IA"},"noteIcon":"default","updated":"2025-12-20T21:05:28.682-03:00","dg-note-properties":{"class":"mapa","topics":["Excel","Copilot","Dashboards"]}}
+{"dg-publish":true,"permalink":"/formacao/excel-com-inteligencia-artificial/","metatags":{"description":"Entendendo as principais fórmulas e dominando as principais práticas do mercado para tratar e exibir dados em relatórios com eficiência e o apoio da IA"},"tags":["Formação","Agentes","Inteligencia-artificial","Excel","Powerbi","Dashboard"],"noteIcon":"default","updated":"2026-04-04T09:13:48.385-03:00","dg-note-properties":{"class":"classe-formacao","topics":["Excel","Copilot","Dashboards"],"status":"🏗️ in-progress","horas-aula":"26:00","habilidades":["GitHub Copilot","Inteligência Artificial","Excel"],"link":"[DIO - Santander - Excel com Inteligência Artificial - 2º Semestre](https://web.dio.me/track/santander-excel-com-inteligencia-artificial)","certificado":null,"started":"02-abril-2026","finished":null,"tags":["Formação","Agentes","Inteligencia-artificial","Excel","Powerbi","Dashboard"]}}
 ---
 
-#Excel #Formação #mapa #Powerbi #Dashboard
 
 # Santander - Excel com Inteligência Artificial - 2º Semestre
 
-**Status**:: em andamento 
-**Horas-aula**:: 26:00
-**Habilidades**:: Excel, Copilot
-**Link**:: [DIO - Santander - Excel com Inteligência Artificial - 2º Semestre](https://web.dio.me/track/santander-excel-com-inteligencia-artificial)
+**Status**: 🏗️ in-progress
+**Horas-aula**: 26:00
+**Habilidades**: GitHub Copilot,Inteligência Artificial,Excel
+**Link**: [DIO - Santander - Excel com Inteligência Artificial - 2º Semestre](https://web.dio.me/track/santander-excel-com-inteligencia-artificial)
 
 >[!check]- Desafios de projeto:
 > - [x] Crie Um Portfólio Vencedor

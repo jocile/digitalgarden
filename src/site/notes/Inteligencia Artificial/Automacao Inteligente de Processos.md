@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/automacao-inteligente-de-processos/","metatags":{"description":"A combinação de Workflow (fluxo de trabalho), Skill (habilidade/capacidade) e Rules (regras) compõe a estratégia"},"noteIcon":2,"updated":"2026-04-01T14:45:31.378-03:00","dg-note-properties":{"topics":null}}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/automacao-inteligente-de-processos/","metatags":{"description":"A combinação de Workflow (fluxo de trabalho), Skill (habilidade/capacidade) e Rules (regras) compõe a estratégia"},"noteIcon":2,"updated":"2026-04-03T12:27:05.155-03:00","dg-note-properties":{"topics":null}}
 ---
 
 #Inteligencia-artificial  #Projeto 
 
 # Gestão Avançada de Processos de Negócio
+
+>[!summary] Utilizo a estratégia de automação inteligente, composta pela integração de workflows, regras e skills, para otimizar processos de negócio e elevar a produtividade por meio da automação de tarefas e da inteligência artificial.
 
 As táticas de automação inteligente são estratégias que combinam inteligência artificial e automação para otimizar tarefas repetitivas, aprimorar a tomada de decisões e aumentar a produtividade em diferentes setores. Ao permitir que a tecnologia lide com processos rotineiros, indivíduos e empresas podem redirecionar seu tempo para trabalhos de maior valor agregado e inovação.
 

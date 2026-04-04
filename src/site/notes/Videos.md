@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/videos/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"cards","tags":["videos","dataview","QueryToSerialize"],"noteIcon":"default","updated":"2026-04-01T10:01:12.289-03:00","dg-note-properties":{"class":"mapa","cssclasses":["cards"],"tags":["videos","dataview","QueryToSerialize"]}}
+{"dg-publish":true,"permalink":"/videos/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"cards","tags":["videos","dataview","QueryToSerialize"],"noteIcon":"default","updated":"2026-04-03T08:33:19.710-03:00","dg-note-properties":{"class":"mapa","cssclasses":["cards"],"tags":["videos","dataview","QueryToSerialize"]}}
 ---
 
 
@@ -10,6 +10,7 @@
 
 | Data     | ✨ Título                                                                                                                                                                                                          | Cover                                                                  | duration |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------- |
+| 27.03.26 | [[clipper/youtube.com/Spec-Driven Development A Habilidade 1 para Devs\|Spec-Driven Development A Habilidade 1 para Devs]]                                                                                     | ![thumbnail\|50](https://i.ytimg.com/vi/YFDp-smGYqQ/maxresdefault.jpg) | 0:12:25  |
 | 24.03.26 | [[clipper/youtube.com/Spec Driven Development SDD a melhor forma de programar com IA\|Spec Driven Development SDD a melhor forma de programar com IA]]                                                         | ![thumbnail\|50](https://i.ytimg.com/vi/9qJIJz2HLws/maxresdefault.jpg) | 0:35:02  |
 | 19.03.26 | [[clipper/youtube.com/Claude Code GRATIS sem Límites  com Ollama\|Claude Code GRATIS sem Límites  com Ollama]]                                                                                                 | ![thumbnail\|50](https://i.ytimg.com/vi/kPjOxHdp3OI/maxresdefault.jpg) | 0:28:50  |
 | 14.03.26 | [[clipper/youtube.com/Web Scraping GRÁTIS com Antigravity\|Web Scraping GRÁTIS com Antigravity]]                                                                                                               | ![thumbnail\|50](https://i.ytimg.com/vi/awN8H5Z-nyk/maxresdefault.jpg) | 0:19:12  |

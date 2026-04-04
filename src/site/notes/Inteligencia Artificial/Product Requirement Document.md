@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/product-requirement-document/","metatags":{"description":"documentação central que serve para instruir a inteligência artificial sobre como o projeto deve funcionar"},"noteIcon":2,"updated":"2026-04-01T14:55:23.000-03:00","dg-note-properties":{"aliases":["PRD"],"topics":["Live coding","Projetos de aplicativos"]}}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/product-requirement-document/","metatags":{"description":"documentação central que serve para instruir a inteligência artificial sobre como o projeto deve funcionar"},"noteIcon":2,"updated":"2026-04-03T09:13:10.848-03:00","dg-note-properties":{"aliases":["PRD","documento de requisitos"],"topics":["Arquiteturas de Programação","Projetos de aplicativos"]}}
 ---
 
-#Inteligencia-artificial  #Projeto #Antigravity
+#Inteligencia-artificial  #Projeto #Antigravity #sdd 
 
 ## Entendendo o Product Requirement Document (PRD) na Era da IA
+
+>[!summary] Aprendi que o Documento de Requisitos do Produto funciona como o cérebro dinâmico que me permite orientar agentes de inteligência artificial no desenvolvimento de software, garantindo consistência técnica, evitando alucinações e servindo como um checklist de validação para os meus projetos.
 
 O PRD é o "cérebro" dinâmico e a [[Inteligencia Artificial/Documentação Semântica\|documentação central]] que instrui agentes de inteligência artificial sobre como um projeto de software deve funcionar.
 
@@ -60,6 +62,7 @@ Em vez de apenas uma lista de desejos, o PRD torna-se uma **checklist de valida�
 - [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]]
 - [[Inteligencia Artificial/Workflows\|Workflows]]
 - [[Tecnico/UX design/requisitos\|requisitos]]
+- [[Inteligencia Artificial/Spec Driven Development\|Spec Driven Development]]
 
 ---
 **Referências:**

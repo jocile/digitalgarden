@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/chatbot-com-ia-local/","title":"Chatbot com IA local","metatags":{"description":"Como usar um processo para que o código interaja com o modelo de forma programática para realizar tarefas de geração de texto."},"tags":["Inteligencia-artificial","Agentes","Prompt","Ollama","Python"],"noteIcon":"1","updated":"2025-09-03T09:21:57.375-03:00","dg-note-properties":{"title":"Chatbot com IA local","tags":["Inteligencia-artificial","Agentes","Prompt","Ollama","Python"]}}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/chatbot-com-ia-local/","title":"Chatbot com IA local","metatags":{"description":"Como usar um processo para que o código interaja com o modelo de forma programática para realizar tarefas de geração de texto."},"tags":["Inteligencia-artificial","Agentes","Prompt","Ollama","Python"],"noteIcon":"1","updated":"2026-04-03T12:31:25.555-03:00","dg-note-properties":{"title":"Chatbot com IA local","tags":["Inteligencia-artificial","Agentes","Prompt","Ollama","Python"]}}
 ---
 
 
@@ -7,9 +7,9 @@
 
 O modelo Llama 3 pode ser usado em código [[assets/class/Python\|Python]] para gerar respostas através da biblioteca [[Inteligencia Artificial/Langchain\|Langchain]].
 
->[!summary] Em resumo, a utilização do modelo Llama 3 com [[Inteligencia Artificial/Langchain\|Langchain]] em [[assets/class/Python\|Python]] envolve a **importação**, a **instanciação**, a **definição do prompt**, a **invocação do modelo** e o **processamento da resposta**. Esse processo permite que o código interaja com o modelo de forma programática para realizar tarefas de geração de texto.
+>[!summary] Em resumo, o processo de criação de um chatbot local utilizando Python, Langchain e o modelo Llama 3, abrange desde a configuração do ambiente até a implementação prática para a geração de respostas programadas. A utilização do modelo Llama 3 com [[Inteligencia Artificial/Langchain\|Langchain]] em [[assets/class/Python\|Python]] envolve a **importação**, a **instanciação**, a **definição do prompt**, a **invocação do modelo** e o **processamento da resposta**. Esse processo permite que o código interaja com o modelo de forma programada para realizar tarefas de geração de texto.
 
-Para usar o Llama 3 em Python, primeiro, é necessário importar a classe [[Tecnico/Ferramentas/ferramentas de IA/Ollama\|Ollama]] de `langchain_community.llms`. Em seguida, cria-se um objeto `[Ollama](Ollama.md)` especificando o modelo a ser usado, neste caso, "Llama 3". Após instanciar o modelo, a função `invoke` é utilizada para passar um prompt e obter uma resposta.
+Para usar o Llama 3 em Python, primeiro, é necessário importar a classe [[Tecnico/Ferramentas/ferramentas de IA/Ollama\|Ollama]] de `langchain_community.llms`. Em seguida, cria-se um objeto `Ollama` especificando o modelo a ser usado, neste caso, "Llama 3". Após instanciar o modelo, a função `invoke` é utilizada para passar um prompt e obter uma resposta.
 
 ### Passo a passo
 

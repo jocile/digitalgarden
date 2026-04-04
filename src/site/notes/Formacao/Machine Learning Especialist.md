@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/machine-learning-especialist/","title":"Machine Learning Especialist","metatags":{"description":"Gráfico das disciplinas do cursos de Escpecialista em Machine Learning"},"contentClasses":"ex-pageheight","tags":["excalidraw","Inteligencia-artificial","Machine-Learning","Curso","mapa","Formação"],"noteIcon":"default","updated":"2026-03-01T11:37:04.120-03:00","dg-note-properties":{"class":"mapa","title":"Machine Learning Especialist","tags":["excalidraw","Inteligencia-artificial","Machine-Learning","Curso","mapa","Formação"],"excalidraw-plugin":"parsed","excalidraw-export-dark":false,"excalidraw-autoexport":"svg","excalidraw-export-transparent":true,"cssclasses":["ex-pageheight"],"excalidraw-open-md":true,"topics":["Inteligência Artificial","Aprendizagem de Máquina","Algoritmos"]}}
+{"dg-publish":true,"permalink":"/formacao/machine-learning-especialist/","title":"Machine Learning Especialist","metatags":{"description":"Gráfico das disciplinas do cursos de Escpecialista em Machine Learning"},"contentClasses":"ex-pageheight","tags":["excalidraw","Inteligencia-artificial","Machine-Learning","Curso","mapa","Formação"],"noteIcon":"default","updated":"2026-04-04T10:28:41.821-03:00","dg-note-properties":{"class":"classe-formacao","title":"Machine Learning Especialist","tags":["excalidraw","Inteligencia-artificial","Machine-Learning","Curso","mapa","Formação"],"excalidraw-plugin":"parsed","excalidraw-export-dark":false,"excalidraw-autoexport":"svg","excalidraw-export-transparent":true,"cssclasses":["ex-pageheight"],"excalidraw-open-md":true,"topics":["[[Inteligencia Artificial]]","[[Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]]","[[Introdução aos algoritmos|Algoritmos]]"],"status":"🏗️ in-progress","horas-aula":"92:00","habilidades":["[[Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]]","[[Inteligencia Artificial]]","[[agentes de ia]]","[[engenharia de prompt]]"],"link":"[Formação Machine Learning Especialist](https://web.dio.me/track/formacao-machine-learning-specialist)","certificado":null,"started":"02-abril-2026","finished":null}}
 ---
 
 
 # Machine Learning Especialist
 
-**Status**:: em andamento 
-**Horas-aula**:: 92:00
-**Habilidades**:: Python, Copilot, Machine Learning, Algoritmos, agentes de ia
-**Link**:: [Formação Machine Learning Especialist](https://web.dio.me/track/formacao-machine-learning-specialist)
+**Status**: 🏗️ in-progress
+**Horas-aula**: 92:00
+**Habilidades**: [[Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]],[[Inteligencia Artificial\|Inteligencia Artificial]],[[Inteligencia Artificial/agentes/agentes de ia\|agentes de ia]],[[Inteligencia Artificial/engenharia de prompt\|engenharia de prompt]]
+**Link**: [Formação Machine Learning Especialist](https://web.dio.me/track/formacao-machine-learning-specialist)
 
 #Formação
 
@@ -180,7 +180,7 @@ Deep Learning Frameworks
 { #TG4xV0iO}
 
 
-3. Frameworks de [[Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]]
+3. Frameworks de [[Machine Learning]]
 { #LSzanhLg}
 
 
@@ -226,7 +226,7 @@ Processamento de imagens
 
 
 Módulo 8
-Visão computacional com [[Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]]
+Visão computacional com [[Machine Learning]]
 { #TbLx6xJV}
 
 

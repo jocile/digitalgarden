@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/excel-e-power-bi-dashboards/","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2025-10-23T09:20:43.730-03:00","dg-note-properties":{"class":"mapa","topics":["Excel","PowerBI","Dashboards"]}}
+{"dg-publish":true,"permalink":"/formacao/excel-e-power-bi-dashboards/","metatags":{"description":"Lista de disciplinas da formação"},"tags":["Formação","Excel","Powerbi","Dashboard"],"noteIcon":"default","updated":"2026-04-04T09:22:40.417-03:00","dg-note-properties":{"class":"classe-formacao","topics":["Excel","PowerBI","Dashboards"],"status":"🏗️ in-progress","horas-aula":"90:00","habilidades":["Excel","Power BI","Dashboards","Engenharia de dados"],"link":"[DIO - Klabin - Excel e Power BI Dashboards](https://web.dio.me/track/klabin-excel-e-power-bi-dashboards)","certificado":null,"started":"02-abril-2026","finished":null,"tags":["Formação","Excel","Powerbi","Dashboard"]}}
 ---
 
-#Excel #Formação #mapa #Powerbi #Dashboard
+---
 
 # Klabin - Excel e Power BI Dashboards
 
-**Status**:: em andamento 
-**Horas-aula**:: 90:00
-**Habilidades**:: Excel, PowerBI
-**Link**:: [DIO - Klabin - Excel e Power BI Dashboards](https://web.dio.me/track/klabin-excel-e-power-bi-dashboards)
+**Status**: 🏗️ in-progress
+**Horas-aula**: 90:00
+**Habilidades**: Excel,Power BI,Dashboards,Engenharia de dados
+**Link**: [DIO - Klabin - Excel e Power BI Dashboards](https://web.dio.me/track/klabin-excel-e-power-bi-dashboards)
 
 >[!check]- Desafios de projeto:
 > - [ ] Crie Um Portfólio Vencedor

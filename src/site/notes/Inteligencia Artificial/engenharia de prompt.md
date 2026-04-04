@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inteligencia-artificial/engenharia-de-prompt/","title":"engenharia de prompt","metatags":{"description":"Como criar prompts eficazes para obter os resultados desejados desses modelos."},"noteIcon":"1","updated":"2026-03-18T08:54:26.420-03:00","dg-note-properties":{"title":"engenharia de prompt"}}
+{"dg-publish":true,"permalink":"/inteligencia-artificial/engenharia-de-prompt/","title":"engenharia de prompt","metatags":{"description":"Como criar prompts eficazes para obter os resultados desejados desses modelos."},"noteIcon":"1","updated":"2026-04-03T16:38:45.175-03:00","dg-note-properties":{"aliases":["Engenharia de Prompts"],"title":"engenharia de prompt"}}
 ---
 
 ## A **Engenharia de Prompt**
@@ -81,3 +81,4 @@ Você é um especialista em comunicação corporativa, responsável por criar me
 - [Writing ChatGPT Prompts That Get Results (with Examples) \| Grammarly](https://www.grammarly.com/blog/ai/chatgpt-prompts/)
 - [Instrucoes Detalhadas no Prompt](Instrucoes%20Detalhadas%20no%20Prompt.md)
 - #Inteligencia-artificial
+- #Prompt 

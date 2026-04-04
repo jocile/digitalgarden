@@ -196,8 +196,8 @@ Após a seleção das otimizações desejadas, o programa gera um arquivo de scr
 > [!help] Páginas semelhantes
 > Talvez estas páginas também interessem:
 >  - [[Tecnico/Assistente-de-TI/5 segredos do Windows\|5 segredos do Windows]]
-> - [[Tecnico/Assistente-de-TI/Manutencao do Windows\|Manutencao do Windows]]
 > - [[Tecnico/Assistente-de-TI/Guia do Windows\|Guia do Windows]]
+> - [[Tecnico/Assistente-de-TI/Manutencao do Windows\|Manutencao do Windows]]
 > 
 { .block-language-dataview}
 

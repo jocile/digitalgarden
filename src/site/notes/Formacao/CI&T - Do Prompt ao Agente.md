@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/ci-and-t-do-prompt-ao-agente/","metatags":{"description":"uma jornada educacional gratuita para quem quer sair do básico e aprender a usar Inteligência Artificial em tarefas reais do dia a dia dev"},"tags":["Formação","Agentes","Inteligencia-artificial"],"noteIcon":"default","updated":"2026-04-02T22:45:38.877-03:00","dg-note-properties":{"class":"classe-formacao","status":"🏗️ in-progress","horas-aula":"35:00","habilidades":["GitHub Copilot","Inteligência Artificial","Agentes"],"link":"[CI&T - Do Prompt ao Agente](https://web.dio.me/track/ci-t-do-prompt-ao-agente)","certificado":null,"started":"02-abril-2026","finished":null,"tags":["Formação","Agentes","Inteligencia-artificial"]}}
+{"dg-publish":true,"permalink":"/formacao/ci-and-t-do-prompt-ao-agente/","metatags":{"description":"uma jornada educacional gratuita para quem quer sair do básico e aprender a usar Inteligência Artificial em tarefas reais do dia a dia dev"},"tags":["Formação","Agentes","Inteligencia-artificial"],"noteIcon":"default","updated":"2026-04-04T10:31:23.476-03:00","dg-note-properties":{"class":"classe-formacao","topics":["Copilot","[[Inteligencia Artificial]]","[[Prompts]]"],"status":"🏗️ in-progress","horas-aula":"35:00","habilidades":["GitHub Copilot","Inteligência Artificial","Agentes"],"link":"[CI&T - Do Prompt ao Agente](https://web.dio.me/track/ci-t-do-prompt-ao-agente)","certificado":null,"started":"02-abril-2026","finished":null,"tags":["Formação","Agentes","Inteligencia-artificial"]}}
 ---
 
 # CI&T - Do Prompt ao Agente
@@ -18,12 +18,13 @@
 > - [ ] Calculadora EcoTrip: Simulador de Impacto Ambiental para Viagens
 
 > [!summary]- Fundamentos de IA
-> - A Era da IA: Machine Learning, LLMs, IA Generativa e Agentes
+> - A Era da IA: Machine Learning, LLMs, IA Generativa e Agentes:
+>   - [[Inteligencia Artificial/Historia da Inteligencia artificial\|Historia da Inteligencia artificial]]
 > - Aplicações e Impacto da IA no Mundo Atual
 > - Aplicações Práticas da Inteligência Artificial
 
 > [!summary]- Introdução a Engenharia de Prompt
-> - Introdução à Engenharia de Prompts
+> - Introdução à [[Inteligencia Artificial/engenharia de prompt\|Engenharia de Prompts]]
 > - Técnicas de Engenharia de Prompt
 > - Escrevendo Prompts Eficazes
 

@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-em-java-script/","title":"Formação em JavaScript","metatags":{"description":"Lista de disciplinas da formação"},"noteIcon":"default","updated":"2026-02-14T00:19:02.667-03:00","dg-note-properties":{"class":"mapa","title":"Formação em JavaScript","topics":["Formação em programação","Lógica de programação","JavaScript","Algoritmos"]}}
+{"dg-publish":true,"permalink":"/formacao/formacao-em-java-script/","title":"Formação em JavaScript","metatags":{"description":"Lista de disciplinas da formação"},"tags":["Formação","JavaScript","Lógica","Webdesign"],"noteIcon":"default","updated":"2026-04-04T10:56:20.937-03:00","dg-note-properties":{"class":"classe-formacao","title":"Formação em JavaScript","topics":["Lógica de programação","JavaScript","Algoritmos"],"status":"🏗️ in-progress","horas-aula":"39:00","habilidades":["JavaScript","Lógica","[[Webdesign]]"],"link":"[DIO - Formação em JavaScript](https://web.dio.me/track/formacao-javascript-developer)","certificado":null,"started":"02-abril-2026","finished":null,"tags":["Formação","JavaScript","Lógica","Webdesign"]}}
 ---
 
-#JavaScript #mapa #Lógica #Formação #web-developer
 
 # Formação em JavaScript
 
-**Status**:: em andamento
-**Horas-aula**:: 39:00
-**Habilidades**:: Lógica, JavaScript
-**Link**:: [Trilha DIO - Formação em JavaScript](https://web.dio.me/track/formacao-javascript-developer)
+**Status**: 🏗️ in-progress
+**Horas-aula**: 39:00
+**Habilidades**: JavaScript,Lógica,[[Webdesign\|Webdesign]]
+**Link**: [DIO - Formação em JavaScript](https://web.dio.me/track/formacao-javascript-developer)
 
 >[!check]- Desafios de projeto:
 > - [ ] Construindo uma Pokédex com JavaScript

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teologia/","title":"Teologia","metatags":{"description":"Estudos teológicos da Bíblia"},"contentClasses":"cards","tags":["dataview","QueryToSerialize"],"noteIcon":2,"updated":"2026-04-01T10:18:38.946-03:00","dg-note-properties":{"class":"mapa","title":"Teologia","cssclasses":["cards"],"tags":["dataview","QueryToSerialize"]}}
+{"dg-publish":true,"permalink":"/teologia/","title":"Teologia","metatags":{"description":"Estudos teológicos da Bíblia"},"contentClasses":"cards","tags":["dataview","QueryToSerialize"],"noteIcon":2,"updated":"2026-04-03T07:15:44.793-03:00","dg-note-properties":{"class":"mapa","title":"Teologia","cssclasses":["cards"],"tags":["dataview","QueryToSerialize"]}}
 ---
 
 
@@ -10,6 +10,7 @@
 
 | Data     | 📖 Páginas em Teologia                                                                                                                  | 📄 Descrição                                                                                                                                                                                    |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01.04.26 | [[Teologia/Velho Testamento/Estudo de Gênesis\|Estudo de Gênesis]]                                                                   | uma crônica divinamente inspirada, redigida para fundamentar a fé e a identidade do povo de Deus diante dos desafios da história.                                                               |
 | 24.03.26 | [[Teologia/Bibliologia/A existência de Deus\|A existência de Deus]]                                                                  | Argumentos para a existência de Deus                                                                                                                                                            |
 | 13.03.26 | [[Teologia/Pregacao\|Pregacao]]                                                                                                      | Uma análise das quatro formas de pregação na Igreja primitiva (Kerigma, Didaquê, Paraklesis e Homilia) e sua correlação com a inspiração das Escrituras em 2 Timóteo 3:16.                      |
 | 13.03.26 | [[Teologia/Dispensacoes\|Dispensacoes]]                                                                                              | Análise detalhada do sistema dispensacionalista e o plano de Deus através das eras                                                                                                              |

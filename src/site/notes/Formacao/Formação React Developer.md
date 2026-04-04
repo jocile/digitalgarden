@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/formacao/formacao-react-developer/","metatags":{"description":"Lista de disciplinas da formação"},"tags":["Formação","React","Webdesign"],"noteIcon":"default","updated":"2026-04-02T20:56:55.633-03:00","dg-note-properties":{"class":"classe-formacao","topics":["Webdesign","React","JavaScript"],"status":"✅ done","horas-aula":"34:00","habilidades":["Webdesign","ReactJS","JavaScript"],"link":"[DIO - Formação React Developer](https://web.dio.me/track/formacao-react-developers)","certificado":"![Formação React Developer-1765988454655.png](/img/user/assets/images/certicados/Forma%C3%A7%C3%A3o%20React%20Developer-1765988454655.png)","started":null,"finished":"01-12-2008","tags":["Formação","React","Webdesign"]}}
+{"dg-publish":true,"permalink":"/formacao/formacao-react-developer/","metatags":{"description":"Lista de disciplinas da formação"},"tags":["Formação","React","Webdesign"],"noteIcon":"default","updated":"2026-04-04T10:52:13.564-03:00","dg-note-properties":{"class":"classe-formacao","topics":["Webdesign","React","JavaScript"],"status":"✅ done","horas-aula":"34:00","habilidades":["Webdesign","ReactJS","JavaScript"],"link":"[DIO - Formação React Developer](https://web.dio.me/track/formacao-react-developer)","certificado":"![Formação React Developer-1765988454655.png](/img/user/assets/images/certicados/Forma%C3%A7%C3%A3o%20React%20Developer-1765988454655.png)","started":null,"finished":"17-12-2025","tags":["Formação","React","Webdesign"]}}
 ---
 
 # Formação React Developer
 
 **Horas-aula**: 34:00
 **Habilidades**: Webdesign,ReactJS,JavaScript
-**Link**: [DIO - Formação React Developer](https://web.dio.me/track/formacao-react-developers)
-**Concluído**: 01-12-2008
+**Link**: [DIO - Formação React Developer](https://web.dio.me/track/formacao-react-developer)
+**Concluído**: 17-12-2025
 
 ![assets/images/certicados/Formação React Developer-1765988454655.png\|Formação React Developer-1765988454655.png](/img/user/assets/images/certicados/Forma%C3%A7%C3%A3o%20React%20Developer-1765988454655.png)
 
