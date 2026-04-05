@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/base-de-vagas/","metatags":{"description":"Oportunidades em emprego"},"contentClasses":"row-hover","tags":["vagas","teste"],"noteIcon":"default","updated":"2026-04-04T12:41:23.157-03:00","dg-note-properties":{"class":"mapa","cssclasses":["row-hover"],"tags":["vagas","teste"]}}
+{"dg-publish":true,"permalink":"/base-de-vagas/","metatags":{"description":"Oportunidades em emprego"},"contentClasses":"row-hover","tags":["vagas","base"],"noteIcon":"default","updated":"2026-04-04T13:22:07.456-03:00","dg-note-properties":{"class":"mapa","cssclasses":["row-hover"],"tags":["vagas","base"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clipper/youtube-com/spec-driven-development-sdd-a-melhor-forma-de-programar-com-ia/","title":"Spec Driven Development SDD a melhor forma de programar com IA","noteIcon":2,"updated":"2026-04-01T14:56:16.711-03:00","dg-note-properties":{"created":"2026-03-25T07:57:37-03:00","url":"https://www.youtube.com/watch?v=9qJIJz2HLws?start=53","title":"Spec Driven Development SDD a melhor forma de programar com IA","channel":"Rafael Quintanilha – QuantBrasil","related":["[[Videos]]"],"published":"2026-03-24","thumbnailUrl":"https://i.ytimg.com/vi/9qJIJz2HLws/maxresdefault.jpg","duration":"0:35:02","watched":true,"topics":["Desenvolvimento baseado em especificações"]}}
+{"dg-publish":true,"permalink":"/clipper/youtube-com/spec-driven-development-sdd-a-melhor-forma-de-programar-com-ia/","title":"Spec Driven Development SDD a melhor forma de programar com IA","noteIcon":2,"updated":"2026-04-04T13:46:41.261-03:00","dg-note-properties":{"created":"2026-03-25T07:57:37-03:00","url":"https://www.youtube.com/watch?v=9qJIJz2HLws?start=53","title":"Spec Driven Development SDD a melhor forma de programar com IA","channel":"Rafael Quintanilha – QuantBrasil","related":["[[Videos]]"],"published":"2026-03-24","thumbnailUrl":"https://i.ytimg.com/vi/9qJIJz2HLws/maxresdefault.jpg","duration":"0:35:02","watched":true,"topics":["Desenvolvimento baseado em especificações"]}}
 ---
 
 # Spec Driven Development (SDD): a melhor forma de programar com IA?
@@ -30,7 +30,7 @@ Aqui estão as principais vantagens destacadas no vídeo:
 
 ## Como usar o SDD
 
-O uso do **Spec Driven Development (SDD)** no vídeo é demonstrado como uma abordagem estruturada para programar com IA, transformando a intenção do usuário em código funcional de forma previsível (14:30). O processo é dividido nas seguintes etapas:
+O uso do **[[Inteligencia Artificial/Spec Driven Development\|Spec Driven Development]] (SDD)** no vídeo é demonstrado como uma abordagem estruturada para programar com IA, transformando a intenção do usuário em código funcional de forma previsível (14:30). O processo é dividido nas seguintes etapas:
 
 1. **Definição da Intenção e Requisitos:** O processo começa com o usuário expressando o que deseja construir em linguagem natural. A ferramenta utilizada, _TraycerAI_, analisa o repositório existente para entender o contexto técnico (21:39).
 2. **Planejamento em Fases:** A IA quebra o objetivo complexo em fases gerenciáveis, como: **estrutura de dados**, **backend (APIs)** e **frontend (UI)** (27:24).
@@ -42,7 +42,7 @@ O uso do **Spec Driven Development (SDD)** no vídeo é demonstrado como uma abo
 Spec Driven Development com o TraycerAI ➡️ https://traycer.ai/
 _______________________________________________
 
-Spec Driven Development é o caminho para programar sério com IA. Neste vídeo eu mostro o que é SDD, como ele difere do Vibe Coding e uma implementação real na prática.
+[[Inteligencia Artificial/Spec Driven Development\|Spec Driven Development]] é o caminho para programar sério com IA. Neste vídeo eu mostro o que é SDD, como ele difere do Vibe Coding e uma implementação real na prática.
 
 Eu explico por que tanta gente falha ao programar com IA não por culpa do modelo, mas por falta de especificação, contexto e organização. Também mostro como transformar intenção em requisitos, fases e implementação usando um exemplo real dentro do QuantBrasil.
 
@@ -99,11 +99,15 @@ _______________________________________________
 #sdd #Inteligencia-artificial  #video 
 
 🔻🔻 Vídeos relacionados 🔻🔻
-https://www.youtube.com/watch?v=aN79jlxU-iQ
-https://www.youtube.com/watch?v=_wQjRbcxwWo
-https://www.youtube.com/watch?v=_GqKe-Ym-d0
+
+- [Siga essas 3 regras para se destacar como um AI native engineer - YouTube](https://www.youtube.com/watch?v=aN79jlxU-iQ)
+- [Organize seu código: um guia prático de gestão de software para devs - YouTube](https://www.youtube.com/watch?v=_wQjRbcxwWo)
+- [Criando um SaaS do Zero #01: Explicando o projeto e definindo a stack - YouTube](https://www.youtube.com/watch?v=_GqKe-Ym-d0)
+- [Criando um SaaS do Zero #02: Configurando o monorepo (Turborepo + Claude Code) - YouTube](https://www.youtube.com/watch?v=cpH8Aw-UqWk)
+- [Criando um SaaS do Zero #03: Banco de Dados (Cloudflare D1 + Drizzle ORM) - YouTube](https://www.youtube.com/watch?v=4ixp2lPgc5E)
 
 🔻🔻 Artigo: Writing tests as user stories in React 🔻🔻
-https://rafaelquintanilha.com/writing-tests-as-user-stories-in-react/
+
+[Writing Tests as User Stories in React](https://rafaelquintanilha.com/writing-tests-as-user-stories-in-react/)
 
 #specdrivendevelopment #sdd #claudecode #vibecode #video

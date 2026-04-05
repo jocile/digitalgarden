@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/base-de-formacao/","metatags":{"description":"Base de Formações"},"contentClasses":"row-hover","tags":["vagas"],"noteIcon":"default","updated":"2026-04-04T12:47:41.826-03:00","dg-note-properties":{"class":"mapa","cssclasses":["row-hover"],"tags":["vagas"]}}
+{"dg-publish":true,"permalink":"/base-de-formacao/","metatags":{"description":"Base de Formações"},"contentClasses":"row-hover","tags":["vagas","base"],"noteIcon":"default","updated":"2026-04-04T13:22:12.824-03:00","dg-note-properties":{"class":"mapa","cssclasses":["row-hover"],"tags":["vagas","base"]}}
 ---
 
 

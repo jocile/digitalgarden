@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/base-de-videos/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"row-hover","tags":["videos","base"],"noteIcon":"default","updated":"2026-04-04T12:31:09.797-03:00","dg-note-properties":{"class":"mapa","cssclasses":["row-hover"],"tags":["videos","base"]}}
+{"dg-publish":true,"permalink":"/base-de-videos/","metatags":{"description":"Vídeos preferidos"},"contentClasses":"row-hover","tags":["videos","base"],"noteIcon":"default","updated":"2026-04-04T20:03:46.168-03:00","dg-note-properties":{"class":"mapa","cssclasses":["row-hover"],"tags":["videos","base"]}}
 ---
 
 
@@ -27,8 +27,12 @@ views:
     name: Cards
     order:
       - file.name
-      - file.tags
+      - duration
     image: note.thumbnailUrl
     imageFit: contain
+  - type: calendar
+    name: Calendario
+    startDate: note.published
+    weekStartDay: sunday
 
 ```
