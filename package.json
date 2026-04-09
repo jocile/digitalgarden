@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
         "prebuild": "rimraf dist",
-        "start": "npm-run-all get-theme build:sass --parallel watch:*",
+        "dev": "npm-run-all get-theme build:sass --parallel watch:*",
         "watch:sass": "sass --watch src/site/styles:dist/styles",
         "watch:eleventy": "cross-env ELEVENTY_ENV=dev eleventy --serve",
         "build:eleventy": "cross-env ELEVENTY_ENV=prod NODE_OPTIONS=--max-old-space-size=4096 eleventy",
@@ -16,7 +16,7 @@
     },
     "keywords": [],
     "author": "",
-    "license": "ISC",
+    "license": "MIT",
     "engines": {
         "node": "22.x"
     },
@@ -37,7 +37,7 @@
         "eleventy-plugin-gen-favicons": "^1.1.2",
         "eleventy-plugin-nesting-toc": "^1.3.0",
         "fs-file-tree": "^1.1.1",
-        "glob": "^12.0.0",
+        "glob": "^10.2.1",
         "gray-matter": "^4.0.3",
         "jsep": "^1.4.0",
         "markdown-it": "^14.1.0",
