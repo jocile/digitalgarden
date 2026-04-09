@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-04-01T09:10:54.512-03:00","dg-note-properties":{"class":"mapa","title":"Principal","excalidraw-plugin":"parsed","excalidraw-export-dark":false,"excalidraw-autoexport":"svg","excalidraw-export-transparent":true,"excalidraw-open-md":true,"cssclasses":["cards","cards-cols-3"]}}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-04-09T14:43:33.096-03:00","dg-note-properties":{"class":"mapa","title":"Principal","excalidraw-plugin":"parsed","excalidraw-export-dark":false,"excalidraw-autoexport":"svg","excalidraw-export-transparent":true,"excalidraw-open-md":true,"cssclasses":["cards","cards-cols-3"]}}
 ---
 
 ## Olá 👋
@@ -11,13 +11,13 @@
 
 
 Pretendo reunir aqui 📑notas de aulas e 📚estudos diversos sobre:
- - 💻[[Aulas de Logica\|Lógica de programação]]
- - 💻[[Assistente-de-TI\|Assistente de TI]]
- - 📖 [[Teologia\|Teologia]] e [[Teologia/Escatologia\|Escatologia]] 
- - 🤖 [[Inteligencia Artificial\|Inteligência Artificial]] 
- - 🎨 [[Webdesign\|Webdesign]] 
- - 💻[[Tecnico/Python/Linguagem Python\|Linguagem Python]]
- - 🎓[[Formacao/Formacao Overview\|Minhas formações]]
+ - 💻[[42-Turmas-Senac-Anteriores/Logica/Aulas de Logica\|Lógica de programação]]
+ - 💻[[42-Turmas-Senac-Anteriores/Assistente-de-TI/Assistente-de-TI\|Assistente de TI]]
+ - 📖 [[22-Teologia/Teologia\|Teologia]] e [[22-Teologia/Escatologia\|Escatologia]] 
+ - 🤖 [[23-Inteligencia-Artificial/Inteligencia Artificial\|Inteligência Artificial]] 
+ - 🎨 [[35-Webdesign/Webdesign\|35-Webdesign/Webdesign]] 
+ - 💻[[34-Linguagens-de-Programacao/Python/Linguagem Python\|Linguagem Python]]
+ - 🎓[[32-Formacao/Formacao Overview\|Minhas formações]]
 
 Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de tópicos]]
 
@@ -32,18 +32,18 @@ Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de t
 
 | File                                                                                                    | 📄 Descrição                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Formacao/Suzano Python Developer\|Suzano Python Developer]]                                        | Lista de disciplinas da formação                                                                                                           |
-| [[Formacao/Python developer\|Python developer]]                                                      | Lista de disciplinas da formação                                                                                                           |
-| [[Formacao/Fundamentos de Python\|Fundamentos de Python]]                                            | Lista de disciplinas da formação                                                                                                           |
-| [[Formacao/Python backend developer\|Python backend developer]]                                      | Lista de disciplinas da formação                                                                                                           |
-| [[Inteligencia Artificial/Spec Driven Development\|Spec Driven Development]]                         | estruturando o contexto através de fases de pesquisa, planejamento e implementação                                                         |
-| [[Formacao/BootCamp React\|BootCamp React]]                                                          | Lista de disciplinas da formação                                                                                                           |
-| [[Formacao/BootCamp Spring\|BootCamp Spring]]                                                        | Lista de disciplinas da formação                                                                                                           |
-| [[Formacao/CI&T - Do Prompt ao Agente\|CI&T - Do Prompt ao Agente]]                                  | uma jornada educacional gratuita para quem quer sair do básico e aprender a usar Inteligência Artificial em tarefas reais do dia a dia dev |
-| [[Formacao/Formação CSS Web Developer\|Formação CSS Web Developer]]                                  | Lista de disciplinas da formação                                                                                                           |
-| [[Formacao/Formação HTML Web Developer\|Formação HTML Web Developer]]                                | Lista de disciplinas da formação                                                                                                           |
-| [[Formacao/Fundamentos de Lógica de Programação\|Fundamentos de Lógica de Programação]]              | Lista de disciplinas da formação                                                                                                           |
-| [[Inteligencia Artificial/Historia da Inteligencia artificial\|Historia da Inteligencia artificial]] | O Desafio de Simular o Ser Humano, o Teste de Turing e o Jogo da Imitação ...                                                              |
+| [[32-Formacao/Fundamentos de Python\|Fundamentos de Python]]                                            | Lista de disciplinas da formação                                                                                                           |
+| [[32-Formacao/Python developer\|Python developer]]                                                      | Lista de disciplinas da formação                                                                                                           |
+| [[32-Formacao/Suzano Python Developer\|Suzano Python Developer]]                                        | Lista de disciplinas da formação                                                                                                           |
+| [[32-Formacao/Python backend developer\|Python backend developer]]                                      | Lista de disciplinas da formação                                                                                                           |
+| [[23-Inteligencia-Artificial/Spec Driven Development\|Spec Driven Development]]                         | estruturando o contexto através de fases de pesquisa, planejamento e implementação                                                         |
+| [[32-Formacao/BootCamp Spring\|BootCamp Spring]]                                                        | Lista de disciplinas da formação                                                                                                           |
+| [[32-Formacao/BootCamp React\|BootCamp React]]                                                          | Lista de disciplinas da formação                                                                                                           |
+| [[32-Formacao/CI&T - Do Prompt ao Agente\|CI&T - Do Prompt ao Agente]]                                  | uma jornada educacional gratuita para quem quer sair do básico e aprender a usar Inteligência Artificial em tarefas reais do dia a dia dev |
+| [[32-Formacao/Formação CSS Web Developer\|Formação CSS Web Developer]]                                  | Lista de disciplinas da formação                                                                                                           |
+| [[32-Formacao/Formação HTML Web Developer\|Formação HTML Web Developer]]                                | Lista de disciplinas da formação                                                                                                           |
+| [[32-Formacao/Fundamentos de Lógica de Programação\|Fundamentos de Lógica de Programação]]              | Lista de disciplinas da formação                                                                                                           |
+| [[23-Inteligencia-Artificial/Historia da Inteligencia artificial\|Historia da Inteligencia artificial]] | O Desafio de Simular o Ser Humano, o Teste de Turing e o Jogo da Imitação ...                                                              |
 
 <!-- SerializedQuery END -->
 
@@ -75,30 +75,30 @@ Alguns dizem que existem três tipos diferentes de anotadores: o arquiteto, o ja
 ---
 >[!note]- A organização
 > A organização do site é altamente estruturada e categorizada por domínios de conhecimento (know) e aplicação prática, utilizando uma hierarquia clara de pastas:
-> - **[[Teologia\|Teologia]]/**: Seção extensa e categorizada para estudos bíblicos sistêmicos e históricos (Escatologia, Cristologia, Bibliologia, História dos Hebreus, Novo e Velho Testamento).
+> - **[[22-Teologia/Teologia\|Teologia]]/**: Seção extensa e categorizada para estudos bíblicos sistêmicos e históricos (Escatologia, Cristologia, Bibliologia, História dos Hebreus, Novo e Velho Testamento).
 > - **Tecnico/**: A maior seção do vault (mais de 500 notas), dedicada à docência e ao planejamento do Senac. Contém vasta documentação sobre Didática, cursos estruturados (Assistente de TI, Informática Básica, Programador) e trilhas de linguagens (Python, PHP, JavaScript, React/Next.js, Webdesign).
-> - **[[Inteligencia Artificial\|Inteligencia Artificial]]/**: Pasta dedicada a estudos profundos sobre IA, incluindo Machine Learning, criação de agentes e parâmetros de LLM (Chain-of-Thought, Function Calling).
-> - **[[Formacao/Formacao Overview\|Formação]]/**: Centraliza o aprendizado técnico contínuo, como bootcamps de Spring/React e especializações em redes e segurança.
+> - **[[23-Inteligencia-Artificial/Inteligencia Artificial\|Inteligencia Artificial]]/**: Forma o polo de inovação, foca na teoria e criação de agentes, Machine Learning e parâmetros de LLM.
+> - **[[32-Formacao/Formacao Overview\|Formação]]/**: Centraliza o aprendizado técnico contínuo, focadas em prática e evolução. 'Formacao' centraliza bootcamps e trilhas de aprendizado contínuo (Spring, React, Python, UI/UX).
 > - **clipper/**: Ecossistema de captura da web e YouTube com forte foco em tendências de IA (Antigravity, NotebookLM, Claude Code) e vagas de emprego.
 > - **Projetos/**: Áreas de ideação e gestão de projetos práticos (ex: Confeitaria da Nicola, Clone do HBO Max, Carreira Internacional).
 
 >[!note]- Preferências
 >- A preferência é por notas estruturadas e modulares, valorizando a aplicação prática do conhecimento.
 >- O uso frequente de pastas como 'Desafios', 'Prática' e 'Projetos' tem um foco em exemplos acionáveis, tutoriais passo a passo e exercícios.
->- O estilo de escrita tende a ser técnico e instrutivo, mantendo a clareza necessária para o ensino. Há um forte uso de ferramentas visuais (Excalidraw, Canvas) e automação (Copilot, [[Inteligencia Artificial/Prompts\|Prompts]] customizados), que inclui o uso de [[Inteligencia Artificial/agentes/agentes de ia\|agentes de ia]], precisos e capazes de lidar com contextos técnicos complexos, mantendo a organização rigorosa do site.
+>- O estilo de escrita tende a ser técnico e instrutivo, mantendo a clareza necessária para o ensino. Há um forte uso de ferramentas visuais (Excalidraw, Canvas) e automação (Copilot, [[23-Inteligencia-Artificial/Prompts\|Prompts]] customizados), que inclui o uso de [[23-Inteligencia-Artificial/agentes/agentes de ia\|agentes de ia]], precisos e capazes de lidar com contextos técnicos complexos, mantendo a organização rigorosa do site.
 
 >[!note]- Ferramentas utilizadas
-> - As notas são escritas em [[Tecnico/Webdesign/markdown\|markdown]];
-> - Organizadas com [[Tecnico/Ferramentas/Obsidian/Obsidian\|Obsidian]] e seus poderosos [[Tecnico/Ferramentas/Obsidian/Plugins do Obsidian\|plugins]];
-> - O conteúdo é enriquecido por [[Inteligencia Artificial/agentes/agentes de ia\|agentes de ia]] como [[Tecnico/Ferramentas/ferramentas de IA/Notebooklm\|Notebooklm]], [Copilot](https://www.obsidiancopilot.com/en), [Gemini](https://github.com/allenhutchison/obsidian-gemini), e local com [[Tecnico/Ferramentas/ferramentas de IA/Ollama\|Ollama]]
+> - As notas são escritas em [[35-Webdesign/markdown\|markdown]];
+> - Organizadas com [[30-Recursos/Obsidian/Obsidian\|Obsidian]] e seus poderosos [[30-Recursos/Obsidian/Plugins do Obsidian\|plugins]];
+> - O conteúdo é enriquecido por [[23-Inteligencia-Artificial/agentes/agentes de ia\|agentes de ia]] como [[23-Inteligencia-Artificial/Ferramentas de IA/Notebooklm\|Notebooklm]], [Copilot](https://www.obsidiancopilot.com/en), [Gemini](https://github.com/allenhutchison/obsidian-gemini), e local com [[23-Inteligencia-Artificial/Ferramentas de IA/Ollama\|Ollama]]
 > - O código fonte é salvo no [GitHub - jocile/digitalgarden](https://github.com/jocile/digitalgarden) e publicado na [Vercel](https://vercel.com/), usando o plugin [Digital-garden](https://github.com/oleeskild/obsidian-digital-garden)
 > - Recomendações ou problemas podem ser relatados em [issues](https://github.com/jocile/digitalgarden/issues).
 
 >[!note]- Tópicos
-> - [[Inteligencia Artificial/Inteligência Artificial Overview\|Inteligência Artificial]] e [[Inteligencia Artificial/agentes/agentes de ia\|Agentes]] (Engenharia de Prompts, Parâmetros de LLM, [[Inteligencia Artificial/RAG - Retrieval Augmented Generation\|RAG]], [[Inteligencia Artificial/Machine Learning/Machine Learning\|Machine Learning]], Claude Code, [[Tecnico/Ferramentas/ferramentas de IA/Antigravity/Antigravity\|Antigravity]])
+> - [[23-Inteligencia-Artificial/Inteligência Artificial Overview\|Inteligência Artificial]] e [[23-Inteligencia-Artificial/agentes/agentes de ia\|Agentes]] (Engenharia de Prompts, Parâmetros de LLM, [[23-Inteligencia-Artificial/RAG - Retrieval Augmented Generation\|RAG]], [[23-Inteligencia-Artificial/Machine Learning/Machine Learning\|Machine Learning]], Claude Code, [[23-Inteligencia-Artificial/Ferramentas de IA/Antigravity/Antigravity\|Antigravity]])
 > - Desenvolvimento de Software e Web (Python POO/WebApp, JavaScript, PHP/WordPress, React/Next.js, Java SpringBoot)
-> - Educação e Didática Técnica ([[Tecnico/Didatica/Metodologias/Metodologias ativas\|Metodologias ativas]], Planejamento letivo Senac para Assistente de TI, Informática Básica e Programador)
-> - [[Teologia\|Teologia]] Sistêmica e Histórica ([[Teologia/Escatologia\|Escatologia]], [[Teologia/Cristologia/Introducao da Cristologia\|Cristologia]], Bibliologia, Doutrina de Deus, autores como Barclay e Pentecost)
+> - Educação e Didática Técnica ([[36-Metodologias-Didaticas/Metodologias ativas\|Metodologias ativas]], Planejamento letivo Senac para Assistente de TI, Informática Básica e Programador)
+> - [[22-Teologia/Teologia\|Teologia]] Sistêmica e Histórica ([[22-Teologia/Escatologia\|Escatologia]], [[22-Teologia/Cristologia/Introducao da Cristologia\|Cristologia]], Bibliologia, Doutrina de Deus, autores como Barclay e Pentecost)
 > - Gestão de Conhecimento e Produtividade (Obsidian avançado, Dataview, Excalidraw, MOCs)
 > - Design e UX/UI (Fundamentos de UX, Análise de Briefing, Layout Responsivo, CSS/Bootstrap)
 > - Cibersegurança e Redes (Protocolos, Packet Tracer, Redes sem fio)

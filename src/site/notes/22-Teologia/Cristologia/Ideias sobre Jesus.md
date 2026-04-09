@@ -1,0 +1,20 @@
+---
+{"dg-publish":true,"permalink":"/22-teologia/cristologia/ideias-sobre-jesus/","title":"3. Ideias sobre Jesus","metatags":{"description":"Gnosticismo, Docetismo, Arianismo, Liberalismo, Triteísmo ..."},"pinned":true,"tags":["Teologia","Cristologia"],"noteIcon":"1","updated":"2025-02-04T21:18:46.824-03:00","dg-note-properties":{"title":"3. Ideias sobre Jesus","tags":["Teologia","Cristologia"]}}
+---
+
+# 3. Ideias sobre Jesus
+
+São conhecidas diversas ideias sobre a pessoa de Jesus, destacando a magnitude de sua influência e as diferentes percepções sobre sua existência. 
+
+Aqui estão algumas das ideias sobre Jesus listadas:
+
+- [[22-Teologia/Cristologia/A nao existencia\|A teoria da não existência]]: A ideia de que Jesus não existiu.
+- [[22-Teologia/Cristologia/Gnosticismo\|Gnosticismo]]: A visão gnóstica de Jesus como uma figura espiritual.
+- [[22-Teologia/Cristologia/Docetismo\|Docetismo]]: A crença docetista de que Jesus apenas parecia ser humano.
+- [[22-Teologia/Cristologia/Arianismo\|Arianismo]]: A perspectiva ariana que nega a divindade plena de Jesus.
+- [[22-Teologia/Cristologia/emanacao\|A teoria da emanação]] A noção de Jesus como uma emanação de Deus.
+- [[22-Teologia/Cristologia/Liberalismo\|Liberalismo]]: A interpretação liberal que vê Jesus principalmente como um líder moral.
+- [[22-Teologia/Cristologia/Triteismo\|Triteismo]]: A visão triteísta que divide Deus em três entidades separadas.
+- [[22-Teologia/Cristologia/trinitaria\|N.T. A afirmação ortodoxa e trinitária]]: A compreensão ortodoxa e trinitária de Jesus conforme o Novo Testamento
+
+Essas ideias refletem a diversidade de entendimentos sobre a figura de Jesus ao longo da história e a complexidade em definir sua identidade de forma unânime.
