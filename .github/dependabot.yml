@@ -3,16 +3,56 @@
 # Please see the documentation for all configuration options:
 # https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
+# version: 2
+# updates:
+#  - package-ecosystem: "npm" # See documentation for possible values
+#    directory: "/" # Location of package manifests
+#   schedule:
+#      interval: "weekly"
+#    ignore:
+#      - dependency-name: "@sindresorhus/slugify"
+        # For slugify, ignore all updates.
+#      - dependency-name: "@11ty/eleventy-plugin-rss"
+#        versions [ "^1.2.0" ]
+      
 version: 2
 updates:
-  - package-ecosystem: "npm" # See documentation for possible values
-    directory: "/" # Location of package manifests
+  # Gerenciador de dependências (Node.js)
+  - package-ecosystem: "npm"
+    directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
+      time: "10:35"
+      timezone: "America/Fortaleza"
+    open-pull-requests-limit: 5
+    assignees:
+      - "jocile"
+    commit-message:
+      prefix: "chore"
+      include: "scope"
+    groups:
+      dependencias-npm:
+        patterns:
+          - "*"
+    # Regras de exceção (Ignore)
     ignore:
       - dependency-name: "@sindresorhus/slugify"
-        # For slugify, ignore all updates.
+        # Ignora todas as atualizações para o slugify (útil se estiver travado em uma versão CommonJS, por exemplo)
       - dependency-name: "@11ty/eleventy-plugin-rss"
-        versions [ "^1.2.0" ]
-      
-        
+        versions: ["^1.2.0"]
+        # Ignora atualizações específicas que correspondam a ^1.2.0
+
+  # Manutenção de workflows e CI/CD
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: "10:35"
+      timezone: "America/Fortaleza"
+    open-pull-requests-limit: 5
+    assignees:
+      - "jocile"
+    groups:
+      dependencias-actions:
+        patterns:
+          - "*"
