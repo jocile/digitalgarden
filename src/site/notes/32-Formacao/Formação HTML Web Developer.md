@@ -29,13 +29,13 @@
 
 > [!summary]- HTML I: Conceitos Básicos
 > - Trabalhando com [[35-Webdesign/Formulários\|Formulários]] em HTML
-> - [[35-Webdesign/Estruturando seu HTML\|Estruturando seu HTML]] + Formatações
+> - [[35-Webdesign/HTML/Estruturando seu HTML\|Estruturando seu HTML]] + Formatações
 > - Trabalhando com Mídias utilizando HTML
 > - Criando [Tabelas com HTML](https://jocile.github.io/webdesigner/formacao-html/2-HTML-Conceitos-Basicos/4%20-%20Criando%20Tabelas/index.html)
 > - Criando seu Primeiro Site Completo com HTML
 
 > [!summary]- HTML II: Ampliando o Conhecimento
-> - [[35-Webdesign/Estrutura HTML5\|Entendendo HTML Semântico]]: Mudanças do HTML 5, acessibilidade, Web scraping, main, header, footer, aside, section, nav, article. blockquote e Q, [figure, figcaption e picture](https://github.com/jocile/webdesigner/blob/main/formacao-html/3-HTML-semantico/figure.html), SEO.
+> - [[35-Webdesign/HTML/Estrutura HTML5\|Entendendo HTML Semântico]]: Mudanças do HTML 5, acessibilidade, Web scraping, main, header, footer, aside, section, nav, article. blockquote e Q, [figure, figcaption e picture](https://github.com/jocile/webdesigner/blob/main/formacao-html/3-HTML-semantico/figure.html), SEO.
 > - HTML: Recursos Especiais: Datalist, Code, kbd e pre, Details e summary, Meter e progress, Mark e Javascript, Canvas, Novos atributos do HTML 5.
 > - Recriando o Wikipedia com Layout Moderno
 

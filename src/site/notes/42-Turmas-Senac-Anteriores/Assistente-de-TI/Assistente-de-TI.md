@@ -88,7 +88,7 @@ gantt
 >
 >>[!note]- Aula 1.3 - configurando as telas do Windows
 >>  - [x] Aula 1.3 - 2025.10.08 - Windows - Configuração das telas
->> - [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Estacao-de-trabalho\|Estação de Trabalho em Tecnologia da Informação]]
+>> - [[30-Recursos/Hardware/Estacao-de-trabalho\|Estação de Trabalho em Tecnologia da Informação]]
 >> - [Personalizar a IU do dispositivo Windows](https://learn.microsoft.com/pt-br/windows-hardware/customize/)
 >>  - acesso e tela de bloqueio;
 >>  - organização de arquivos;
@@ -102,8 +102,8 @@ gantt
 >
 >>[!note]- Aula 1.4 - organizando arquivos e pastas, ferramentas do Sistema
 >>  - [x] Aula 1.4 - 2025.10.09 - Windows - ferramentas, arquivos e pastas
->>   - [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Guia do Windows\|Guia do Windows]]
->>   - [[42-Turmas-Senac-Anteriores/Assistente-de-TI/5 segredos do Windows\|5 segredos do Windows]]
+>>   - [[30-Recursos/Windows/Guia do Windows\|Guia do Windows]]
+>>   - [[30-Recursos/Windows/5 segredos do Windows\|5 segredos do Windows]]
 >>   - Configurando o menu Iniciar, organizando atalhos em pastas;
 >>   - interface e manuseio de janelas, área de trabalho,
 >>   - manipulação de arquivos e pastas,
@@ -116,7 +116,7 @@ gantt
 >>[!note]- Aula 1.5 - programas acessórios do Windows
 >>  - [x] Aula 1.5 - 2025.10.10 - Windows - programas acessórios
 >>   - Conhecendo os acessórios do Windows: bloco de notas, calculadora Paint e Wordpad, digitação com acentos e atalhos de teclado
->>   - acessórios do SO: bloco de notas, [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Calculadora do Windows\|Calculadora do Windows]], WordPad;
+>>   - acessórios do SO: bloco de notas, [[30-Recursos/Windows/Calculadora do Windows\|Calculadora do Windows]], WordPad;
 >>   - [Explorar as ferramentas de suporte e diagnóstico](https://learn.microsoft.com/pt-br/training/modules/explore-support-diagnostic-tools/?source=recommendations)
 >>   - [Sysinternals - Sysinternals \| Microsoft Learn](https://learn.microsoft.com/pt-br/sysinternals/)
 >>>[!todo] 🖥️ Atividade:
@@ -299,7 +299,7 @@ gantt
 >> - [Fonte de alimentação.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTf_VeIsIGUfBaXbLHUKRx1mCv95CGcWe-739PpXIgxOHJr_KwUtLI6kXaOoVnvsw/pub?start=true&loop=false&delayms=3000)
 >> - [Eletricidade Básica - YouTube](https://www.youtube.com/playlist?list=PLr-Pz5YOnmxBm4_G2V6uArAEOFuFcXGsk)
 >> - [Fontes - Escola de Hardware - Episódio 7 - YouTube](https://www.youtube.com/watch?v=J4HpGfUiaag)
->> - [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Cálculos elétricos\|Cálculos elétricos]]
+>> - [[30-Recursos/Eletricidade/Cálculos elétricos\|Cálculos elétricos]]
 >> - Componentes do Hardware: [Fontes de alimentação ATX: principais características](https://www.infowester.com/fontesatx.php)
 >>>[!todo] 🖥️ Atividade: 
 >> - Simular:  [Circuitos AC](https://phet.colorado.edu/pt/simulations/circuit-construction-kit-ac) - [Corrente e circuito elétrico](https://phet.colorado.edu/pt/activities/6728) - [Circuitos Elétricos (Básico)](https://phet.colorado.edu/pt/activities/4911)
@@ -314,7 +314,7 @@ gantt
 >> - [Nikola Tesla foi impedido de contar esse segredo para a humanidade - YouTube](https://www.youtube.com/watch?v=Uvz-v9E-96o)
 >> - [FILTRO DE LINHA ou NOBREAK, QUAL O MELHOR PARA O SEU PC GAMER? Vem Conferir! - YouTube](https://www.youtube.com/watch?v=J6YbIZ3E_Hw)
 >>>[!todo] 🖥️ Atividade: 
->>> - [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Calculando a fonte\|Calculando a fonte]]
+>>> - [[30-Recursos/Hardware/Calculando a fonte\|Calculando a fonte]]
 >>> - Criar uma planilha de orçamento de equipamentos de proteção elétrica para um laboratório de informática com 10 computadores
 >>> - Modelo de [Quadro de carga.xlsx - Planilhas Google](https://docs.google.com/spreadsheets/d/1Fs64Smsy17290OcUo5058E8NQORIPps0/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >>> - Modelo de [planilha para levantamento de carga instalada.xls](https://www.fecoergs.com.br/anexos/anexo_1_planilha_para_levantamento_de_carga_instalada_e_calculo_do_tipo_de_fornecimento.xls)
@@ -324,9 +324,9 @@ gantt
 >>- [x] Aula 2.3 - 2025.11.06 - Componentes de Hardware
 >>- [Partes do Computador.ppt - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vScIJZntmXRw-YLkSd6oQ45r2avd_Vp9mt44B3YDZ_58rSzgs_wJHTVerjmdEVuUg/pub?start=true&loop=false&delayms=3000)
 >> - [Apresentação sobre gabinetes e conexões](https://docs.google.com/presentation/d/e/2PACX-1vTsgRf0APpdSQcmGqju49KaVhLoVFxjhYNUWWvYUu-dI0r96NkSn2GyLEaPrzsLXA/pub?start=true&loop=false&delayms=3000)
->> - Componentes do Hardware de uma [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Estacao-de-trabalho\|Estacao-de-trabalho]]: placa-mãe, processador, memória RAM, cooler, fonte de alimentação, gabinetes e placas de expansão- [Todas as Peças de Computador Explicadas em 8 Minutos - YouTube](https://www.youtube.com/watch?v=pFTgWgb5wiM)
->> - Conhecendo os [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Chipsets de Placas-Mae\|Chipsets de Placas-Mae]]
->> - Guia para a escolha da [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Placa-Mae\|Placa-Mae]]
+>> - Componentes do Hardware de uma [[30-Recursos/Hardware/Estacao-de-trabalho\|Estacao-de-trabalho]]: placa-mãe, processador, memória RAM, cooler, fonte de alimentação, gabinetes e placas de expansão- [Todas as Peças de Computador Explicadas em 8 Minutos - YouTube](https://www.youtube.com/watch?v=pFTgWgb5wiM)
+>> - Conhecendo os [[30-Recursos/Hardware/Chipsets de Placas-Mae\|Chipsets de Placas-Mae]]
+>> - Guia para a escolha da [[30-Recursos/Hardware/Placa-Mae\|Placa-Mae]]
 >> - [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Concurso da UFC 2025\|Concurso da UFC 2025]]
 >>>[!todo] 🖥️ Atividade: 
 >>> - Criar uma planilha de inventário de peças de um computador.
@@ -344,17 +344,17 @@ gantt
 >>> - Desmontagem e montagem assistida de um computador.
 >
 >>[!note]- Aula 2.05 - Componentes de Hardware - processadores e memória
->>- [x] Aula 2.5 - 2025.11.10 - [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Processadores\|Processadores]]
+>>- [x] Aula 2.5 - 2025.11.10 - [[30-Recursos/Hardware/Processadores\|Processadores]]
 >> - Componentes do Hardware: [Processadores.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vRx8cvvDeinPIWpHX22yGBxuhvSEDix4lth4Ru9U9dJZVVPUI7VRIGdFLwttrzhKw/pub?start=true&loop=false&delayms=3000)
 >> - [Guia de Processadores 2025 - Primeiro Semestre - Adrenaline](https://www.adrenaline.com.br/artigos/guia-de-processadores-atualizado-primeiro-semestre-2025-1/)
 >>>[!todo] 🖥️ Atividade:
->>> - Realizar a montagem de um computador usando [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Simulador-de-montagem\|Simulador-de-montagem]].
+>>> - Realizar a montagem de um computador usando [[30-Recursos/Hardware/Simulador-de-montagem\|Simulador-de-montagem]].
 >>> - Criar um relatório no Word descrevendo a configuração das peças utilizadas.
 >
 >>[!note]- Aula 2.06 - Componentes de Hardware - memória e armazenamento
->>- [x] Aula 2.6 - 2025.11.11 - [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Memória RAM\|Memória RAM]]
+>>- [x] Aula 2.6 - 2025.11.11 - [[30-Recursos/Hardware/Memória RAM\|Memória RAM]]
 >> - [Todas as Memórias DDR Explicadas em 8 Minutos - YouTube](https://www.youtube.com/watch?v=6ZotxnvGNTQ)
->> - Problemas do Hardware: [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Resolucao-de-problemas\|Resolucao-de-problemas]]
+>> - Problemas do Hardware: [[30-Recursos/Windows/Resolucao-de-problemas\|Resolucao-de-problemas]]
 >> - [Problemas no pc.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTLFM-wvV_MYSuyQDNaZFaHAr-Nl58wzKxQSm5wv04rE_9mvCdI8eyWLr-SAN88wA/pub?start=true&loop=false&delayms=3000)
 >> - [Diagnosticando Defeitos.pptx - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vQHGR3mqvjiU3pQ95GaFxNCkKtw-FF7cQ-mxaL3UI4uuZGl-mSY7QFTpVccK5Latg/pub?start=true&loop=false&delayms=3000)
 >>>[!todo] 🖥️ Atividade:
@@ -363,11 +363,11 @@ gantt
 >>> - Criar um relatório no Word descrevendo os problema resolvidos.
 >
 >>[!note]- Aula 2.07 - Componentes de Hardware - GPU
->>- [x] Aula 2.7 - 2025.11.12 - [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Placa de video\|Placa de video]]
+>>- [x] Aula 2.7 - 2025.11.12 - [[30-Recursos/Hardware/Placa de video\|Placa de video]]
 >>- [O que é placa de vídeo e como funciona? - Adrenaline](https://www.adrenaline.com.br/hardware/o-que-e-placa-de-video/)
 >>- [Guia de Placas de Vídeo 2025 - segundo semestre - Adrenaline](https://www.adrenaline.com.br/hardware/guia-de-placas-de-video-2025-segundo-semestre/)
 >>>[!todo] 🖥️ Atividade:
->>> - [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
+>>> - [[30-Recursos/Hardware/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
 >
 >>[!note]- Aula 2.08 - Relatórios técnicos
 >>- [x] Aula 2.8 - 2025.11.13 - Avaliação com relatórios técnicos
@@ -376,14 +376,14 @@ gantt
 >>- [Todas as Peças de Computador Explicadas em 8 Minutos - YouTube](https://www.youtube.com/watch?v=pFTgWgb5wiM)
 >>>[!todo] 🖥️ Atividade:
 >>> - [Questionário sobre as peças do computador](https://forms.gle/nYuKC46Jr59SfELD6)
->>> - [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
+>>> - [[30-Recursos/Hardware/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
 >>> - Criação de planilha interativa de orçamentos de peças.
 >
 >>[!note]- Aula 2.09 - Relatórios técnicos
 >>- [x] Aula 2.9 - 2025.11.14 - Avaliação com relatórios técnicos
 >>- Montagem de configuração de Computador com: [Pichau](https://www.pichau.com.br/monte-seu-pc), [KaBuM!](https://www.kabum.com.br/monte-seu-pc), [Terabyte](https://www.terabyteshop.com.br/pc-gamer/full-custom)
 >>>[!todo] 🖥️ Atividade:
->>> - [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
+>>> - [[30-Recursos/Hardware/Prática Orçamento para Compra de Peças do Computador\|Prática Orçamento para Compra de Peças do Computador]]
 >>> - Criação de planilha interativa de orçamentos de peças.
 
 
@@ -413,13 +413,13 @@ gantt
 >[!done]- Cronograma da Unidade Curricular 3
 >
 >>[!note]- Aula 3.1 - Instalando o Sistema Operacional Windows
->>- [x] Aula 3.1 - 2025.11.17 - [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Instalando-o-windows\|Instalando-o-windows]]
+>>- [x] Aula 3.1 - 2025.11.17 - [[30-Recursos/Windows/Instalando-o-windows\|Instalando-o-windows]]
 >> - [Instalando Windows - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTVB8pCdIE-NgehNyVa04vIXzceb8NG2oOTqDyfM6r0MK15l7E4UcmAECWWsWJRnw/pub?start=true&loop=false&delayms=3000)
 >>>[!todo] 🖥️ Atividade: 
 >>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows.
 >
 >>[!note]- Aula 3.2 - Otimizando o Sistema Operacional Windows
->>- [x] Aula 3.2 - 2025.11.18 - [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Otimizacao do Windows\|Otimizacao do Windows]]
+>>- [x] Aula 3.2 - 2025.11.18 - [[30-Recursos/Windows/Otimizacao do Windows\|Otimizacao do Windows]]
 >> - [Instalando Windows - Apresentações Google](https://docs.google.com/presentation/d/e/2PACX-1vTVB8pCdIE-NgehNyVa04vIXzceb8NG2oOTqDyfM6r0MK15l7E4UcmAECWWsWJRnw/pub?start=true&loop=false&delayms=3000)
 >>>[!todo] 🖥️ Atividade: 
 >>> - Utilizar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e otimizar o Windows.
@@ -441,13 +441,13 @@ gantt
 >>> - Criar uma máquina virtual com [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) e instalar o Windows 11, realizar o debloat e instalar pacote Office, navegador Chrome, descompactador Winrar.
 >
 >>[!note]- Aula 3.5 - Manutenção do Windows
->>- [x] Aula 3.5 - 2025.11.24 - [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Manutencao do Windows\|Manutencao do Windows]]
+>>- [x] Aula 3.5 - 2025.11.24 - [[30-Recursos/Windows/Manutencao do Windows\|Manutencao do Windows]]
 >>
 >>>[!todo] 🖥️ Atividade:
 >>> - Utilizar uma máquina virtual com o Windows 11, realizar o debloat e manutenção preventiva: criar um ponto de restauração, limpeza de arquivos temporários, acessar o modo de recuperação e realizar procedimentos de restauração.
 >
 >>[!note]- Aula 3.6 - Manutenção do Windows, backup e proteção
->>- [x] Aula 3.6 - 2025.11.25 - [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Manutencao do Windows\|Manutencao do Windows]], backup e proteção
+>>- [x] Aula 3.6 - 2025.11.25 - [[30-Recursos/Windows/Manutencao do Windows\|Manutencao do Windows]], backup e proteção
 >>
 >>>[!todo] 🖥️ Atividade:
 >>> - Utilizar uma máquina virtual com o Windows 11, realizar a manutenção preventiva: configurar o backup e partição para dados.
@@ -494,11 +494,11 @@ gantt
 >
 >>[!note]- Aula 4.1 - Conceitos básicos de redes
 >> - [x] Aula 4.1 - 2025.12.01 - Conceitos básicos de redes: componentes e tipos de conexões de redes.
->> - Endereçamento [[42-Turmas-Senac-Anteriores/Assistente-de-TI/IPV4\|IPV4]]
+>> - Endereçamento [[30-Recursos/redes/IPV4\|IPV4]]
 >> - [Cisco Networking Academy](https://www.netacad.com/pt/catalogs/learn/networking)
 >>
 >>>[!todo] 🖥️ Atividade: 
->>> - Instalar o [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Simulador-de-redes\|Simulador-de-redes]] e criar uma rede local entre 3 computadores.
+>>> - Instalar o [[30-Recursos/redes/Simulador-de-redes\|Simulador-de-redes]] e criar uma rede local entre 3 computadores.
 >
 >>[!note]- Aula 4.2 - Equipamentos de rede
 >> - [x] Aula 4.2 - 2025.12.02 - Configuração de equipamentos para a montagem de uma rede local.
@@ -509,7 +509,7 @@ gantt
 >> - [Panorama do tráfego da internet no Brasil](https://redeipe.rnp.br/panorama)
 >>
 >>>[!todo] 🖥️ Atividade: 
->>> - Instalar o [[42-Turmas-Senac-Anteriores/Assistente-de-TI/Simulador-de-redes\|Simulador-de-redes]] e criar uma rede local configurando o endereçamento IP dos computadores e um roteador.
+>>> - Instalar o [[30-Recursos/redes/Simulador-de-redes\|Simulador-de-redes]] e criar uma rede local configurando o endereçamento IP dos computadores e um roteador.
 >
 >>[!note]- Aula 4.3 Configurando roteadores
 >> - [x] Aula 4.3 - 2025.12.03 - Configuração de equipamentos para a montagem de uma rede local: roteadores.

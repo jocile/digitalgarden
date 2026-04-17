@@ -128,7 +128,7 @@ Links organizados no final do arquivo:
 ## Referências
 
 - [Sintaxe básica de escrita e formatação - Documentos do GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [[42-Turmas-Senac-Anteriores/Programador/Análise/Documentação com Markdown\|Documentação com Markdown]]
+- [[30-Recursos/Analise-de-Sistemas/Documentação com Markdown\|Documentação com Markdown]]
 - [Referência da syntaxe markdown na UFRGS](http://www.if.ufrgs.br/fis01069/sintaxemarkdown.html)
 - [Referência da syntaxe markdown no firebal](https://daringfireball.net/projects/markdown/syntax)
 - [Referência da syntaxe markdown no GitHub](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)

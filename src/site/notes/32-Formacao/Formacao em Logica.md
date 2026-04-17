@@ -20,7 +20,7 @@
 > - Aperte Start com Lógica de Programação
 
 > [!summary]- Introdução à Lógica de Programação
-> - [[42-Turmas-Senac-Anteriores/Logica/logica de programacao\|Introdução aos Conceitos Básicos em Lógica de Programação]]
+> - [[30-Recursos/Logica-de-Programacao/logica de programacao\|Introdução aos Conceitos Básicos em Lógica de Programação]]
 > - Entendendo Algoritmos e Fluxogramas
 > - Estrutura de um Software e Seu Ambiente de Desenvolvimento
 > - Trabalhando com Variáveis

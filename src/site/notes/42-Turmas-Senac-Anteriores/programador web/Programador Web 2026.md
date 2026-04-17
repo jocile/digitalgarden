@@ -102,7 +102,7 @@ gantt
 >[!done] Cronograma das aulas da UC2
 >
 >>[!note]- Aula 2.1 - Estrutura base HTML5
->> - [x] Aula 2.1 - 2026-01-26 - Introdução e [[35-Webdesign/Estrutura HTML5\|Estrutura HTML5]] e suas tags básicas;
+>> - [x] Aula 2.1 - 2026-01-26 - Introdução e [[35-Webdesign/HTML/Estrutura HTML5\|Estrutura HTML5]] e suas tags básicas;
 >> 
 >>>[!todo] 🖥️ Atividade:
 >>> - Criando a primeira página HTML com tags básicas.
@@ -132,7 +132,7 @@ gantt
 >
 >>[!note]- Aula 2.5 - Estilos avançados com CSS3
 >> - [x] Aula 2.5 - 2026-01-30 - Estilos avançados com CSS3 - pseudo elementos
->> - [[35-Webdesign/Novidades do html5\|Novidades do html5]]
+>> - [[35-Webdesign/HTML/Novidades do html5\|Novidades do html5]]
 >> - [[35-Webdesign/Proposta de site2\|Proposta de site2]]
 >> - [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 >>>[!todo] 🖥️ Atividade:
@@ -152,7 +152,7 @@ gantt
 >> - [JavaScript Introduction](https://www.w3schools.com/js/js_intro.asp)
 >> - [[34-Linguagens-de-Programacao/JavaScript/Manipulando elementos com JavaScript\|Manipulando elementos com JavaScript]]
 >>>[!todo] 🖥️ Atividade:
->>> - [[35-Webdesign/Exercicio JavaSript cap6\|Exercicio JavaSript cap6]] conforme o exemplo do livro 
+>>> - [[34-Linguagens-de-Programacao/JavaScript/Exercicio JavaSript cap6\|Exercicio JavaSript cap6]] conforme o exemplo do livro 
 >>> - [programadorweb2026/livro][livrohtml] - [Visualizar exemplo do capítulo 6](https://jocile.github.io/programadorweb2026/livro/cap6.html)
 >
 >>[!note]- Aula 2.8 - Layout responsivo com Flexbox
@@ -181,7 +181,7 @@ gantt
 >> - [Sintaxe e tipos - JavaScript \| MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types)
 >> - [[34-Linguagens-de-Programacao/JavaScript/Manipulando elementos com JavaScript\|Manipulando elementos com JavaScript]]
 >>>[!todo] 🖥️ Atividade:
->>> - Criar um formulário para entrada de dados e resolver [[42-Turmas-Senac-Anteriores/Programador/Lógica/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]] com a saída na mesma página.
+>>> - Criar um formulário para entrada de dados e resolver [[30-Recursos/Logica-de-Programacao/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]] com a saída na mesma página.
 >>> - Exercícios cap. 2 do livro Lógica com JavaScript - [Exercícios resolvidos no GitHub][exercicios]
 >
 >>[!note]- Aula 3.01 - Lógica com JavaScript - condicionais
@@ -189,7 +189,7 @@ gantt
 >> - [Controle de Fluxo e Manipulação de Erro - JavaScript \| MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
 >> - [JavaScript Conditionals](https://www.w3schools.com/js/js_conditionals.asp)
 >>>[!todo] 🖥️ Atividade:
->>> - Criar um formulário para entrada de dados e resolver [[42-Turmas-Senac-Anteriores/Programador/Lógica/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]] com a saída na mesma página.
+>>> - Criar um formulário para entrada de dados e resolver [[30-Recursos/Logica-de-Programacao/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]] com a saída na mesma página.
 >>> - Exercícios cap. 3 do livro Lógica com JavaScript - [Exercícios resolvidos no GitHub][exercicios]
 >>> - [[34-Linguagens-de-Programacao/JavaScript/Calculo do IMC com JavaScript\|Calculo do IMC com JavaScript]]
 >
@@ -237,7 +237,7 @@ gantt
 - [📁 github.com/jocile/webdesigner](https://github.com/jocile/webdesigner) - [Visualizar WebDesigner](https://jocile.github.io/webdesigner/)
 - [JavaScript - MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [[32-Formacao/Web Designer Senac\|Web Designer Senac]]
-- [[35-Webdesign/editores HTML online\|editores HTML online]]
+- [[35-Webdesign/HTML/editores HTML online\|editores HTML online]]
 
 
 

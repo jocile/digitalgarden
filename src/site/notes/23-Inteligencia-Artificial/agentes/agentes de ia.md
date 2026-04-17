@@ -48,7 +48,7 @@ A arquitetura de um agente de IA pode incluir diversos componentes, como:
 - **[[23-Inteligencia-Artificial/engenharia de prompt\|Prompt Base]]:** Instruções que definem o comportamento e as restrições do agente.
 - **Memória:** Permite que o agente se lembre de interações anteriores e mantenha o contexto da conversa.
 - **Base de Conhecimento Extra - [[23-Inteligencia-Artificial/RAG - Retrieval Augmented Generation\|RAG]]:** PDFs, textos, planilhas ou outras fontes de dados que complementam o conhecimento do LLM.
-- **[[30-Recursos/Ferramentas de automacao\|Ferramentas e Funções]]:** APIs, bancos de dados e outros recursos que permitem ao agente interagir com o mundo externo.
+- **[[30-Recursos/Engenharia-de-Software/Ferramentas de automacao\|Ferramentas e Funções]]:** APIs, bancos de dados e outros recursos que permitem ao agente interagir com o mundo externo.
 
 ### **A Era dos Agentes de IA**
 

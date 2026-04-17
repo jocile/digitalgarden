@@ -40,10 +40,10 @@ gantt
 >
 >>[!note]- Aula 1 - introdução a lógica
 >> - [x] Aula 1 - 2026.01.21 -  Introdução e conceitos, algoritmos, variáveis, expressões
->> - [[42-Turmas-Senac-Anteriores/Logica/logica de programacao\|Conhecendo a Lógica de programação]]
+>> - [[30-Recursos/Logica-de-Programacao/logica de programacao\|Conhecendo a Lógica de programação]]
 >> - [[32-Formacao/Formacao em Logica\|Formação em Lógica]]
->> - [[42-Turmas-Senac-Anteriores/Programador/Lógica/Introdução aos algoritmos\|Introdução aos algoritmos]]
->> - [[42-Turmas-Senac-Anteriores/Programador/Lógica/Aprendendo Lógica com blocos\|Aprendendo Lógica com blocos]]: [Code.org](https://studio.code.org/courses/express-2021/units/1), [Blockly](https://blockly.games/?lang=pt-br), [Scratch](https://scratch.mit.edu/)
+>> - [[30-Recursos/Logica-de-Programacao/Introdução aos algoritmos\|Introdução aos algoritmos]]
+>> - [[30-Recursos/Logica-de-Programacao/Aprendendo Lógica com blocos\|Aprendendo Lógica com blocos]]: [Code.org](https://studio.code.org/courses/express-2021/units/1), [Blockly](https://blockly.games/?lang=pt-br), [Scratch](https://scratch.mit.edu/)
 >> - [Variáveis e constantes - Google Slides](https://docs.google.com/presentation/d/19obsTYpucf1e19y6CGrdZi4Ml6RfLVnRiSC7rXiFRpE/edit?usp=sharing)
 >> - [Editor online de Python](https://www.online-python.com/)
 >> - [[34-Linguagens-de-Programacao/Python/Python com Colab\|Python com Colab]]
@@ -56,8 +56,8 @@ gantt
 >> - [Operadores aritméticos.pptx - Google Slides](https://docs.google.com/presentation/d/1XGp5aqvnrOSbwe-yUxUHtL8Dp7YjbXpZ/)
 >> - [Operadores de comparação.pptx - Google Slides](https://docs.google.com/presentation/d/1dny1GNkpgzqRRxmSRsxMSUK5Ph1JKmHZ/)
 >>>[!todo] 🖥️ Atividades:
->>> - [[42-Turmas-Senac-Anteriores/Programador/Lógica/Exercícios de Lógica condicional\|Exercícios de Lógica condicional]]
->>> - [[42-Turmas-Senac-Anteriores/Programador/Lógica/Segundo Algoritmo\|Segundo Algoritmo]]
+>>> - [[30-Recursos/Logica-de-Programacao/Exercícios de Lógica condicional\|Exercícios de Lógica condicional]]
+>>> - [[30-Recursos/Logica-de-Programacao/Segundo Algoritmo\|Segundo Algoritmo]]
 >
 >>[!note]- Aula 3 - Expressões aritméticas e condicionais
 >> - [x] Aula 3 - 2026.01.23 - exercícios aritméticos e condicionais
@@ -65,7 +65,7 @@ gantt
 >> - [Operadores lógicos.pptx - Google Slides](https://docs.google.com/presentation/d/1axYf3Xdq7XrC4YHZxop-xMHsl5PXs2w_/)
 >> - [Estruturas condicionais.pptx - Google Slides](https://docs.google.com/presentation/d/19r7ajj8mXjV8PmGHDdh23HbURkSwSlEo/)
 >>>[!todo] 🖥️ Atividades:
->>> - [[42-Turmas-Senac-Anteriores/Programador/Lógica/Exercícios de Lógica condicional\|Exercícios de Lógica condicional]] - [Solução no Colab](https://colab.research.google.com/drive/1LHpQpi4ta0ljOJKXZX3uwsN4QmjPtBhG?usp=sharing)
+>>> - [[30-Recursos/Logica-de-Programacao/Exercícios de Lógica condicional\|Exercícios de Lógica condicional]] - [Solução no Colab](https://colab.research.google.com/drive/1LHpQpi4ta0ljOJKXZX3uwsN4QmjPtBhG?usp=sharing)
 >>> - [Exercicios.ipynb - Colab](https://colab.research.google.com/drive/1LHpQpi4ta0ljOJKXZX3uwsN4QmjPtBhG?usp=sharing)
 >
 >>[!note]- Aula 4 - Conjuntos de dados - listas
@@ -89,7 +89,7 @@ gantt
 >> - [02 - Tuplas.pptx - Google Slides](https://docs.google.com/presentation/d/1_eJMXBocRLqn4yq8-qtUvdcyIjJXZEMa/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> - [03 - Conjuntos.pptx - Google Slides](https://docs.google.com/presentation/d/1sXaLZgmji3O8Nk4kSW-KLct8p6QRGBbE/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >>>[!todo] 🖥️ Atividades:
->>> - [[42-Turmas-Senac-Anteriores/Programador/Lógica/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]]
+>>> - [[30-Recursos/Logica-de-Programacao/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]]
 >>> - [Resolução no Google Colab](https://colab.research.google.com/drive/1UfD8tLOFLZp3ITW_qrpN1bw-2tLN0VRh?usp=sharing)
 >
 >>[!note]- Aula 7 - Conjuntos de dados - dicionários
@@ -97,13 +97,13 @@ gantt
 >> - [04 - Dicionários.pptx - Google Slides](https://docs.google.com/presentation/d/11GeGam4hs0jVmSGYtxWukAjpJ-GpKE6O/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> - [17 - Estruturas de repetição.pptx - Google Slides](https://docs.google.com/presentation/d/1LoNm2TPTwqRpCORjKMJCCzs91XJvk2W_/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >>>[!todo] 🖥️ Atividades:
->>> - [[42-Turmas-Senac-Anteriores/Programador/Lógica/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]]
+>>> - [[30-Recursos/Logica-de-Programacao/Exercícios de Lógica aritmética\|Exercícios de Lógica aritmética]]
 >>> - [Repetições no Google Colab](https://colab.research.google.com/drive/1-6obBB916QdUx_dWtabamSpiJNTwkOSx?usp=sharing)
 >
 >>[!note]- Aula 8 - Resolução de exercícios com repetições e listas
 >> - [x] Aula 8  - 2026.01.30 - Resolução de exercícios com repetições e listas
->> - [[42-Turmas-Senac-Anteriores/Programador/Lógica/listas-em-python\|listas-em-python]]
->> - [[42-Turmas-Senac-Anteriores/Programador/Lógica/repeticoes-em-python\|repeticoes-em-python]]
+>> - [[34-Linguagens-de-Programacao/Python/listas-em-python\|listas-em-python]]
+>> - [[34-Linguagens-de-Programacao/Python/repeticoes-em-python\|repeticoes-em-python]]
 >>>[!todo] 🖥️ Atividades:
 >>> - [Exercicios-de-logica-aula8.ipynb - Colab](https://colab.research.google.com/drive/1P-1BqChybzxH8EdZtamNFK-MEqtIOVHt?usp=sharing)
 >
@@ -111,7 +111,7 @@ gantt
 >> - [x] Aula 9  - 2026.02.02 - Estruturando a lógica com funções
 >> - [05 - Funções.pptx - Google Slides](https://docs.google.com/presentation/d/13AW3U70G0OVsvloO0oFTN5n22KxRG7v9/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> - [[34-Linguagens-de-Programacao/Python/Estruturas/Diagrama de estruturas de dados com Python\|Diagrama de estruturas de dados com Python]]
->> - [[42-Turmas-Senac-Anteriores/Programador/Lógica/Condicionais-em-python\|Condicionais-em-python]]
+>> - [[34-Linguagens-de-Programacao/Python/Condicionais-em-python\|Condicionais-em-python]]
 >>>[!todo] 🖥️ Atividades:
 >>> - [Resolvendo exercícios com funções](https://colab.research.google.com/drive/1kAqEGXCAv6-9kgBkrwm_jY7WzGtE7Sec?usp=sharing)
 >
@@ -119,14 +119,14 @@ gantt
 >> - [x] Aula 10  - 2026.02.03 - Desafio conta bancária com funções
 >> - [19 - Desafio sistema bancario.pptx - Google Slides](https://docs.google.com/presentation/d/1O2QQllmG6TsjYR0oRK7TyBSwG8eGNwMW/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >>>[!todo] 🖥️ Atividades:
->>> - Resolver o desafio: [[42-Turmas-Senac-Anteriores/Programador/Desafios/Desafios Python/Saldo de Transacoes Bancarias\|Saldo de Transacoes Bancarias]]
+>>> - Resolver o desafio: [[30-Recursos/Desafios-de-Codigo/Desafios Python/Saldo de Transacoes Bancarias\|Saldo de Transacoes Bancarias]]
 >>> - [Desafio Sistema Bancário - Google Colab](https://colab.research.google.com/drive/1DFPg5VakbWUVJ1RYquyTBBKTE9MKWSJX?usp=sharing)
 >
 >>[!note]- Aula 11 - Registros de dados
 >> - [x] Aula 11  - 2026.02.04 - Registros com [[34-Linguagens-de-Programacao/Python/Estruturas/Dicionarios em Python\|Dicionarios em Python]]
 >> 
 >>>[!todo] 🖥️ Atividades:
->>> - Resolver o desafio: [[42-Turmas-Senac-Anteriores/Programador/Desafios/sistema bancario/Desafio bancario criando contas\|Desafio bancario criando contas]]
+>>> - Resolver o desafio: [[30-Recursos/Desafios-de-Codigo/sistema bancario/Desafio bancario criando contas\|Desafio bancario criando contas]]
 >>> - [Criando conta bancaria - Colab](https://colab.research.google.com/drive/1cKVNTaS8JBTD6AylCWATbzfswfJvZDrp?usp=sharing)
 >
 >>[!note]- Aula 12 - Matiz
@@ -142,18 +142,18 @@ gantt
 >>> - [Testes - Google Colab](https://colab.research.google.com/drive/1kguL7vtDrP4U7JUf4XAAMX-lyj83fPsU?usp=sharing)
 >
 >>[!note]- Aula 14 - Programação Orientada a Objetos
->> - [x] Aula 14  - 2026.02.09 - [[42-Turmas-Senac-Anteriores/Programador/Lógica/Logica da Programação Orientada a Objetos\|Logica da Programação Orientada a Objetos]]
+>> - [x] Aula 14  - 2026.02.09 - [[30-Recursos/Logica-de-Programacao/Logica da Programação Orientada a Objetos\|Logica da Programação Orientada a Objetos]]
 >> - [Programação Orientada a Objetos Com Python.pptx - Google Slides](https://docs.google.com/presentation/d/1kEnmWOIfKRnsmXrI80GXq9WeZLq7IcfJ/edit?usp=sharing&ouid=106055613390581376281&rtpof=true&sd=true)
 >> 
 >>>[!todo] 🖥️ Atividades:
->>> - Criar um cadastro de cliente de banco do [[42-Turmas-Senac-Anteriores/Programador/Desafios/sistema bancario/Sistema bancário com POO\|Sistema bancário com POO]]
+>>> - Criar um cadastro de cliente de banco do [[30-Recursos/Desafios-de-Codigo/sistema bancario/Sistema bancário com POO\|Sistema bancário com POO]]
 >>> - [Lógica-POO.ipynb - Colab](https://colab.research.google.com/drive/1JGKfZmweFa0bsoSIVNnB0ojj5_HwMyx_?usp=sharing)
 >
 >>[!note] Aula 15 - Revisão e avaliação
 >> - [x] Aula 15  - 2026.02.10 - Revisão e avaliação
 >> 
 >>>[!todo] 🖥️ Atividades:
->>> - Resolver o desafio: [[42-Turmas-Senac-Anteriores/Programador/Desafios/sistema bancario/Desafio bancario criando contas\|Desafio bancario criando contas]]
+>>> - Resolver o desafio: [[30-Recursos/Desafios-de-Codigo/sistema bancario/Desafio bancario criando contas\|Desafio bancario criando contas]]
 
 ## Referências
 

@@ -5,7 +5,7 @@
 # Formação PHP Experience
 
 **Horas-aula**: 40
-**Habilidades**: Webdesign,Lógica de programação,[[42-Turmas-Senac-Anteriores/Programador/Lógica/Introdução aos algoritmos\|Algoritmos]],PHP
+**Habilidades**: Webdesign,Lógica de programação,[[30-Recursos/Logica-de-Programacao/Introdução aos algoritmos\|Algoritmos]],PHP
 **Link**: [Trilha DIO - Formação PHP Experience](https://web.dio.me/track/formacao-php-experience)
 **Concluído**: 2025-09-22T00:00:00.000-03:00
 

@@ -53,8 +53,8 @@ print(f"Cliente cadastrado: {banco_clientes}")
 - **Adição Dinâmica:** Como visto nas fontes, se você precisar adicionar uma nova informação a um dicionário já existente (como um "ID" ou "Status"), basta informar a nova chave entre colchetes e atribuir o valor; se a chave não existir, o Python a criará automaticamente.
 - **Escalabilidade:** Ao utilizar o método **`.append()`**, você pode repetir a chamada da função diversas vezes dentro de um laço de repetição (**`for`** ou **`while`**), criando um banco de dados com milhares de registros organizados.
 
-## [[42-Turmas-Senac-Anteriores/Programador/Lógica/Referências de Lógica de Programação\|Referências de Lógica de Programação]]
+## [[30-Recursos/Logica-de-Programacao/Referências de Lógica de Programação\|Referências de Lógica de Programação]]
 
-- [[42-Turmas-Senac-Anteriores/Programador/Lógica/listas-em-python\|listas-em-python]]
+- [[34-Linguagens-de-Programacao/Python/listas-em-python\|listas-em-python]]
 - [[42-Turmas-Senac-Anteriores/Logica/Aulas de Logica\|Aulas de Logica]]
 - [[Formacao Python\|Formacao Python]]
