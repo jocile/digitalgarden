@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-04-23T10:03:43.525-03:00","dg-note-properties":{"class":"mapa","title":"Principal","excalidraw-plugin":"parsed","excalidraw-export-dark":false,"excalidraw-autoexport":"svg","excalidraw-export-transparent":true,"excalidraw-open-md":true,"cssclasses":["cards","cards-cols-3"]}}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-04-23T10:20:13.222-03:00","dg-note-properties":{"class":"mapa","title":"Principal","excalidraw-plugin":"parsed","excalidraw-export-dark":false,"excalidraw-autoexport":"svg","excalidraw-export-transparent":true,"excalidraw-open-md":true,"cssclasses":["cards","cards-cols-3"]}}
 ---
 
 ## Olá 👋
@@ -20,8 +20,8 @@
 
 ## 👨‍🏫 Minhas Turmas
 
-<span>
-<a class="internal-link" href="/Segurança-Digital/"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Informática com Segurança</button></a>
+<span><a class="internal-link" href="/seguranca-digital-2026/"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Informática com Segurança</button></a>
+</span>
 
 
 
