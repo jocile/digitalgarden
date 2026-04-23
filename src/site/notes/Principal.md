@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-04-17T18:40:21.692-03:00","dg-note-properties":{"class":"mapa","title":"Principal","excalidraw-plugin":"parsed","excalidraw-export-dark":false,"excalidraw-autoexport":"svg","excalidraw-export-transparent":true,"excalidraw-open-md":true,"cssclasses":["cards","cards-cols-3"]}}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-04-23T10:03:43.525-03:00","dg-note-properties":{"class":"mapa","title":"Principal","excalidraw-plugin":"parsed","excalidraw-export-dark":false,"excalidraw-autoexport":"svg","excalidraw-export-transparent":true,"excalidraw-open-md":true,"cssclasses":["cards","cards-cols-3"]}}
 ---
 
 ## Olá 👋
@@ -8,13 +8,20 @@
 
 ---
 
-🔭 Sou o professor 🎓 [[Jocile\|Jocilé]] e atualmente sou **Instrutor de Informática e Desenvolvimento de Sistemas** no 🏫 [SENAC CE](https://www.ce.senac.br/).
+🔭 Sou o professor 🎓 [[Jocile\|Jocilé]] e atualmente sou **Instrutor de Informática e Desenvolvimento de Sistemas** no 🏫 [SENAC CE](https://cursos.ce.senac.br/unidade/senac-sobral/).
 
 ---
 
 ## 🌐 Nosso Ecossistema
 
 [[about\|Este vault]] funciona como um ecossistema integrado e um laboratório prático. Aqui eu conecto minhas principais frentes de atuação: a **docência técnica** no Senac, as pesquisas avançadas em **Inteligência Artificial** (Engenharia de Agentes e LLMs) e meus estudos aprofundados em **Teologia**. O foco é transformar conhecimento teórico em metodologias ativas de ensino e materiais didáticos reais e aplicáveis.
+
+---
+
+## 👨‍🏫 Minhas Turmas
+
+<span>
+<a class="internal-link" href="/Segurança-Digital/"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Informática com Segurança</button></a>
 
 
 

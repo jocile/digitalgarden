@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/32-formacao/ciencias-da-computacao/","title":"Bacharel em Ciências da Computação","metatags":{"description":"Lista de disciplinas da formação"},"contentClasses":"row-lines row-hover","tags":["Formação","Computação"],"noteIcon":"default","updated":"2026-04-05T10:58:15.178-03:00","dg-note-properties":{"class":"classe-formacao","title":"Bacharel em Ciências da Computação","cssclasses":["row-lines","row-hover"],"status":"✅ done","horas-aula":1200,"habilidades":["Inteligência Artificial","Algoritmos","POO","Engenharia de Sistemas"],"link":"[Ciências da Computação - Universidade Estadual do Vale do Acaraú](https://www.uva.ce.gov.br/cursos/cursos-graduacao/cg-computacao/)","certificado":"","started":"2007-01-20","finished":"2013-12-01","tags":["Formação","Computação"]}}
+{"dg-publish":true,"permalink":"/32-formacao/ciencias-da-computacao/","title":"Bacharel em Ciências da Computação","metatags":{"description":"Lista de disciplinas da formação"},"contentClasses":"row-lines row-hover","tags":["Formação","Computação"],"noteIcon":"default","updated":"2026-04-17T19:06:40.184-03:00","dg-note-properties":{"class":"classe-formacao","title":"Bacharel em Ciências da Computação","cssclasses":["row-lines","row-hover"],"status":"✅ done","horas-aula":3600,"habilidades":["Inteligência Artificial","Algoritmos","POO","Engenharia de Sistemas"],"link":"[Ciências da Computação - Universidade Estadual do Vale do Acaraú](https://www.uva.ce.gov.br/cursos/cursos-graduacao/cg-computacao/)","certificado":"","started":"2007-01-20","finished":"2013-12-01","tags":["Formação","Computação"]}}
 ---
 
 # Bacharel em Ciências da Computação
 
-**Horas-aula**: 1200
+**Horas-aula**: 3600
 **Habilidades**: Inteligência Artificial,Algoritmos,POO,Engenharia de Sistemas
 **Link**: [Ciências da Computação - Universidade Estadual do Vale do Acaraú](https://www.uva.ce.gov.br/cursos/cursos-graduacao/cg-computacao/)
 **Concluído**: 2013-12-01T00:00:00.000-03:00
