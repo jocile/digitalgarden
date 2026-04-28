@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-projeto-aulas-de-seguranca-digital/aula-seguranca-da-informacao/","title":"AULA SEGURANÇA DA INFORMAÇÃO","metatags":{"description":"como criar e publicar um aplicativo funcional utilizando um pipeline moderno e eficiente em apenas 36 minutos"},"noteIcon":2,"updated":"2026-04-21T19:03:58.711-03:00","dg-note-properties":{"created":"2026-04-21T18:42:20-03:00","url":"https://www.youtube.com/watch?v=Gfh2bxe3hGU?start=982","title":"AULA SEGURANÇA DA INFORMAÇÃO","channel":"Professora Nattane","related":["[[Artigo - Segurança da Informação]]"],"published":"2023-06-01","thumbnailUrl":"https://i.ytimg.com/vi/Gfh2bxe3hGU/maxresdefault.jpg","duration":"0:41:23","watched":true}}
+{"dg-publish":true,"permalink":"/10-projeto-aulas-de-seguranca-digital/aula-seguranca-da-informacao/","title":"AULA SEGURANÇA DA INFORMAÇÃO","metatags":{"description":"como criar e publicar um aplicativo funcional utilizando um pipeline moderno e eficiente em apenas 36 minutos"},"noteIcon":2,"updated":"2026-04-23T10:28:11.013-03:00","dg-note-properties":{"created":"2026-04-21T18:42:20-03:00","url":"https://www.youtube.com/watch?v=Gfh2bxe3hGU?start=982","title":"AULA SEGURANÇA DA INFORMAÇÃO","channel":"Professora Nattane","related":["[[Artigo - Segurança da Informação]]"],"published":"2023-06-01","thumbnailUrl":"https://i.ytimg.com/vi/Gfh2bxe3hGU/maxresdefault.jpg","duration":"0:41:23","watched":true}}
 ---
 
 
@@ -16,7 +16,9 @@ Pense comigo, você quer proteger o quê? de quem? por quê? como?
 Tudo isso é abordado nessa aula que preparei com muita dedicação. Compreenda quais são as ameaças e por que é importante proteger-se, além de obter insights sobre como garantir sua segurança online. Este aulão é perfeito para qualquer pessoa interessada em começar no mundo da segurança da informação e avançar no seu próprio ritmo.  
 
 Acesse a página no Gumroad para acessar os materiais de estudo! [https://professoranattane.gumroad.com/](https://professoranattane.gumroad.com/)  
---------------------------------------  
+
+---
+
 00:00 Introdução  
 00:20 Para quem é o aulão?  
 01:32 O quê queremos proteger?  

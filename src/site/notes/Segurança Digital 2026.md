@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/seguranca-digital-2026/","title":"Segurança-Digital","metatags":{"description":"Curso de aperfeiçoamento focado em práticas de cibersegurança e proteção de dados no dia a dia."},"noteIcon":"default","updated":"2026-04-23T08:21:31.693-03:00","dg-note-properties":{"class":"mapa","title":"Segurança-Digital"}}
+{"dg-publish":true,"permalink":"/seguranca-digital-2026/","title":"Segurança-Digital","metatags":{"description":"Curso de aperfeiçoamento focado em práticas de cibersegurança e proteção de dados no dia a dia."},"noteIcon":"default","updated":"2026-04-28T10:51:41.311-03:00","dg-note-properties":{"class":"mapa","title":"Segurança-Digital"}}
 ---
 
 #mapa #Senac #segurança-digital #cibersegurança #tecnologia
@@ -72,33 +72,37 @@ gantt
 > > - [[10-Projeto Aulas de Segurança digital/AULA SEGURANÇA DA INFORMAÇÃO\|AULA SEGURANÇA DA INFORMAÇÃO]]
 > > 
 > > > [!todo] 🖥️ Atividade:
+> > > - Desenvolvendo interação usando o mouse: [ Code.org](https://studio.code.org/courses/pre-express-2025/units/1?redirect_warning=true), [Aula Puzzle: jogo educativo](https://www.escolagames.com.br/jogos/aula-puzzle)
+> > > - Conhecendo o computado: Tela de bloqueio, área de trabalho.
 > > > - **Situação de Aprendizagem:** "Onde deixo minhas pegadas?" - mapeamento de dados pessoais.
 > > > - **World Café:** Rodas de conversa sobre privacidade e LGPD.
-> > > - Conhecendo o computado: Tela de bloqueio, área de trabalho.
-> > > - Desenvolvendo interação usando o mouse: [ Code.org](https://studio.code.org/courses/pre-express-2025/units/1?redirect_warning=true), [Aula Puzzle: jogo educativo](https://www.escolagames.com.br/jogos/aula-puzzle)
 >
 > > [!note]- Aula 2 - Laboratório de Detetives – Caça ao Phishing
-> > - [ ] Aula 2 - Identificação e prevenção de ataques comuns.
+> > - [x] Aula 2 - Identificação e prevenção de ataques comuns.
 > > - [[10-Projeto Aulas de Segurança digital/Artigo - Segurança da Informação\|Artigo - Segurança da Informação]]
+> > - Conhecendo a [[30-Recursos/Windows/Calculadora do Windows\|Calculadora do Windows]]
 > >
 > > > [!todo] 🖥️ Atividade:
 > > > - **Situação de Aprendizagem:** "Esta mensagem é real?"
 > > > - **Estudo de Caso:** Análise em pequenos grupos de SMS e e-mails falsos para identificar phishing e malware.
 > > > - Desenvolvendo interação com o teclado: [Digitação online - AgileFingers](https://agilefingers.com/pt), [Exercício de digitação com letras](https://www.digitar-online.com/)
+> > > - Convertendo valores, medidas e fazendo cálculos com a calculadora.
 >
 > > [!note]- Aula 3 - Oficina de Fortalezas – Senhas e Celulares
-> > - [ ] Aula 3 - Práticas de segurança em dispositivos móveis e fortalecimento de senhas.
+> > - [x] Aula 3 - Ferramentas essenciais: antivírus, firewalls e backups.
+> > - Criando figuras e gráficos no computador.
 > >
 > > > [!todo] 🖥️ Atividade:
-> > > - **Situação de Aprendizagem:** "Minha senha é uma porta aberta ou uma muralha?"
-> > > - **Gamificação:** Criação de "Ranking de Senhas Fortes" e configuração de 2FA (autenticação em duas etapas).
+> > > - **Situação de Aprendizagem:** "Desenvolvendo coordenação motora com o mouse"
+> > > - Realizando proteção com antivírus em pastas e arquivos.
+> > > - Desenhos e gráficos com o Paint.
 >
 > > [!note]- Aula 4 - O Kit de Primeiros Socorros Digital
-> > - [ ] Aula 4 - Ferramentas essenciais: antivírus, firewalls e backups.
+> > - [ ] Aula 4 - Navegação em arquivos com o Windows Explorer e na internet com o navegador.
 > >
 > > > [!todo] 🖥️ Atividade:
-> > > - **Situação de Aprendizagem:** "E se o meu computador parar?"
-> > > - **Prática Guiada:** Instalação de antivírus e realização de backup em nuvem ou pendrive.
+> > > - **Situação de Aprendizagem:** "Onde meu arquivo foi parar?"
+> > > - **Prática Guiada:** Criação de arquivos e pastas, organização de arquivos.
 >
 > > [!note]- Aula 5 - Simulação de Navegação – Compras e Redes Sociais
 > > - [ ] Aula 5 - Princípios de navegação segura e proteção em redes sociais.
@@ -121,3 +125,11 @@ gantt
 - [[10-Projeto Aulas de Segurança digital/Planejamento de Segurança Digital 24 ha\|Planejamento de Segurança Digital 24 ha]]
 - [[10-Projeto Aulas de Segurança digital/Segurança digital 24 ha\|Segurança digital 24 ha]]
 - GRAÇA, R. B. *Segurança e privacidade na rede: o pugilato cibernético*. Brasília: Editora Senac DF, 2019.
+
+### Vídeos
+
+- [📺 JJ1 – Analfabetismo digital faz com que idosos sejam mais suscetíveis a golpes tecnológicos - YouTube](https://www.youtube.com/watch?v=qkCGt1IZ8gs)
+- [Idosos e tecnologias - Conexão Futura - Canal Futura - YouTube](https://www.youtube.com/watch?v=YAW1fDr_0Fo)
+- [A inclusão digital dos idosos é desafio para o Brasil, que verá sua população envelhecer até 2100 - YouTube](https://www.youtube.com/watch?v=h5xSzUasS6U)
+- [Documentário - A Tecnologia e a Terceira Idade - YouTube](https://www.youtube.com/watch?v=jkfL6-qIGqc)
+- [Idosos conectados - Sou 60 - YouTube](https://www.youtube.com/watch?v=a5_6xGAEN-c)
