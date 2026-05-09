@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-recursos/obsidian/metodologias-de-organizacao/","metatags":{"description":"cria um sistema de produtividade completo: o Johnny.Decimal cuida da estrutura de pastas, o PARA da priorização e o Zettelkasten das notas de pensamento.."},"noteIcon":2,"updated":"2026-04-17T16:31:19.093-03:00","dg-note-properties":{"class":"tecnico"}}
+{"dg-publish":true,"permalink":"/30-recursos/obsidian/metodologias-de-organizacao/","metatags":{"description":"cria um sistema de produtividade completo: o Johnny.Decimal cuida da estrutura de pastas, o PARA da priorização e o Zettelkasten das notas de pensamento.."},"noteIcon":2,"updated":"2026-04-29T08:36:13.770-03:00","dg-note-properties":{"class":"tecnico"}}
 ---
 
 #Obsidian #Método
@@ -16,7 +16,7 @@ Aqui está o passo a passo para essa arquitetura:
 
 Em vez de usar apenas pastas soltas, use a numeração do Johnny.Decimal para organizar os pilares do PARA. No seu explorador de arquivos do Obsidian, ficaria assim:
 
-- `10-19 PROJETOS` (O que você está fazendo agora)
+- `10-19 PROJETOS` (O que você está fazendo agora, com início e fim)
     
     - `11.01 Lançamento do Site`
     - `12.05 Curso de Inglês`

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/model-context-protocol/","metatags":{"description":"permite a comunicação direta e padronizada entre diferentes ferramentas de software e agentes de ia"},"noteIcon":2,"updated":"2026-04-01T14:54:13.394-03:00","dg-note-properties":{"aliases":["MCP"],"topics":["Live coding","Projetos de aplicativos"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/model-context-protocol/","metatags":{"description":"permite a comunicação direta e padronizada entre diferentes ferramentas de software e agentes de ia"},"noteIcon":2,"updated":"2026-05-09T15:35:30.881-03:00","dg-note-properties":{"aliases":["MCP"],"topics":["Live coding","Projetos de aplicativos"]}}
 ---
 
 #Inteligencia-artificial  #Projeto #Antigravity
@@ -25,3 +25,7 @@ Em suma, o MCP é o que transforma o desenvolvimento de uma série de tarefas fr
 - [Google Antigravity Documentation](https://antigravity.google/docs/mcp)
 - [Antigravity + Stitch cria sites INCRÍVEIS (Nova Skill/Habilidade) - YouTube](https://youtu.be/qByqXaSLUFI?t=61)
 - [Stitch + Antigravity: The AI Workflow That Eliminates 80% of Development Work](https://anthemcreation.com/en/artificial-intelligence/stitch-antigravity-ai-workflow-eliminates-development-work/)
+- [Top 10 servidores MCP para IA: Melhores ferramentas](https://brightdata.com.br/blog/ai/best-mcp-servers)
+- [GitHub - punkpeye/awesome-mcp-servers: A collection of MCP servers. · GitHub](https://github.com/punkpeye/awesome-mcp-servers)
+- [GitHub - modelcontextprotocol/servers: Model Context Protocol Servers · GitHub](https://github.com/modelcontextprotocol/servers)
+- [Awesome MCP Servers](https://mcpservers.org/)

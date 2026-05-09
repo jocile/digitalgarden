@@ -1,0 +1,135 @@
+---
+{"dg-publish":true,"permalink":"/42-turmas-senac-anteriores/seguranca-digital/seguranca-digital-2026/","title":"Segurança-Digital","metatags":{"description":"Curso de aperfeiçoamento focado em práticas de cibersegurança e proteção de dados no dia a dia."},"noteIcon":"default","updated":"2026-04-29T19:12:23.596-03:00","dg-note-properties":{"class":"aula","status":"concluído","title":"Segurança-Digital"}}
+---
+
+#aula  #Senac #segurança-digital #cibersegurança #tecnologia
+
+# Curso Segurança Digital
+
+## Sobre o curso
+
+Proporcionar compreensão prática dos princípios fundamentais de segurança cibernética e capacitar os estudantes a identificar e lidar com ameaças no ambiente digital para proteger dados sensíveis.
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+### 1. Identificação do Curso
+
+- **Título do Curso:** Segurança Digital
+- **Eixo Tecnológico:** Informação e Comunicação
+- **Segmento:** Tecnologia da Informação
+- **Tipo de Curso:** Aperfeiçoamento
+- **Carga Horária:** 24 horas
+- **Código DN:** 286.228
+
+---
+
+
+</div></div>
+
+
+## Organização curricular de Segurança Digital
+
+> [!example] Unidades Curriculares
+> 
+> | **Unidades Curriculares**                        | **Carga horária** | Aulas |
+> | ------------------------------------------------ | :---------------: | :---: |
+> | UC1: Segurança Digital                           | 24 horas          | 6     |
+> | **Carga horária total**                          | **24 horas**      | 6     |
+
+```mermaid
+gantt
+     title Segurança Digital
+     tickInterval 1day
+     excludes Saturday, Sunday
+     dateFormat DD:MM
+     axisFormat %d.%m
+     section Execução
+         Aula 1 :a1, 22:04, 1d
+         Aula 2 :a2, after a1, 1d
+         Aula 3 :a3, after a2, 1d
+         Aula 4 :a4, after a3, 1d
+         Aula 5 :a5, after a4, 1d
+         Aula 6 :a6, after a5, 1d
+```
+
+## Cronograma de aulas
+
+> [!success]- 🖥️ Habilidades da UC1
+> - Identifica potenciais ameaças adotando medidas preventivas para evitar possíveis ataques.
+>
+> > [!check]
+> > 1. Identifica potenciais ameaças.
+> > 2. Analisa incidentes de segurança.
+> > 3. Adota medidas preventivas contra ataques.
+
+> [!done] Cronograma das aulas da UC1
+>
+> > [!note]- Aula 1 - Mapa do Tesouro – Meus Dados e a LGPD
+> > - [x] Aula 1 - Fundamentos da segurança e noções de privacidade.
+> > - [[42-Turmas-Senac-Anteriores/Segurança digital/AULA SEGURANÇA DA INFORMAÇÃO\|AULA SEGURANÇA DA INFORMAÇÃO]]
+> > 
+> > > [!todo] 🖥️ Atividade:
+> > > - Desenvolvendo interação usando o mouse: [ Code.org](https://studio.code.org/courses/pre-express-2025/units/1?redirect_warning=true), [Aula Puzzle: jogo educativo](https://www.escolagames.com.br/jogos/aula-puzzle)
+> > > - Conhecendo o computado: Tela de bloqueio, área de trabalho.
+> > > - **Situação de Aprendizagem:** "Onde deixo minhas pegadas?" - mapeamento de dados pessoais.
+> > > - **World Café:** Rodas de conversa sobre privacidade e LGPD.
+>
+> > [!note]- Aula 2 - Laboratório de Detetives – Caça ao Phishing
+> > - [x] Aula 2 - Identificação e prevenção de ataques comuns.
+> > - [[42-Turmas-Senac-Anteriores/Segurança digital/Artigo - Segurança da Informação\|Artigo - Segurança da Informação]]
+> > - Conhecendo a [[30-Recursos/Windows/Calculadora do Windows\|Calculadora do Windows]]
+> >
+> > > [!todo] 🖥️ Atividade:
+> > > - **Situação de Aprendizagem:** "Esta mensagem é real?"
+> > > - **Estudo de Caso:** Análise em pequenos grupos de SMS e e-mails falsos para identificar phishing e malware.
+> > > - Desenvolvendo interação com o teclado: [Digitação online - AgileFingers](https://agilefingers.com/pt), [Exercício de digitação com letras](https://www.digitar-online.com/)
+> > > - Convertendo valores, medidas e fazendo cálculos com a calculadora.
+>
+> > [!note]- Aula 3 - Oficina de Fortalezas – Senhas e Celulares
+> > - [x] Aula 3 - Ferramentas essenciais: antivírus, firewalls e backups.
+> > - Criando figuras e gráficos no computador.
+> >
+> > > [!todo] 🖥️ Atividade:
+> > > - **Situação de Aprendizagem:** "Desenvolvendo coordenação motora com o mouse"
+> > > - Realizando proteção com antivírus em pastas e arquivos.
+> > > - Desenhos e gráficos com o Paint.
+>
+> > [!note]- Aula 4 - O Kit de Primeiros Socorros Digital
+> > - [ ] Aula 4 - Navegação em arquivos com o Windows Explorer e na internet com o navegador.
+> >
+> > > [!todo] 🖥️ Atividade:
+> > > - **Situação de Aprendizagem:** "Onde meu arquivo foi parar?"
+> > > - **Prática Guiada:** Criação de arquivos e pastas, organização de arquivos.
+>
+> > [!note]- Aula 5 - Simulação de Navegação – Compras e Redes Sociais
+> > - [ ] Aula 5 - Princípios de navegação segura e proteção em redes sociais.
+> >
+> > > [!todo] 🖥️ Atividade:
+> > > - **Situação de Aprendizagem:** "Posso confiar neste site?"
+> > > - **Role-Playing:** Simulação de compra online analisando cadeados, selos de segurança e reputação da loja.
+>
+> > [!note]- Aula 6 - Desafio Final – Consultores de Segurança
+> > - [ ] Aula 6 - Políticas de segurança e consciência no ambiente de trabalho.
+> >
+> > > [!todo] 🖥️ Atividade:
+> > > - **Situação de Aprendizagem:** "Ajudando um amigo" - resolver problema simulado.
+> > > - **Projeto Integrador:** Criar um "Guia de Boas Práticas" (cartaz ou áudio de WhatsApp) para compartilhar com as famílias.
+
+## Referências
+
+- [[42-Turmas-Senac-Anteriores/Segurança digital/Artigo - Segurança da Informação\|Artigo - Segurança da Informação]]
+- [[42-Turmas-Senac-Anteriores/Segurança digital/AULA SEGURANÇA DA INFORMAÇÃO\|AULA SEGURANÇA DA INFORMAÇÃO]]
+- [[42-Turmas-Senac-Anteriores/Segurança digital/Planejamento de Segurança Digital 24 ha\|Planejamento de Segurança Digital 24 ha]]
+- [[42-Turmas-Senac-Anteriores/Segurança digital/Segurança digital 24 ha\|Segurança digital 24 ha]]
+- GRAÇA, R. B. *Segurança e privacidade na rede: o pugilato cibernético*. Brasília: Editora Senac DF, 2019.
+
+### Vídeos
+
+- [📺 JJ1 – Analfabetismo digital faz com que idosos sejam mais suscetíveis a golpes tecnológicos - YouTube](https://www.youtube.com/watch?v=qkCGt1IZ8gs)
+- [Idosos e tecnologias - Conexão Futura - Canal Futura - YouTube](https://www.youtube.com/watch?v=YAW1fDr_0Fo)
+- [A inclusão digital dos idosos é desafio para o Brasil, que verá sua população envelhecer até 2100 - YouTube](https://www.youtube.com/watch?v=h5xSzUasS6U)
+- [Documentário - A Tecnologia e a Terceira Idade - YouTube](https://www.youtube.com/watch?v=jkfL6-qIGqc)
+- [Idosos conectados - Sou 60 - YouTube](https://www.youtube.com/watch?v=a5_6xGAEN-c)
