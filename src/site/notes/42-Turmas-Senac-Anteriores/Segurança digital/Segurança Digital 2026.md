@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/42-turmas-senac-anteriores/seguranca-digital/seguranca-digital-2026/","title":"Segurança-Digital","metatags":{"description":"Curso de aperfeiçoamento focado em práticas de cibersegurança e proteção de dados no dia a dia."},"noteIcon":"default","updated":"2026-04-29T19:12:23.596-03:00","dg-note-properties":{"class":"aula","status":"concluído","title":"Segurança-Digital"}}
+{"dg-publish":true,"permalink":"/42-turmas-senac-anteriores/seguranca-digital/seguranca-digital-2026/","metatags":{"description":"Curso de aperfeiçoamento focado em práticas de cibersegurança e proteção de dados no dia a dia."},"noteIcon":"default","updated":"2026-05-09T19:58:29.211-03:00","dg-note-properties":{"class":"aula","status":"concluído"}}
 ---
 
 #aula  #Senac #segurança-digital #cibersegurança #tecnologia
