@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cursos/","title":"Cursos","metatags":{"description":"Programação de Cursos no Senac Ceará em Sobral"},"contentClasses":"cards cards-cols-3 cards-cover","tags":["curso","Senac","mapa"],"noteIcon":"default","updated":"2026-03-09T19:10:52.924-03:00","dg-note-properties":{"class":"mapa","title":"Cursos","tags":["curso","Senac","mapa"],"cssclasses":["cards","cards-cols-3","cards-cover"]}}
+{"dg-publish":true,"permalink":"/cursos/","title":"Cursos","metatags":{"description":"Programação de Cursos no Senac Ceará em Sobral"},"contentClasses":"cards cards-cols-3 cards-cover","tags":["curso","Senac","mapa"],"noteIcon":"default","updated":"2026-05-11T18:05:59.091-03:00","dg-note-properties":{"class":"mapa","title":"Cursos","tags":["curso","Senac","mapa"],"cssclasses":["cards","cards-cols-3","cards-cover"]}}
 ---
 
 
@@ -20,12 +20,15 @@
 
 >[!tip]- Cursos online de tecnologia
 > - [Guia de carreira: techguide.sh](https://techguide.sh/)
+> - [Asimov Academy](https://asimov.academy/)
 > - [Digital Inovatio One - DIO](https://dio.me/sign-up?ref=XXNHOX4TYB)
 > - [Academia da Cisco - netacad.com](https://netacad.com/)
 > - [Bootcamp SpringBoot DevSuperior](https://devsuperior.com.br/)
 > - [Rocketseat](https://www.rocketseat.com.br/)
 > - [Alura treinamentos](https://www.alura.com.br/)
 > - [Treinamento na nuvem Google](https://www.cloudskillsboost.google/?locale=pt_BR)
+> - [Google Skills](https://www.skills.google/?locale=pt_BR)
+> - [Cursos de IA da Google](https://impacto.google/cursos-de-ia/)
 > - [Treinamento Microsoft](https://learn.microsoft.com/pt-br/training/)
 > - [Treinamento Amazon AWS](https://explore.skillbuilder.aws/learn)
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/ferramentas-de-ia/n8n/","metatags":{"description":"é uma plataforma de automação de fluxo de trabalho de código aberto e baseada em nós."},"tags":["Inteligencia-artificial"],"noteIcon":2,"updated":"2026-05-09T19:45:28.070-03:00","dg-note-properties":{"topics":["Automação","Ferramentas"],"tags":["Inteligencia-artificial"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/ferramentas-de-ia/n8n/","metatags":{"description":"é uma plataforma de automação de fluxo de trabalho de código aberto e baseada em nós."},"tags":["Inteligencia-artificial"],"noteIcon":2,"updated":"2026-05-13T18:01:42.853-03:00","dg-note-properties":{"topics":["Automação","Ferramentas"],"tags":["Inteligencia-artificial"]}}
 ---
 
 
@@ -69,7 +69,7 @@ A versão de código aberto é **gratuita** e permite execuções praticamente i
 
 Você pode rodar o n8n localmente para estudos ou em um servidor para produção.
 
-### Opção 1: Instalação Local (Para estudos)
+### Opção 1: Instalação Local (para estudos)
 
 Se você já tem o [Node.js](https://nodejs.org/) instalado em seu computador:
 
@@ -80,7 +80,21 @@ Se você já tem o [Node.js](https://nodejs.org/) instalado em seu computador:
    `n8n start`
 4. Acesse no seu navegador: `http://localhost:5678`
 
-### Opção 2: Servidor VPS via Docker (Para produção)
+### Opção 2: Servidor local via Docker (para estudos)
+
+Usando [Docker](https://docs.n8n.io/hosting/installation/docker/)
+
+1. Abra o terminal.
+2. Execute o comando para instalar globalmente:
+
+```shell
+docker volume create n8n_data
+docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n8n.io/n8nio/n8n
+```
+
+3. Acesse no seu navegador: `http://localhost:5678`
+
+### Opção 3: Servidor VPS via Docker (Para produção)
 
 Se você possui um servidor (como DigitalOcean ou AWS) com Docker instalado, crie um arquivo `docker-compose.yml`:
 
@@ -154,6 +168,7 @@ Você saberá que teve sucesso quando a janela de chat do n8n responder à sua p
 
 ## Referências
 
+- [GitHub - n8n-io/n8n: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. · GitHub](https://github.com/n8n-io/n8n)
 - [Tutorial: Build an AI workflow in n8n \| n8n Docs](https://docs.n8n.io/advanced-ai/intro-tutorial/)
 - [Building AI Agents: Chat Trigger, Memory, and System/User Messages Explained \[Part 1\] - YouTube](https://www.youtube.com/watch?v=yzvLfHb0nqE)
 - [Do zero a seu primeiro agente de IA em 20 minutos (sem codar, com n8n) - YouTube](https://www.youtube.com/watch?v=DgxHP1LG5dM)

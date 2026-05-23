@@ -98,12 +98,15 @@ Acompanhe as [[Atualizacoes\|atualizações]] e a [[Lista de topicos\|lista de t
 
 >[!tip]- Cursos online de tecnologia
 > - [Guia de carreira: techguide.sh](https://techguide.sh/)
+> - [Asimov Academy](https://asimov.academy/)
 > - [Digital Inovatio One - DIO](https://dio.me/sign-up?ref=XXNHOX4TYB)
 > - [Academia da Cisco - netacad.com](https://netacad.com/)
 > - [Bootcamp SpringBoot DevSuperior](https://devsuperior.com.br/)
 > - [Rocketseat](https://www.rocketseat.com.br/)
 > - [Alura treinamentos](https://www.alura.com.br/)
 > - [Treinamento na nuvem Google](https://www.cloudskillsboost.google/?locale=pt_BR)
+> - [Google Skills](https://www.skills.google/?locale=pt_BR)
+> - [Cursos de IA da Google](https://impacto.google/cursos-de-ia/)
 > - [Treinamento Microsoft](https://learn.microsoft.com/pt-br/training/)
 > - [Treinamento Amazon AWS](https://explore.skillbuilder.aws/learn)
 
