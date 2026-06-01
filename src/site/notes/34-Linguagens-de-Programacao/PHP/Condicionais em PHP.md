@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/php/condicionais-em-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-24T19:19:07.852-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Linguagem de Programação","Estruturas de controle"]}}
+{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/php/condicionais-em-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2026-05-31T10:35:05.441-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Linguagem de Programação","Estruturas de controle"]}}
 ---
 
 #PHP #condicional
@@ -252,4 +252,4 @@ O operador ternário é uma **forma compacta de escrever uma estrutura `if-else`
 
 As estruturas condicionais são, portanto, pilares da programação em PHP, permitindo que as aplicações reajam dinamicamente a diferentes entradas e estados, tornando-as mais flexíveis e interativas.
 
-[[32-Formacao/Formacao em PHP\|Formacao em PHP]]
+[[32-Formacao/Formacao em PHP Experience\|Formacao em PHP Experience]]

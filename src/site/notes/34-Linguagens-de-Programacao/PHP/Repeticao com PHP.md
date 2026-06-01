@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/php/repeticao-com-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-24T19:22:05.711-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Linguagem de Programação","Estruturas de controle"]}}
+{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/php/repeticao-com-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2026-05-31T10:35:06.364-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Linguagem de Programação","Estruturas de controle"]}}
 ---
 
 #PHP #loop
@@ -277,4 +277,4 @@ Dominar essas estruturas é, portanto, um conhecimento fundamental. Elas capacit
 
 ---
 
-[[32-Formacao/Formacao em PHP\|Formacao em PHP]]
+[[32-Formacao/Formacao em PHP Experience\|Formacao em PHP Experience]]

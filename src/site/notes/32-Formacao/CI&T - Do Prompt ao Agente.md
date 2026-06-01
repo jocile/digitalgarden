@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/32-formacao/ci-and-t-do-prompt-ao-agente/","metatags":{"description":"uma jornada educacional gratuita para quem quer sair do básico e aprender a usar Inteligência Artificial em tarefas reais do dia a dia dev"},"tags":["Formação","Agentes","Inteligencia-artificial"],"noteIcon":"default","updated":"2026-04-05T10:58:11.034-03:00","dg-note-properties":{"class":"classe-formacao","topics":["Copilot","[[Inteligencia Artificial]]","[[Prompts]]"],"status":"🏗️ in-progress","horas-aula":35,"habilidades":["GitHub Copilot","Inteligência Artificial","Agentes"],"link":"[CI&T - Do Prompt ao Agente](https://web.dio.me/track/ci-t-do-prompt-ao-agente)","certificado":null,"started":"2026-04-02","finished":null,"tags":["Formação","Agentes","Inteligencia-artificial"]}}
+{"dg-publish":true,"permalink":"/32-formacao/ci-and-t-do-prompt-ao-agente/","metatags":{"description":"uma jornada educacional gratuita para quem quer sair do básico e aprender a usar Inteligência Artificial em tarefas reais do dia a dia dev"},"tags":["Formação","Agentes","Inteligencia-artificial"],"noteIcon":"default","updated":"2026-05-31T10:29:26.678-03:00","dg-note-properties":{"class":"classe-formacao","topics":["Copilot","[[Inteligencia Artificial]]","[[Prompts]]"],"status":"🏗️ in-progress","horas-aula":35,"habilidades":["GitHub Copilot","Inteligência Artificial","Agentes"],"link":"[CI&T - Do Prompt ao Agente](https://web.dio.me/track/ci-t-do-prompt-ao-agente)","certificado":null,"started":"2026-04-02","finished":null,"tags":["Formação","Agentes","Inteligencia-artificial"]}}
 ---
 
 # CI&T - Do Prompt ao Agente
@@ -12,7 +12,7 @@
 
 
 >[!check]- Desafios de projeto:
-> - [ ] Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
+> - [x] Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
 > - [ ] IA Mentor de Carreira: Descubra Seu Futuro em Tech
 > - [ ] Criando um Agente para Automatizar um Fluxo de Trabalho em Python
 > - [ ] Calculadora EcoTrip: Simulador de Impacto Ambiental para Viagens
@@ -28,8 +28,8 @@
 > - Técnicas de Engenharia de Prompt
 > - Escrevendo Prompts Eficazes
 
-> [!summary]- Criando Agentes de IA
-> - Fundamentos de Agentes Autônomos
+> [!summary]- [[23-Inteligencia-Artificial/agentes/Como criar agentes de IA\|Criando Agentes de IA]]
+> - [[23-Inteligencia-Artificial/agentes/Fundamentos e Arquitetura de Agentes Autônomos\|Fundamentos e Arquitetura de Agentes Autônomos]]
 > - Visão Geral do Ecossistema de Agentes
 > - Instalação e Configuração do Ambiente de Agentes
 > - Primeiros Passos Para Criar Agentes

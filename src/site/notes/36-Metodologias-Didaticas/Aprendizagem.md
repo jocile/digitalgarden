@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/36-metodologias-didaticas/aprendizagem/","metatags":{"description":"Exerce funções técnicas para desenvolvimento de aprendizado sistemático."},"noteIcon":2,"updated":"2026-03-10T09:27:09.361-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/36-metodologias-didaticas/aprendizagem/","metatags":{"description":"Exerce funções técnicas para desenvolvimento de aprendizado sistemático."},"tags":["didatica"],"noteIcon":2,"updated":"2026-05-29T20:48:42.123-03:00","dg-note-properties":{"tags":["didatica"]}}
 ---
 
 

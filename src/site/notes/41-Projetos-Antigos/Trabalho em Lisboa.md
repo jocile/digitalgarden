@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/41-projetos-antigos/trabalho-em-lisboa/","metatags":{"description":"Entender as formas de contratação e dominar o processo seletivo em Portugal."},"noteIcon":"1","updated":"2026-04-20T10:27:42.948-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/41-projetos-antigos/trabalho-em-lisboa/","metatags":{"description":"Entender as formas de contratação e dominar o processo seletivo em Portugal."},"noteIcon":"1","updated":"2026-05-29T20:43:37.591-03:00","dg-note-properties":{}}
 ---
 
 
 # Como Trabalhar em Lisboa com Tecnologia (Guia Atualizado com Casos Reais)
 
-#carreira-internacional #Lisboa #Portugal
+#carreira-internacional #Lisboa #Portugal #Projeto 
 
 Aprenda como iniciar sua carreira internacional, entender as formas de contratação e dominar o processo seletivo em Portugal, com exemplos práticos de profissionais brasileiros que já fizeram essa transição.
 

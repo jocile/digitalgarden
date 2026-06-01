@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/php/metodos-com-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-24T17:15:53.459-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Linguagem de Programação","Programação Orientada a Objetos"]}}
+{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/php/metodos-com-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2026-05-31T10:35:05.699-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Linguagem de Programação","Programação Orientada a Objetos"]}}
 ---
 
 #PHP #POO
@@ -234,4 +234,4 @@ echo $minhaConta->sacar(200) . "\n"; // Saída: Saldo insuficiente para saque de
 
 Essa abordagem demonstra como a **Programação Orientada a Objetos** permite criar sistemas mais organizados, seguros e fáceis de manter, onde a lógica de negócio (como a manutenção do saldo) é encapsulada dentro da própria classe, sendo acessível apenas por meio de seus métodos públicos.
 
-[[32-Formacao/Formacao em PHP\|Formacao em PHP]] / [[34-Linguagens-de-Programacao/PHP/Classes em PHP\|Classes em PHP]]
+[[32-Formacao/Formacao em PHP Experience\|Formacao em PHP Experience]] / [[34-Linguagens-de-Programacao/PHP/Classes em PHP\|Classes em PHP]]

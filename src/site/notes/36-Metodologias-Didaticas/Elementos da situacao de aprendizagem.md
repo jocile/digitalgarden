@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/36-metodologias-didaticas/elementos-da-situacao-de-aprendizagem/","metatags":{"description":"conjunto de procedimentos didáticos que visam promover a participação ativa do aluno nas situações de aprendizagem."},"noteIcon":2,"updated":"2026-04-09T15:02:52.784-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/36-metodologias-didaticas/elementos-da-situacao-de-aprendizagem/","metatags":{"description":"conjunto de procedimentos didáticos que visam promover a participação ativa do aluno nas situações de aprendizagem."},"tags":["didatica"],"noteIcon":2,"updated":"2026-05-29T20:49:36.866-03:00","dg-note-properties":{"tags":["didatica"]}}
 ---
 
 

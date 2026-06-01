@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/php/cadastrando-nome-e-curso-com-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-24T20:18:28.365-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Lógica de programação","Programação Orientada a Objetos","Atividades de Programação"]}}
+{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/php/cadastrando-nome-e-curso-com-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2026-05-31T10:35:05.364-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Lógica de programação","Programação Orientada a Objetos","Atividades de Programação"]}}
 ---
 
 #PHP #POO
@@ -226,4 +226,4 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 Este exercício demonstra a sinergia entre POO, formulários, sessões e estruturas de repetição, que são pilares no desenvolvimento web com PHP.
 
-[[42-Turmas-Senac-Anteriores/programador web/Programador Web\|Programador Web]] / [[32-Formacao/Formacao em PHP\|Formacao em PHP]]
+[[42-Turmas-Senac-Anteriores/programador web/Programador Web\|Programador Web]] / [[32-Formacao/Formacao em PHP Experience\|Formacao em PHP Experience]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/php/classes-em-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-24T17:46:00.698-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Linguagem de Programação","Programação Orientada a Objetos"]}}
+{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/php/classes-em-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2026-05-31T10:35:05.409-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Linguagem de Programação","Programação Orientada a Objetos"]}}
 ---
 
 #PHP #POO
@@ -339,4 +339,4 @@ Os membros estáticos são úteis para funcionalidades que não dependem do esta
 
 Com este entendimento, você pode construir classes PHP mais complexas e bem estruturadas, aproveitando os princípios da Programação Orientada a Objetos para organizar seu código e torná-lo mais modular e fácil de manter.
 
-[[32-Formacao/Formacao em PHP\|Formacao em PHP]] / [[34-Linguagens-de-Programacao/PHP/POO com PHP\|POO com PHP]] / [[34-Linguagens-de-Programacao/PHP/Metodos com PHP\|Metodos com PHP]]
+[[32-Formacao/Formacao em PHP Experience\|Formacao em PHP Experience]] / [[34-Linguagens-de-Programacao/PHP/POO com PHP\|POO com PHP]] / [[34-Linguagens-de-Programacao/PHP/Metodos com PHP\|Metodos com PHP]]

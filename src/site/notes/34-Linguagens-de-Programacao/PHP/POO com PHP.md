@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/php/poo-com-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-24T17:48:05.935-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Linguagem de Programação","Programação Orientada a Objetos"]}}
+{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/php/poo-com-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2026-05-31T10:35:06.300-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Linguagem de Programação","Programação Orientada a Objetos"]}}
 ---
 
 #PHP #POO
@@ -42,4 +42,4 @@ A POO é a espinha dorsal de muitas aplicações web modernas em PHP:
 
 Em resumo, a Programação Orientada a Objetos é um paradigma **essencial no universo PHP**, proporcionando uma abordagem mais estruturada, modular e eficiente para o desenvolvimento de aplicações web, desde as mais simples até as mais complexas. A DevMedia enfatiza que PHP é uma linguagem fácil de aprender e ideal para iniciantes em desenvolvimento web, mesmo sem conhecimento inicial em POO, o que acelera a carreira e aumenta as possibilidades no mercado.
 
-[[32-Formacao/Formacao em PHP\|Formacao em PHP]] / [[34-Linguagens-de-Programacao/PHP/Classes em PHP\|Classes em PHP]] / [[34-Linguagens-de-Programacao/PHP/Metodos com PHP\|Metodos com PHP]]
+[[32-Formacao/Formacao em PHP Experience\|Formacao em PHP Experience]] / [[34-Linguagens-de-Programacao/PHP/Classes em PHP\|Classes em PHP]] / [[34-Linguagens-de-Programacao/PHP/Metodos com PHP\|Metodos com PHP]]

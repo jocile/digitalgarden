@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/36-metodologias-didaticas/gamificacao/","metatags":{"description":"utiliza elementos de design de jogos em contextos educacionais para transformar o aprendizado em uma experiência imersiva e motivadora."},"noteIcon":2,"updated":"2026-03-15T11:21:20.220-03:00","dg-note-properties":{"topics":["Aula prática","Didática de aula"]}}
+{"dg-publish":true,"permalink":"/36-metodologias-didaticas/gamificacao/","metatags":{"description":"utiliza elementos de design de jogos em contextos educacionais para transformar o aprendizado em uma experiência imersiva e motivadora."},"tags":["didatica"],"noteIcon":2,"updated":"2026-05-29T20:49:51.778-03:00","dg-note-properties":{"topics":["Aula prática","Didática de aula"],"tags":["didatica"]}}
 ---
 
 # Gamificação: Engajamento e Protagonismo na Aprendizagem

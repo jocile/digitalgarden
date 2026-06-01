@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/36-metodologias-didaticas/aula-expositiva/","metatags":{"description":"o professor apresenta o conteúdo de forma organizada e direta"},"noteIcon":2,"updated":"2026-03-15T10:22:37.925-03:00","dg-note-properties":{"topics":["Didática de aula"]}}
+{"dg-publish":true,"permalink":"/36-metodologias-didaticas/aula-expositiva/","metatags":{"description":"o professor apresenta o conteúdo de forma organizada e direta"},"tags":["didatica"],"noteIcon":2,"updated":"2026-05-29T20:48:59.555-03:00","dg-note-properties":{"topics":["Didática de aula"],"tags":["didatica"]}}
 ---
 
 

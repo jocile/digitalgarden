@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/ferramentas-de-ia/antigravity/antigravity-awesome-skills/","metatags":{"description":"funcionam como superpoderes modulares que o agente de IA decide equipar apenas quando detecta que a tarefa"},"noteIcon":2,"updated":"2026-04-01T14:45:15.888-03:00","dg-note-properties":{"topics":["Live coding","Projetos de aplicativos"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/ferramentas-de-ia/antigravity/antigravity-awesome-skills/","metatags":{"description":"funcionam como superpoderes modulares que o agente de IA decide equipar apenas quando detecta que a tarefa"},"noteIcon":2,"updated":"2026-05-25T13:37:18.253-03:00","dg-note-properties":{"topics":["Live coding","Projetos de aplicativos"]}}
 ---
 
-#Inteligencia-artificial  #Projeto #Antigravity
+#Inteligencia-artificial  #Projeto #Antigravity #Skill 
 
 O **[[23-Inteligencia-Artificial/Ferramentas de IA/Antigravity/Antigravity\|Antigravity]] Awesome [[23-Inteligencia-Artificial/Skills\|Skills]]** refere-se a um ecossistema de repositórios e marketplaces (como o do LobeHub) que disponibiliza pacotes de conhecimento especializado para a IDE Google [[23-Inteligencia-Artificial/Ferramentas de IA/Antigravity/Antigravity\|Antigravity]]. Essas habilidades funcionam como **"superpoderes" modulares** que o agente de IA decide "equipar" apenas quando detecta que a tarefa do usuário exige aquela expertise específica.
 

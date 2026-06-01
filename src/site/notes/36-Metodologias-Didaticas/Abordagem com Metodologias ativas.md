@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/36-metodologias-didaticas/abordagem-com-metodologias-ativas/","metatags":{"description":"conjunto de procedimentos didáticos que visam promover a participação ativa do aluno nas situações de aprendizagem."},"noteIcon":2,"updated":"2026-03-10T09:48:16.123-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/36-metodologias-didaticas/abordagem-com-metodologias-ativas/","metatags":{"description":"conjunto de procedimentos didáticos que visam promover a participação ativa do aluno nas situações de aprendizagem."},"tags":["didatica"],"noteIcon":2,"updated":"2026-05-29T20:48:22.708-03:00","dg-note-properties":{"tags":["didatica"]}}
 ---
 
 

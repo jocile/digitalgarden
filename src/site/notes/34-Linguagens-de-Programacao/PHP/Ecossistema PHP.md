@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/php/ecossistema-php/","metatags":{"description":"é um dos maiores na área de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-06T22:24:32.393-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Linguagem de Programação","WebSites"]}}
+{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/php/ecossistema-php/","metatags":{"description":"é um dos maiores na área de desenvolvimento web"},"noteIcon":2,"updated":"2026-05-31T10:35:05.662-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Linguagem de Programação","WebSites"]}}
 ---
 
 #PHP 
@@ -94,4 +94,4 @@ Então, pessoal! Se você tem alguma dúvida sobre como usar essas ferramentas o
 
 Lembrando que o PHP e seus ecossistemas são mais poderosos do que nunca. Aproveitem a oportunidade! 🚀
 
-[[32-Formacao/Formacao em PHP\|Formacao em PHP]]
+[[32-Formacao/Formacao em PHP Experience\|Formacao em PHP Experience]]

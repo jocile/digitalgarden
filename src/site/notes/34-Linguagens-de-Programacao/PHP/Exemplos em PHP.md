@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/php/exemplos-em-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2026-02-18T16:27:20.003-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Linguagem de Programação","WebSites"]}}
+{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/php/exemplos-em-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2026-05-31T10:35:05.682-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Linguagem de Programação","WebSites"]}}
 ---
 
 #PHP
@@ -683,4 +683,4 @@ Resultado:
 ```
 
 
-[[32-Formacao/Formacao em PHP\|Formacao em PHP]]
+[[32-Formacao/Formacao em PHP Experience\|Formacao em PHP Experience]]

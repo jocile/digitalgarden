@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/ferramentas-de-ia/antigravity/antigravity-kit/","metatags":{"description":"funciona como uma camada de ferramentas e inteligência especializada"},"noteIcon":2,"updated":"2026-04-01T14:45:24.283-03:00","dg-note-properties":{"topics":["Live coding","Projetos de aplicativos"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/ferramentas-de-ia/antigravity/antigravity-kit/","metatags":{"description":"funciona como uma camada de ferramentas e inteligência especializada"},"noteIcon":2,"updated":"2026-05-25T13:36:59.405-03:00","dg-note-properties":{"aliases":["ag-kit"],"topics":["Live coding","Projetos de aplicativos"]}}
 ---
 
-#Inteligencia-artificial  #Projeto #Antigravity
+#Inteligencia-artificial  #Projeto #Antigravity #Skill 
 
-O **[[23-Inteligencia-Artificial/Ferramentas de IA/Antigravity/Antigravity\|Antigravity]] Kit (ou Agent Kit)**, atualmente em sua versão 2, é um repositório **open source gratuito** projetado para expandir drasticamente as capacidades da IDE Google [[23-Inteligencia-Artificial/Ferramentas de IA/Antigravity/Antigravity\|Antigravity]]. Ele funciona como uma camada de ferramentas e inteligência especializada que permite a criação de projetos complexos, como e-commerces completos, em tempo recorde.
+O **[[23-Inteligencia-Artificial/Ferramentas de IA/Antigravity/Antigravity\|Antigravity]] Kit (ou Agent Kit)**, é um repositório **open source gratuito** projetado para expandir drasticamente as capacidades da IDE Google [[23-Inteligencia-Artificial/Ferramentas de IA/Antigravity/Antigravity\|Antigravity]]. Ele funciona como uma camada de ferramentas e inteligência especializada que permite a criação de projetos complexos, como e-commerces completos, em tempo recorde.
 
 Abaixo estão os pilares e funcionalidades centrais do kit conforme as fontes:
 
@@ -29,7 +29,7 @@ Um dos recursos mais poderosos do kit é o comando **`/orchestrate`**. Quando at
 A configuração do [[23-Inteligencia-Artificial/Ferramentas de IA/Antigravity/Antigravity\|Antigravity]] Kit é feita diretamente via terminal na IDE:
 
 - **Comando de Inicialização:** O usuário deve abrir o terminal na pasta do projeto e executar o comando de instalação (como `npx @vudovn/ag-kit init`) para carregar os recursos.
-- **Consciência do Agente:** Para que funcione corretamente, o desenvolvedor deve referenciar o "kit 2" no prompt inicial ou nos arquivos de configuração (@env ou @prd), garantindo que a IA tenha ciência de que possui essas ferramentas à disposição.
+- **Consciência do Agente:** Para que funcione corretamente, o desenvolvedor deve referenciar o "kit" no prompt inicial ou nos arquivos de configuração (@env ou @prd), garantindo que a IA tenha ciência de que possui essas ferramentas à disposição.
 - **Interface Manager:** Durante a execução, o progresso pode ser monitorado pelo **Agent Manager**, onde o usuário visualiza os artefatos (planos de implementação e listas de tarefas) gerados pelos agentes do kit.
 
 ### 4. Segurança e Validação

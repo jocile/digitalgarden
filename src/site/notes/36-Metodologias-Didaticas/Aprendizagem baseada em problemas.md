@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/36-metodologias-didaticas/aprendizagem-baseada-em-problemas/","metatags":{"description":"apresentação de um problema aos alunos com o objetivo de mobilizá-los na busca por possíveis soluções"},"noteIcon":2,"updated":"2026-03-15T10:22:46.298-03:00","dg-note-properties":{"topics":["Aula prática","Didática de aula"]}}
+{"dg-publish":true,"permalink":"/36-metodologias-didaticas/aprendizagem-baseada-em-problemas/","metatags":{"description":"apresentação de um problema aos alunos com o objetivo de mobilizá-los na busca por possíveis soluções"},"tags":["didatica"],"noteIcon":2,"updated":"2026-05-29T20:48:54.003-03:00","dg-note-properties":{"topics":["Aula prática","Didática de aula"],"tags":["didatica"]}}
 ---
 
 ## Aprendizagem Baseada em Problemas (ABP): Uma Abordagem Colaborativa para a Educação Profissional

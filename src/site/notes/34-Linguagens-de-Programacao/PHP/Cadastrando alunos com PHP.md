@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/php/cadastrando-alunos-com-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-24T20:18:21.069-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Lógica de programação","Programação Orientada a Objetos","Atividades de Programação"]}}
+{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/php/cadastrando-alunos-com-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2026-05-31T10:35:05.343-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Lógica de programação","Programação Orientada a Objetos","Atividades de Programação"]}}
 ---
 
 #PHP #POO
@@ -220,4 +220,4 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 Este exercício proporciona uma base sólida para entender como os conceitos de POO se encaixam na construção de aplicações web funcionais.
 
-[[42-Turmas-Senac-Anteriores/programador web/Programador Web\|Programador Web]] / [[32-Formacao/Formacao em PHP\|Formacao em PHP]]
+[[42-Turmas-Senac-Anteriores/programador web/Programador Web\|Programador Web]] / [[32-Formacao/Formacao em PHP Experience\|Formacao em PHP Experience]]

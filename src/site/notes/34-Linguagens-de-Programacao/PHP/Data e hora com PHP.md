@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/php/data-e-hora-com-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2025-08-24T17:30:07.302-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Linguagem de Programação","Data e hora"]}}
+{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/php/data-e-hora-com-php/","metatags":{"description":"exemplos de códigos de desenvolvimento web"},"noteIcon":2,"updated":"2026-05-31T10:35:05.616-03:00","dg-note-properties":{"class":"aula","cssclasses":null,"topics":["Linguagem de Programação","Data e hora"]}}
 ---
 
 #PHP #POO #data
@@ -141,4 +141,4 @@ if ($dataConvertida) {
 
 Este exemplo demonstra como o PHP, especialmente com o auxílio de bibliotecas e classes, oferece uma abordagem flexível e poderosa para a manipulação de datas, essencial para o desenvolvimento web. No contexto do desenvolvimento PHP, é importante cuidar dos tipos de dados, embora PHP seja fracamente tipado, definir os tipos de retorno e parâmetros para métodos e funções é uma boa prática para garantir a consistência e facilitar a leitura do código.
 
-[[32-Formacao/Formacao em PHP\|Formacao em PHP]]
+[[32-Formacao/Formacao em PHP Experience\|Formacao em PHP Experience]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/rag-retrieval-augmented-generation/","title":"RAG - Retrieval Augmented Generation","metatags":{"description":"Geração Aumentada por Recuperação, é uma abordagem que melhora a qualidade das respostas de um modelo de linguagem (LLM) ao incorporar informações de fontes externas."},"tags":["Inteligencia-artificial"],"noteIcon":"1","updated":"2026-03-20T09:06:16.763-03:00","dg-note-properties":{"title":"RAG - Retrieval Augmented Generation","tags":["Inteligencia-artificial"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/rag-retrieval-augmented-generation/","title":"RAG - Retrieval Augmented Generation","metatags":{"description":"Geração Aumentada por Recuperação, é uma abordagem que melhora a qualidade das respostas de um modelo de linguagem (LLM) ao incorporar informações de fontes externas."},"tags":["Inteligencia-artificial","Agentes"],"noteIcon":"1","updated":"2026-05-30T15:13:23.481-03:00","dg-note-properties":{"title":"RAG - Retrieval Augmented Generation","tags":["Inteligencia-artificial","Agentes"]}}
 ---
 
 
@@ -17,17 +17,17 @@ A técnica **Retrieval Augmented Generation (RAG)**, ou Geração Aumentada por 
 
 - **Retriever:** Responsável por buscar as informações relevantes em um banco de dados vetorial ou outras fontes de conhecimento. O método de busca do Defy parece ser muito avançado e eficiente.
 - **Banco de Dados Vetorial (Vector Database):** Um tipo de banco de dados que armazena informações como vetores numéricos, permitindo buscas eficientes por similaridade semântica. A incorporação (embeddings) transforma dados em vetores que representam seu significado, facilitando o cálculo da relevância entre eles.
-    - O **Chroma** é um exemplo de banco de dados vetorial que pode ser utilizado com o Langchain.
+    - O **Chroma** é um exemplo de banco de dados vetorial que pode ser utilizado com o [[23-Inteligencia-Artificial/Langchain\|Langchain]].
     - Os dados podem ser transformados em _chunks_ (pedaços) menores, para facilitar o processo de indexação e recuperação.
     - O processo de _overlap_ garante que não se percam informações quando os dados são divididos em pedaços.
     - A relevância semântica é um método de análise que identifica a relação entre informações com base no seu significado, e não apenas nas palavras usadas.
 - **LLM (Modelo de Linguagem):** O modelo de linguagem que usa as informações recuperadas e a pergunta original para gerar a resposta.
-- **Prompt:** O prompt é uma instrução enviada para a LLM, combinando a pergunta do usuário e informações relevantes do banco de dados.
+- **[[23-Inteligencia-Artificial/Prompts\|Prompts]]:** O [[23-Inteligencia-Artificial/Prompts\|Prompt]] é uma instrução enviada para a LLM, combinando a pergunta do usuário e informações relevantes do banco de dados.
 
 ### **Aplicações do RAG:**
 
 - **Chatbots com Conhecimento Específico:** Permite a criação de chatbots que respondem a perguntas com base em informações específicas da empresa ou domínio, como documentos, manuais ou informações de produtos.
-- **Agentes de IA com Acesso a Dados:** Agentes de IA podem utilizar o RAG para consultar dados externos e realizar tarefas que requerem informações adicionais além de seu conhecimento pré-treinado, como analisar dados financeiros ou responder a perguntas sobre eventos recentes.
+- **[[23-Inteligencia-Artificial/agentes/agentes de ia\|agentes de ia]] com Acesso a Dados:** [[23-Inteligencia-Artificial/agentes/agentes de ia\|agentes de ia]] podem utilizar o RAG para consultar dados externos e realizar tarefas que requerem informações adicionais além de seu conhecimento pré-treinado, como analisar dados financeiros ou responder a perguntas sobre eventos recentes.
 - **Geração de Conteúdo Personalizado:** O RAG possibilita a criação de conteúdo personalizado, como newsletters ou relatórios, com base em fontes de informação específicas, como dados da web ou documentos da empresa.
 - **Melhoria da Precisão das Respostas:** Ao fornecer dados contextuais ao modelo, o RAG reduz o risco de respostas imprecisas ou alucinações, tornando as respostas mais confiáveis.
 
