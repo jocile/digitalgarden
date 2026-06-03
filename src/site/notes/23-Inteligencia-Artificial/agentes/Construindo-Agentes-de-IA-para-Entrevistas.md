@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/agentes/construindo-agentes-de-ia-para-entrevistas/","metatags":{"description":"A Inteligência Artificial evoluiu de sistemas de chat puramente reativos para entidades autônomas capazes de agir"},"noteIcon":2,"updated":"2026-06-01T16:51:10.129-03:00","dg-note-properties":{"title":null,"topics":["Criação de agentes"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/agentes/construindo-agentes-de-ia-para-entrevistas/","metatags":{"description":"A Inteligência Artificial evoluiu de sistemas de chat puramente reativos para entidades autônomas capazes de agir"},"noteIcon":2,"updated":"2026-06-02T09:51:59.215-03:00","dg-note-properties":{"title":null,"topics":["Criação de agentes"]}}
 ---
 
 #Agentes #Inteligencia-artificial #Carreira 
@@ -127,7 +127,9 @@ docker compose up -d
 
 ## 4. Criando a Skill do Entrevistador (`interview-agent`)
 
-Abaixo está o código Markdown completo da Skill que deve ser salvo no caminho `./skills/interview-agent/skill.md`. Esta skill instrui o OpenClaw a se comportar como um entrevistador técnico corporativo de alto nível, gerando saídas estruturadas em JSON para facilitar integrações futuras.
+Abaixo está o [código Markdown completo da Skill]((https://gist.github.com/jocile/0a61f048865d806ae39e04f7edfd7eaf)) que deve ser salvo no caminho `./skills/interview-agent/skill.md`. Esta skill instrui o [[23-Inteligencia-Artificial/Ferramentas de IA/OpenClaw\|OpenClaw]] a se comportar como um entrevistador técnico corporativo de alto nível, gerando saídas estruturadas em JSON para facilitar integrações futuras.
+
+---
 
 ```markdown
 ---
@@ -145,7 +147,6 @@ Use esta skill sempre que o usuário solicitar a análise de uma vaga de emprego
 *   **Condução Oral Dinâmica:** Faça apenas **uma pergunta por vez**. Nunca envie uma lista de perguntas de uma vez só.
 *   **Sigilo de Rúbrica:** Nunca revele as respostas ideais ou os critérios de avaliação exatos para o candidato durante a entrevista.
 
-
 ---
 
 ## Fluxo de Execução
@@ -153,8 +154,9 @@ Use esta skill sempre que o usuário solicitar a análise de uma vaga de emprego
 ### Fase 1: Análise da Vaga
 
 Quando o usuário fornecer a descrição de uma vaga de emprego, analise o texto e gere uma resposta estritamente estruturada em JSON com o seguinte formato:
+```
 
-\```json
+```json
 {
   "vaga": "Nome do Cargo",
   "nivel": "Júnior / Pleno / Sênior / Specialist",
@@ -162,8 +164,9 @@ Quando o usuário fornecer a descrição de uma vaga de emprego, analise o texto
   "competencias_comportamentais": ["Soft Skill 1", "Soft Skill 2"],
   "sinais_de_alerta_risco": ["O que indica falta de senioridade para esta vaga"]
 }
-\```
+```
 
+```markdown
 ### Fase 2: Plano de Entrevista
 
 A partir da análise da vaga, elabore um plano de entrevista estruturado internamente.
@@ -171,8 +174,9 @@ A partir da análise da vaga, elabore um plano de entrevista estruturado interna
 *   **Se a vaga for Júnior/Pleno:** O plano deve focar em fundamentos de programação, algoritmos, boas práticas de código (Clean Code) e ferramentas do dia a dia.
 
 Gere o plano no formato JSON:
+```
 
-\```json
+```json
 {
   "foco_da_avaliacao": "Objetivo principal da entrevista",
   "blocos_de_perguntas": [
@@ -183,8 +187,9 @@ Gere o plano no formato JSON:
     }
   ]
 }
-\```
+```
 
+```markdown
 ### Fase 3: Condução da Entrevista (Interação Dinâmica)
 
 Inicie a entrevista fazendo a primeira pergunta ao candidato.
@@ -204,8 +209,9 @@ Para cada resposta dada, execute uma classificação de desempenho interna:
 ### Fase 5: Relatório Final de Desempenho
 
 Quando a entrevista for finalizada (ou o usuário solicitar o relatório), consolide a avaliação em um relatório estruturado em JSON:
+```
 
-\```json
+```json
 {
   "resumo_executivo": "Parecer geral sobre o candidato",
   "aderencia_ao_cargo": "Baixa / Média / Alta",
@@ -220,7 +226,6 @@ Quando a entrevista for finalizada (ou o usuário solicitar o relatório), conso
   ],
   "recomendacoes_de_estudo": ["Tópico de Estudo 1", "Tópico de Estudo 2"]
 }
-\```
 ```
 
 ---
@@ -310,5 +315,6 @@ A live encerra com uma profunda reflexão sobre o mercado de trabalho atual.
 ## Tópicos Relacionados
 
 *  Engenharia de [[23-Inteligencia-Artificial/agentes/agentes de ia\|agentes de ia]] e [[23-Inteligencia-Artificial/Machine Learning/Machine Learning\|Machine Learning]].
+* [SKILL para simulação de entrevistas técnicas com Gemini e OpenClaw · GitHub](https://gist.github.com/jocile/0a61f048865d806ae39e04f7edfd7eaf)
 *  [GitHub - digitalinnovationone/potencializando-estudos-carreira-com-ia: Curso "Potencializando Seus Estudos e Carreira com IA: De Chatbots a Agentes" · GitHub](https://github.com/digitalinnovationone/potencializando-estudos-carreira-com-ia)
 * [GitHub - digitalinnovationone/dio-pro-vitalicio-week-2026-agentes-ia: DIO PRO Vitalício Week: Agentes de IA · GitHub](https://github.com/digitalinnovationone/dio-pro-vitalicio-week-2026-agentes-ia)
