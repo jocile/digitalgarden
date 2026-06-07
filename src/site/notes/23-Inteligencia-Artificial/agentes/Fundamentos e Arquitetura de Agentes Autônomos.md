@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/agentes/fundamentos-e-arquitetura-de-agentes-autonomos/","tags":["Inteligencia-artificial","Agentes","Arquitetura"],"noteIcon":2,"updated":"2026-05-30T19:29:45.912-03:00","dg-note-properties":{"created":"2026-05-30T15:25:00-03:00","tags":["Inteligencia-artificial","Agentes","Arquitetura"],"title":null,"cssclasses":null,"topics":["Criação de agentes","[[Inteligencia Artificial]]"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/agentes/fundamentos-e-arquitetura-de-agentes-autonomos/","metatags":{"description":"guia consolida o aprendizado cobrindo desde a evolução dos modelos de linguagem"},"tags":["Inteligencia-artificial","Agentes","Arquitetura"],"noteIcon":2,"updated":"2026-06-07T15:50:17.266-03:00","dg-note-properties":{"created":"2026-05-30T15:25:00-03:00","tags":["Inteligencia-artificial","Agentes","Arquitetura"],"title":null,"cssclasses":null,"topics":["Criação de agentes","[[Inteligencia Artificial]]"]}}
 ---
 
 
