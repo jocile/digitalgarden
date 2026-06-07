@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/toon/","metatags":{"description":"pode reduzir significativamente os custos de processamento de dados em modelos de linguagem"},"noteIcon":1,"updated":"2026-05-18T10:04:11.030-03:00","dg-note-properties":{"topics":["Arquiteturas de Programação","Projetos de aplicativos"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/toon/","metatags":{"description":"pode reduzir significativamente os custos de processamento de dados em modelos de linguagem"},"noteIcon":1,"updated":"2026-06-06T18:58:31.161-03:00","dg-note-properties":{"topics":["Arquiteturas de Programação","Projetos de aplicativos"]}}
 ---
 
 #Estrutura #Projeto #Inteligencia-artificial 
@@ -138,7 +138,7 @@ Não troque o JSON pelo TOON por "moda". Siga esta lógica:
 - [É o fim do JSON Prompting? O hype do TOON faz sentido? - YouTube](https://www.youtube.com/watch?v=KO6a3QYpZbo)
 
 **Tópicos Relacionados:**
-- [[23-Inteligencia-Artificial/Engenharia de Prompts\|23-Inteligencia-Artificial/Engenharia de Prompts]]
-- [[34-Linguagens-de-Programacao/Python/Python para Dados\|34-Linguagens-de-Programacao/Python/Python para Dados]]
-- [[23-Inteligencia-Artificial/Parâmetros de LLM\|23-Inteligencia-Artificial/Parâmetros de LLM]]
+- [[23-Inteligencia-Artificial/engenharia de prompt\|Engenharia de Prompts]]
+- [[Python para Dados\|Python para Dados]]
+- [[Parâmetros de LLM\|Parâmetros de LLM]]
 - [[34-Linguagens-de-Programacao/JavaScript/json\|Formato JSON]]

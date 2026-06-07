@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/22-teologia/cristologia/jesus-e-a-salvacao/","title":"Jesus é a Salvacao","metatags":{"description":"Jesus é apresentado como aquele que possui as chaves da casa de Davi, representando a Nova Jerusalém e o acesso à salvação divina"},"tags":["Teologia","Cristologia","Soteriologia"],"noteIcon":"1","updated":"2025-03-27T09:40:43.891-03:00","dg-note-properties":{"title":"Jesus é a Salvacao","tags":["Teologia","Cristologia","Soteriologia"]}}
+{"dg-publish":true,"permalink":"/22-teologia/cristologia/jesus-e-a-salvacao/","title":"Jesus é a Salvacao","metatags":{"description":"Jesus é apresentado como aquele que possui as chaves da casa de Davi, representando a Nova Jerusalém e o acesso à salvação divina"},"tags":["Teologia","Cristologia","Soteriologia"],"noteIcon":"1","updated":"2026-06-06T18:11:37.794-03:00","dg-note-properties":{"title":"Jesus é a Salvacao","tags":["Teologia","Cristologia","Soteriologia"]}}
 ---
 
 
 ## Jesus é a Salvação
 
-A Bíblia oferece uma rica discussão sobre a relação intrínseca entre Jesus e a salvação. Através de uma análise cuidadosa, podemos extrair insights valiosos sobre como a figura de Jesus se torna central na [[[Teologia\|[Teologia]] cristã, atuando como o pivô da redenção da humanidade.
+A Bíblia oferece uma rica discussão sobre a relação intrínseca entre Jesus e a salvação. Através de uma análise cuidadosa, podemos extrair insights valiosos sobre como a figura de Jesus se torna central na [[22-Teologia/Teologia\|Teologia]] cristã, atuando como o pivô da redenção da humanidade.
 
 ### **Jesus como a Chave da Salvação:**
 
