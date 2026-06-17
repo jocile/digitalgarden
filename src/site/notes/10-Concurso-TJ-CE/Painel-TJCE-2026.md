@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/10-concurso-tj-ce/painel-tjce-2026/","title":"Painel de Controle - Concurso TJ-CE 2026","metatags":{"description":"Painel de Analista Judiciário – Área Apoio Especializado – Especialidade Ciência da Computação"},"tags":["concurso","tjce","controle","estudo"],"noteIcon":null,"updated":"2026-05-29T19:22:51.627-03:00","dg-note-properties":{"class":"classe-projeto","title":"Painel de Controle - Concurso TJ-CE 2026","tags":["concurso","tjce","controle","estudo"],"status":"ativo","prova":"2026-08-09","Priority":null,"Concluido":null,"cssclasses":null,"topics":null}}
+{"dg-publish":true,"permalink":"/10-concurso-tj-ce/painel-tjce-2026/","title":"Painel de Controle - Concurso TJ-CE 2026","metatags":{"description":"Painel de Analista Judiciário – Área Apoio Especializado – Especialidade Ciência da Computação"},"tags":["concurso","tjce","controle","estudo"],"noteIcon":null,"updated":"2026-06-07T16:04:03.378-03:00","dg-note-properties":{"class":"classe-projeto","title":"Painel de Controle - Concurso TJ-CE 2026","tags":["concurso","tjce","controle","estudo"],"status":"ativo","prova":"2026-08-09","Priority":null,"Concluido":null,"cssclasses":null,"topics":null}}
 ---
 
 # 🎯 Painel de Estudos: TJ-CE 2026 (Analista de Sistemas)
 
 **Cargo:** Analista Judiciário – Área Apoio Especializado – Especialidade Ciência da Computação – Área Tecnologia da Informação - Sistemas (Código F06)
-**Edital Base:** [[10-Concurso-TJ-CE/DJEA       Matérias\|DJEA - Edital TJ-CE]]
+**Edital Base:** [[10-Concurso-TJ-CE/DJEA Matérias formatado\|DJEA - Edital TJ-CE]]
 **Data da Prova:** 09/08/2026
 
 ---
@@ -63,13 +63,13 @@
 
 Crie novas notas na pasta `32-Formacao` com a tag `#tjce` para que elas apareçam automaticamente nesta lista de estudos.
 
-| File                                                                                              | status | Última Atualização     |
-| ------------------------------------------------------------------------------------------------- | ------ | ---------------------- |
-| [[10-Concurso-TJ-CE/Cursos preparatórios para o TJCE\|Cursos preparatórios para o TJCE]]       | ativo  | 7:23 PM - May 29, 2026 |
-| [[10-Concurso-TJ-CE/TJCE nível médio\|TJCE nível médio]]                                       | ativo  | 7:23 PM - May 29, 2026 |
-| [[10-Concurso-TJ-CE/Painel-TJCE-Tecnico\|Painel-TJCE-Tecnico]]                                 | ativo  | 7:22 PM - May 29, 2026 |
-| [[10-Concurso-TJ-CE/Painel-TJCE-2026\|Painel-TJCE-2026]]                                       | ativo  | 7:22 PM - May 29, 2026 |
-| [[10-Concurso-TJ-CE/Estratégia para Analista Judiciário\|Estratégia para Analista Judiciário]] | ativo  | 7:22 PM - May 29, 2026 |
-| [[10-Concurso-TJ-CE/DJEA Matérias formatado\|DJEA Matérias formatado]]                         | \-     | 7:22 PM - May 29, 2026 |
+| File                                                                                              | status | Última Atualização      |
+| ------------------------------------------------------------------------------------------------- | ------ | ----------------------- |
+| [[10-Concurso-TJ-CE/Painel-TJCE-Tecnico\|Painel-TJCE-Tecnico]]                                 | ativo  | 4:04 PM - June 07, 2026 |
+| [[10-Concurso-TJ-CE/Painel-TJCE-2026\|Painel-TJCE-2026]]                                       | ativo  | 4:04 PM - June 07, 2026 |
+| [[10-Concurso-TJ-CE/Cursos preparatórios para o TJCE\|Cursos preparatórios para o TJCE]]       | ativo  | 7:23 PM - May 29, 2026  |
+| [[10-Concurso-TJ-CE/TJCE nível médio\|TJCE nível médio]]                                       | ativo  | 7:23 PM - May 29, 2026  |
+| [[10-Concurso-TJ-CE/Estratégia para Analista Judiciário\|Estratégia para Analista Judiciário]] | ativo  | 7:22 PM - May 29, 2026  |
+| [[10-Concurso-TJ-CE/DJEA Matérias formatado\|DJEA Matérias formatado]]                         | \-     | 7:22 PM - May 29, 2026  |
 
 { .block-language-dataview}

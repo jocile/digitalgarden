@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/ferramentas-de-ia/antigravity/antigravity/","metatags":{"description":"permite que agentes de IA ajam de forma proativa no código, terminal e navegador, enquanto o desenvolvedor atua como um supervisor ou regente."},"noteIcon":2,"updated":"2026-04-01T14:45:06.613-03:00","dg-note-properties":{"topics":["Live coding","Automação"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/ferramentas-de-ia/antigravity/antigravity/","metatags":{"description":"permite que agentes de IA ajam de forma proativa no código, terminal e navegador, enquanto o desenvolvedor atua como um supervisor ou regente."},"noteIcon":2,"updated":"2026-06-11T07:36:28.851-03:00","dg-note-properties":{"topics":["Live coding","Automação"]}}
 ---
 
 
@@ -41,7 +41,7 @@ Utiliza o protocolo aberto para conectar a IA a ferramentas externas de forma un
 #### 4. Customizações: Regras e Workflows
 
 - **Regras ([[23-Inteligencia-Artificial/Rules\|Rules]]):** Instruções globais ou por workspace que definem o comportamento da IA (ex: "Sempre use Tailwind CSS", "Responda em Português").
-- **[[23-Inteligencia-Artificial/Workflows\|Workflows]]:** [[23-Inteligencia-Artificial/Prompts\|Prompts]] estruturados e salvos que guiam o agente em processos repetitivos, como a criação de uma arquitetura de pastas específica.
+- **[[23-Inteligencia-Artificial/Workflows\|23-Inteligencia-Artificial/Workflows]]:** [[23-Inteligencia-Artificial/Prompts\|Prompts]] estruturados e salvos que guiam o agente em processos repetitivos, como a criação de uma arquitetura de pastas específica.
 
 #### 5. Skills (Habilidades)
 

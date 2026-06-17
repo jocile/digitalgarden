@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/ferramentas-de-ia/antigravity/live-coding/comparativo-ferramentas-gratuitas-versus-pagas/","metatags":{"description":"como criar um aplicativo do zero usando ferramentas gratuitas versus ferramentas pagas"},"noteIcon":1,"updated":"2026-04-01T14:50:02.434-03:00","dg-note-properties":{"topics":["Live coding","Automação"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/ferramentas-de-ia/antigravity/live-coding/comparativo-ferramentas-gratuitas-versus-pagas/","metatags":{"description":"como criar um aplicativo do zero usando ferramentas gratuitas versus ferramentas pagas"},"noteIcon":1,"updated":"2026-06-11T07:36:28.910-03:00","dg-note-properties":{"topics":["Live coding","Automação"]}}
 ---
 
 #Inteligencia-artificial  #Projeto

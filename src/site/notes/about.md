@@ -34,7 +34,7 @@ Alguns dizem que existem três tipos diferentes de anotadores: o arquiteto, o ja
 >[!note]- Ferramentas utilizadas
 > - As notas são escritas em [[35-Webdesign/markdown\|markdown]];
 > - Organizadas com [[30-Recursos/Obsidian/Obsidian\|Obsidian]] e seus poderosos [[30-Recursos/Obsidian/Plugins do Obsidian\|plugins]] (como Dataview e Excalidraw);
-> - O conteúdo é enriquecido por [[23-Inteligencia-Artificial/agentes/agentes de ia\|agentes de ia]] como [[23-Inteligencia-Artificial/Ferramentas de IA/Notebooklm\|Notebooklm]], [Copilot](https://www.obsidiancopilot.com/en), [Gemini](https://github.com/allenhutchison/obsidian-gemini), e local com [[23-Inteligencia-Artificial/Ferramentas de IA/Ollama\|Ollama]];
+> - O conteúdo é enriquecido por [[23-Inteligencia-Artificial/agentes/agentes de ia\|agentes de ia]] como [[23-Inteligencia-Artificial/Ferramentas de IA/Notebooklm\|Notebooklm]], [Copilot](https://www.obsidiancopilot.com/en), [Gemini](https://github.com/allenhutchison/obsidian-gemini), e local com [[23-Inteligencia-Artificial/Ferramentas de IA/Ollama/Ollama\|Ollama]];
 > - O código fonte é salvo no [GitHub - jocile/digitalgarden](https://github.com/jocile/digitalgarden) e publicado na [Vercel](https://vercel.com/), usando o plugin [Digital-garden](https://github.com/oleeskild/obsidian-digital-garden);
 > - Recomendações ou problemas podem ser relatados em [issues](https://github.com/jocile/digitalgarden/issues).
 

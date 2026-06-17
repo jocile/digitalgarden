@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-concurso-tj-ce/painel-tjce-tecnico/","title":"Painel de Controle - Concurso TJ-CE 2026 (Técnico)","tags":["concurso","tjce","controle","estudo","tecnico"],"noteIcon":null,"updated":"2026-05-29T19:22:57.814-03:00","dg-note-properties":{"class":"classe-projeto","title":"Painel de Controle - Concurso TJ-CE 2026 (Técnico)","tags":["concurso","tjce","controle","estudo","tecnico"],"status":"ativo","prova":"2026-08-09","Priority":null,"Concluido":null,"cssclasses":null,"topics":null}}
+{"dg-publish":true,"permalink":"/10-concurso-tj-ce/painel-tjce-tecnico/","title":"Painel de Controle - Concurso TJ-CE 2026 (Técnico)","tags":["concurso","tjce","controle","estudo","tecnico"],"noteIcon":null,"updated":"2026-06-07T16:04:30.869-03:00","dg-note-properties":{"class":"classe-projeto","title":"Painel de Controle - Concurso TJ-CE 2026 (Técnico)","tags":["concurso","tjce","controle","estudo","tecnico"],"status":"ativo","prova":"2026-08-09","Priority":null,"Concluido":null,"cssclasses":null,"topics":null}}
 ---
 
 # 🎯 Painel de Estudos: TJ-CE 2026 (Técnico Judiciário)
@@ -7,6 +7,7 @@
 **Cargo:** Técnico Judiciário – Área Judiciária (Código I09)
 **Perfil:** Iniciante em Direito (Área da Saúde/Biologia)
 **Data da Prova:** 09/08/2026
+**Edital Base:** [[10-Concurso-TJ-CE/DJEA Matérias formatado\|DJEA - Edital TJ-CE]]
 
 ---
 ## 🗓️ Cronograma Semanal (Método FCC - Lei Seca)

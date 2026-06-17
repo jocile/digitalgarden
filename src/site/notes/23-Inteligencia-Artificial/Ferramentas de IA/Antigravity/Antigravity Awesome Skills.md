@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/ferramentas-de-ia/antigravity/antigravity-awesome-skills/","metatags":{"description":"funcionam como superpoderes modulares que o agente de IA decide equipar apenas quando detecta que a tarefa"},"noteIcon":2,"updated":"2026-05-25T13:37:18.253-03:00","dg-note-properties":{"topics":["Live coding","Projetos de aplicativos"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/ferramentas-de-ia/antigravity/antigravity-awesome-skills/","metatags":{"description":"funcionam como superpoderes modulares que o agente de IA decide equipar apenas quando detecta que a tarefa"},"noteIcon":2,"updated":"2026-06-11T07:36:28.769-03:00","dg-note-properties":{"topics":["Live coding","Projetos de aplicativos"]}}
 ---
 
 #Inteligencia-artificial  #Projeto #Antigravity #Skill 
@@ -13,7 +13,7 @@ Abaixo, detalho as principais habilidades e o funcionamento deste ecossistema co
 Diferente das _[[23-Inteligencia-Artificial/Rules\|Rules]]_ (regras passivas sempre ativas no prompt de sistema), as habilidades utilizam o conceito de **Divulgação Progressiva (Progressive Disclosure)**.
 
 - **Economia de Contexto:** O agente só carrega as instruções pesadas e scripts quando necessário, evitando a "saturação de contexto" e o desperdício de tokens.
-- **Gatilho Automático:** Ao contrário dos _[[23-Inteligencia-Artificial/Workflows\|Workflows]]_ (macros manuais disparadas por `/`), as habilidades são **acionadas automaticamente** pelo agente ao analisar a intenção da conversa.
+- **Gatilho Automático:** Ao contrário dos _[[23-Inteligencia-Artificial/Workflows\|23-Inteligencia-Artificial/Workflows]]_ (macros manuais disparadas por `/`), as habilidades são **acionadas automaticamente** pelo agente ao analisar a intenção da conversa.
 
 ### 2. Habilidades de Destaque no Ecossistema
 

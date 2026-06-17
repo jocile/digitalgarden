@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/ferramentas-de-ia/antigravity/antigravity-kit/","metatags":{"description":"funciona como uma camada de ferramentas e inteligência especializada"},"noteIcon":2,"updated":"2026-05-25T13:36:59.405-03:00","dg-note-properties":{"aliases":["ag-kit"],"topics":["Live coding","Projetos de aplicativos"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/ferramentas-de-ia/antigravity/antigravity-kit/","metatags":{"description":"funciona como uma camada de ferramentas e inteligência especializada"},"noteIcon":2,"updated":"2026-06-11T07:36:28.833-03:00","dg-note-properties":{"aliases":["ag-kit"],"topics":["Live coding","Projetos de aplicativos"]}}
 ---
 
 #Inteligencia-artificial  #Projeto #Antigravity #Skill 
@@ -14,7 +14,7 @@ O pacote é extremamente robusto e focado em **especialização agêntica**, con
 
 - **Mais de 20 [[23-Inteligencia-Artificial/agentes/agentes de ia\|Agentes Especializados]]:** IA treinadas para tarefas específicas em áreas como front-end, back-end e banco de dados.
 - **Mais de 37 [[23-Inteligencia-Artificial/Skills\|Skills]] (Habilidades):** Instruções modulares para automação de recursos, como criação de bancos de dados, auditorias de segurança e otimização de performance.
-- **Mais de 11 [[23-Inteligencia-Artificial/Workflows\|Workflows]] (Fluxos de Trabalho):** Macros manuais para execuções sequenciais, incluindo ferramentas para deploy e documentação.
+- **Mais de 11 [[23-Inteligencia-Artificial/Workflows\|23-Inteligencia-Artificial/Workflows]] (Fluxos de Trabalho):** Macros manuais para execuções sequenciais, incluindo ferramentas para deploy e documentação.
 
 ### 2. O Comando Orchestrate (Orquestração)
 

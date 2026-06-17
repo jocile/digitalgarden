@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/rules/","metatags":{"description":"são pacotes de conhecimento sob demanda, as regras funcionam como um código de conduta ou uma placa arquitetônica que o agente consulta antes e durante a escrita de código"},"noteIcon":2,"updated":"2026-04-01T14:55:51.655-03:00","dg-note-properties":{"topics":["Live coding","Automação"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/rules/","metatags":{"description":"são pacotes de conhecimento sob demanda, as regras funcionam como um código de conduta ou uma placa arquitetônica que o agente consulta antes e durante a escrita de código"},"noteIcon":2,"updated":"2026-06-11T07:36:29.085-03:00","dg-note-properties":{"topics":["Live coding","Automação"]}}
 ---
 
 #Inteligencia-artificial  #Projeto #Antigravity
@@ -17,7 +17,7 @@ As regras operam em dois níveis de escopo:
 - **Global Rules:** Aplicam-se a todos os projetos desenvolvidos na máquina do usuário e são ideais para definir a persona do agente (seu papel ou função), o estilo de comunicação e stacks preferenciais (como Next.js ou FastAPI).
 - **Workspace Rules:** São específicas para os [[35-Webdesign/UX design/requisitos\|requisitos]] de um projeto atual, geralmente armazenadas em arquivos como `.wgrad/rules.md` ou na pasta `.AGENTS/rules/` na raiz do projeto.
 
-Ao contrário dos [[23-Inteligencia-Artificial/Workflows\|Workflows]], que são macros acionadas manualmente pelo usuário via comando `/`, as regras são **acionadas automaticamente por gatilhos de contexto**.
+Ao contrário dos [[23-Inteligencia-Artificial/Workflows\|23-Inteligencia-Artificial/Workflows]], que são macros acionadas manualmente pelo usuário via comando `/`, as regras são **acionadas automaticamente por gatilhos de contexto**.
 
 ### Anatomia de uma Regra Eficaz
 

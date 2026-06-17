@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/agentes/criando-agentes/","metatags":{"description":"podem interagir com o ambiente, coletar dados, tomar decisões e realizar ações para atingir um objetivo específico."},"noteIcon":"1","updated":"2026-04-01T14:50:37.936-03:00","dg-note-properties":{"topics":["Criação de agentes"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/agentes/criando-agentes/","metatags":{"description":"podem interagir com o ambiente, coletar dados, tomar decisões e realizar ações para atingir um objetivo específico."},"noteIcon":"1","updated":"2026-06-11T07:36:29.165-03:00","dg-note-properties":{"topics":["Criação de agentes"]}}
 ---
 
 #Inteligencia-artificial  #Agentes #Prompt
 
 # Criando Agentes de IA
 
-Criar um [[23-Inteligencia-Artificial/agentes/agentes de ia\|agente de inteligência artificial]] envolve construir um sistema que vai além de um simples chatbot. Um agente consegue receber uma tarefa complexa, planejar os passos necessários ([[23-Inteligencia-Artificial/Workflows\|Workflows]]), usar ferramentas externas (como buscar na web ou rodar códigos) e tomar decisões de forma autônoma para atingir o objetivo final. O "cérebro" desse agente geralmente é um Modelo de Linguagem Grande (LLM).
+Criar um [[23-Inteligencia-Artificial/agentes/agentes de ia\|agente de inteligência artificial]] envolve construir um sistema que vai além de um simples chatbot. Um agente consegue receber uma tarefa complexa, planejar os passos necessários ([[23-Inteligencia-Artificial/Workflows\|23-Inteligencia-Artificial/Workflows]]), usar ferramentas externas (como buscar na web ou rodar códigos) e tomar decisões de forma autônoma para atingir o objetivo final. O "cérebro" desse agente geralmente é um Modelo de Linguagem Grande (LLM).
 
 Para explorarmos como criar um juntos, por qual destes caminhos você prefere começar?
 
@@ -22,7 +22,7 @@ Para entender como um agente funciona na prática, podemos compará-lo a um func
 
 - 🎭 **Perfil (Persona):** [[23-Inteligencia-Artificial/parametros de LLM/Definindo a Personalidade do Agente de IA\|Define quem o agente é]], suas restrições e como ele deve se comportar. É a instrução central do sistema ([[23-Inteligencia-Artificial/parametros de LLM/System Prompt\|System Prompt]]). Por exemplo: "Você é um pesquisador de mercado sênior, extremamente analítico e que baseia suas respostas apenas em dados numéricos".
     
-- 🧠 **Raciocínio e Planejamento:** É o motor de lógica do agente. Quando recebe uma tarefa complexa, ele precisa saber como dividi-la em etapas menores. Uma técnica muito comum é o _ReAct_ (Raciocinar + Agir), onde o agente cria um plano, executa uma ação, observa o resultado e decide o próximo passo ([[23-Inteligencia-Artificial/Workflows\|Workflows]]).
+- 🧠 **Raciocínio e Planejamento:** É o motor de lógica do agente. Quando recebe uma tarefa complexa, ele precisa saber como dividi-la em etapas menores. Uma técnica muito comum é o _ReAct_ (Raciocinar + Agir), onde o agente cria um plano, executa uma ação, observa o resultado e decide o próximo passo ([[23-Inteligencia-Artificial/Workflows\|23-Inteligencia-Artificial/Workflows]]).
     
 - 📚 **Memória:** ([[23-Inteligencia-Artificial/RAG - Retrieval Augmented Generation\|RAG - Retrieval Augmented Generation]]) Fundamental para manter o contexto vivo. Ela se divide principalmente em **curto prazo** (o histórico da conversa ou da tarefa atual) e **longo prazo** (informações e conhecimentos passados que ficam armazenados em bancos de dados que o agente pode consultar quando precisar).
     

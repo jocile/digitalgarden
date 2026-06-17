@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/ferramentas-de-ia/n8n/","metatags":{"description":"é uma plataforma de automação de fluxo de trabalho de código aberto e baseada em nós."},"tags":["Inteligencia-artificial"],"noteIcon":2,"updated":"2026-05-13T18:01:42.853-03:00","dg-note-properties":{"topics":["Automação","Ferramentas"],"tags":["Inteligencia-artificial"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/ferramentas-de-ia/n8n/","metatags":{"description":"é uma plataforma de automação de fluxo de trabalho de código aberto e baseada em nós."},"tags":["Inteligencia-artificial"],"noteIcon":2,"updated":"2026-06-11T07:36:28.957-03:00","dg-note-properties":{"topics":["Automação","Ferramentas"],"tags":["Inteligencia-artificial"]}}
 ---
 
 

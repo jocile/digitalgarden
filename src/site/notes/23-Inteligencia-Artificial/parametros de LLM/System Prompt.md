@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/parametros-de-llm/system-prompt/","title":"System Prompt","metatags":{"description":"Define a personalidade, o tom e o comportamento do agente de IA."},"tags":["Inteligencia-artificial","LLM","Prompt"],"noteIcon":"1","updated":"2025-01-20T19:44:55.286-03:00","dg-note-properties":{"title":"System Prompt","tags":["Inteligencia-artificial","LLM","Prompt"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/parametros-de-llm/system-prompt/","title":"System Prompt","metatags":{"description":"Define a personalidade, o tom e o comportamento do agente de IA."},"tags":["Inteligencia-artificial","LLM","Prompt"],"noteIcon":"1","updated":"2026-06-13T11:02:16.221-03:00","dg-note-properties":{"title":"System Prompt","tags":["Inteligencia-artificial","LLM","Prompt"]}}
 ---
 
 
@@ -37,3 +37,5 @@ Imagine que você está criando um sistema prompt para uma LLM que atue como um 
 Com essas instruções, a LLM gerará respostas que sejam autênticas ao personagem e criem uma experiência imersiva para o usuário.
 
 Ao definir claramente a personalidade do agente de IA, você pode criar interações mais eficazes e agradáveis para os usuários. Lembre-se de que o sistema prompt é a chave para instruir a LLM sobre como interpretar as perguntas e gerar respostas que atendam às necessidades específicas da interação.
+
+[[23-Inteligencia-Artificial/agentes/Análise de agentes/02 - A personalidade do agente\|02 - A personalidade do agente]]

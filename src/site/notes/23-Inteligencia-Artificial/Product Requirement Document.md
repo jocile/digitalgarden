@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/product-requirement-document/","metatags":{"description":"documentação central que serve para instruir a inteligência artificial sobre como o projeto deve funcionar"},"noteIcon":2,"updated":"2026-04-03T09:13:10.848-03:00","dg-note-properties":{"aliases":["PRD","documento de requisitos"],"topics":["Arquiteturas de Programação","Projetos de aplicativos"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/product-requirement-document/","metatags":{"description":"documentação central que serve para instruir a inteligência artificial sobre como o projeto deve funcionar"},"noteIcon":2,"updated":"2026-06-11T07:36:29.040-03:00","dg-note-properties":{"aliases":["PRD","documento de requisitos"],"topics":["Arquiteturas de Programação","Projetos de aplicativos"]}}
 ---
 
 #Inteligencia-artificial  #Projeto #Antigravity #sdd 
@@ -43,7 +43,7 @@ Um PRD "Vibe-Optimizado" inclui:
 
 #### Exemplo 1: Automação da Criação do PRD
 
-Você não precisa escrever o PRD do zero manualmente. No Google [[23-Inteligencia-Artificial/Ferramentas de IA/Antigravity/Antigravity\|Antigravity]], você pode usar **[[23-Inteligencia-Artificial/Workflows\|Workflows]]** especializados (como o "Genesis" ou o "SAS Builder"):
+Você não precisa escrever o PRD do zero manualmente. No Google [[23-Inteligencia-Artificial/Ferramentas de IA/Antigravity/Antigravity\|Antigravity]], você pode usar **[[23-Inteligencia-Artificial/Workflows\|23-Inteligencia-Artificial/Workflows]]** especializados (como o "Genesis" ou o "SAS Builder"):
 1. O agente de IA entra em modo de **Discovery** (Descoberta).
 2. A IA realiza uma entrevista com você, fazendo perguntas de clarificação sobre orçamento, escala esperada e integrações.
 3. Ao final, o agente sintetiza as respostas e gera automaticamente os artefatos de documentação, separando PRDs para frontend e backend.
@@ -60,7 +60,7 @@ Em vez de apenas uma lista de desejos, o PRD torna-se uma **checklist de valida�
 
 - [[23-Inteligencia-Artificial/Documentação Semântica\|Documentação Semântica]]
 - [[23-Inteligencia-Artificial/Ferramentas de IA/Antigravity/Antigravity\|Antigravity]]
-- [[23-Inteligencia-Artificial/Workflows\|Workflows]]
+- [[23-Inteligencia-Artificial/Workflows\|23-Inteligencia-Artificial/Workflows]]
 - [[35-Webdesign/UX design/requisitos\|requisitos]]
 - [[23-Inteligencia-Artificial/Spec Driven Development\|Spec Driven Development]]
 

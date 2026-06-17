@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/engenharia-de-contexto/","metatags":{"description":"é o processo fundamental de fornecer informações estruturadas e diretrizes claras para uma IA"},"noteIcon":2,"updated":"2026-04-03T16:58:44.920-03:00","dg-note-properties":{"topics":["Live coding","Automação"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/engenharia-de-contexto/","metatags":{"description":"é o processo fundamental de fornecer informações estruturadas e diretrizes claras para uma IA"},"noteIcon":2,"updated":"2026-06-11T07:36:28.730-03:00","dg-note-properties":{"topics":["Live coding","Automação"]}}
 ---
 
 # Engenharia de contexto
@@ -13,7 +13,7 @@ A **engenharia de contexto** é o processo fundamental de fornecer informações
 Para gerenciar o contexto de forma profissional, o desenvolvedor utiliza três ferramentas distintas:
 
 - **[[23-Inteligencia-Artificial/Rules\|Rules]] (Regras):** São diretrizes **passivas e sempre ativas** que residem no prompt de sistema. Elas definem a "personalidade" do agente, stacks preferenciais (ex: Next.js, FastAPI) e restrições inegociáveis, como proibição de código bloqueante.
-- **[[23-Inteligencia-Artificial/Workflows\|Workflows]] (Fluxos de Trabalho):** São **macros manuais** disparadas pelo usuário (geralmente via comando `/`) para tarefas complexas e repetitivas, como auditorias de segurança, commits inteligentes ou o "Genesis" de um novo projeto.
+- **[[23-Inteligencia-Artificial/Workflows\|23-Inteligencia-Artificial/Workflows]] (Fluxos de Trabalho):** São **macros manuais** disparadas pelo usuário (geralmente via comando `/`) para tarefas complexas e repetitivas, como auditorias de segurança, commits inteligentes ou o "Genesis" de um novo projeto.
 - **[[23-Inteligencia-Artificial/Skills\|Skills]] (Habilidades):** Diferente das regras, as habilidades são pacotes de conhecimento **on-demand**. Elas só são carregadas quando a IA detecta que a tarefa exige aquela expertise específica, o que ajuda a evitar a **saturação de contexto** e o desperdício de tokens.
 
 ### 2. Documentação Estratégica como Memória

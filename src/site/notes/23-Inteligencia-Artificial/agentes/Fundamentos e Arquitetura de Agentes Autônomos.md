@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/agentes/fundamentos-e-arquitetura-de-agentes-autonomos/","metatags":{"description":"guia consolida o aprendizado cobrindo desde a evolução dos modelos de linguagem"},"tags":["Inteligencia-artificial","Agentes","Arquitetura"],"noteIcon":2,"updated":"2026-06-07T15:50:17.266-03:00","dg-note-properties":{"created":"2026-05-30T15:25:00-03:00","tags":["Inteligencia-artificial","Agentes","Arquitetura"],"title":null,"cssclasses":null,"topics":["Criação de agentes","[[Inteligencia Artificial]]"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/agentes/fundamentos-e-arquitetura-de-agentes-autonomos/","metatags":{"description":"guia consolida o aprendizado cobrindo desde a evolução dos modelos de linguagem"},"tags":["Inteligencia-artificial","Agentes","Arquitetura"],"noteIcon":2,"updated":"2026-06-11T07:36:29.177-03:00","dg-note-properties":{"created":"2026-05-30T15:25:00-03:00","tags":["Inteligencia-artificial","Agentes","Arquitetura"],"title":null,"cssclasses":null,"topics":["Criação de agentes","[[Inteligencia Artificial]]"]}}
 ---
 
 
@@ -103,7 +103,7 @@ Uma LLM isolada é apenas um gerador de texto. Ao acoplar **Tools** (Ferramentas
 - **Function Calling**: Método tradicional onde a LLM analisa o prompt e decide qual função externa deve ser chamada, retornando um JSON estruturado para que o desenvolvedor execute a chamada no código. Requer formatação complexa e consome muitos tokens.
 - **Agent Tools (Caixa de Ferramentas / Toolbox)**: Abordagem moderna de orquestração onde o framework do agente gerencia diretamente a execução das ferramentas, tornando as chamadas muito mais eficientes e robustas.
 
-#### 4.3 Orquestração e [[23-Inteligencia-Artificial/Workflows\|Workflows]] de Execução
+#### 4.3 Orquestração e [[23-Inteligencia-Artificial/Workflows\|23-Inteligencia-Artificial/Workflows]] de Execução
 
 Os fluxos de trabalho dos agentes podem ser configurados de duas formas:
 1. **Síncrono (Sequencial)**: Cada etapa aguarda a conclusão da anterior.
