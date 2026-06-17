@@ -31,9 +31,15 @@ updates:
       prefix: "chore"
       include: "scope"
     groups:
-      dependencias-npm:
-        patterns:
-          - "*"
+      npm-seguro:
+        patterns: ["*"]
+        update-types:
+          - "patch"
+          - "minor"
+      npm-major-risk:
+        patterns: ["*"]
+        update-types:
+          - "major"
     # Regras de exceção (Ignore)
     ignore:
       - dependency-name: "@sindresorhus/slugify"
@@ -53,6 +59,12 @@ updates:
     assignees:
       - "jocile"
     groups:
-      dependencias-actions:
-        patterns:
-          - "*"
+      npm-seguro:
+        patterns: ["*"]
+        update-types:
+          - "patch"
+          - "minor"
+      npm-major-risk:
+        patterns: ["*"]
+        update-types:
+          - "major"
