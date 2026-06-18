@@ -2,18 +2,6 @@
 # package ecosystems to update and where the package manifests are located.
 # Please see the documentation for all configuration options:
 # https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
-
-# version: 2
-# updates:
-#  - package-ecosystem: "npm" # See documentation for possible values
-#    directory: "/" # Location of package manifests
-#   schedule:
-#      interval: "weekly"
-#    ignore:
-#      - dependency-name: "@sindresorhus/slugify"
-        # For slugify, ignore all updates.
-#      - dependency-name: "@11ty/eleventy-plugin-rss"
-#        versions [ "^1.2.0" ]
       
 version: 2
 updates:
@@ -21,9 +9,7 @@ updates:
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
-      interval: "daily"
-      time: "10:35"
-      timezone: "America/Fortaleza"
+      interval: "weekly"
     open-pull-requests-limit: 5
     assignees:
       - "jocile"
@@ -32,12 +18,16 @@ updates:
       include: "scope"
     groups:
       npm-seguro:
-        patterns: ["*"]
+        patterns: ["*"]        
         update-types:
           - "patch"
           - "minor"
       npm-major-risk:
         patterns: ["*"]
+        exclude-patterns:
+          - "rimraf"
+          - "glob"
+          - "@11ty/eleventy-plugin-rss"
         update-types:
           - "major"
     # Regras de exceção (Ignore)
@@ -52,19 +42,6 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "daily"
-      time: "10:35"
-      timezone: "America/Fortaleza"
-    open-pull-requests-limit: 5
+      interval: "weekly"
     assignees:
       - "jocile"
-    groups:
-      npm-seguro:
-        patterns: ["*"]
-        update-types:
-          - "patch"
-          - "minor"
-      npm-major-risk:
-        patterns: ["*"]
-        update-types:
-          - "major"
