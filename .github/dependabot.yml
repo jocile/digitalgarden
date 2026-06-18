@@ -10,7 +10,7 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
-    open-pull-requests-limit: 5
+    open-pull-requests-limit: 10
     assignees:
       - "jocile"
     commit-message:
@@ -20,22 +20,14 @@ updates:
       npm-seguro:
         patterns: ["*"]        
         update-types:
-          - "patch"
           - "minor"
-      npm-major-risk:
-        patterns: ["*"]
-        exclude-patterns:
-          - "rimraf"
-          - "glob"
-          - "@11ty/eleventy-plugin-rss"
-        update-types:
-          - "major"
+          - "patch"
     # Regras de exceção (Ignore)
     ignore:
       - dependency-name: "@sindresorhus/slugify"
         # Ignora todas as atualizações para o slugify (útil se estiver travado em uma versão CommonJS, por exemplo)
       - dependency-name: "@11ty/eleventy-plugin-rss"
-        versions: ["^1.2.0"]
+        # versions: ["^1.2.0"]
         # Ignora atualizações específicas que correspondam a ^1.2.0
 
   # Manutenção de workflows e CI/CD
@@ -45,3 +37,7 @@ updates:
       interval: "weekly"
     assignees:
       - "jocile"
+    groups:
+      dependencias-actions:
+        patterns:
+          - "*"
