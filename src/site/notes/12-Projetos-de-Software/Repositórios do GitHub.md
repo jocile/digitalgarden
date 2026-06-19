@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/12-projetos-de-software/repositorios-do-git-hub/","metatags":{"description":"repositórios totalmente organizados e separados em tabelas exclusivas para cada tecnologia"},"noteIcon":3,"updated":"2026-06-16T22:07:42.719-03:00","dg-note-properties":{"topics":["Projetos de aplicativos"]}}
+{"dg-publish":true,"permalink":"/12-projetos-de-software/repositorios-do-git-hub/","metatags":{"description":"repositórios totalmente organizados e separados em tabelas exclusivas para cada tecnologia"},"noteIcon":3,"updated":"2026-06-17T08:05:27.250-03:00","dg-note-properties":{"topics":["Projetos de aplicativos"]}}
 ---
 
 #Projeto 
 
->[!info] Aqui está um painel consolidado exibindo a contagem exata e a distribuição dos seus **89 projetos** mapeados a partir dos [Repositórios do GitHub de Jocilé](https://github.com/jocile?tab=repositories), classificados pela quantidade de repositórios em cada ecossistema:
+>[!info] Aqui está um painel consolidado exibindo a contagem exata e a distribuição dos seus **119 projetos** mapeados a partir dos [Repositórios do GitHub de Jocilé](https://github.com/jocile?tab=repositories), classificados pela quantidade de repositórios em cada ecossistema:
 
 | **#** | **Tecnologia / Ecossistema**                                                           | **Quantidade de Projetos** | **Principais Focos e Frameworks**                                 |
 | ----- | -------------------------------------------------------------------------------------- | -------------------------- | ----------------------------------------------------------------- |
@@ -15,7 +15,7 @@
 | **5** | [[12-Projetos-de-Software/Repositórios do GitHub#🌐 JavaScript / TypeScript / React / Front-End\|#🌐 JavaScript / TypeScript / React / Front-End]]                                    | **13**                     | Front-end interativo, consumo de APIs do GitHub e bibliotecas UI  |
 | **6** | [[12-Projetos-de-Software/Repositórios do GitHub#🐘 PHP / Laravel / Backend Web\|#🐘 PHP / Laravel / Backend Web]]                                                    | **4**                      | Framework Laravel, APIs básicas e projetos web estruturados       |
 | **7** | [[12-Projetos-de-Software/Repositórios do GitHub#📊 Excel - Planilhas\|#📊 Excel - Planilhas]]                                                              | **2**                      | Ferramentas de simulação de investimentos e planilhas básicas     |
-| **8** | [[12-Projetos-de-Software/Repositórios do GitHub#💎 Outras Tecnologias e Ferramentas (Excel, SQL, Ruby/Jekyll, C++, Shell, Config)\|#💎 Outras Tecnologias e Ferramentas (Excel, SQL, Ruby/Jekyll, C++, Shell, Config)]] | **10**                     | Hardware (Arduino/C++), Temas Jekyll, Scripts Bash e Modelagem    |
+| **8** | [[12-Projetos-de-Software/Repositórios do GitHub#💎 Outras Tecnologias e Ferramentas (SQL, Ruby/Jekyll, C++, Shell, Config)\|#💎 Outras Tecnologias e Ferramentas (SQL, Ruby/Jekyll, C++, Shell, Config)]] | **10**                     | Hardware (Arduino/C++), Temas Jekyll, Scripts Bash e Modelagem    |
 | **-** | **🔧 Total Geral de Repositórios**                                                     | **119**                    | _Mapeamento completo do histórico do GitHub_                      |
 
 >[!summary] 💡 Aqui estão os seus repositórios totalmente organizados e separados em tabelas exclusivas para cada tecnologia ou ecossistema de desenvolvimento.
