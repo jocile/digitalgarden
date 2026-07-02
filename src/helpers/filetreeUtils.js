@@ -113,8 +113,8 @@ function getPermalinkMeta(note, key) {
     }
     // Reason for adding the hide flag instead of removing completely from file tree is to
     // allow users to use the filetree data elsewhere without the fear of losing any data.
-    if (note.data.hide) {
-      hide = note.data.hide;
+    if (note.data.hide || note.data.hideInFiletree) {
+      hide = true;
     }
     if (note.data.pinned) {
       pinned = note.data.pinned;
@@ -130,7 +130,14 @@ function getPermalinkMeta(note, key) {
         folders = []; // Handle unexpected cases gracefully
       }
     }
-    folders[folders.length - 1]+= ".md";
+    // Path rewrite rules produce a dg-path that already includes the ".md"
+    // extension (e.g. "Path Rewriting/note.md" -> "note.md"). Strip it before
+    // re-appending so we don't end up with a double extension ("note.md.md"),
+    // which would prevent the stem-based navigation ordering from matching.
+    const lastFolder = folders[folders.length - 1];
+    folders[folders.length - 1] =
+      (lastFolder.endsWith(".md") ? lastFolder.slice(0, -3) : lastFolder) +
+      ".md";
   } catch {
     //ignore
   }
@@ -139,9 +146,9 @@ function getPermalinkMeta(note, key) {
 }
 
 function assignNested(obj, keyPath, value) {
-  lastKeyIndex = keyPath.length - 1;
-  for (var i = 0; i < lastKeyIndex; ++i) {
-    key = keyPath[i];
+  const lastKeyIndex = keyPath.length - 1;
+  for (let i = 0; i < lastKeyIndex; ++i) {
+    const key = keyPath[i];
     if (!(key in obj)) {
       obj[key] = { isFolder: true };
     }
