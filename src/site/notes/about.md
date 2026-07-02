@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/","title":"Sobre","metatags":{"description":"Sobre este site"},"noteIcon":"default","updated":"2026-04-17T16:25:16.267-03:00","dg-note-properties":{"class":"mapa","title":"Sobre"}}
+{"dg-publish":true,"permalink":"/about/","title":"Sobre","metatags":{"description":"Sobre este site"},"noteIcon":"default","updated":"2026-06-22T13:16:52.069-03:00","dg-note-properties":{"class":"mapa","title":"Sobre"}}
 ---
 
 
@@ -16,12 +16,14 @@ Alguns dizem que existem três tipos diferentes de anotadores: o arquiteto, o ja
 > - Guide - Mapas de conteúdo ( ![Maturity Level: 4|14](https://jocile.com/img/default-note-icon.svg) ) são pontos de referência informativos sobre o caminho, geralmente contendo links.
 
 ---
+
 >[!note]- A organização
 > A organização do site passou por uma reestruturação baseada no Sistema [[30-Recursos/Obsidian/Sistema Johnny.Decimal\|Sistema Johnny.Decimal]] e [[30-Recursos/Obsidian/Método PARA\|Método PARA]], utilizando uma hierarquia clara de pastas numeradas para categorizar domínios de conhecimento:
 > - **00 a 04 (Estrutura e Operação)**: O motor do vault. Abriga notas diárias (`00-Inbox`), controles dinâmicos de Dataview (`01-Controles`), templates (`02-Modelos`), diagramas visuais (`03-Excalidraw`) e anexos (`04-Anexos`).
+> - **10 a 19 (Projetos)**: O que está sendo feito agora, com início e fim. Inclui os [[12-Projetos-de-Software/Repositórios do GitHub\|12-Projetos-de-Software/Repositórios do GitHub]].
 > - **20 a 29 (Domínios Principais)**: O núcleo de docência e pesquisa. Inclui `21-Didatica` (planejamentos do Senac), 22-[[22-Teologia/Teologia\|Teologia]] (estudos bíblicos, escatologia, cristologia) e 23-[[23-Inteligencia-Artificial/Inteligencia Artificial\|Inteligencia Artificial]] (criação de agentes, Machine Learning, LLMs).
 > - **30 a 39 (Recursos e Conhecimento Técnico)**: Centraliza ferramentas e trilhas de aprendizado. Destaque para `30-Recursos` ([[30-Recursos/git/Git-GitHub\|Git-GitHub]], [[30-Recursos/Obsidian/Obsidian\|Obsidian]]), `31-Clipper` (capturas web/YouTube, vagas locais), 32-[[32-Formacao/Formacao Overview\|Formação]] (bootcamps), `34-Linguagens-de-Programacao` (foco em Python, PHP, JS, React), `35-Webdesign` (CSS, UX) e 36-[[36-Metodologias-Didaticas/Metodologias\|Metodologias]]-Didaticas.
-> - **40 a 49 (Arquivos e Histórico)**: Guarda o histórico do usuário. Inclui `40-Arquivo` (cursos antigos), `41-Projetos-Antigos` (Confeitaria da Nicola, HBO Max) e `42-Turmas-Senac-Anteriores` (vasto repositório de planejamentos e alunos de turmas passadas).
+> - **40 a 49 (Arquivos e Histórico)**: Guarda o histórico do usuário. Inclui `40-Arquivo` (cursos antigos), `41-Projetos-Antigos` e `42-Turmas-Senac-Anteriores` (vasto repositório de planejamentos e alunos de turmas passadas).
 > 
 > O vault utiliza uma abordagem modular e visual, com uso intenso de Excalidraw para diagramas, MOCs (Mapas de Conteúdo) para navegação, e Dataview para consultas dinâmicas.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-04-23T10:20:13.222-03:00","dg-note-properties":{"class":"mapa","title":"Principal","excalidraw-plugin":"parsed","excalidraw-export-dark":false,"excalidraw-autoexport":"svg","excalidraw-export-transparent":true,"excalidraw-open-md":true,"cssclasses":["cards","cards-cols-3"]}}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-06-22T13:18:06.313-03:00","dg-note-properties":{"class":"mapa","title":"Principal","excalidraw-plugin":"parsed","excalidraw-export-dark":false,"excalidraw-autoexport":"svg","excalidraw-export-transparent":true,"excalidraw-open-md":true,"cssclasses":["cards","cards-cols-3"]}}
 ---
 
 ## Olá 👋
@@ -16,13 +16,6 @@
 
 [[about\|Este vault]] funciona como um ecossistema integrado e um laboratório prático. Aqui eu conecto minhas principais frentes de atuação: a **docência técnica** no Senac, as pesquisas avançadas em **Inteligência Artificial** (Engenharia de Agentes e LLMs) e meus estudos aprofundados em **Teologia**. O foco é transformar conhecimento teórico em metodologias ativas de ensino e materiais didáticos reais e aplicáveis.
 
----
-
-## 👨‍🏫 Minhas Turmas
-
-<span><a class="internal-link" href="/seguranca-digital-2026/"><button style=" font-size: 14px; padding: 10px; height: fit-content; margin: 5px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); ">💻Informática com Segurança</button></a>
-</span>
-
 
 
 ---
@@ -30,9 +23,9 @@
 ## 🚀 Trilhas de Conhecimento
 
 Pretendo reunir aqui 📑notas de aulas e 📚estudos diversos sobre:
+ - 📖 **[[22-Teologia/Teologia\|Teologia]]** e **[[22-Teologia/Escatologia\|Escatologia]]**
  - 💻 **[[42-Turmas-Senac-Anteriores/Logica/Aulas de Logica\|Lógica de programação]]**
  - ⚙️ **[[42-Turmas-Senac-Anteriores/Assistente-de-TI/Assistente-de-TI\|Assistente de TI]]**
- - 📖 **[[22-Teologia/Teologia\|Teologia]]** e **[[22-Teologia/Escatologia\|Escatologia]]**
  - 🤖 **[[23-Inteligencia-Artificial/Inteligencia Artificial\|Inteligência Artificial]]**
  - 🎨 **[[35-Webdesign/Webdesign\|Webdesign]]**
  - 🐍 **[[34-Linguagens-de-Programacao/Python/Linguagem Python\|Linguagem Python]]**

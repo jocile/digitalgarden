@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/32-formacao/ciencias-da-computacao/","title":"Bacharel em Ciências da Computação","metatags":{"description":"Lista de disciplinas da formação"},"contentClasses":"row-lines row-hover","tags":["Formação","Computação"],"noteIcon":"default","updated":"2026-04-17T19:06:40.184-03:00","dg-note-properties":{"class":"classe-formacao","title":"Bacharel em Ciências da Computação","cssclasses":["row-lines","row-hover"],"status":"✅ done","horas-aula":3600,"habilidades":["Inteligência Artificial","Algoritmos","POO","Engenharia de Sistemas"],"link":"[Ciências da Computação - Universidade Estadual do Vale do Acaraú](https://www.uva.ce.gov.br/cursos/cursos-graduacao/cg-computacao/)","certificado":"","started":"2007-01-20","finished":"2013-12-01","tags":["Formação","Computação"]}}
+{"dg-publish":true,"permalink":"/32-formacao/ciencias-da-computacao/","title":"Bacharel em Ciências da Computação","metatags":{"description":"Lista de disciplinas da formação"},"contentClasses":"row-lines row-hover","tags":["Formação","Computação"],"noteIcon":"default","updated":"2026-06-30T18:00:55.635-03:00","dg-note-properties":{"class":"classe-formacao","title":"Bacharel em Ciências da Computação","cssclasses":["row-lines","row-hover"],"status":"✅ done","horas-aula":3600,"habilidades":["Inteligência Artificial","Algoritmos","POO","Engenharia de Sistemas"],"link":"[Ciências da Computação - Universidade Estadual do Vale do Acaraú](https://www.uva.ce.gov.br/cursos/cursos-graduacao/cg-computacao/)","certificado":"","started":"2007-01-20","finished":"2013-12-01","tags":["Formação","Computação"]}}
 ---
 
 # Bacharel em Ciências da Computação
@@ -73,7 +73,7 @@ Grade curricular do curso de Ciências da Computação - 2006.1 - 2007.1
 > | Nº  | código | nome | pré-requizito | nº de créditos | horas-aula |
 > | --- | ------ | ---- | ------------- | -------------- | ---------- |
 > |27 | BADA2637 | Banco de dados II |18 |6 |90  |
-> |28 | REDCO637 | Rede de computadores |17e14 |6 90  |
+> |28 | REDCO637 | Rede de computadores |17e14 |6 |90  |
 > |29 | SISTO637 | Sistemas operacionais |17 |6 |90  |
 > |30 | LIFAU637 | Linguagens formais e automatos | 11,10e19 |6 |90  |
 
@@ -90,22 +90,22 @@ Grade curricular do curso de Ciências da Computação - 2006.1 - 2007.1
 >
 > | Nº  | código | nome | pré-requizito | nº de créditos | horas-aula |
 > | --- | ------ | ---- | ------------- | -------------- | ---------- |
-> | 35 | COMPS837 | Computadores e sociedade | 2 |4 60  |
-> | 36 | ESTA1837 | Estágio supervisionado I | n |12 180  |
-> | 37 | COMPG937 | Computação gráfica | 24e11 | 6 90  |
-> | 38 | ESTA2937 | Estágio supervisionado II | 36 | 20 300  |
+> | 35 | COMPS837 | Computadores e sociedade | 2 |4 |60  |
+> | 36 | ESTA1837 | Estágio supervisionado I | n |12 |180  |
+> | 37 | COMPG937 | Computação gráfica | 24e11 | 6 |90  |
+> | 38 | ESTA2937 | Estágio supervisionado II | 36 | 20 |300  |
 
 >[!summary]- Disciplinas Optativas
 >
-> | Nº  | código | nome | pré-requizito | nº de créditos | horas-aula |
-> | --- | ------ | ---- | ------------- | -------------- | ---------- |
+> | código | nome | pré-requizito | nº de créditos | horas-aula |
+> | ------ | ---- | ------------- | -------------- | ---------- |
 > | CONGR037 | Contabilidade geral |n |4 |60  |
 > | DILEG037 | Direito e legislação |n |4 |60 | 
 > | EMPRE037 | Empreendedorismo |n |4 |60  |
 > | INETC037 | Introdução a economia |n |4 |60  |
 > | PROLI037 | Programação linear |n |4 |60  |
 > | GERDC037 | Gerenciamento de rede de computadores |28 |4 |60  |
-> | LPRG2037 | Linguagem de programação II |11 |4 60  |
+> | LPRG2037 | Linguagem de programação II |11 |4 |60  |
 > | MACFI037 | Matemática comercial e financeira |n |4 |60  |
 > | INTAD037 | Introdução a administração |n |4 |60  |
 > | TOAVC037 | Tópicos avançados em computação |s |4 |60|
