@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/ferramentas-de-ia/claude-code/","title":"ClaudeCode","metatags":{"description":"agente que pode executar tarefas complexas de programação e automação de ponta a ponta"},"noteIcon":2,"updated":"2026-07-02T10:54:48.542-03:00","dg-note-properties":{"title":"ClaudeCode","topics":["[[Inteligencia Artificial]]"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/ferramentas-de-ia/claude-code/","title":"ClaudeCode","metatags":{"description":"agente que pode executar tarefas complexas de programação e automação de ponta a ponta"},"noteIcon":2,"updated":"2026-07-02T11:04:00.333-03:00","dg-note-properties":{"title":"ClaudeCode","topics":["[[Inteligencia Artificial]]"]}}
 ---
 
 # Claude Code Guia Avançado: Dominando Agentes Multiplicadores
@@ -305,3 +305,4 @@ graph TD
 - **Community Skills Repository:** awesome-claude-skills no GitHub  
 - **Sub-Agent Patterns:** Padrões de paralelismo para complexidade escalável em produção real
 - Este guia é baseado na demonstração prática da [Claude Code MasterClass - Do ZERO ao EXPERT em 30 minutos](https://www.youtube.com/watch?v=CDrPw6vvxwc)
+- [O Guia Completo do Claude em 2026: Os 5 Níveis de Uso (Iniciante ao Avançado) - YouTube](https://www.youtube.com/watch?v=R8zzSZTXzb4)
