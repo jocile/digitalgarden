@@ -1,48 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/12-projetos-de-software/repositorios-do-git-hub/","metatags":{"description":"repositórios totalmente organizados e separados em tabelas exclusivas para cada tecnologia"},"noteIcon":3,"updated":"2026-06-17T08:05:27.250-03:00","dg-note-properties":{"topics":["Projetos de aplicativos"]}}
+{"dg-publish":true,"permalink":"/12-projetos-de-software/repositorios-do-git-hub/","metatags":{"description":"repositórios totalmente organizados e separados em tabelas exclusivas para cada tecnologia"},"noteIcon":3,"updated":"2026-06-25T18:48:31.896-03:00","dg-note-properties":{"topics":["Projetos de aplicativos"]}}
 ---
 
 #Projeto 
 
 >[!info] Aqui está um painel consolidado exibindo a contagem exata e a distribuição dos seus **119 projetos** mapeados a partir dos [Repositórios do GitHub de Jocilé](https://github.com/jocile?tab=repositories), classificados pela quantidade de repositórios em cada ecossistema:
 
-| **#** | **Tecnologia / Ecossistema**                                                           | **Quantidade de Projetos** | **Principais Focos e Frameworks**                                 |
-| ----- | -------------------------------------------------------------------------------------- | -------------------------- | ----------------------------------------------------------------- |
-| **1** | [[12-Projetos-de-Software/Repositórios do GitHub#☕ Java (Spring Boot, JPA, POO e Android)\|#☕ Java (Spring Boot, JPA, POO e Android)]]                                          | **40**                     | Framework Spring, Hibernate, TDD, APIs REST e Android Studio      |
-| **2** | [[12-Projetos-de-Software/Repositórios do GitHub#💻 Python / Jupyter Notebook / Ciência de Dados\|#💻 Python / Jupyter Notebook / Ciência de Dados]]                                   | **19**                     | Scripts de automação, IA (Docling/Ollama), Pandas, Streamlit e ML |
-| **3** | [[12-Projetos-de-Software/Repositórios do GitHub#📝 Markdown / Obsidian / Documentação\|#📝 Markdown / Obsidian / Documentação]]                                             | **16**                     | Notas de estudos pessoais, material didático, Quartz e Wikis      |
-| **4** | [[12-Projetos-de-Software/Repositórios do GitHub#🎨 HTML / CSS (Web Design & Clones)\|#🎨 HTML / CSS (Web Design & Clones)]]                                               | **15**                     | Clones de interfaces (HBO, YouTube), Landing Pages e Web Design   |
-| **5** | [[12-Projetos-de-Software/Repositórios do GitHub#🌐 JavaScript / TypeScript / React / Front-End\|#🌐 JavaScript / TypeScript / React / Front-End]]                                    | **13**                     | Front-end interativo, consumo de APIs do GitHub e bibliotecas UI  |
-| **6** | [[12-Projetos-de-Software/Repositórios do GitHub#🐘 PHP / Laravel / Backend Web\|#🐘 PHP / Laravel / Backend Web]]                                                    | **4**                      | Framework Laravel, APIs básicas e projetos web estruturados       |
-| **7** | [[12-Projetos-de-Software/Repositórios do GitHub#📊 Excel - Planilhas\|#📊 Excel - Planilhas]]                                                              | **2**                      | Ferramentas de simulação de investimentos e planilhas básicas     |
+| **#** | **Tecnologia / Ecossistema**                                                    | **Quantidade de Projetos** | **Principais Focos e Frameworks**                                 |
+| ----- | ------------------------------------------------------------------------------- | -------------------------- | ----------------------------------------------------------------- |
+| **1** | [[12-Projetos-de-Software/Repositórios do GitHub#☕ Java (Spring Boot, JPA, POO e Android)\|#☕ Java (Spring Boot, JPA, POO e Android)]]                                   | **40**                     | Framework Spring, Hibernate, TDD, APIs REST e Android Studio      |
+| **2** | [[12-Projetos-de-Software/Repositórios do GitHub#💻 Python / Jupyter Notebook / Ciência de Dados\|#💻 Python / Jupyter Notebook / Ciência de Dados]]                            | **19**                     | Scripts de automação, IA (Docling/Ollama), Pandas, Streamlit e ML |
+| **3** | [[12-Projetos-de-Software/Repositórios do GitHub#🎨 HTML / CSS (Web Design & Clones)\|#🎨 HTML / CSS (Web Design & Clones)]]                                        | **15**                     | Clones de interfaces (HBO, YouTube), Landing Pages e Web Design   |
+| **4** | [[12-Projetos-de-Software/Repositórios do GitHub#📝 Markdown / Obsidian / Documentação\|#📝 Markdown / Obsidian / Documentação]]                                      | **15**                     | Notas de estudos pessoais, material didático, Quartz e Wikis      |
+| **5** | [[12-Projetos-de-Software/Repositórios do GitHub#🌐 JavaScript / TypeScript / React / Front-End\|#🌐 JavaScript / TypeScript / React / Front-End]]                             | **14**                     | Front-end interativo, consumo de APIs do GitHub e bibliotecas UI  |
+| **6** | [[12-Projetos-de-Software/Repositórios do GitHub#🐘 PHP / Laravel / Backend Web\|#🐘 PHP / Laravel / Backend Web]]                                             | **4**                      | Framework Laravel, APIs básicas e projetos web estruturados       |
+| **7** | [[12-Projetos-de-Software/Repositórios do GitHub#📊 Excel - Planilhas\|#📊 Excel - Planilhas]]                                                       | **2**                      | Ferramentas de simulação de investimentos e planilhas básicas     |
 | **8** | [[12-Projetos-de-Software/Repositórios do GitHub#💎 Outras Tecnologias e Ferramentas (SQL, Ruby/Jekyll, C++, Shell, Config)\|#💎 Outras Tecnologias e Ferramentas (SQL, Ruby/Jekyll, C++, Shell, Config)]] | **10**                     | Hardware (Arduino/C++), Temas Jekyll, Scripts Bash e Modelagem    |
-| **-** | **🔧 Total Geral de Repositórios**                                                     | **119**                    | _Mapeamento completo do histórico do GitHub_                      |
+| **-** | **🔧 Total Geral de Repositórios**                                              | **119**                    | _Mapeamento completo do histórico do GitHub_                      |
 
 >[!summary] 💡 Aqui estão os seus repositórios totalmente organizados e separados em tabelas exclusivas para cada tecnologia ou ecossistema de desenvolvimento.
-
-### 💻 Python / Jupyter Notebook / Ciência de Dados
-
-| **Link do Repositório**                                                                                 | **Descrição**                                                                                            | **Última Atualização** |
-| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------- |
-| [jocile/Algebra-Linear-com-Python](https://github.com/jocile/Algebra-Linear-com-Python)                 | Aplicações práticas de tópicos de Álgebra Linear utilizando Python no Jupyter (Forked).                  | 23 de Fev de 2021      |
-| [jocile/Aulas-de-python](https://github.com/jocile/Aulas-de-python)                                     | Repositório contendo exercícios e scripts das aulas de Python.                                           | 18 de Nov de 2024      |
-| [jocile/Banco-de-dados-com-python](https://github.com/jocile/Banco-de-dados-com-python)                 | Exemplos de acesso e integração de bancos de dados com Python (Forked).                                  | 28 de Set de 2022      |
-| [jocile/Dashboard-Streamlit-Pandas-Plotly](https://github.com/jocile/Dashboard-Streamlit-Pandas-Plotly) | Dashboard interativo construído em Python utilizando Streamlit, Pandas e Plotly.                         | Recente / Ativo        |
-| [jocile/django-os-primeiros-passos](https://github.com/jocile/django-os-primeiros-passos)               | Experimentos iniciais e rotas usando o framework Django (Forked).                                        | 04 de Set de 2018      |
-| [jocile/djangotutorial](https://github.com/jocile/djangotutorial)                                       | Repositório de acompanhamento do tutorial oficial do Django.                                             | 05 de Dez de 2024      |
-| [jocile/Docling-gpu-ollama](https://github.com/jocile/Docling-gpu-ollama)                               | Script em Python desenvolvido para processar e converter documentos PDF utilizando a biblioteca Docling. | Recente / Ativo        |
-| [jocile/exemplos-de-python](https://github.com/jocile/exemplos-de-python)                               | Exemplos de programação com Python (Forked).                                                             | 31 de Mai de 2024      |
-| [jocile/flask-colab](https://github.com/jocile/flask-colab)                                             | Criando uma api no Colab com flask.                                                                      | 27 de Jun de 2024      |
-| [jocile/image-processing-package](https://github.com/jocile/image-processing-package)                   | Exercício prático focado na criação de pacotes de processamento de imagem em Python (Forked).            | 30 de Mai de 2025      |
-| [jocile/meus](https://github.com/jocile/meus)                                                           | Testes de exercícios em sala de aula (Forked).                                                           | 28 de Mai de 2024      |
-| [jocile/Minha-Biblioteca-Tkinter](https://github.com/jocile/Minha-Biblioteca-Tkinter)                   | Exemplo simples de interface gráfica Desktop construída em Python (Forked).                              | 20 de Set de 2015      |
-| [jocile/projeto-cadastro-de-alunos](https://github.com/jocile/projeto-cadastro-de-alunos)               | Projeto integrador da equipe de programador de sistemas do curso do Senac.                               | 11 de Jul de 2024      |
-| [jocile/projeto-conta-bancaria](https://github.com/jocile/projeto-conta-bancaria)                       | Projeto integrador da equipe de programador de sistemas do curso do Senac (Kivy).                        | 11 de Jul de 2024      |
-| [jocile/reducao-de-dimensionalidade](https://github.com/jocile/reducao-de-dimensionalidade)             | Desafio de Projeto: Redução de Dimensionalidade em Imagens para Redes Neurais da DIO.me.                 | 25 de Jun de 2025      |
-| [jocile/sistema-bancario](https://github.com/jocile/sistema-bancario)                                   | Desafio da trilha Python DIO.                                                                            | 02 de Jun de 2024      |
-| [jocile/teste](https://github.com/jocile/teste)                                                         | Uso para meus arquivos da aula de python.                                                                | 17 de Out de 2024      |
-| [jocile/TransferLearning](https://github.com/jocile/TransferLearning)                                   | Desafio de aplicar o método de Transfer Learning em uma rede de Deep Learning no Colab.                  | 23 de Mar de 2025      |
-| [jocile/nutrilab](https://github.com/jocile/nutrilab)                                                   | Client management system for nutritionists                                                               | 09 de Jul de 2022      |
 
 ### ☕ Java (Spring Boot, JPA, POO e Android)
 
@@ -89,6 +65,50 @@
 | [jocile/bancodigital](https://github.com/jocile/bancodigital)                             | Exercicios em sala de aula                                                                 | 19 de Ago de 2022       |
 | [jocile/desafio-poo-dio](https://github.com/jocile/desafio-poo-dio)                       | Desafio de código                                                                          | 25 de Mar de 2022       |
 
+### 💻 Python / Jupyter Notebook / Ciência de Dados
+
+| **Link do Repositório**                                                                                 | **Descrição**                                                                                            | **Última Atualização** |
+| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------- |
+| [jocile/Algebra-Linear-com-Python](https://github.com/jocile/Algebra-Linear-com-Python)                 | Aplicações práticas de tópicos de Álgebra Linear utilizando Python no Jupyter (Forked).                  | 23 de Fev de 2021      |
+| [jocile/Aulas-de-python](https://github.com/jocile/Aulas-de-python)                                     | Repositório contendo exercícios e scripts das aulas de Python.                                           | 18 de Nov de 2024      |
+| [jocile/Banco-de-dados-com-python](https://github.com/jocile/Banco-de-dados-com-python)                 | Exemplos de acesso e integração de bancos de dados com Python (Forked).                                  | 28 de Set de 2022      |
+| [jocile/Dashboard-Streamlit-Pandas-Plotly](https://github.com/jocile/Dashboard-Streamlit-Pandas-Plotly) | Dashboard interativo construído em Python utilizando Streamlit, Pandas e Plotly.                         | Recente / Ativo        |
+| [jocile/django-os-primeiros-passos](https://github.com/jocile/django-os-primeiros-passos)               | Experimentos iniciais e rotas usando o framework Django (Forked).                                        | 04 de Set de 2018      |
+| [jocile/djangotutorial](https://github.com/jocile/djangotutorial)                                       | Repositório de acompanhamento do tutorial oficial do Django.                                             | 05 de Dez de 2024      |
+| [jocile/Docling-gpu-ollama](https://github.com/jocile/Docling-gpu-ollama)                               | Script em Python desenvolvido para processar e converter documentos PDF utilizando a biblioteca Docling. | Recente / Ativo        |
+| [jocile/exemplos-de-python](https://github.com/jocile/exemplos-de-python)                               | Exemplos de programação com Python (Forked).                                                             | 31 de Mai de 2024      |
+| [jocile/flask-colab](https://github.com/jocile/flask-colab)                                             | Criando uma api no Colab com flask.                                                                      | 27 de Jun de 2024      |
+| [jocile/image-processing-package](https://github.com/jocile/image-processing-package)                   | Exercício prático focado na criação de pacotes de processamento de imagem em Python (Forked).            | 30 de Mai de 2025      |
+| [jocile/meus](https://github.com/jocile/meus)                                                           | Testes de exercícios em sala de aula (Forked).                                                           | 28 de Mai de 2024      |
+| [jocile/Minha-Biblioteca-Tkinter](https://github.com/jocile/Minha-Biblioteca-Tkinter)                   | Exemplo simples de interface gráfica Desktop construída em Python (Forked).                              | 20 de Set de 2015      |
+| [jocile/projeto-cadastro-de-alunos](https://github.com/jocile/projeto-cadastro-de-alunos)               | Projeto integrador da equipe de programador de sistemas do curso do Senac.                               | 11 de Jul de 2024      |
+| [jocile/projeto-conta-bancaria](https://github.com/jocile/projeto-conta-bancaria)                       | Projeto integrador da equipe de programador de sistemas do curso do Senac (Kivy).                        | 11 de Jul de 2024      |
+| [jocile/reducao-de-dimensionalidade](https://github.com/jocile/reducao-de-dimensionalidade)             | Desafio de Projeto: Redução de Dimensionalidade em Imagens para Redes Neurais da DIO.me.                 | 25 de Jun de 2025      |
+| [jocile/sistema-bancario](https://github.com/jocile/sistema-bancario)                                   | Desafio da trilha Python DIO.                                                                            | 02 de Jun de 2024      |
+| [jocile/teste](https://github.com/jocile/teste)                                                         | Uso para meus arquivos da aula de python.                                                                | 17 de Out de 2024      |
+| [jocile/TransferLearning](https://github.com/jocile/TransferLearning)                                   | Desafio de aplicar o método de Transfer Learning em uma rede de Deep Learning no Colab.                  | 23 de Mar de 2025      |
+| [jocile/nutrilab](https://github.com/jocile/nutrilab)                                                   | Client management system for nutritionists                                                               | 09 de Jul de 2022      |
+
+### 🎨 HTML / CSS (Web Design & Clones)
+
+| **Link do Repositório**                                                                   | **Descrição**                                                                             | **Última Atualização**  |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------- |
+| [jocile/curiculo](https://github.com/jocile/curiculo)                                     | Atividade de desenvolvimento de currículo realizada com os alunos.                        | Consolidado (Histórico) |
+| [jocile/desafio-hbomax-clone](https://github.com/jocile/desafio-hbomax-clone)             | Clone do HBOMax contendo modificações. Desafio de CSS da DIO (Forked).                    | 14 de Mar de 2025       |
+| [jocile/desafio-youtube-clone](https://github.com/jocile/desafio-youtube-clone)           | Desafio da Trilha CSS - Dio.me - Clonando a Página do Youtube com CSS.                    | 12 de Set de 2024       |
+| [jocile/html5-css3-lucas-mazza](https://github.com/jocile/html5-css3-lucas-mazza)         | Estudos práticos do livro "HTML5 e CSS3: Domine a web do futuro" de Lucas Mazza (Forked). | 05 de Fev               |
+| [jocile/site](https://github.com/jocile/site)                                             | Site de portfólio pessoal.                                                                | 01 de Mai de 2024       |
+| [jocile/trilha-css-desafio-01](https://github.com/jocile/trilha-css-desafio-01)           | Desafio da trilha de WebDesigne com CSS da DIO Criando uma landing page.                  | 07 de Set de 2024       |
+| [jocile/trilha-html-modulo-3](https://github.com/jocile/trilha-html-modulo-3)             | Desafio da formação html web developer da DIO (Forked).                                   | 26 de Ago de 2024       |
+| [jocile/Webdesigner-Euclides](https://github.com/jocile/Webdesigner-Euclides)             | Conteúdos do curso de webdesigner (Forked).                                               | 16 de Jul de 2024       |
+| [jocile/webdesign](https://github.com/jocile/webdesign)                                   | Conteúdo de aulas                                                                         | 05 de Dez de 2022       |
+| [jocile/webdesigner](https://github.com/jocile/webdesigner)                               | Arquivos usados na formação de Webdesigner com HTML5 e CSS na DIO.                        | 28 de Jul de 2025       |
+| [jocile/webdesigne-clinica](https://github.com/jocile/webdesigne-clinica)                 | Desafio da trilha de WebDesigne DIO Criando um site de Clínica Médica.                    | 21 de Ago de 2024       |
+| [jocile/webdesigne-senac](https://github.com/jocile/webdesigne-senac)                     | Arquivos utilizados nas aulas de WebDesigne no Senac.                                     | 28 de Jul de 2025       |
+| [jocile/mana-das-ruas](https://github.com/jocile/mana-das-ruas)                           | Projeto de website para serviço de assistencia social                                     | 23 de Mar de 2026       |
+| [jocile/site-teste](https://github.com/jocile/site-teste)                                 | Teste de site                                                                             | 22 de Mar de 2023       |
+| [jocile/curso-nivelamento-html-css](https://github.com/jocile/curso-nivelamento-html-css) | treinamento em webdesign                                                                  | 24 de Mar de 2022       |
+
 ### 📝 Markdown / Obsidian / Documentação
 
 | **Link do Repositório**                                                                                             | **Descrição**                                                                    | **Última Atualização** |
@@ -98,7 +118,6 @@
 | [jocile/aulas](https://github.com/jocile/aulas)                                                                     | Repositório de aulas de cursos técnicos em informática.                          | 05 de Abr de 2024      |
 | [jocile/dio-desafio-github-primeiro-repositorio](https://github.com/jocile/dio-desafio-github-primeiro-repositorio) | Desafio de projeto prático focado nos primeiros comandos de Git/GitHub.          | Histórico Antigo       |
 | [jocile/estudos](https://github.com/jocile/estudos)                                                                 | Notas de formações em diversas áreas técnicas.                                   | 01 de Dez de 2025      |
-| [jocile/estudos-biblicos](https://github.com/jocile/estudos-biblicos)                                               | Meus estudos bíblicos estruturados.                                              | Recente / Ativo        |
 | [jocile/jocile](https://github.com/jocile/jocile)                                                                   | Repositório de perfil pessoal do Jocile Serra (README do perfil).                | 01 de Mai de 2024      |
 | [jocile/jocile.github.io](https://github.com/jocile/jocile.github.io)                                               | Notas e artigos de estudos sobre teologia e aulas de informática (Quartz).       | 21 de Jul de 2024      |
 | [jocile/lab-azure-speech](https://github.com/jocile/lab-azure-speech)                                               | Documentação do uso das ferramentas Azure Speech Studio e Language Studio.       | 17 de Jun de 2025      |
@@ -114,6 +133,7 @@
 
 | **Link do Repositório**                                                                             | **Descrição**                                                                          | **Última Atualização**  |
 | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------- |
+| [jocile/estudos-biblicos](https://github.com/jocile/estudos-biblicos)                               | Meus estudos bíblicos estruturados em Markdown com front-end em [[34-Linguagens-de-Programacao/React/Nextjs/NextJS\|NextJS]]                                       | Recente / Ativo         |
 | [jocile/calculadora](https://github.com/jocile/calculadora)                                         | Desafio calculadora utilizando React.                                                  | 30 de Set de 2025       |
 | [jocile/catalogo-de-carros](https://github.com/jocile/catalogo-de-carros)                           | Desafio com um frontend de catálogo de carros em React (Forked).                       | Consolidado (Histórico) |
 | [jocile/calculadora-de-partidas](https://github.com/jocile/calculadora-de-partidas)                 | Desafio Calculadora de partidas Rankeadas na trilha de lógica da DIO.                  | Consolidado (Histórico) |
@@ -136,26 +156,6 @@
 |[jocile/laravel-api](https://github.com/jocile/laravel-api)|Projeto de API simples usando Laravel, com CRUD básico para gerenciar bandas musicais.|22 de Set de 2025|
 |[jocile/php-exercicios](https://github.com/jocile/php-exercicios)|Exercícios práticos utilizando a linguagem PHP.|16 de Set de 2025|
 |[jocile/sistema-petshop](https://github.com/jocile/sistema-petshop)|Sistema desenvolvido no curso Programação WEB no Senac.|10 de Jul de 2025|
-
-### 🎨 HTML / CSS (Web Design & Clones)
-
-| **Link do Repositório**                                                                   | **Descrição**                                                                             | **Última Atualização**  |
-| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------- |
-| [jocile/curiculo](https://github.com/jocile/curiculo)                                     | Atividade de desenvolvimento de currículo realizada com os alunos.                        | Consolidado (Histórico) |
-| [jocile/desafio-hbomax-clone](https://github.com/jocile/desafio-hbomax-clone)             | Clone do HBOMax contendo modificações. Desafio de CSS da DIO (Forked).                    | 14 de Mar de 2025       |
-| [jocile/desafio-youtube-clone](https://github.com/jocile/desafio-youtube-clone)           | Desafio da Trilha CSS - Dio.me - Clonando a Página do Youtube com CSS.                    | 12 de Set de 2024       |
-| [jocile/html5-css3-lucas-mazza](https://github.com/jocile/html5-css3-lucas-mazza)         | Estudos práticos do livro "HTML5 e CSS3: Domine a web do futuro" de Lucas Mazza (Forked). | 05 de Fev               |
-| [jocile/site](https://github.com/jocile/site)                                             | Site de portfólio pessoal.                                                                | 01 de Mai de 2024       |
-| [jocile/trilha-css-desafio-01](https://github.com/jocile/trilha-css-desafio-01)           | Desafio da trilha de WebDesigne com CSS da DIO Criando uma landing page.                  | 07 de Set de 2024       |
-| [jocile/trilha-html-modulo-3](https://github.com/jocile/trilha-html-modulo-3)             | Desafio da formação html web developer da DIO (Forked).                                   | 26 de Ago de 2024       |
-| [jocile/Webdesigner-Euclides](https://github.com/jocile/Webdesigner-Euclides)             | Conteúdos do curso de webdesigner (Forked).                                               | 16 de Jul de 2024       |
-| [jocile/webdesign](https://github.com/jocile/webdesign)                                   | Conteúdo de aulas                                                                         | 05 de Dez de 2022       |
-| [jocile/webdesigner](https://github.com/jocile/webdesigner)                               | Arquivos usados na formação de Webdesigner com HTML5 e CSS na DIO.                        | 28 de Jul de 2025       |
-| [jocile/webdesigne-clinica](https://github.com/jocile/webdesigne-clinica)                 | Desafio da trilha de WebDesigne DIO Criando um site de Clínica Médica.                    | 21 de Ago de 2024       |
-| [jocile/webdesigne-senac](https://github.com/jocile/webdesigne-senac)                     | Arquivos utilizados nas aulas de WebDesigne no Senac.                                     | 28 de Jul de 2025       |
-| [jocile/mana-das-ruas](https://github.com/jocile/mana-das-ruas)                           | Projeto de website para serviço de assistencia social                                     | 23 de Mar de 2026       |
-| [jocile/site-teste](https://github.com/jocile/site-teste)                                 | Teste de site                                                                             | 22 de Mar de 2023       |
-| [jocile/curso-nivelamento-html-css](https://github.com/jocile/curso-nivelamento-html-css) | treinamento em webdesign                                                                  | 24 de Mar de 2022       |
 
 ### 📊 Excel - Planilhas
 
