@@ -1,0 +1,100 @@
+---
+{"dg-publish":true,"permalink":"/03-diagramas/diagrama-de-agentes.canvas/","contentClasses":"canvas-page","noteIcon":"1","updated":"2026-07-07T19:04:26.353-03:00","dg-note-properties":{"cssclasses":"canvas-page"}}
+---
+
+<div id="Diagrama_de_agentescanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-Diagrama_de_agentescanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-Diagrama_de_agentescanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><marker id="arrow-vartextmuted" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+			<path d="M0,0.5 L5,3 L0,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker>
+		<marker id="arrow-vartextmuted-start" markerWidth="6" markerHeight="6" refX="1" refY="3" orient="auto-start-reverse" markerUnits="strokeWidth">
+			<path d="M6,0.5 L1,3 L6,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs><path d="M 120 310 C 411.3417237540823 310, 348.6582762459177 -200, 640 -200" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="832f50de9361943d"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 120 310 C 350.7899477880265 310, 409.2100522119735 560, 640 560" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="bae6f19678b10aa5"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 120 310 C 581.5278973149944 310, 178.47210268500555 1340, 640 1340" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="0602d3cf63a08272"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1220 -200 C 1372.0526224699856 -200, 1447.9473775300144 -210, 1600 -210" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="feda4414c71a9c28"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1220 1340 C 1372 1340, 1448 1340, 1600 1340" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="2c99bd60a1e0282c"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1220 1340 C 1545.650118992762 1340, 1274.349881007238 2060, 1600 2060" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="aea2286dd03142a1"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 120 310 C 654.1610244111788 310, 105.8389755888212 -920, 640 -920" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="ef64a2e79fe8685d"  marker-end="url(#arrow-vartextmuted)" />
+		</svg>
+		<div class="canvas-node canvas-node-file " data-node-id="b7272df7e9740882" data-file-path="23-Inteligencia-Artificial/Skills.md" style="transform: translate(640px, -480px); width: 580px; height: 560px; ">
+	<div class="canvas-node-label">Skills</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/23-inteligencia-artificial/skills//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="1ee2cc056c8b36f9" data-file-path="23-Inteligencia-Artificial/RAG - Retrieval Augmented Generation.md" style="transform: translate(640px, 240px); width: 580px; height: 640px; ">
+	<div class="canvas-node-label">RAG - Retrieval Augmented Generation</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/23-inteligencia-artificial/rag-retrieval-augmented-generation//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="78538bd37e63aea3" data-file-path="23-Inteligencia-Artificial/agentes/agentes de ia.md" style="transform: translate(-520px, -140px); width: 640px; height: 900px; ">
+	<div class="canvas-node-label">agentes de ia</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/23-inteligencia-artificial/agentes/agentes-de-ia//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="06465db79904c67c" data-file-path="23-Inteligencia-Artificial/agentes/Análise de agentes/02 - A personalidade do agente.md" style="transform: translate(640px, 1040px); width: 580px; height: 600px; ">
+	<div class="canvas-node-label">02 - A personalidade do agente</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/23-inteligencia-artificial/agentes/analise-de-agentes/02-a-personalidade-do-agente//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="02e06c298a59d668" data-file-path="23-Inteligencia-Artificial/agentes/Análise de agentes/01 - Taxonomia de Skills.md" style="transform: translate(1600px, -500px); width: 560px; height: 580px; ">
+	<div class="canvas-node-label">01 - Taxonomia de Skills</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/23-inteligencia-artificial/agentes/analise-de-agentes/01-taxonomia-de-skills//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="86ba27afb3955b4f" data-file-path="23-Inteligencia-Artificial/parametros de LLM/System Prompt.md" style="transform: translate(1600px, 1040px); width: 600px; height: 600px; ">
+	<div class="canvas-node-label">System Prompt</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/23-inteligencia-artificial/parametros-de-llm/system-prompt//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="53bf0fe809acc34b" data-file-path="23-Inteligencia-Artificial/parametros de LLM/Definindo a Personalidade do Agente de IA.md" style="transform: translate(1600px, 1760px); width: 600px; height: 600px; ">
+	<div class="canvas-node-label">Definindo a Personalidade do Agente de IA</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/23-inteligencia-artificial/parametros-de-llm/definindo-a-personalidade-do-agente-de-ia//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="7fc815cbe5b424f2" data-file-path="23-Inteligencia-Artificial/agentes/Fundamentos e Arquitetura de Agentes Autônomos.md" style="transform: translate(640px, -1240px); width: 580px; height: 640px; ">
+	<div class="canvas-node-label">Fundamentos e Arquitetura de Agentes Autônomos</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/23-inteligencia-artificial/agentes/fundamentos-e-arquitetura-de-agentes-autonomos//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+	</div>
+</div>
