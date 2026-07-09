@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-inteligencia-artificial/ferramentas-de-ia/claude-code/","title":"ClaudeCode","metatags":{"description":"agente que pode executar tarefas complexas de programação e automação de ponta a ponta"},"noteIcon":2,"updated":"2026-07-02T11:04:00.333-03:00","dg-note-properties":{"title":"ClaudeCode","topics":["[[Inteligencia Artificial]]"]}}
+{"dg-publish":true,"permalink":"/23-inteligencia-artificial/ferramentas-de-ia/claude-code/","title":"ClaudeCode","metatags":{"description":"agente que pode executar tarefas complexas de programação e automação de ponta a ponta"},"noteIcon":2,"updated":"2026-07-08T15:30:52.965-03:00","dg-note-properties":{"title":"ClaudeCode","topics":["[[Inteligencia Artificial]]"]}}
 ---
 
 # Claude Code Guia Avançado: Dominando Agentes Multiplicadores
@@ -41,10 +41,7 @@ O **[[23-Inteligencia-Artificial/Model Context Protocol\|Model Context Protocol]
 
 #### Passo 1: Obter o Connector URL da Ferramenta Externa
 
-```markdown
-# Exemplo para Asimov Academy Sketchpad:
 Copie o connector URL fornecido pela ferramenta de integração
-```
 
 **Exemplos práticos:**
 - **Figma:** Conecte-se para ler/arquivar designs com prompts como *"Me mostre as capas dos projetos anteriores"*
@@ -89,7 +86,7 @@ Copie o connector URL fornecido pela ferramenta de integração
 
 ````markdown
 ---
-skill: "frontend-design-expert"
+name: "frontend-design-expert"
 trigger-context: ["design", "dashboard", "layout", "ui"]
 description: >-
   Especialista em design frontend para criar interfaces modernas e funcionais
@@ -187,14 +184,18 @@ Crie um arquivo de contexto compartilhado que todos os sub-agentes receberão:
 ```markdown
 # Dashboard Design Challenge - Briefing Common
 
-**Objetivo:** Criar variações inovadoras do dashboard de vendas baseado no design system fornecido.
+**Objetivo:** 
+
+Criar variações inovadoras do dashboard de vendas baseado no design system fornecido.
 
 **Requisitos obrigatórios para TODOS os agentes:**
+
 - Respeitar estritamente o sistema de cores e tipografia definido
 - Manter consistência com os dados da DT7 (pasta anexada)
 - Focar em UI única, não funcional diferente dos outros
 
 **Critérios de sucesso:**
+
 1. Originalidade visual > familiaridade
 2. Clareza hierárquica entre métricas principais/secundárias  
 3. Navegação intuitiva e descoberta natural da informação

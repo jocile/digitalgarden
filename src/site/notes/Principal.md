@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-06-22T13:18:06.313-03:00","dg-note-properties":{"class":"mapa","title":"Principal","excalidraw-plugin":"parsed","excalidraw-export-dark":false,"excalidraw-autoexport":"svg","excalidraw-export-transparent":true,"excalidraw-open-md":true,"cssclasses":["cards","cards-cols-3"]}}
+{"dg-publish":true,"permalink":"/principal/","title":"Principal","metatags":{"description":"Site de anotações sobre estudos do professor Jocilé"},"pinned":true,"contentClasses":"cards cards-cols-3","tags":["gardenEntry"],"noteIcon":"default","updated":"2026-07-07T19:40:41.752-03:00","dg-note-properties":{"class":"mapa","title":"Principal","excalidraw-plugin":"parsed","excalidraw-export-dark":false,"excalidraw-autoexport":"svg","excalidraw-export-transparent":true,"excalidraw-open-md":true,"cssclasses":["cards","cards-cols-3"]}}
 ---
 
 ## Olá 👋
