@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-diagramas/modelagem-pedagogica.canvas/","contentClasses":"canvas-page","noteIcon":"1","updated":"2026-07-11T18:56:42.007-03:00","dg-note-properties":{"cssclasses":"canvas-page"}}
+{"dg-publish":true,"permalink":"/03-diagramas/modelagem-pedagogica.canvas/","contentClasses":"canvas-page","noteIcon":"1","updated":"2026-07-12T10:54:55.900-03:00","dg-note-properties":{"cssclasses":"canvas-page"}}
 ---
 
 <div id="Modelagem_pedagógicacanvas" class="canvas-wrapper hide">
@@ -27,11 +27,11 @@
 		</filter></defs><path d="M 500 330 C 764 330, 896 330, 1160 330" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="2882048ff4129aff"  marker-end="url(#arrow-vartextmuted)" />
 <path d="M 1960 330 C 2184 330, 2296 330, 2520 330" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="73974e8319070e43"  marker-end="url(#arrow-vartextmuted)" />
 <path d="M 3280 330 C 3504 330, 3616 330, 3840 330" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="ef7ca37614535e63"  marker-end="url(#arrow-vartextmuted)" />
-<path d="M 4640 330 C 4960 330, 5120 330, 5440 330" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="c926cf8a76bbebae"  marker-end="url(#arrow-vartextmuted)" />
 <path d="M 500 330 C 1097.4880751948108 330, 562.5119248051891 1670, 1160 1670" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="eb8b9961e1eb2513"  marker-end="url(#arrow-vartextmuted)" />
 <path d="M 1960 1670 C 2184 1670, 2296 1670, 2520 1670" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="f5afc6cfefca7db1"  marker-end="url(#arrow-vartextmuted)" />
 <path d="M 1960 1670 C 2518.8559742903353 1670, 1961.1440257096647 2950, 2520 2950" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="17c4dbd5c6303a89"  marker-end="url(#arrow-vartextmuted)" />
 <path d="M 150 800 C 150 996, 150 1094, 150 1290" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="30972eaec0d7e543"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1960 330 C 2520.0571399419887 330, 1919.9428600580115 -970, 2480 -970" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="173bfc8230532441"  marker-end="url(#arrow-vartextmuted)" />
 		</svg>
 		<div class="canvas-node canvas-node-file " data-node-id="6b5f61721f1746ca" data-file-path="36-Metodologias-Didaticas/Metodologias.md" style="transform: translate(1160px, -140px); width: 800px; height: 940px; ">
 	<div class="canvas-node-label">Metodologias</div>
@@ -65,14 +65,6 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="eaac20b0481fff99" data-file-path="36-Metodologias-Didaticas/Aprendizagem.md" style="transform: translate(5440px, -140px); width: 800px; height: 940px; ">
-	<div class="canvas-node-label">Aprendizagem</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/36-metodologias-didaticas/aprendizagem//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
 <div class="canvas-node canvas-node-file " data-node-id="3c4f9ff276eb201a" data-file-path="36-Metodologias-Didaticas/Situacao de aprendizagem.md" style="transform: translate(1160px, 1200px); width: 800px; height: 940px; ">
 	<div class="canvas-node-label">Situacao de aprendizagem</div>
 	<div class="canvas-node-container">
@@ -102,6 +94,14 @@
 	<div class="canvas-node-container">
 		<div class="canvas-node-content">
 			<iframe src="https://extranet.senac.br/modelopedagogicosenac/index.html" class="canvas-link-iframe" loading="lazy" sandbox="allow-scripts allow-same-origin"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="eaac20b0481fff99" data-file-path="36-Metodologias-Didaticas/Aprendizagem.md" style="transform: translate(2480px, -1440px); width: 800px; height: 940px; ">
+	<div class="canvas-node-label">Aprendizagem</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/36-metodologias-didaticas/aprendizagem//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
