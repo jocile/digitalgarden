@@ -1,0 +1,59 @@
+---
+{"dg-publish":true,"permalink":"/03-diagramas/machine-learning-especialist.canvas/","contentClasses":"canvas-page","noteIcon":"1","updated":"2026-07-15T17:51:32.753-03:00","dg-note-properties":{"cssclasses":"canvas-page"}}
+---
+
+<div id="Machine_Learning_Especialistcanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-Machine_Learning_Especialistcanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-Machine_Learning_Especialistcanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><marker id="arrow-vartextmuted" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+			<path d="M0,0.5 L5,3 L0,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker>
+		<marker id="arrow-vartextmuted-start" markerWidth="6" markerHeight="6" refX="1" refY="3" orient="auto-start-reverse" markerUnits="strokeWidth">
+			<path d="M6,0.5 L1,3 L6,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs><path d="M 180 -9.5 C 230 -9.5, 230 -9.5, 280 -9.5" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="f3e2f94bb60fcf2d"  marker-end="url(#arrow-vartextmuted)" />
+		</svg>
+		<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="1eaeb62c7424fa85" style="transform: translate(-280px, -479px); width: 460px; height: 939px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/32-Formacao/Machine%20Learning%20Especialist.svg" alt="Machine Learning Especialist.svg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-link " data-node-id="f5f77b93cc0609fd" style="transform: translate(280px, -479px); width: 640px; height: 939px; ">
+	<div class="canvas-node-label">jocile.com</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content">
+			<iframe src="https://jocile.com/32-formacao/machine-learning-especialist/" class="canvas-link-iframe" loading="lazy" sandbox="allow-scripts allow-same-origin"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="54f78821c97683b0" style="transform: translate(440px, -570px); width: 260px; height: 60px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="W01hY2hpbmUgTGVyYW5pbmcgRXNwZWNpYWxpc3RdKGh0dHBzOi8vam9jaWxlLmNvbS8zMi1mb3JtYWNhby9tYWNoaW5lLWxlYXJuaW5nLWVzcGVjaWFsaXN0Lyk="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="2d2a0cee7d69769f" style="transform: translate(-200px, -570px); width: 260px; height: 60px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="W1szMi1Gb3JtYWNhby9NYWNoaW5lIExlYXJuaW5nIEVzcGVjaWFsaXN0XHxNYWNoaW5lIExlYXJuaW5nIEVzcGVjaWFsaXN0XV0="></div>
+		</div>
+	</div>
+</div>
+	</div>
+</div>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/32-formacao/excel-com-inteligencia-artificial/","metatags":{"description":"Entendendo as principais fórmulas e dominando as principais práticas do mercado para tratar e exibir dados em relatórios com eficiência e o apoio da IA"},"tags":["Formação","Agentes","Inteligencia-artificial","Excel","Powerbi","Dashboard"],"noteIcon":"default","updated":"2026-04-05T10:58:24.680-03:00","dg-note-properties":{"class":"classe-formacao","topics":["Excel","Copilot","Dashboards"],"status":"🏗️ in-progress","horas-aula":26,"habilidades":["GitHub Copilot","Inteligência Artificial","Excel"],"link":"[DIO - Santander - Excel com Inteligência Artificial - 2º Semestre](https://web.dio.me/track/santander-excel-com-inteligencia-artificial)","certificado":null,"started":"2026-04-02","finished":null,"tags":["Formação","Agentes","Inteligencia-artificial","Excel","Powerbi","Dashboard"]}}
+{"dg-publish":true,"permalink":"/32-formacao/excel-com-inteligencia-artificial/","metatags":{"description":"Entendendo as principais fórmulas e dominando as principais práticas do mercado para tratar e exibir dados em relatórios com eficiência e o apoio da IA"},"tags":["Formação","Agentes","Inteligencia-artificial","Excel","Powerbi","Dashboard"],"noteIcon":"default","updated":"2026-07-14T19:07:54.508-03:00","dg-note-properties":{"class":"classe-formacao","topics":["Excel","Copilot","Dashboards"],"status":"🏗️ in-progress","horas-aula":26,"habilidades":["GitHub Copilot","Inteligência Artificial","Excel"],"link":"[DIO - Santander - Excel com Inteligência Artificial - 2º Semestre](https://web.dio.me/track/santander-excel-com-inteligencia-artificial)","certificado":null,"started":"2026-04-02","finished":null,"tags":["Formação","Agentes","Inteligencia-artificial","Excel","Powerbi","Dashboard"]}}
 ---
 
 
@@ -35,11 +35,11 @@
 > - Desafio de código: Lógica com Funções de Texto no Excel
 
 > [!summary]- Criando Dashboards com Excel
-Introdução a Dashboards
-Trabalhando com Microsoft Copilot
-Utilizando Microsoft Copilot para escrever consultas SQL
-Criando um Processo de ETL com Excel e Power Query
-Analisando Bases de Dados com Excel e Copilot
-Desafio de projeto: Criando um Dashboard de Vendas do Xbox com Excel
+> - Introdução a Dashboards
+> - Trabalhando com Microsoft Copilot
+> - Utilizando Microsoft Copilot para escrever consultas SQL
+> - Criando um Processo de ETL com Excel e Power Query
+> - Analisando Bases de Dados com Excel e Copilot
+> - Desafio de projeto: Criando um Dashboard de Vendas do Xbox com Excel
 
 [[32-Formacao/Formacao Overview\|Formacao Overview]] - [[32-Formacao/Excel e Power BI Dashboards\|Excel e Power BI Dashboards]]
