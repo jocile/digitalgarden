@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/32-formacao/boot-camp-react/","metatags":{"description":"Lista de disciplinas da formação"},"tags":["Formação","Webdesign"],"noteIcon":"default","updated":"2026-04-05T10:56:42.193-03:00","dg-note-properties":{"class":"classe-formacao","status":"✅ done","horas-aula":160,"habilidades":["ReactJS","TypeScript","CRUD","dashboard"],"link":"[Prof. Nelio Alves - Devsuperior: Escola de Programação](https://web.dio.me/track/santander-excel-com-inteligencia-artificial)","certificado":"![BootCamp React.png](/img/user/04-Anexos/images/certicados/BootCamp%20React.png)","started":"2021-11-15","finished":"2024-03-27","tags":["Formação","Webdesign"]}}
+{"dg-publish":true,"permalink":"/32-formacao/boot-camp-react/","metatags":{"description":"Lista de disciplinas da formação"},"tags":["Formação","Webdesign"],"noteIcon":"default","updated":"2026-07-16T12:33:51.430-03:00","dg-note-properties":{"class":"classe-formacao","status":"✅ done","horas-aula":160,"habilidades":["ReactJS","TypeScript","CRUD","dashboard"],"link":"[Prof. Nelio Alves - Devsuperior: Escola de Programação](https://web.dio.me/track/santander-excel-com-inteligencia-artificial)","certificado":"![BootCamp React.png](/img/user/04-Anexos/images/certicados/BootCamp%20React.png)","started":"2021-11-15","finished":"2024-03-27","tags":["Formação","Webdesign"]}}
 ---
 
 # BootCamp React

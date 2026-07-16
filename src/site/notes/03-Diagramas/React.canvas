@@ -1,0 +1,136 @@
+---
+{"dg-publish":true,"permalink":"/03-diagramas/react.canvas/","contentClasses":"canvas-page","tags":["React","Webdesign","web-developer"],"noteIcon":"1","updated":"2026-07-16T12:30:11.566-03:00","dg-note-properties":{"tags":["React","Webdesign","web-developer"],"cssclasses":"canvas-page"}}
+---
+
+<div id="Reactcanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-Reactcanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-Reactcanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><marker id="arrow-vartextmuted" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+			<path d="M0,0.5 L5,3 L0,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker>
+		<marker id="arrow-vartextmuted-start" markerWidth="6" markerHeight="6" refX="1" refY="3" orient="auto-start-reverse" markerUnits="strokeWidth">
+			<path d="M6,0.5 L1,3 L6,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs><path d="M -1220 -700 C -862.4975524559306 -700, -897.5024475440694 -120, -540 -120" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="6758fe15884a3259"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -1220 340 C -891.6099879716194 340, -868.3900120283806 -120, -540 -120" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="d07650e727199e37"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -3440 340 C -3440 508, -3440 592, -3440 760" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="cbfa23c898819102"  marker-end="url(#arrow-vartextmuted)" /><text x="-3440" y="550" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">Framework</text>
+<path d="M -3440 -760 C -3440 -944, -3440 -1036, -3440 -1220" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="513f6d0539e51269"  marker-end="url(#arrow-vartextmuted)" /><text x="-3440" y="-990" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">Biblioteca</text>
+<path d="M -3440 1860 C -3440 2012, -3440 2088, -3440 2240" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="a840ea2d3a3134cf"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -2960 -210 C -2557.110436968144 -210, -2482.889563031856 -700, -2080 -700" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="bdae86c78fcc94a5"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -2960 -210 C -2544.9048301895095 -210, -2495.0951698104905 340, -2080 340" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="87ce14372f2629f5"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -2960 1310 C -2608 1310, -2432 1310, -2080 1310" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="d409ebae7f3cbd5a"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -2960 1310 C -2341.964402319737 1310, -2698.035597680263 2580, -2080 2580" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="ff771bf49c2cb3af"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -1220 2580 C -960 2580, -830 2580, -570 2580" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="b5f7c7f54384d574"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -1220 1310 C -926.599250171374 1310, -833.400749828626 1035, -540 1035" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="0d7ac7ebeb064b51"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -1220 1310 C -924.2974467475805 1310, -835.7025532524195 1600, -540 1600" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="53a0e98ea28a5405"  marker-end="url(#arrow-vartextmuted)" />
+		</svg>
+		<div class="canvas-node canvas-node-file " data-node-id="1e1e4354b17ec442" data-file-path="34-Linguagens-de-Programacao/React/React e NextJS.md" style="transform: translate(-3920px, -760px); width: 960px; height: 1100px; ">
+	<div class="canvas-node-label">React e NextJS</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/34-linguagens-de-programacao/react/react-e-next-js//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="3916852917dea24b" data-file-path="34-Linguagens-de-Programacao/React/Nextjs/NextJS.md" style="transform: translate(-3920px, 760px); width: 960px; height: 1100px; ">
+	<div class="canvas-node-label">NextJS</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/34-linguagens-de-programacao/react/nextjs/next-js//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-link " data-node-id="e23308d407a3253f" style="transform: translate(-3920px, -2320px); width: 960px; height: 1100px; ">
+	<div class="canvas-node-label">pt-br.react.dev</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content">
+			<iframe src="https://pt-br.react.dev/" class="canvas-link-iframe" loading="lazy" sandbox="allow-scripts allow-same-origin"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-link " data-node-id="0724e929d919e04a" style="transform: translate(-3920px, 2240px); width: 960px; height: 1100px; ">
+	<div class="canvas-node-label">nextjs.org</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content">
+			<iframe src="https://nextjs.org/" class="canvas-link-iframe" loading="lazy" sandbox="allow-scripts allow-same-origin"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="4282372167831384" data-file-path="32-Formacao/Formação React Developer.md" style="transform: translate(-2080px, -1120px); width: 860px; height: 840px; ">
+	<div class="canvas-node-label">Formação React Developer</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/32-formacao/formacao-react-developer//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="cf81c7b5d1070844" data-file-path="32-Formacao/BootCamp React.md" style="transform: translate(-2080px, -80px); width: 860px; height: 840px; ">
+	<div class="canvas-node-label">BootCamp React</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/32-formacao/boot-camp-react//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="d8136500cedf070b" style="transform: translate(-540px, -520px); width: 1080px; height: 800px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="CjxkaXYgY2xhc3M9InRyYW5zY2x1c2lvbiBpbnRlcm5hbC1lbWJlZCBpcy1sb2FkZWQiPjxhIGNsYXNzPSJtYXJrZG93bi1lbWJlZC1saW5rIiBocmVmPSIvMTItcHJvamV0b3MtZGUtc29mdHdhcmUvcmVwb3NpdG9yaW9zLWRvLWdpdC1odWIvI2phdmEtc2NyaXB0LXR5cGUtc2NyaXB0LXJlYWN0LWZyb250LWVuZCIgYXJpYS1sYWJlbD0iT3BlbiBsaW5rIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9InN2Zy1pY29uIGx1Y2lkZS1saW5rIj48cGF0aCBkPSJNMTAgMTNhNSA1IDAgMCAwIDcuNTQuNTRsMy0zYTUgNSAwIDAgMC03LjA3LTcuMDdsLTEuNzIgMS43MSI+PC9wYXRoPjxwYXRoIGQ9Ik0xNCAxMWE1IDUgMCAwIDAtNy41NC0uNTRsLTMgM2E1IDUgMCAwIDAgNy4wNyA3LjA3bDEuNzEtMS43MSI+PC9wYXRoPjwvc3ZnPjwvYT48ZGl2IGNsYXNzPSJtYXJrZG93bi1lbWJlZCI+CgoKCiMjIyDwn4yQIEphdmFTY3JpcHQgLyBUeXBlU2NyaXB0IC8gUmVhY3QgLyBGcm9udC1FbmQKCnwgKipMaW5rIGRvIFJlcG9zaXTDs3JpbyoqICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8ICoqRGVzY3Jpw6fDo28qKiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCAqKsOabHRpbWEgQXR1YWxpemHDp8OjbyoqICB8CnwgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIHwgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gfCAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSB8CnwgW2pvY2lsZS9lc3R1ZG9zLWJpYmxpY29zXShodHRwczovL2dpdGh1Yi5jb20vam9jaWxlL2VzdHVkb3MtYmlibGljb3MpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgTWV1cyBlc3R1ZG9zIGLDrWJsaWNvcyBlc3RydXR1cmFkb3MgZW0gTWFya2Rvd24gY29tIGZyb250LWVuZCBlbSBbWzM0LUxpbmd1YWdlbnMtZGUtUHJvZ3JhbWFjYW8vUmVhY3QvTmV4dGpzL05leHRKU1x8TmV4dEpTXV0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IFJlY2VudGUgLyBBdGl2byAgICAgICAgIHwKfCBbam9jaWxlL2NhbGN1bGFkb3JhXShodHRwczovL2dpdGh1Yi5jb20vam9jaWxlL2NhbGN1bGFkb3JhKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCBEZXNhZmlvIGNhbGN1bGFkb3JhIHV0aWxpemFuZG8gUmVhY3QuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IDMwIGRlIFNldCBkZSAyMDI1ICAgICAgIHwKfCBbam9jaWxlL2NhdGFsb2dvLWRlLWNhcnJvc10oaHR0cHM6Ly9naXRodWIuY29tL2pvY2lsZS9jYXRhbG9nby1kZS1jYXJyb3MpICAgICAgICAgICAgICAgICAgICAgICAgICAgfCBEZXNhZmlvIGNvbSB1bSBmcm9udGVuZCBkZSBjYXTDoWxvZ28gZGUgY2Fycm9zIGVtIFJlYWN0IChGb3JrZWQpLiAgICAgICAgICAgICAgICAgICAgICAgfCBDb25zb2xpZGFkbyAoSGlzdMOzcmljbykgfAp8IFtqb2NpbGUvY2FsY3VsYWRvcmEtZGUtcGFydGlkYXNdKGh0dHBzOi8vZ2l0aHViLmNvbS9qb2NpbGUvY2FsY3VsYWRvcmEtZGUtcGFydGlkYXMpICAgICAgICAgICAgICAgICB8IERlc2FmaW8gQ2FsY3VsYWRvcmEgZGUgcGFydGlkYXMgUmFua2VhZGFzIG5hIHRyaWxoYSBkZSBsw7NnaWNhIGRhIERJTy4gICAgICAgICAgICAgICAgICB8IENvbnNvbGlkYWRvIChIaXN0w7NyaWNvKSB8CnwgW2pvY2lsZS9jbGFzc2UtaGVyb10oaHR0cHM6Ly9naXRodWIuY29tL2pvY2lsZS9jbGFzc2UtaGVybykgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgRGVzYWZpbyBlc2NyZXZlbmRvIGFzIGNsYXNzZXMgZGUgdW0gam9nbyBuYSB0cmlsaGEgZGUgbMOzZ2ljYSBkYSBESU8uICAgICAgICAgICAgICAgICAgIHwgQ29uc29saWRhZG8gKEhpc3TDs3JpY28pIHwKfCBbam9jaWxlL2NsYXNzaWZpY2Fkb3ItZGUtbml2ZWxdKGh0dHBzOi8vZ2l0aHViLmNvbS9qb2NpbGUvY2xhc3NpZmljYWRvci1kZS1uaXZlbCkgICAgICAgICAgICAgICAgICAgfCBEZXNhZmlvIENsYXNzaWZpY2Fkb3IgZGUgbsOtdmVsIGRlIEhlcsOzaSBuYSB0cmlsaGEgZGUgbMOzZ2ljYSBkYSBESU8uICAgICAgICAgICAgICAgICAgICB8IENvbnNvbGlkYWRvIChIaXN0w7NyaWNvKSB8CnwgW2pvY2lsZS9jbG9uZWRpb10oaHR0cHM6Ly9naXRodWIuY29tL2pvY2lsZS9jbG9uZWRpbykgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgQ2xvbmUgZGEgaW50ZXJmYWNlIGRlIGNhZGFzdHJvIGRhIERpZ2l0YWwgSW5ub3ZhdGlvbiBPbmUgKERJTyksIGRlc2Vudm9sdmlkbyBlbSBSZWFjdC4gfCAxOCBkZSBPdXQgZGUgMjAyNSAgICAgICB8CnwgW2pvY2lsZS9mb3JtdWxhcmlvLWFwaS1naXRodWJdKGh0dHBzOi8vZ2l0aHViLmNvbS9qb2NpbGUvZm9ybXVsYXJpby1hcGktZ2l0aHViKSAgICAgICAgICAgICAgICAgICAgIHwgRnJvbnRlbmQgZGUgdW0gZm9ybXVsw6FyaW8gcXVlIGFjZXNzYSBhIEFQSSBkbyBHaXRIdWIgKEJvb3RjYW1wIERldnN1cGVyaW9yKS4gICAgICAgICAgIHwgMDEgZGUgRmV2IGRlIDIwMjQgICAgICAgfAp8IFtqb2NpbGUvanMtZGV2ZWxvcGVyLXBva2VkZXhdKGh0dHBzOi8vZ2l0aHViLmNvbS9qb2NpbGUvanMtZGV2ZWxvcGVyLXBva2VkZXgpICAgICAgICAgICAgICAgICAgICAgICB8IExpc3RhIGVtIGNhcmRzIGNvbSBKYXZhc2NyaXB0IG5hIHRyaWxoYSBkZXNlbnZvbHZlZG9yIERJTyAoRm9ya2VkKS4gICAgICAgICAgICAgICAgICAgIHwgMjQgZGUgRmV2IGRlIDIwMjQgICAgICAgfAp8IFtqb2NpbGUvbGl2cm8tanMtanF1ZXJ5XShodHRwczovL2dpdGh1Yi5jb20vam9jaWxlL2xpdnJvLWpzLWpxdWVyeSkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IEPDs2RpZ28gZm9udGUgZG8gbGl2cm8gIkRvbWluYW5kbyBKYXZhU2NyaXB0IGNvbSBqUXVlcnkiIChGb3JrZWQpLiAgICAgICAgICAgICAgICAgICAgICB8IDA1IGRlIEZldiAgICAgICAgICAgICAgIHwKfCBbam9jaWxlL29ic2lkaWFuX2RhdGF2aWV3X2V4YW1wbGVfdmF1bHRdKGh0dHBzOi8vZ2l0aHViLmNvbS9qb2NpbGUvb2JzaWRpYW5fZGF0YXZpZXdfZXhhbXBsZV92YXVsdCkgfCBWYXVsdCBkZSBleGVtcGxvIHBhcmEgY29uc3VsdGFzIGRvIHBsdWdpbiBEYXRhdmlldyAoRm9ya2VkKS4gICAgICAgICAgICAgICAgICAgICAgICAgICB8IDExIGRlIEp1bCBkZSAyMDI1ICAgICAgIHwKfCBbam9jaWxlL3RyaWxoYS1yZWFjdC1kZXNhZmlvLTVdKGh0dHBzOi8vZ2l0aHViLmNvbS9qb2NpbGUvdHJpbGhhLXJlYWN0LWRlc2FmaW8tNSkgICAgICAgICAgICAgICAgICAgfCBEZXNhZmlvIGRhIHRyaWxoYSBkZSBSZWFjdCAoRm9ya2VkKS4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IDE3IGRlIERleiBkZSAyMDI1ICAgICAgIHwKfCBbam9jaWxlL3dpa2ktZ2l0XShodHRwczovL2dpdGh1Yi5jb20vam9jaWxlL3dpa2ktZ2l0KSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCBSZXBvc2l0w7NyaW8gZGUgY29udGXDumRvIG91IGNvbWFuZG9zIHdpa2kgc29icmUgR2l0LiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgMDUgZGUgT3V0IGRlIDIwMjUgICAgICAgfAp8IFtqb2NpbGUvbG9naW4tdHlwZXNjcmlwdF0oaHR0cHM6Ly9naXRodWIuY29tL2pvY2lsZS9sb2dpbi10eXBlc2NyaXB0KSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IHRlbGEgZGUgbG9naW4gdXRpbGl6YW5kbyBhdXRlbnRpY2HDp8OjbyBlIHZhbGlkYcOnw6NvIGRlIGZvcm11bMOhcmlvcyAgICAgICAgICAgICAgICAgICAgICAgfCAxOSBkZSBPdXQgZGUgMjAyNSAgICAgICB8CgoKPC9kaXY+PC9kaXY+Cg=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="1d2d5f0254bd6e51" data-file-path="34-Linguagens-de-Programacao/React/Nextjs/Componentes no NextJS.md" style="transform: translate(-2080px, 890px); width: 860px; height: 840px; ">
+	<div class="canvas-node-label">Componentes no NextJS</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/34-linguagens-de-programacao/react/nextjs/componentes-no-next-js//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="42af0ee5aa9a0f38" data-file-path="34-Linguagens-de-Programacao/React/Nextjs/Novo projeto Nextjs.md" style="transform: translate(-2080px, 2160px); width: 860px; height: 840px; ">
+	<div class="canvas-node-label">Novo projeto Nextjs</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/34-linguagens-de-programacao/react/nextjs/novo-projeto-nextjs//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="b375614e3548d34e" data-file-path="34-Linguagens-de-Programacao/React/Nextjs/Deploying a Next.js application to GitHub Pages.md" style="transform: translate(-570px, 2160px); width: 860px; height: 840px; ">
+	<div class="canvas-node-label">Deploying a Next.js application to GitHub Pages</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/34-linguagens-de-programacao/react/nextjs/deploying-a-next-js-application-to-git-hub-pages//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="3b53d48120fc605a" data-file-path="34-Linguagens-de-Programacao/React/Nextjs/nextjs bibliotecas ui.md" style="transform: translate(-540px, 760px); width: 830px; height: 550px; ">
+	<div class="canvas-node-label">nextjs bibliotecas ui</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/34-linguagens-de-programacao/react/nextjs/nextjs-bibliotecas-ui//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="916f98ce950a05b6" data-file-path="34-Linguagens-de-Programacao/React/Nextjs/Nextjs links.md" style="transform: translate(-540px, 1400px); width: 830px; height: 400px; ">
+	<div class="canvas-node-label">Nextjs links</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/34-linguagens-de-programacao/react/nextjs/nextjs-links//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+	</div>
+</div>
