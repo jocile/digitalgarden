@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/react/nextjs/deploying-a-next-js-application-to-git-hub-pages/","metatags":{"description":"configuração do projeto Next.js para exportação estática e a configuração do GitHub Pages para servir os arquivos exportados."},"noteIcon":2,"updated":"2026-07-16T12:26:52.753-03:00","dg-note-properties":{"topics":["Aplicação Full-Stack","Nextjs"]}}
+{"dg-publish":true,"permalink":"/34-linguagens-de-programacao/react/nextjs/deploying-a-next-js-application-to-git-hub-pages/","metatags":{"description":"configuração do projeto Next.js para exportação estática e a configuração do GitHub Pages para servir os arquivos exportados."},"noteIcon":2,"updated":"2026-07-16T12:51:11.649-03:00","dg-note-properties":{"topics":["Aplicação Full-Stack","Nextjs"]}}
 ---
 
 
@@ -55,13 +55,13 @@ Executar o deploy script:
 
 `npm run deploy`
 
-Isto irá fazer o build do seu projeto e o  push para o diretório de saída para a `gh-pages` branch em seu repositorio.
+Isto irá fazer o build do seu projeto e o  push para o diretório de saída para a `gh-pages` branch em seu repositório.
 
-- **Configure GitHub Pages:** Na configurações do seu repositório, em Settings > Pages. Em "Source," selecione o `gh-pages` branche salve.
+- **Configure GitHub Pages:** Na configurações do seu repositório, em Settings > Pages. Em "Source," selecione o `gh-pages` `branche` e salve.
 
 ### **Option B: Automated Deployment (using GitHub Actions):**
 
-- Crie um arquivo GitHub Actions workflow (e.g., `.github/workflows/deploy.yml`) em seu repositorio.
+- Crie um arquivo GitHub Actions workflow (e.g., `.github/workflows/deploy.yml`) em seu repositório.
 - Configure o workflow para build seu projeto Next.js e fazer o deploy para o diretório de saída `out` no GitHub Pages. GitHub mostra um modelo: template for Next.js deployments.
 
 ```json
@@ -101,12 +101,12 @@ jobs:
 
 ## 4. Verifique o Deployment
 
-Depois de compilado (deploy), sua aplicação Next.js será accessível no GitHub Pages URL (e.g., https://<username>.github.io/<repository-name>/).
+Depois de compilado (deploy), sua aplicação Next.js será accessível no GitHub Pages URL (e.g., `https://<username>.github.io/<repository-name>/`).
 
 ## Referências
 
-- [Getting Started: Deploying \| Next.js](https://nextjs.org/docs/app/getting-started/deploying)
+- [Getting Started: Deploying - Next.js](https://nextjs.org/docs/app/getting-started/deploying)
 - [GitHub - nextjs/deploy-github-pages: Next.js template to deploy to GitHub Pages as a static site.](https://github.com/nextjs/deploy-github-pages)
-- [An Extendable Obsidian Publish alternative using Next.JS \| Linked Blog Starter](https://linked-blog-starter.vercel.app/home)
+- [An Extendable Obsidian Publish alternative using Next.JS - Linked Blog Starter](https://linked-blog-starter.vercel.app/home)
 - [Building and testing Node.js - GitHub Docs](https://docs.github.com/en/actions/tutorials/build-and-test-code/nodejs)
-- [Dependabot updates in Github \| Next.js Documentation \| supastarter - SaaS starter kit & boilerplate](https://supastarter.dev/docs/nextjs/codebase/dependabot)
+- [Dependabot updates in Github - Next.js Documentation - supastarter - SaaS starter kit & boilerplate](https://supastarter.dev/docs/nextjs/codebase/dependabot)
